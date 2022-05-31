@@ -4,7 +4,7 @@
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:dcterms="http://purl.org/dc/terms/"
 >
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType"/>
       <skos:notation>CommonalityType</skos:notation>
@@ -21,13 +21,13 @@
       <owl:versionInfo>1.0</owl:versionInfo>
       <dcterms:license rdf:resource="Creative Commons Attribution 4.0 International"/>
       <dcterms:rights>Copyright &#xa9;DDI Alliance 2019</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0#Identical"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0#Some"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0#None"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0/#Identical"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0/#Some"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0/#None"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0#Identical">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0/#Identical">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0/"/>
       <skos:notation>Identical</skos:notation>
       <skos:prefLabel xml:lang="en">Identical</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Use when the compared items have identical content. For variables, for example, all the elements of a variable description (name, label, question text, category values and codes, universe, concept) will be identical in form.</skos:definition>
@@ -40,9 +40,9 @@
       <skos:prefLabel xml:lang="sr">Istovetno / identi&#x10d;no</skos:prefLabel>
 	  <skos:definition  xml:lang="sr">Koristite kada stavke koje poredite imaju identi&#x10d;an sadr&#x17e;aj. Na primer, za promenljive, svi elementi opisa promenljive (naziv, oznaka, tekst pitanja, vrednosti kategorije i kodovi, univerzum, koncept) su istovetni (identi&#x10d;ni).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0#Some">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0/#Some">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0/"/>
       <skos:notation>Some</skos:notation>
       <skos:prefLabel xml:lang="en">Some</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Use when the compared items have similar but not identical content. For variables, for example, some of the elements of a variable description (name, label, question text, category values and codes, universe, concept) will be identical in form, while others will be different.</skos:definition>
@@ -55,9 +55,9 @@
       <skos:prefLabel xml:lang="sr">Delimi&#x10d;no</skos:prefLabel>
 	  <skos:definition  xml:lang="sr">Koristite kada stavke koje poredite imaju sli&#x10d;an, ali ne identi&#x10d;an sadr&#x17e;aj. Na primer, za promenljive, neki elementi opisa promenljive (naziv, oznaka, tekst pitanja, vrednosti kategorije i kodovi, populacija, koncept) c&#x301;e biti istovetni (identi&#x10d;ni) po obliku, dok c&#x301;e drugi biti razli&#x10d;iti.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0#None">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0/#None">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0/"/>
       <skos:notation>None</skos:notation>
       <skos:prefLabel xml:lang="en">None</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Normally not used, as it would not be expected to compare items that have nothing in common. This term was necessary to complete the commonality range, and may be used in special cases, as determined by user needs (for instance, when comparability was expected, but not found).</skos:definition>

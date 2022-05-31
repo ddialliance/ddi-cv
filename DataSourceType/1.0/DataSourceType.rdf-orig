@@ -4,7 +4,7 @@
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:dcterms="http://purl.org/dc/terms/"
 >
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType"/>
       <skos:notation>DataSourceType</skos:notation>
@@ -33,20 +33,20 @@
       <owl:versionInfo>1.0</owl:versionInfo>
       <dcterms:license rdf:resource="Creative Commons Attribution 4.0 International"/>
       <dcterms:rights>Copyright &#xa9;DDI Alliance 2019</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#RegistersRecordsAccounts"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#EventsInteractions"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#Processes"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#Communications"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#ResearchData"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#PopulationGroup"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#GeographicArea"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#PhysicalObjects"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#BiologicalSamples"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#Other"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#RegistersRecordsAccounts"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#EventsInteractions"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#Processes"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#Communications"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#ResearchData"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#PopulationGroup"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#GeographicArea"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#PhysicalObjects"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#BiologicalSamples"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#Other"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#RegistersRecordsAccounts">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#RegistersRecordsAccounts">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>RegistersRecordsAccounts</skos:notation>
       <skos:prefLabel xml:lang="en">Registers/Records/Accounts</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Official, formal, or semi-formal documents listing for example items, names, occurrences, actions, or results, and preserved in writing or some other permanent form for later reference.</skos:definition>
@@ -70,18 +70,18 @@
 	  <skos:definition  xml:lang="sr">Slu&#x17e;beni, formalni ili polu-formalni dokumenti koji navode, na primer, predmete imena, pojave, radnje ili rezultate, a &#x10d;uvaju se u pisanom obliku ili nekom drugom trajnom obliku koji omogu&#x107;uje kasniju upotrebu.</skos:definition>
       <skos:prefLabel xml:lang="sv">Register/handlingar/f&#xf6;rteckningar</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Officiella, formella eller semi-formella dokument som listar till exempel namn, h&#xe4;ndelser, handlingar eller resultat och som &#xe4;r bevarade i skrift eller n&#xe5;gon annan permanent form f&#xf6;r senare anv&#xe4;ndning.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#RegistersRecordsAccounts.Administrative"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#RegistersRecordsAccounts.Historical"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#RegistersRecordsAccounts.Legal"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#RegistersRecordsAccounts.MedicalClinical"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#RegistersRecordsAccounts.AcademicAptitude"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#RegistersRecordsAccounts.EconomicFinancial"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#RegistersRecordsAccounts.Personal"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#RegistersRecordsAccounts.VotingResults"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#RegistersRecordsAccounts.Administrative"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#RegistersRecordsAccounts.Historical"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#RegistersRecordsAccounts.Legal"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#RegistersRecordsAccounts.MedicalClinical"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#RegistersRecordsAccounts.AcademicAptitude"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#RegistersRecordsAccounts.EconomicFinancial"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#RegistersRecordsAccounts.Personal"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#RegistersRecordsAccounts.VotingResults"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#RegistersRecordsAccounts.Administrative">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#RegistersRecordsAccounts.Administrative">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>RegistersRecordsAccounts.Administrative</skos:notation>
       <skos:prefLabel xml:lang="en">Registers/Records/Accounts: Administrative</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Information collected on individuals or groups as part of the routine administrative procedures of an agency, business, or institution. Such data are not usually collected with research purposes in mind, may be voluminous, and may require preparation such as coding in order to be usable by researchers. Examples: income tax forms, population registers, naturalization records, birth/death certificates, patent applications, etc.</skos:definition>
@@ -106,9 +106,9 @@
       <skos:prefLabel xml:lang="sv">Register/handlingar/f&#xf6;rteckningar: Administrativa</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Information som samlats in om individer eller grupper som en del av rutinm&#xe4;ssiga administrativa f&#xf6;rfaranden f&#xf6;r en myndighet, f&#xf6;retag eller institution. S&#xe5;dana data samlas vanligtvis inte in med forsknings&#xe4;ndam&#xe5;l i &#xe5;tanke, kan vara omfattande och kr&#xe4;va f&#xf6;rberedelser som kodning f&#xf6;r att kunna anv&#xe4;ndas av forskare. Exempel: inkomstskatteformul&#xe4;r, befolkningsregister, naturaliseringsregister, f&#xf6;delse-/d&#xf6;dsattester, patentans&#xf6;kningar osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#RegistersRecordsAccounts.Historical">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#RegistersRecordsAccounts.Historical">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>RegistersRecordsAccounts.Historical</skos:notation>
       <skos:prefLabel xml:lang="en">Registers/Records/Accounts: Historical</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Historical records preserve information and constitute evidence about past events. They may be produced by individuals, groups, or organizations. Administrative records become historical when they are no longer retained, or actively used by the issuing agency for their original purpose. Examples include parish registers, estate records, wills, chronicles, etc.</skos:definition>
@@ -133,9 +133,9 @@
       <skos:prefLabel xml:lang="sv">Register/handlingar/f&#xf6;rteckningar: Historiska</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Historiska handlingar bevarar information och bel&#xe4;gger tidigare h&#xe4;ndelser. De kan skapas av individer, grupper eller organisationer. Administrativa register blir historiska n&#xe4;r de inte l&#xe4;ngre beh&#xe5;lls eller anv&#xe4;nds aktivt av den utf&#xe4;rdande verksamheten f&#xf6;r sitt ursprungliga syfte. Exempel &#xe4;r kyrkob&#xf6;cker, bouppteckningar, testamenten, kr&#xf6;nikor osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#RegistersRecordsAccounts.Legal">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#RegistersRecordsAccounts.Legal">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>RegistersRecordsAccounts.Legal</skos:notation>
       <skos:prefLabel xml:lang="en">Registers/Records/Accounts: Legal</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Records pertaining to law and its administration, for example records related to cases that have been brought to court or to a tribunal.</skos:definition>
@@ -160,9 +160,9 @@
       <skos:prefLabel xml:lang="sv">Register/handlingar/f&#xf6;rteckningar: Juridiska</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Handlingar r&#xf6;rande lagstiftning och r&#xe4;ttsskipning, till exempel handlingar i samband med &#xe4;renden som har v&#xe4;ckts vid domstol eller n&#xe4;mnd.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#RegistersRecordsAccounts.MedicalClinical">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#RegistersRecordsAccounts.MedicalClinical">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>RegistersRecordsAccounts.MedicalClinical</skos:notation>
       <skos:prefLabel xml:lang="en">Registers/Records/Accounts: Medical/Clinical</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Health-related data created or collected by health care professionals about a patient. Usually include the results of medical tests or measurements, findings from consultations or clinical trial programs, etc.</skos:definition>
@@ -187,9 +187,9 @@
       <skos:prefLabel xml:lang="sv">Register/handlingar/f&#xf6;rteckningar: Medicinska/kliniska</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">H&#xe4;lsorelaterade data skapade eller insamlade av v&#xe5;rdpersonal om en patient. Vanligtvis ing&#xe5;r resultaten fr&#xe5;n konsultationer, medicinska tester eller kliniska pr&#xf6;vningar osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#RegistersRecordsAccounts.AcademicAptitude">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#RegistersRecordsAccounts.AcademicAptitude">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>RegistersRecordsAccounts.AcademicAptitude</skos:notation>
       <skos:prefLabel xml:lang="en">Registers/Records/Accounts: Academic/Aptitude</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Information gathered during an evaluation process and presented as results. Examples include educational tests, IQ tests, verbal or logical reasoning tests, competence tests for professional occupations, etc.</skos:definition>
@@ -214,9 +214,9 @@
       <skos:prefLabel xml:lang="sv">Register/handlingar/f&#xf6;rteckningar: Kunskaper/f&#xf6;rm&#xe5;gor</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Information insamlad under en utv&#xe4;rderingsprocess och framst&#xe4;lld som resultat. Exempel &#xe4;r tentamina, IQ-tester, tester av verbal eller logisk f&#xf6;rm&#xe5;ga, utv&#xe4;rderingar av yrkeskompetens osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#RegistersRecordsAccounts.EconomicFinancial">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#RegistersRecordsAccounts.EconomicFinancial">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>RegistersRecordsAccounts.EconomicFinancial</skos:notation>
       <skos:prefLabel xml:lang="en">Registers/Records/Accounts: Economic/Financial</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Records of the financial activities of a business, person, state institution or other organizations or entities. Examples are statements of retained earnings, cash flow, income statements, a company&apos;s balance sheet and tax return.</skos:definition>
@@ -241,9 +241,9 @@
       <skos:prefLabel xml:lang="sv">Register/handlingar/f&#xf6;rteckningar: Ekonomiska/finansiella</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Handlingar relaterade till den finansiella verksamheten hos en individ, ett f&#xf6;retag, en statlig myndighet eller n&#xe5;gon annan organisation eller enhet. Exempel &#xe4;r redovisning av kvarh&#xe5;llen vinst, kassafl&#xf6;den, resultatr&#xe4;kningar, ett bolags bokf&#xf6;ring eller skattedeklarationer.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#RegistersRecordsAccounts.Personal">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#RegistersRecordsAccounts.Personal">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>RegistersRecordsAccounts.Personal</skos:notation>
       <skos:prefLabel xml:lang="en">Registers/Records/Accounts: Personal</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Records or accounts created unofficially by individuals or families for other purposes than research. Examples may include private diaries or memoirs, family record books or Bibles, collections of personal documents, photographs, etc.</skos:definition>
@@ -268,9 +268,9 @@
       <skos:prefLabel xml:lang="sv">Register/handlingar/f&#xf6;rteckningar: Personliga</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Handlingar eller f&#xf6;rteckningar skapade inofficiellt av individer eller familjer f&#xf6;r andra &#xe4;ndam&#xe5;l &#xe4;n forskning. Exempel kan inkludera privata dagb&#xf6;cker eller memoarer, nedteckningar av familjehistoria, familjebiblar, samlingar av personliga dokument, fotografier osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#RegistersRecordsAccounts.VotingResults">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#RegistersRecordsAccounts.VotingResults">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>RegistersRecordsAccounts.VotingResults</skos:notation>
       <skos:prefLabel xml:lang="en">Registers/Records/Accounts: Voting results</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Details of votes cast for candidates in an election (also known as &apos;election returns/results&apos;), parliamentary or organizational votes on policies, motions or proposals, public referendums, etc.</skos:definition>
@@ -295,9 +295,9 @@
       <skos:prefLabel xml:lang="sv">Register/handlingar/f&#xf6;rteckningar: R&#xf6;stresultat</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Uppgifter om avgivna r&#xf6;ster f&#xf6;r kandidater i ett val (&#xe4;ven kallat &quot;valresultat&quot;), folkomr&#xf6;stningsresultat, organisationers eller parlamentledam&#xf6;ters r&#xf6;ster p&#xe5; motioner, propositioner eller f&#xf6;rslag osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#EventsInteractions">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#EventsInteractions">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>EventsInteractions</skos:notation>
       <skos:prefLabel xml:lang="en">Events/Interactions</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Events are usually one-time, individual occurrences, with a limited or short duration. An event may be listed as data source when it is directly observed or recorded for research. Interactions are events in which two or more people, groups, objects or systems act upon one another having reciprocal influence, or effect. Examples: types of gatherings (ceremonies, competitions, festivals, meetings), riots, terrorist attacks, computing events (i.e., actions or occurrences detected by computer programs), etc.</skos:definition>
@@ -322,9 +322,9 @@
       <skos:prefLabel xml:lang="sv">H&#xe4;ndelser/interaktioner</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">H&#xe4;ndelser &#xe4;r vanligtvis enstaka, enskilda h&#xe4;ndelser, med begr&#xe4;nsad eller kort varaktighet. En h&#xe4;ndelse kan anges som datak&#xe4;lla n&#xe4;r den observeras direkt eller registreras f&#xf6;r forskning. Interaktioner &#xe4;r h&#xe4;ndelser d&#xe4;r tv&#xe5; eller flera personer, grupper, f&#xf6;rem&#xe5;l eller system har &#xf6;msesidig p&#xe5;verkan eller effekt p&#xe5; varandra. Exempel: typer av sammankomster (ceremonier, t&#xe4;vlingar, festivaler, m&#xf6;ten), upplopp, terrorattacker, datorh&#xe4;ndelser (dvs handlingar eller h&#xe4;ndelser som uppt&#xe4;cks av datorprogram) osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#Processes">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#Processes">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>Processes</skos:notation>
       <skos:prefLabel xml:lang="en">Processes</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Processes are sequences of occurrences, events, activities, actions or operations that take place over time and bring about changes or transformations in organisms, objects, ideas or social phenomena. For example, a business process may include receiving orders, invoicing, shipping the products, or setting a marketing budget.</skos:definition>
@@ -348,11 +348,11 @@
 	  <skos:definition  xml:lang="sr">Procesi su nizovi pojava, doga&#x111;aja, aktivnosti, radnji ili operacija koji se de&#x161;avaju tokom vremena i dovode do promena ili transformacija u organizmima, predmetima, idejama ili dru&#x161;tvenim pojavama. Na primer, poslovni proces mo&#x17e;e da uklju&#x10d;uje primanje naloga, fakturisanje, otpremanje proizvoda ili utvr&#x111;ivanje bud&#x17e;eta za marketing.</skos:definition>
       <skos:prefLabel xml:lang="sv">Processer</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Processer &#xe4;r sekvenser av h&#xe4;ndelser, aktiviteter, handlingar eller operationer som sker &#xf6;ver tid och leder till f&#xf6;r&#xe4;ndringar eller omvandlingar av organismer, f&#xf6;rem&#xe5;l, id&#xe9;er eller sociala fenomen. Exempelvis kan en aff&#xe4;rsprocess omfatta mottagande av best&#xe4;llningar, fakturering, leverans av produkter eller beslut om marknadsf&#xf6;ringsbudget.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#Processes.Workflows"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#Processes.Workflows"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#Processes.Workflows">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#Processes.Workflows">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>Processes.Workflows</skos:notation>
       <skos:prefLabel xml:lang="en">Processes: Workflow(s)</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Sequence of steps and processes through which a piece of work passes from initiation to completion (adapted from the Oxford dictionary online: http://www.oxforddictionaries.com/us/definition/american_english/workflow). Examples from data life cycle: data collection, data processing, data analysis, data archiving, etc.</skos:definition>
@@ -377,9 +377,9 @@
       <skos:prefLabel xml:lang="sv">Processer: Arbetsfl&#xf6;de(n)</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Sekvens av steg och processer som inneb&#xe4;r att ett arbete g&#xe5;r fr&#xe5;n att p&#xe5;b&#xf6;rjas till att det slutf&#xf6;rs. Exempel fr&#xe5;n datalivscykeln: datainsamling, databehandling, dataanalys, datalagring osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#Communications">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#Communications">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>Communications</skos:notation>
       <skos:prefLabel xml:lang="en">Communications</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Messages resulting from the act or process of using words, sounds, signs, or behaviors to convey or exchange information, ideas, thoughts, feelings, etc. (adapted from www.merriam-webster.com).</skos:definition>
@@ -403,12 +403,12 @@
 	  <skos:definition  xml:lang="sr">Poruke proistekle iz postupka ili procesa upotrebe re&#x10d;i, zvukova, znakova ili pona&#x161;anja za preno&#x161;enje ili razmenu informacija, ideja, misli, ose&#x107;&#x301;anja, itd. (Prilago&#x111;eno sa www.merriam-webster.com).</skos:definition>
       <skos:prefLabel xml:lang="sv">Kommunikation</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Meddelanden som h&#xe4;rr&#xf6;r fr&#xe5;n aktiviteten eller processen att anv&#xe4;nda ord, ljud, tecken eller beteenden f&#xf6;r att f&#xf6;rmedla eller utbyta information, id&#xe9;er, tankar, k&#xe4;nslor osv.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#Communications.Public"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#Communications.Interpersonal"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#Communications.Public"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#Communications.Interpersonal"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#Communications.Public">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#Communications.Public">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>Communications.Public</skos:notation>
       <skos:prefLabel xml:lang="en">Communications: Public</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Communications addressed directly to a public audience, for example, in person (public gatherings, political rallies, etc.), by means of broadcast, print or Internet mass media (radio, television, print or online newspapers/journals), by means of billboards, banners or other signage placed in public view, or social media (public postings on Facebook, Twitter, and others).</skos:definition>
@@ -433,9 +433,9 @@
       <skos:prefLabel xml:lang="sv">Kommunikation: Offentlig</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Kommunikation riktad direkt till en allm&#xe4;n publik, till exempel personligen (offentliga sammankomster, politiska sammankomster osv.), genom etermedia, tryckta medier eller massmedia p&#xe5; Internet (radio-, tv-, eller dagstidningar/tidskrifter i tryckt eller elektroniskt format), med hj&#xe4;lp av skyltar, banderoller eller annan skyltning i det offentliga rummet, eller sociala medier (offentliga inl&#xe4;gg p&#xe5; Facebook, Twitter och andra).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#Communications.Interpersonal">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#Communications.Interpersonal">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>Communications.Interpersonal</skos:notation>
       <skos:prefLabel xml:lang="en">Communications: Interpersonal</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Communications made by an individual to another individual or a private group of persons, for purposes other than research. For example emails, letters, telephone conversations, social media postings with limited access.</skos:definition>
@@ -460,9 +460,9 @@
       <skos:prefLabel xml:lang="sv">Kommunikation: Mellanm&#xe4;nsklig</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Kommunikation fr&#xe5;n en person till en annan person eller till en privat grupp av personer, f&#xf6;r andra &#xe4;ndam&#xe5;l &#xe4;n forskning. Exempel: e-post, brev, telefonsamtal, inl&#xe4;gg p&#xe5; sociala medier med begr&#xe4;nsad &#xe5;tkomst.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#ResearchData">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#ResearchData">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>ResearchData</skos:notation>
       <skos:prefLabel xml:lang="en">Research data</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Pre-existing data; data that have already been collected and/or used for a different research project.</skos:definition>
@@ -486,12 +486,12 @@
 	  <skos:definition  xml:lang="sr">Postojec&#x301;i podaci; podaci koji su vec&#x301; prikupljeni i/ili kori&#x161;c&#x301;eni za drugi istra&#x17e;iva&#x10d;ki projekat.</skos:definition>
       <skos:prefLabel xml:lang="sv">Forskningsdata</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Redan existerande data; data som redan har samlats in och/eller anv&#xe4;nts f&#xf6;r ett annat forskningsprojekt.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#ResearchData.Published"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#ResearchData.Unpublished"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#ResearchData.Published"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#ResearchData.Unpublished"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#ResearchData.Published">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#ResearchData.Published">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>ResearchData.Published</skos:notation>
       <skos:prefLabel xml:lang="en">Research data: Published</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Pre-existing data that have been made available to the general public, or sections thereof.</skos:definition>
@@ -516,9 +516,9 @@
       <skos:prefLabel xml:lang="sv">Forskningsdata: Publicerade</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Redan existerande data som har gjorts tillg&#xe4;ngliga f&#xf6;r allm&#xe4;nheten eller delar av den.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#ResearchData.Unpublished">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#ResearchData.Unpublished">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>ResearchData.Unpublished</skos:notation>
       <skos:prefLabel xml:lang="en">Research data: Unpublished</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Pre-existing data that have not been made available to the general public, or sections thereof.</skos:definition>
@@ -543,9 +543,9 @@
       <skos:prefLabel xml:lang="sv">Forskningsdata: Opublicerade</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Redan existerande data som inte har gjorts tillg&#xe4;ngliga f&#xf6;r allm&#xe4;nheten eller delar av den.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#PopulationGroup">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#PopulationGroup">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>PopulationGroup</skos:notation>
       <skos:prefLabel xml:lang="en">Population group</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Group of individuals that can be defined by one or several common characteristics: ethnicity, race, gender, age range, geographic location or distribution, level of education, income level or economic status, professional status, state of health or medical conditions, or belonging to specific communities (e.g., special interest groups, or social media), or networks, etc.</skos:definition>
@@ -570,9 +570,9 @@
       <skos:prefLabel xml:lang="sv">Befolkningsgrupp</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Grupp av individer som kan definieras av en eller flera gemensamma egenskaper: t.ex. etnicitet, ras, k&#xf6;n, &#xe5;ldersintervall, geografisk plats eller distribution, utbildningsniv&#xe5;, inkomstniv&#xe5; eller ekonomisk status, yrkesstatus, h&#xe4;lsotillst&#xe5;nd eller medicinska tillst&#xe5;nd eller som tillh&#xf6;r en definierbar gemenskap (t.ex. speciella intressegrupper eller sociala medier) eller n&#xe4;tverk.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#GeographicArea">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#GeographicArea">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>GeographicArea</skos:notation>
       <skos:prefLabel xml:lang="en">Geographic area</skos:prefLabel>
 	  <skos:definition  xml:lang="en">An area of the Earth, demarcated for the purposes of administration, politics, environment, etc. The demarcation is identifiable via coordinates or other systems used to identify position precisely.</skos:definition>
@@ -597,9 +597,9 @@
       <skos:prefLabel xml:lang="sv">Geografiskt omr&#xe5;de</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Ett omr&#xe5;de p&#xe5; jorden, avgr&#xe4;nsat administrativt, politiskt, milj&#xf6;m&#xe4;ssigt m.m. Avgr&#xe4;nsningen &#xe4;r identifierbar via koordinater eller andra system som anv&#xe4;nds f&#xf6;r att precist identifiera positionen.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#PhysicalObjects">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#PhysicalObjects">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>PhysicalObjects</skos:notation>
       <skos:prefLabel xml:lang="en">Physical objects</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Natural or man-made entities with spatial locations. For instance, works of art, constructions, rock samples, machines, etc. These are considered data sources if the data describe the physical characteristics of the given object rather than any information encoded in it.</skos:definition>
@@ -624,9 +624,9 @@
       <skos:prefLabel xml:lang="sv">Fysiska f&#xf6;rem&#xe5;l</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Naturliga eller konstgjorda saker med rumslig plats. Till exempel konstverk, byggnader, stenprover, maskiner osv. Dessa betraktas som datak&#xe4;llor om data beskriver de fysiska egenskaperna hos det angivna f&#xf6;rem&#xe5;let snarare &#xe4;n n&#xe5;gon information som kodas i det.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#BiologicalSamples">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#BiologicalSamples">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>BiologicalSamples</skos:notation>
       <skos:prefLabel xml:lang="en">Biological samples</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Biological materials collected from living organisms, including, for example, biological specimens of human or animal organs, cells or tissues such as hair, muscle or tumor tissue, bodily fluids such as blood, urine, saliva, extracted material such as DNA and RNA, microorganisms, plant matter, etc. The source of the data are the samples themselves, not measurements and/or other tests applied to them.</skos:definition>
@@ -651,9 +651,9 @@
       <skos:prefLabel xml:lang="sv">Biologiska prover</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Biologiska material som samlats in fr&#xe5;n levande organismer, till exempel biologiska prover av m&#xe4;nskliga eller animaliska organ, celler eller v&#xe4;vnader (som t.ex. h&#xe5;r, muskel- eller tum&#xf6;rv&#xe4;vnad), kroppsv&#xe4;tskor (som t.ex. blod, urin, saliv), extraherat material (som t.ex. DNA och RNA), mikroorganismer, v&#xe4;xt&#xe4;mnen osv. Datak&#xe4;llan &#xe4;r sj&#xe4;lva proverna, inte m&#xe4;tningar och/eller andra tester som utf&#xf6;rts p&#xe5; dem.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0#Other">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/#Other">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0/"/>
       <skos:notation>Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Use when the data source is known, but not found in the list.</skos:definition>

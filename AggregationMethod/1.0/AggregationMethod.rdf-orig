@@ -4,7 +4,7 @@
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:dcterms="http://purl.org/dc/terms/"
 >
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod"/>
       <skos:notation>AggregationMethod</skos:notation>
@@ -13,91 +13,91 @@
       <owl:versionInfo>1.0</owl:versionInfo>
       <dcterms:license rdf:resource="Creative Commons Attribution 4.0 International"/>
       <dcterms:rights>Copyright &#xa9;DDI Alliance 2019</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#Sum"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#ArithmeticMean"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#Count"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#Mode"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#Median"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#Maximum"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#Minimum"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#Percent"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#CumulativePercent"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#PercentileRank"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#Other"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#Sum"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#ArithmeticMean"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#Count"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#Mode"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#Median"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#Maximum"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#Minimum"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#Percent"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#CumulativePercent"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#PercentileRank"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#Other"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#Sum">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#Sum">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/"/>
       <skos:notation>Sum</skos:notation>
       <skos:prefLabel xml:lang="en">Sum</skos:prefLabel>
 	  <skos:definition  xml:lang="en">A value obtained as a result of adding two or more numbers (items/amounts).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#ArithmeticMean">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#ArithmeticMean">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/"/>
       <skos:notation>ArithmeticMean</skos:notation>
       <skos:prefLabel xml:lang="en">Arithmetic Mean</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Mathematical average of a set of values. The mean is calculated by adding up two or more values and dividing the total by their number. In social/political science, it is usually the sum of the measurements divided by the number of subjects, or cases.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#Count">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#Count">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/"/>
       <skos:notation>Count</skos:notation>
       <skos:prefLabel xml:lang="en">Count</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Total number of units in a group of items</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#Mode">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#Mode">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/"/>
       <skos:notation>Mode</skos:notation>
       <skos:prefLabel xml:lang="en">Mode</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The value that appears most often in a set of values</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#Median">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#Median">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/"/>
       <skos:notation>Median</skos:notation>
       <skos:prefLabel xml:lang="en">Median</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The middle value in a series of values arranged sequentially from smallest to largest.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#Maximum">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#Maximum">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/"/>
       <skos:notation>Maximum</skos:notation>
       <skos:prefLabel xml:lang="en">Maximum</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The highest value attained or recorded.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#Minimum">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#Minimum">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/"/>
       <skos:notation>Minimum</skos:notation>
       <skos:prefLabel xml:lang="en">Minimum</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The lowest value attained or recorded.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#Percent">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#Percent">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/"/>
       <skos:notation>Percent</skos:notation>
       <skos:prefLabel xml:lang="en">Percent</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The number of parts out of 100. In mathematics, a percentage is a number of ratio expressed as a fraction of 100. Percentages are used to express how large one quantity is relative to another quantity.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#CumulativePercent">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#CumulativePercent">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/"/>
       <skos:notation>CumulativePercent</skos:notation>
       <skos:prefLabel xml:lang="en">Cumulative Percent</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The total of a frequency and all frequencies below it in a frequency distribution; the &quot;running total&quot; of frequencies [the maximum value is 100%].</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#PercentileRank">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#PercentileRank">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/"/>
       <skos:notation>PercentileRank</skos:notation>
       <skos:prefLabel xml:lang="en">Percentile Rank</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The percentile rank of a item is the percentage of items in its frequency distribution which are lower [cannot reach 100%].</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0#Other">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/#Other">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/"/>
       <skos:notation>Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Use when the aggregation method is known, but not found in the list.</skos:definition>

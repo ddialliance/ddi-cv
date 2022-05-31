@@ -4,7 +4,7 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
           xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType"/>
       <skos:notation>DataType</skos:notation>
@@ -17,42 +17,42 @@
       <owl:versionInfo>1.1</owl:versionInfo>
       <dcterms:license rdf:resource="Creative Commons Attribution 4.0 International"/>
       <dcterms:rights>Copyright ©DDI Alliance 2019</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e107"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e135"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e163"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e191"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e220"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e248"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e276"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e304"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e332"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e360"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e389"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e417"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e445"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e473"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e501"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e529"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e558"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e586"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e614"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e642"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e670"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e698"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e727"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e755"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e783"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e811"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e839"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e867"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e896"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e924"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e952"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e980"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e107"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e135"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e163"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e191"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e220"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e248"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e276"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e304"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e332"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e360"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e389"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e417"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e445"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e473"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e501"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e529"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e558"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e586"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e614"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e642"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e670"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e698"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e727"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e755"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e783"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e811"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e839"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e867"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e896"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e924"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e952"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e980"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e107">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e107">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>String</skos:notation>
       <skos:prefLabel xml:lang="en">String</skos:prefLabel>
       <skos:definition xml:lang="en">Finite sequences of characters. A character is an atomic unit of written communication; it is not further specified except to note that every character has a corresponding Universal Character Set code point (which is an integer).</skos:definition>
@@ -61,9 +61,9 @@
       <skos:prefLabel xml:lang="no">Streng</skos:prefLabel>
       <skos:definition xml:lang="no">Endelig sekvens av tegn. Et tegn er en atomenhet for skriftlig kommunikasjon; det er ikke nærmere spesifisert, bortsett fra å merke seg at hvert tegn har et tilsvarende Universal Character Set-kodepunkt (som er et heltall).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e135">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e135">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>NormalizedString</skos:notation>
       <skos:prefLabel xml:lang="en">Normalized string</skos:prefLabel>
       <skos:definition xml:lang="en">Type of string in which any occurrence of whitespace (including tabs, line feeds, and carriage returns) is replaced by a single space.</skos:definition>
@@ -72,9 +72,9 @@
       <skos:prefLabel xml:lang="no">Normalisert streng</skos:prefLabel>
       <skos:definition xml:lang="no">En type streng hvor alle forekomster av hvitt mellomrom (inkludert tabulator, linjeskift og vognretur) blir erstattet av et enkelt mellomrom.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e163">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e163">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>Boolean</skos:notation>
       <skos:prefLabel xml:lang="en">Boolean</skos:prefLabel>
       <skos:definition xml:lang="en">True or false. Can be represented by 1 and 0 correspondingly.</skos:definition>
@@ -83,9 +83,9 @@
       <skos:prefLabel xml:lang="no">Boolsk</skos:prefLabel>
       <skos:definition xml:lang="no">Sant eller usant. Kan være representert av 1 og 0 henholdsvis.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e191">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e191">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>Decimal</skos:notation>
       <skos:prefLabel xml:lang="en">Decimal</skos:prefLabel>
       <skos:definition xml:lang="en">A subset of real numbers, which can be represented by a finite-length sequence of decimal digits (0-9) separated by a period as a decimal indicator. An optional leading sign is allowed. If the sign is omitted, "+" is assumed. Leading and trailing zeroes are optional. If the fractional part is zero, the period and following zero(es) can be omitted. For example: -1.23, 12678967.543233, +100000.00, 210.</skos:definition>
@@ -94,9 +94,9 @@
       <skos:prefLabel xml:lang="no">Desimal</skos:prefLabel>
       <skos:definition xml:lang="no">En delmengde av reelle tall som kan bli representert av en endelig sekvens av desimaltall (0-9) adskilt med et punktum som desimalindikator. Et alternativ tegn før desimalindikatoren er tillatt. Hvis tegnet er utelatt, antas "+". Førende og etterfølgende nuller er valgfri. Hvis brøkdelen er null, kan punktumet og følgende null(er) bli utelatt. For eksempel: -1.23, 12678967.543233, +100000.00, 210.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e220">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e220">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>Integer</skos:notation>
       <skos:prefLabel xml:lang="en">Integer</skos:prefLabel>
       <skos:definition xml:lang="en">Whole numbers, the infinite set of integers, no minimum or maximum value.</skos:definition>
@@ -105,9 +105,9 @@
       <skos:prefLabel xml:lang="no">Heltall</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall, det uendelige settet med heltall, ingen minimum eller maksimum verdi.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e248">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e248">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>PositiveInteger</skos:notation>
       <skos:prefLabel xml:lang="en">Positive integer</skos:prefLabel>
       <skos:definition xml:lang="en">Whole numbers greater than 0.</skos:definition>
@@ -116,9 +116,9 @@
       <skos:prefLabel xml:lang="no">Positive heltall</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall større enn 0.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e276">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e276">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>NegativeInteger</skos:notation>
       <skos:prefLabel xml:lang="en">Negative integer</skos:prefLabel>
       <skos:definition xml:lang="en">Whole numbers less than 0.</skos:definition>
@@ -127,9 +127,9 @@
       <skos:prefLabel xml:lang="no">Negative heltall</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall mindre enn 0.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e304">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e304">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>NonNegativeInteger</skos:notation>
       <skos:prefLabel xml:lang="en">Non-negative integer</skos:prefLabel>
       <skos:definition xml:lang="en">Whole numbers greater than -1.</skos:definition>
@@ -138,9 +138,9 @@
       <skos:prefLabel xml:lang="no">Ikke-negative heltall</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall større enn -1.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e332">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e332">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>NonPositiveInteger</skos:notation>
       <skos:prefLabel xml:lang="en">Non-positive integer</skos:prefLabel>
       <skos:definition xml:lang="en">Whole numbers less than 1.</skos:definition>
@@ -149,9 +149,9 @@
       <skos:prefLabel xml:lang="no">Ikke-positive heltall</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall mindre enn 1.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e360">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e360">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>Long</skos:notation>
       <skos:prefLabel xml:lang="en">Long</skos:prefLabel>
       <skos:definition xml:lang="en">Whole numbers in the range -9223372036854775808 .. 9223372036854775807.</skos:definition>
@@ -160,9 +160,9 @@
       <skos:prefLabel xml:lang="no">Long</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall i rekkevidden -9223372036854775808 .. 9223372036854775807.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e389">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e389">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>Int</skos:notation>
       <skos:prefLabel xml:lang="en">Int</skos:prefLabel>
       <skos:definition xml:lang="en">Whole numbers in the range -2147483648 .. 2147483647.</skos:definition>
@@ -171,9 +171,9 @@
       <skos:prefLabel xml:lang="no">Int</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall i rekkevidden -2147483648 .. 2147483647.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e417">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e417">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>Short</skos:notation>
       <skos:prefLabel xml:lang="en">Short</skos:prefLabel>
       <skos:definition xml:lang="en">Whole numbers in the range -32768 .. 32767.</skos:definition>
@@ -182,9 +182,9 @@
       <skos:prefLabel xml:lang="no">Short</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall i rekkevidden -32768 .. 32767.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e445">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e445">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>Byte</skos:notation>
       <skos:prefLabel xml:lang="en">Byte</skos:prefLabel>
       <skos:definition xml:lang="en">Whole numbers in the range -128 .. 127.</skos:definition>
@@ -193,9 +193,9 @@
       <skos:prefLabel xml:lang="no">Byte</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall i rekkevidden -128 .. 127.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e473">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e473">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>UnsignedLong</skos:notation>
       <skos:prefLabel xml:lang="en">Unsigned long</skos:prefLabel>
       <skos:definition xml:lang="en">Whole numbers in the range 0 .. 18446744073709551615.</skos:definition>
@@ -204,9 +204,9 @@
       <skos:prefLabel xml:lang="no">Unsigned long</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall i rekkevidden 0 .. 18446744073709551615.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e501">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e501">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>UnsignedInt</skos:notation>
       <skos:prefLabel xml:lang="en">Unsigned int</skos:prefLabel>
       <skos:definition xml:lang="en">Whole numbers in the range 0 .. 4294967295.</skos:definition>
@@ -215,9 +215,9 @@
       <skos:prefLabel xml:lang="no">Unsigned int</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall i rekkevidden 0 .. 4294967295.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e529">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e529">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>UnsignedShort</skos:notation>
       <skos:prefLabel xml:lang="en">Unsigned short</skos:prefLabel>
       <skos:definition xml:lang="en">Whole numbers in the range 0 .. 65535.</skos:definition>
@@ -226,9 +226,9 @@
       <skos:prefLabel xml:lang="no">Unsigned short</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall i rekkevidden 0 .. 65535.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e558">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e558">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>UnsignedByte</skos:notation>
       <skos:prefLabel xml:lang="en">Unsigned byte</skos:prefLabel>
       <skos:definition xml:lang="en">Whole numbers in the range 0 .. 255 (system dependent).</skos:definition>
@@ -237,9 +237,9 @@
       <skos:prefLabel xml:lang="no">Unsigned byte</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall i rekkevidden 0 .. 255 (systemavhengig).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e586">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e586">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>Float</skos:notation>
       <skos:prefLabel xml:lang="en">Float</skos:prefLabel>
       <skos:definition xml:lang="en">Single-precision 32-bit floating point type: The basic value space of float consists of the values m*2^e, where m is an integer whose absolute value is less than 2^24, and e is an integer between -149 and 104, inclusive. In addition, it also contains the following three special values: positive and negative infinity and not-a-number (NaN). The special values positive and negative infinity and not-a-number have lexical representations INF, -INF and NaN, respectively. Lexical representations for zero may take a positive or negative sign. For example, -1E4, 1267.43233E12, 12.78e-2, 12 , -0, 0 and INF are all legal literals for float.</skos:definition>
@@ -248,9 +248,9 @@
       <skos:prefLabel xml:lang="no">Float</skos:prefLabel>
       <skos:definition xml:lang="no">Single-precision 32-bit floating point type: Den grunnleggende verdirekkevidden til en float består av verdiene m*2^e, hvor m er et heltall med absolutt verdi mindre enn 2^24 og e er et heltall mellom -149 og 104. I tillegg inneholder det også tre spesialverdier: positiv og negativ uendelig og not-a-number (NaN). Spesialverdiene positiv og negativ uendelig og not-a-number har leksikalsk representasjon INF, -INF og NaN, henholdsvis. Leksikalske representasjoner for null kan ha positivt eller negativt fortegn. For eksempel, -1E4, 1267.43233E12, 12.78e-2. -0. 0 og INF er alle lovlige uttrykk for float.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e614">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e614">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>Double</skos:notation>
       <skos:prefLabel xml:lang="en">Double</skos:prefLabel>
       <skos:definition xml:lang="en">Double-precision 64-bit floating point type. The basic value space of double consists of the values m*2^e, where m is an integer whose absolute value is less than 2^53, and e is an integer between -1075 and 970, inclusive. In addition to the basic value space described above, the value space of double also contains the following three special values: positive and negative infinity and not-a-number (NaN). The special values positive and negative infinity and not-a-number have lexical representations INF, -INF and NaN, respectively. Lexical representations for zero may take a positive or negative sign. For example, -1E4, 1267.43233E12, 12.78e-2, 12 , -0, 0 and INF are all legal literals for double.</skos:definition>
@@ -259,9 +259,9 @@
       <skos:prefLabel xml:lang="no">Double</skos:prefLabel>
       <skos:definition xml:lang="no">Double-precision 64-bit floating point type. Den grunnleggende verdirekkevidden til en double består av verdiene m*2^e, hvor m er et heltall med absolutt verdi mindre enn 2^53, og e er et heltall mellom -1075 og 970. I tillegg til de grunnleggende verdiene beskrevet ovenfor, inneholder også verdirekkevidden til double også de følgende tre spesialverdiene: positiv og negativ uendelig og not-a-number (NaN). Spesialverdiene positiv og negativ uendelig og not-a-number har leksikalske representasjon INF, -INF og NaN, henholdsvis. Leksikalske representasjoner for null kan ha positivt eller negativt fortegn. For eksempel, -1E4, 1267.43233E12, 12.78e-2, 12, -0, 0 og INF er alle lovlige uttrykk for double.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e642">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e642">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>DateTime</skos:notation>
       <skos:prefLabel xml:lang="en">DateTime</skos:prefLabel>
       <skos:definition xml:lang="en">Integer-valued year, month, day, hour and minute, plus decimal-valued second property, and time zone hour and minute (e.g., 2002-10-10T12:00:00-05:00).</skos:definition>
@@ -270,9 +270,9 @@
       <skos:prefLabel xml:lang="no">DateTime</skos:prefLabel>
       <skos:definition xml:lang="no">Heltall verdi år, måned, dag, time og minutt, pluss desimalverdi av sekunders egenskaper, og tidssone, time og minutt. (f.eks., 2002-10-10T12:00:00-05:00).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e670">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e670">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>Time</skos:notation>
       <skos:prefLabel xml:lang="en">Time</skos:prefLabel>
       <skos:definition xml:lang="en">Left-truncated dateTime, e.g., 13:20:00-05:00 (1:20 pm for Eastern Standard Time U.S.).</skos:definition>
@@ -281,9 +281,9 @@
       <skos:prefLabel xml:lang="no">Tid</skos:prefLabel>
       <skos:definition xml:lang="no">Venstre avkortet dateTime, f.eks., 13:20:00-05:00 (13:20 for Eastern Standard Time U.S.).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e698">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e698">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>Date</skos:notation>
       <skos:prefLabel xml:lang="en">Date</skos:prefLabel>
       <skos:definition xml:lang="en">Integer-valued year, month, day, and time zone hour and minutes, e.g., 2003-06-30-05:00 (30 June 2003 Eastern Standard Time U.S.).</skos:definition>
@@ -292,9 +292,9 @@
       <skos:prefLabel xml:lang="no">Dato</skos:prefLabel>
       <skos:definition xml:lang="no">Heltall verdi år, måned, dag og tidssone time og minutter, f.eks., 2003-06-30-05:00 (30 Juni 2003 Eastern Standard Time U.S.).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e727">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e727">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>GYearMonth</skos:notation>
       <skos:prefLabel xml:lang="en">YearMonth</skos:prefLabel>
       <skos:definition xml:lang="en">Integer-valued year and month, e.g., 2004-11.</skos:definition>
@@ -303,9 +303,9 @@
       <skos:prefLabel xml:lang="no">YearMonth</skos:prefLabel>
       <skos:definition xml:lang="no">Heltall verdi år og måned, f.eks., 2004-11.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e755">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e755">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>GYear</skos:notation>
       <skos:prefLabel xml:lang="en">Year</skos:prefLabel>
       <skos:definition xml:lang="en">Integer-valued year, e.g., 2005.</skos:definition>
@@ -314,9 +314,9 @@
       <skos:prefLabel xml:lang="no">År</skos:prefLabel>
       <skos:definition xml:lang="no">Heltall verdi år, f.eks., 2005.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e783">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e783">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>GMonthDay</skos:notation>
       <skos:prefLabel xml:lang="en">MonthDay</skos:prefLabel>
       <skos:definition xml:lang="en">Integer-valued month and day, e.g., 12-31.</skos:definition>
@@ -325,9 +325,9 @@
       <skos:prefLabel xml:lang="no">MonthDay</skos:prefLabel>
       <skos:definition xml:lang="no">Heltall verdi måned og dag, f.eks., 12-31.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e811">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e811">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>GDay</skos:notation>
       <skos:prefLabel xml:lang="en">Day</skos:prefLabel>
       <skos:definition xml:lang="en">Integer-valued day, e.g., 24.</skos:definition>
@@ -336,9 +336,9 @@
       <skos:prefLabel xml:lang="no">Dag</skos:prefLabel>
       <skos:definition xml:lang="no">Heltall verdi dag, f.eks., 24.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e839">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e839">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>GMonth</skos:notation>
       <skos:prefLabel xml:lang="en">Month</skos:prefLabel>
       <skos:definition xml:lang="en">Integer-valued month, e.g., 03.</skos:definition>
@@ -347,9 +347,9 @@
       <skos:prefLabel xml:lang="no">Måned</skos:prefLabel>
       <skos:definition xml:lang="no">Heltall verdi, f.eks., 03.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e867">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e867">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>Duration</skos:notation>
       <skos:prefLabel xml:lang="en">Duration</skos:prefLabel>
       <skos:definition xml:lang="en">A duration of time. The value space of "duration" is a six-dimensional space in which the coordinates designate the Gregorian year, month, day, hour, minute, and second components as defined in ISO 8601. These components are ordered in their significance by their order of appearance as year, month, day, hour, minute, and second. The lexical representation of duration is the extended format PnYnMnDTnHnMnS, where P is the flag for duration (i.e., Period) and is constant, nY represents the number of years, nM the number of months, nD the number of days, T is the date/time separator, nH the number of hours, nM the number of minutes and nS the number of seconds. The number of seconds can include decimal digits to arbitrary precision. For example, to indicate a duration of 1 year, 2 months, 3 days, 10 hours, and 30 minutes, one would write: "P1Y2M3DT10H30M." An optional preceding minus sign ("-") is allowed, to indicate a negative duration: a duration of minus 120 days would be indicated as: "-P120D" (from: http://www.w3.org/TR/xmlschema-2/#duration).</skos:definition>
@@ -359,9 +359,9 @@
       <skos:definition xml:lang="no">En varighet av tid. Verdirekkevidden til "varighet" er i seks dimensjoner som koordinerer det Gregorianske år, måned, dag, time, minutt og sekund komponenter som er definert i ISO 8601. Disse komponentene er arrangert etter signifikans gjennom rekkefølgen år, måned, dag, time, minutt og sekund. Den leksikalske representasjonen av varighet er i det utvidede formatet PnYnMnDTnHnMnS, hvor P er flagget for varighet (i.e., Period) og er konstant, nY representerer antall
 år, nM antall måneder, nD antall dager, T er dato/tid skilletegn, nH antall timer, nM antall minutter og nS antall sekunder. Antallet sekunder kan inkludere desimaltall til skjønnsmessig presisjon. For eksempel, for å indikere en varighet på 1 år, 2 måneder, 3 dager, 10 timer og 30 minutter kan en skrive: "P1Y2M3T10H30M." En valgfri foranledende minustegn ("-") er tillatt, for å indikere negativ varighet: en varighet på minus 120 dager vil bli indikert som "-P120D" (fra: http://www.w3.org/TR/xmlschema-2/#duration).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e896">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e896">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>HexBinary</skos:notation>
       <skos:prefLabel xml:lang="en">hexBinary</skos:prefLabel>
       <skos:definition xml:lang="en">Even-lengthed sequence of hexadecimal digits representing an N times 8-bit integer.</skos:definition>
@@ -370,9 +370,9 @@
       <skos:prefLabel xml:lang="no">hexBinary</skos:prefLabel>
       <skos:definition xml:lang="no">Jevnlange sekvenser av heksadesimal sifre som representerer et N ganger 8-bit heltall.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e924">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e924">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>Base64Binary</skos:notation>
       <skos:prefLabel xml:lang="en">base64Binary</skos:prefLabel>
       <skos:definition xml:lang="en">Sequence of multiples of four base64 digits, where each 4-tuple represents a 24-bit integer. Each digit (a-z, A-Z, 0-9, +, /) represents a 6-bit integer between 0 and 63.</skos:definition>
@@ -381,9 +381,9 @@
       <skos:prefLabel xml:lang="no">base64Binary</skos:prefLabel>
       <skos:definition xml:lang="no">Sekvens av multipler av fire base64 sifre, hvor hver 4-tuppel representerer et 24-bit heltall. Hvert siffer (a-z, A-Z, 0-9, +, /) representerer et 6-bit heltall mellom 0 og 63.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e952">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e952">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>AnyURI</skos:notation>
       <skos:prefLabel xml:lang="en">anyURI</skos:prefLabel>
       <skos:definition xml:lang="en">A Uniform Resource Identifier such as ftp, http or mailto, e.g., http://www.w3.org/TR/xmlschema-2.</skos:definition>
@@ -392,9 +392,9 @@
       <skos:prefLabel xml:lang="no">anyURI</skos:prefLabel>
       <skos:definition xml:lang="no">En Uniform Resource Identifier som ftp, http eller mailto, f.eks., http://www.w3.org/TR/xmlschema-2.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d12e980">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/d11e980">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1/"/>
       <skos:notation>Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use if the data type is known, but not found in the list.</skos:definition>

@@ -4,7 +4,7 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
           xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone"/>
       <skos:notation>TypeOfTelephone</skos:notation>
@@ -13,89 +13,89 @@
       <owl:versionInfo>1.0</owl:versionInfo>
       <dcterms:license rdf:resource="Creative Commons Attribution 4.0 International"/>
       <dcterms:rights>Copyright ©DDI Alliance 2020</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e34"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e84"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e135"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e185"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e34"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e84"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e135"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e185"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e34">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e34">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/"/>
       <skos:notation>Fixed</skos:notation>
       <skos:prefLabel xml:lang="en">Fixed telephone</skos:prefLabel>
       <skos:definition xml:lang="en">A telephone that transmits signals converted from audio data through physical media, such as wire or fiber optic cable; also known as landline.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e54"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e69"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e54"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e69"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e54">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e54">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/"/>
       <skos:notation>Fixed.PersonalPrivate</skos:notation>
       <skos:prefLabel xml:lang="en">Fixed telephone: Personal/Private</skos:prefLabel>
       <skos:definition xml:lang="en">A fixed telephone belonging to a private person, usually located in a home or a private dwelling unit.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e34"/>
+      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e34"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e69">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e69">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/"/>
       <skos:notation>Fixed.OrganizationBusiness</skos:notation>
       <skos:prefLabel xml:lang="en">Fixed telephone: Organization/Business</skos:prefLabel>
       <skos:definition xml:lang="en">A fixed telephone of an organization, institution or business, or the work telephone of a person employed by the organization.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e34"/>
+      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e34"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e84">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e84">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/"/>
       <skos:notation>Mobile</skos:notation>
       <skos:prefLabel xml:lang="en">Mobile telephone</skos:prefLabel>
       <skos:definition xml:lang="en">A portable telephone connected to a wireless communications network through radio waves or satellite transmissions; includes phones known as cellular (or cell) phones, hand phones, as well as satellite phones.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e105"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e120"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e105"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e120"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e105">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e105">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/"/>
       <skos:notation>Mobile.PersonalPrivate</skos:notation>
       <skos:prefLabel xml:lang="en">Mobile telephone: Personal/Private</skos:prefLabel>
       <skos:definition xml:lang="en">A mobile telephone belonging to a private person.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e84"/>
+      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e84"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e120">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e120">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/"/>
       <skos:notation>Mobile.OrganizationBusiness</skos:notation>
       <skos:prefLabel xml:lang="en">Mobile telephone: Organization/Business</skos:prefLabel>
       <skos:definition xml:lang="en">A mobile telephone of an organization, institution or business, or the mobile work telephone of a person employed by the organization.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e84"/>
+      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e84"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e135">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e135">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/"/>
       <skos:notation>Fax</skos:notation>
       <skos:prefLabel xml:lang="en">Fax</skos:prefLabel>
       <skos:definition xml:lang="en">A fax (short for facsimile) is a device used for the telephonic transmission of scanned-in printed material (text or images), usually to a telephone number associated with a printer or other output device; also known as telecopying.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e155"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e170"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e155"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e170"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e155">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e155">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/"/>
       <skos:notation>Fax.PersonalPrivate</skos:notation>
       <skos:prefLabel xml:lang="en">Fax: Personal/Private</skos:prefLabel>
       <skos:definition xml:lang="en">A fax belonging to a private person.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e135"/>
+      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e135"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e170">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e170">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/"/>
       <skos:notation>Fax.OrganizationBusiness</skos:notation>
       <skos:prefLabel xml:lang="en">Fax: Organization/Business</skos:prefLabel>
       <skos:definition xml:lang="en">The fax of an organization, institution or business, or the work fax of a person employed by the organization.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e135"/>
+      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e135"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d96e185">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/d74e185">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0/"/>
       <skos:notation>Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use when the type of telephone is known, but not found in the list.</skos:definition>

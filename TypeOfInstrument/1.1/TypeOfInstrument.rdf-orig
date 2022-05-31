@@ -4,7 +4,7 @@
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:dcterms="http://purl.org/dc/terms/"
 >
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument"/>
       <skos:notation>TypeOfInstrument</skos:notation>
@@ -35,17 +35,17 @@
       <owl:versionInfo>1.1</owl:versionInfo>
       <dcterms:license rdf:resource="Creative Commons Attribution 4.0 International"/>
       <dcterms:rights>Copyright &#xa9;DDI Alliance 2019</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#Questionnaire"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#InterviewSchemeAndThemes"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#DataCollectionGuidelines"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#ParticipantTasks"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#TechnicalInstruments"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#ProgrammingScript"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#Other"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#Questionnaire"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#InterviewSchemeAndThemes"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#DataCollectionGuidelines"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#ParticipantTasks"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#TechnicalInstruments"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#ProgrammingScript"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#Other"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#Questionnaire">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#Questionnaire">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>Questionnaire</skos:notation>
       <skos:prefLabel xml:lang="en">Questionnaire</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Set of pre-determined questions presented to study participants.</skos:definition>
@@ -71,13 +71,13 @@
 	  <skos:definition  xml:lang="sr">Skup unapred utvr&#x111;enih pitanja koja su predstavljena u&#x10d;esnicima studije.</skos:definition>
       <skos:prefLabel xml:lang="sv">Fr&#xe5;geformul&#xe4;r</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">En upps&#xe4;ttning f&#xf6;rutbest&#xe4;mda fr&#xe5;gor som st&#xe4;lls till deltagare i studien.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#Questionnaire.Structured"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#Questionnaire.Semistructured"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#Questionnaire.Unstructured"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#Questionnaire.Structured"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#Questionnaire.Semistructured"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#Questionnaire.Unstructured"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#Questionnaire.Structured">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#Questionnaire.Structured">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>Questionnaire.Structured</skos:notation>
       <skos:prefLabel xml:lang="en">Structured questionnaire</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Set of pre-determined questions, a great majority of which are closed-ended, although there may be a small proportion of open-ended questions.</skos:definition>
@@ -104,9 +104,9 @@
       <skos:prefLabel xml:lang="sv">Strukturerat fr&#xe5;geformul&#xe4;r</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">En upps&#xe4;ttning f&#xf6;rutbest&#xe4;mda fr&#xe5;gor, av vilka en stor majoritet &#xe4;r slutna, &#xe4;ven om det kan finnas en liten andel &#xf6;ppna fr&#xe5;gor.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#Questionnaire.Semistructured">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#Questionnaire.Semistructured">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>Questionnaire.Semistructured</skos:notation>
       <skos:prefLabel xml:lang="en">Semi-structured questionnaire</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Set of pre-determined questions, a significant proportion of which are open-ended (roughly one third to two thirds), and the rest are closed-ended.</skos:definition>
@@ -133,9 +133,9 @@
       <skos:prefLabel xml:lang="sv">Semistrukturerat fr&#xe5;geformul&#xe4;r</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">En upps&#xe4;ttning f&#xf6;rutbest&#xe4;mda fr&#xe5;gor, av vilka en signifikant majoritet &#xe4;r &#xf6;ppna (cirka en till tv&#xe5; tredjedelar), och resten &#xe4;r slutna.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#Questionnaire.Unstructured">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#Questionnaire.Unstructured">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>Questionnaire.Unstructured</skos:notation>
       <skos:prefLabel xml:lang="en">Unstructured questionnaire</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Set of pre-determined questions, a great majority of which are open-ended, although there may be a small proportion of close-ended questions.</skos:definition>
@@ -162,9 +162,9 @@
       <skos:prefLabel xml:lang="sv">Ostrukturerat fr&#xe5;geformul&#xe4;r</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">En upps&#xe4;ttning f&#xf6;rutbest&#xe4;mda fr&#xe5;gor, av vilka en stor majoritet &#xe4;r &#xf6;ppna, &#xe4;ven om det kan finnas en liten andel slutna fr&#xe5;gor.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#InterviewSchemeAndThemes">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#InterviewSchemeAndThemes">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>InterviewSchemeAndThemes</skos:notation>
       <skos:prefLabel xml:lang="en">Interview scheme and/or themes</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Themes, topics, and/or questions used in an interview. Can vary between loosely defined themes to more exactly formulated questions. There is more flexibility than in an unstructured questionnaire regarding which questions are asked of each participant and how they are conveyed.</skos:definition>
@@ -191,9 +191,9 @@
       <skos:prefLabel xml:lang="sv">Intervjuschema och/eller teman</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Teman, &#xe4;mnen och/eller fr&#xe5;gor som anv&#xe4;nds i en intervju. Kan variera mellan l&#xf6;st definierade teman och mer exakt formulerade fr&#xe5;gor. Det finns mer flexibilitet &#xe4;n i ett ostrukturerat fr&#xe5;geformul&#xe4;r ang&#xe5;ende vilka fr&#xe5;gor som st&#xe4;lls till varje deltagare och hur de f&#xf6;rmedlas.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#DataCollectionGuidelines">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#DataCollectionGuidelines">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>DataCollectionGuidelines</skos:notation>
       <skos:prefLabel xml:lang="en">Data collection guidelines</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Directions or instructions regarding the methods and procedures to be used for collecting the data. Use a more specific term if possible.</skos:definition>
@@ -219,14 +219,14 @@
 	  <skos:definition  xml:lang="sr">Uputstva ili smernice u vezi sa metodama i postupcima koji c&#x301;e se koristiti za prikupljanje podataka. Koristite precizniji izraz ako je moguc&#x301;e.</skos:definition>
       <skos:prefLabel xml:lang="sv">Datainsamlingsguide</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Guide och anvisningar som definierar inneh&#xe5;llet i datainsamlingen. Anv&#xe4;nd en smalare term om m&#xf6;jligt.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#DataCollectionGuidelines.ObservationGuide"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#DataCollectionGuidelines.DiscussionGuide"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#DataCollectionGuidelines.SelfAdministeredWritingsGuide"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#DataCollectionGuidelines.SecondaryDataCollectionGuide"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#DataCollectionGuidelines.ObservationGuide"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#DataCollectionGuidelines.DiscussionGuide"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#DataCollectionGuidelines.SelfAdministeredWritingsGuide"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#DataCollectionGuidelines.SecondaryDataCollectionGuide"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#DataCollectionGuidelines.ObservationGuide">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#DataCollectionGuidelines.ObservationGuide">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>DataCollectionGuidelines.ObservationGuide</skos:notation>
       <skos:prefLabel xml:lang="en">Data collection guidelines: Observation guide</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Guidelines regarding what will be observed. Depending on the study design, an observation guide can be more or less structured, ranging from exact specifications and scales to loosely formulated ideas.</skos:definition>
@@ -253,9 +253,9 @@
       <skos:prefLabel xml:lang="sv">Datainsamlingsguide: Observationsguide</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Guide till det som ska observeras. Beroende p&#xe5; studiedesign kan en observationsguide vara mer eller mindre strukturerad, allt fr&#xe5;n exakta specifikationer och skalor till l&#xf6;st formulerade id&#xe9;er.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#DataCollectionGuidelines.DiscussionGuide">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#DataCollectionGuidelines.DiscussionGuide">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>DataCollectionGuidelines.DiscussionGuide</skos:notation>
       <skos:prefLabel xml:lang="en">Data collection guidelines: Discussion guide</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Guidelines for a group discussion. Depending on the study design, a discussion guide can be more or less structured, ranging from exactly formulated questions to general ideas on what to discuss. For example, a list of topics to be discussed in a focus group, or themes formulated by a researcher to direct a blog discussion, etc.</skos:definition>
@@ -282,9 +282,9 @@
       <skos:prefLabel xml:lang="sv">Datainsamlingsguide: Diskussionsguide</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Guide f&#xf6;r en gruppdiskussion. Beroende p&#xe5; studiedesign kan en diskussionsguide vara mer eller mindre strukturerad, allt fr&#xe5;n exakt formulerade fr&#xe5;gor till allm&#xe4;nna id&#xe9;er om vad man ska diskutera. Till exempel en lista &#xf6;ver &#xe4;mnen som ska diskuteras i en fokusgrupp eller teman formulerade av en forskare f&#xf6;r att styra en bloggdiskussion osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#DataCollectionGuidelines.SelfAdministeredWritingsGuide">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#DataCollectionGuidelines.SelfAdministeredWritingsGuide">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>DataCollectionGuidelines.SelfAdministeredWritingsGuide</skos:notation>
       <skos:prefLabel xml:lang="en">Data collection guidelines: Self-administered writings guide</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Guidelines regarding the desired, or expected content of self-written personal accounts or narratives from potential participants. The instructions can be supplied as part of the writing invitation or separately. For example, an invitation asking people suffering from a specific disease or disability to describe how it affects their feelings, social relations, and everyday life; or a writing invitation asking people to keep a diary of books read during a period of six months and the thoughts provoked by the books.</skos:definition>
@@ -311,9 +311,9 @@
       <skos:prefLabel xml:lang="sv">Datainsamlingsguide: Guide f&#xf6;r sj&#xe4;lvadministrerade skriftliga uppgifter</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Guide f&#xf6;r &#xf6;nskat eller f&#xf6;rv&#xe4;ntat inneh&#xe5;ll i sj&#xe4;lvskrivna personliga redog&#xf6;relser eller ber&#xe4;ttelser fr&#xe5;n potentiella deltagare. Anvisningarna kan levereras separat eller som en del av inbjudan att delta i skrivandet. Till exempel en inbjudan till m&#xe4;nniskor med en viss sjukdom eller funktionsneds&#xe4;ttning om att beskriva hur det p&#xe5;verkar deras k&#xe4;nslor, sociala relationer och vardagsliv. Eller en skrivinbjudan som ber m&#xe4;nniskor att f&#xf6;ra dagbok om vilka b&#xf6;cker de l&#xe4;ser under en period av sex m&#xe5;nader och de tankar som v&#xe4;cks av b&#xf6;ckerna.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#DataCollectionGuidelines.SecondaryDataCollectionGuide">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#DataCollectionGuidelines.SecondaryDataCollectionGuide">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>DataCollectionGuidelines.SecondaryDataCollectionGuide</skos:notation>
       <skos:prefLabel xml:lang="en">Data collection guidelines: Secondary data collection guide</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Guidelines specifying what data are to be collected from previously existing sources originally created for other purposes. For example, directions on how to select and code data from qualitative sources to create a quantitative dataset.</skos:definition>
@@ -340,9 +340,9 @@
       <skos:prefLabel xml:lang="sv">Datainsamlingsguide: Guide f&#xf6;r insamling av sekund&#xe4;rdata</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Guide som anger vilka data som ska samlas in fr&#xe5;n befintliga k&#xe4;llor som ursprungligen skapats f&#xf6;r andra &#xe4;ndam&#xe5;l. Till exempel anvisningar om hur man v&#xe4;ljer och kodar data fr&#xe5;n kvalitativa k&#xe4;llor f&#xf6;r att skapa ett kvantitativt dataset.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#ParticipantTasks">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#ParticipantTasks">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>ParticipantTasks</skos:notation>
       <skos:prefLabel xml:lang="en">Participant tasks</skos:prefLabel>
 	  <skos:definition  xml:lang="en">A description of tasks that participants are asked to carry out as a part of the data collection process. For example, marking places on a map, taking photographs, telling a fairy tale, etc.</skos:definition>
@@ -369,9 +369,9 @@
       <skos:prefLabel xml:lang="sv">Uppgifter f&#xf6;r deltagarna</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">En beskrivning av uppgifter som deltagare ombeds att utf&#xf6;ra som en del av datainsamlingsprocessen. Till exempel att markera platser p&#xe5; en karta, fotografera, ber&#xe4;tta en saga osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#TechnicalInstruments">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#TechnicalInstruments">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>TechnicalInstruments</skos:notation>
       <skos:prefLabel xml:lang="en">Technical instrument(s)</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Instruments used to collect objective data like measurements, images, etc. For example, chronometers, scales, speedometers, blood pressure monitors, thermometers, x-ray machines, etc.</skos:definition>
@@ -398,9 +398,9 @@
       <skos:prefLabel xml:lang="sv">Tekniskt/-a instrument</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Instrument som anv&#xe4;nds f&#xf6;r att samla in objektiva data som m&#xe4;tningar, bilder osv. Till exempel kronometrar, v&#xe5;gar, hastighetsm&#xe4;tare, blodtrycksm&#xe4;tare, termometrar, r&#xf6;ntgenapparater osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#ProgrammingScript">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#ProgrammingScript">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>ProgrammingScript</skos:notation>
       <skos:prefLabel xml:lang="en">Programming script</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Programming script written in a data query language that is used to extract specific data, for instance from online social networks.</skos:definition>
@@ -427,9 +427,9 @@
       <skos:prefLabel xml:lang="sv">Skript</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Ett skript som &#xe4;r skrivet i ett f&#xf6;rfr&#xe5;gningsspr&#xe5;k (data query language) och som anv&#xe4;nds f&#xf6;r att extrahera specifika data, t.ex. fr&#xe5;n sociala n&#xe4;tverk p&#xe5; n&#xe4;tet.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1#Other">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/#Other">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Use when the type of instrument is known, but not found in the list.</skos:definition>

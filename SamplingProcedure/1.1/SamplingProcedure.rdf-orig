@@ -4,7 +4,7 @@
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:dcterms="http://purl.org/dc/terms/"
 >
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure"/>
       <skos:notation>SamplingProcedure</skos:notation>
@@ -43,15 +43,15 @@
       <owl:versionInfo>1.1</owl:versionInfo>
       <dcterms:license rdf:resource="Creative Commons Attribution 4.0 International"/>
       <dcterms:rights>Copyright &#xa9;DDI Alliance 2019</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#TotalUniverseCompleteEnumeration"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Nonprobability"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#MixedProbabilityNonprobability"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Other"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#TotalUniverseCompleteEnumeration"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Nonprobability"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#MixedProbabilityNonprobability"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Other"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#TotalUniverseCompleteEnumeration">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#TotalUniverseCompleteEnumeration">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/"/>
       <skos:notation>TotalUniverseCompleteEnumeration</skos:notation>
       <skos:prefLabel xml:lang="en">Total universe/Complete enumeration</skos:prefLabel>
 	  <skos:definition  xml:lang="en">All units (individuals, households, organizations, etc.) of a target population are included in the data collection. For example, if the target population is defined as the members of a trade union, all union members are invited to participate in the study. Also called &quot;census&quot; if the entire population of a regional unit (e.g. a country) is selected.</skos:definition>
@@ -86,9 +86,9 @@
       <skos:prefLabel xml:lang="sv">Hela populationen/total r&#xe4;kning</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Alla element (individer, hush&#xe5;ll, organisationer m.m.) i m&#xe5;lpopulationen inkluderas i datainsamlingen. Exempel: om m&#xe5;lpopulationen definieras som medlemmarna i ett fackf&#xf6;rbund s&#xe5; bjuds samtliga medlemmar in till att delta i studien. Kallas &#xe4;ven &quot;folkr&#xe4;kning&quot;, om det r&#xf6;r sig om den totala populationen i en regional enhet (t.ex. ett land).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/"/>
       <skos:notation>Probability</skos:notation>
       <skos:prefLabel xml:lang="en">Probability</skos:prefLabel>
 	  <skos:definition  xml:lang="en">All units (individuals, households, organizations, etc.) of a target population have a non-zero probability of being included in the sample and this probability can be accurately determined. Use this broader term if a more specific type of probability sampling is not known or is difficult to identify.</skos:definition>
@@ -122,15 +122,15 @@
 	  <skos:definition  xml:lang="sr">Sve jedinice (pojedinci, domac&#x301;instva, organizacije itd.) ciljne populacije imaju ne-nultu verovatnoc&#x301;u da budu uklju&#x10d;ene u uzorak i ta verovatnoc&#x301;a se mo&#x17e;e ta&#x10d;no utvrditi. Ovaj &#x161;iri pojam koristite ako nije poznata odre&#x111;enija vrsta uzorkovanja verovatnoc&#x301;e ili ju je&amp;nbsp; te&#x161;ko identifikovati.</skos:definition>
       <skos:prefLabel xml:lang="sv">Sannolikhetsurval</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Alla element (individer, hush&#xe5;ll, organisationer m.m.) i m&#xe5;lpopulationen har en sannolikhet st&#xf6;rre &#xe4;n noll att inkluderas i samplet och det g&#xe5;r att exakt ber&#xe4;kna sannolikheten. Anv&#xe4;nd den h&#xe4;r bredare termen om det &#xe4;r ok&#xe4;nt vilken mer specifik typ av sannolikhetsurval det r&#xf6;r sig om eller om typen &#xe4;r sv&#xe5;r att identifiera.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability.SimpleRandom"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability.SystematicRandom"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability.Stratified"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability.Cluster"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability.Multistage"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability.SimpleRandom"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability.SystematicRandom"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability.Stratified"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability.Cluster"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability.Multistage"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability.SimpleRandom">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability.SimpleRandom">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/"/>
       <skos:notation>Probability.SimpleRandom</skos:notation>
       <skos:prefLabel xml:lang="en">Probability: Simple random</skos:prefLabel>
 	  <skos:definition  xml:lang="en">All units of a target population have an equal probability of being included in the sample. Typically, the entire population is listed in a &quot;sample frame&quot;, and units are then chosen from this frame using a random selection method.</skos:definition>
@@ -165,9 +165,9 @@
       <skos:prefLabel xml:lang="sv">Sannolikhetsurval: obundet slumpm&#xe4;ssigt urval</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Alla element i m&#xe5;lpopulationen har samma sannolikhet att inkluderas i samplet. Vanligtvis listas hela populationen i en &quot;urvalsram&quot; och elementen v&#xe4;ljs fr&#xe5;n den ramen med en slumpvalsmetod.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability.SystematicRandom">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability.SystematicRandom">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/"/>
       <skos:notation>Probability.SystematicRandom</skos:notation>
       <skos:prefLabel xml:lang="en">Probability: Systematic random</skos:prefLabel>
 	  <skos:definition  xml:lang="en">A fixed selection interval is determined by dividing the population size by the desired sample size. A starting point is then randomly drawn from the sample frame, which normally covers the entire target population. From this starting point, units for the sample are chosen based on the selection interval. Also known as interval sampling. For example, a company survey seeks a sample of 1,000 employees out of 10,000 total. Beginning with a random starting number, every 10th name from the employee list of the company will be invited to participate in the study.</skos:definition>
@@ -202,9 +202,9 @@
       <skos:prefLabel xml:lang="sv">Sannolikhetsurval: systematiskt slumpm&#xe4;ssigt urval</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Ett best&#xe4;mt urvalsintervall skapas genom att man delar populationsstorleken med &#xf6;nskad sampelstorlek. En startpunkt best&#xe4;ms slumpm&#xe4;ssigt i urvalsramen, som vanligtvis omfattar hela m&#xe5;lpopulationen. Fr&#xe5;n startpunkten drar man sedan element utifr&#xe5;n det best&#xe4;mda urvalsintervallet. Exempel: ett f&#xf6;retag vill f&#xe5; ett sampel p&#xe5; 1.000 av sina 10.000 anst&#xe4;llda. Med b&#xf6;rjan p&#xe5; ett slumpm&#xe4;ssigt valt namn i listan &#xf6;ver medarbetare s&#xe5; erbjuder de var tionde person att delta i unders&#xf6;kningen.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability.Stratified">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability.Stratified">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/"/>
       <skos:notation>Probability.Stratified</skos:notation>
       <skos:prefLabel xml:lang="en">Probability: Stratified</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The target population is subdivided into separate and mutually exclusive segments (strata) that cover the entire population. Independent random samples are then drawn from each segment. For example, in a national public opinion survey the entire population is divided into two regional strata: East and West. After this, sampling units are drawn from within each region using simple or systematic random sampling. Use this broader term if the specific type of stratified sampling is not known or difficult to identify.</skos:definition>
@@ -238,12 +238,12 @@
 	  <skos:definition  xml:lang="sr">Ciljna populacija je podeljena u odvojene i me&#x111;usobno isklju&#x10d;ujuc&#x301;e segmente (stratume) koji pokrivaju celokupnu populaciju. Zatim se iz svakog segmenta (stratuma) uzimaju nezavisni slu&#x10d;ajni uzorci. Na primer, u nacionalnom istra&#x17e;ivanju javnog mnjenja celokupno stanovni&#x161;tvo je podeljeno u dva regionalna stratuma: isto&#x10d;ni i zapadni. Nakon toga jedinice za uzorkovanje se izvla&#x10d;e iz svake regije koristec&#x301;i jednostavno ili sistematsko slu&#x10d;ajno uzorkovanje. Ovaj &#x161;iri pojam koristite ako nije poznata ili je te&#x161;ko odrediti specifi&#x10d;nu vrstu stratifikovanog uzorkovanja.</skos:definition>
       <skos:prefLabel xml:lang="sv">Sannolikhetsurval: stratifierat urval</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">M&#xe5;lpopulationen &#xe4;r uppdelad i flera delar (strata) som utesluter varandra och t&#xe4;cker hela populationen. Oberoende slumpm&#xe4;ssiga urval g&#xf6;rs fr&#xe5;n varje stratum. Exempel: i en nationell opinionsunders&#xf6;kning &#xe4;r hela populationen uppdelad i tv&#xe5; regionala strata, &#xd6;st och V&#xe4;st. D&#xe4;refter v&#xe4;ljs element slumpm&#xe4;ssigt fr&#xe5;n respektive region med obundet eller systematiskt slumpm&#xe4;ssigt urval. Anv&#xe4;nd den h&#xe4;r bredare termen om det &#xe4;r ok&#xe4;nt vilken mer specifik typ av stratifierat urval det r&#xf6;r sig om eller om typen &#xe4;r sv&#xe5;r att identifiera.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability.Stratified.Proportional"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability.Stratified.Disproportional"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability.Stratified.Proportional"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability.Stratified.Disproportional"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability.Stratified.Proportional">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability.Stratified.Proportional">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/"/>
       <skos:notation>Probability.Stratified.Proportional</skos:notation>
       <skos:prefLabel xml:lang="en">Probability: Stratified: Proportional</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The target population is subdivided into separate and mutually exclusive segments (strata) that cover the entire population. In proportional stratified sampling the number of elements chosen from each stratum is proportional to the population size of the stratum when viewed against the entire population. For example, a country is divided into two regional strata that comprise 80 percent (West) and 20 percent (East) of the total population. For a sample of 1,000 people, 800 (i.e., 80 percent) would be drawn from the West and 200 (i.e., 20 percent) from the East to accurately represent their proportion in the total population.</skos:definition>
@@ -278,9 +278,9 @@
       <skos:prefLabel xml:lang="sv">Sannolikhetsurval: stratifierat: proportionerligt urval</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">M&#xe5;lpopulationen &#xe4;r uppdelad i flera delar (strata) som utesluter varandra och t&#xe4;cker hela populationen. F&#xf6;r ett proportionerligt stratifierat urval st&#xe5;r antalet element som v&#xe4;ljs fr&#xe5;n varje stratum i proportion till storleken p&#xe5; stratumet i f&#xf6;rh&#xe5;llande till hela populationen. Exempel: ett land &#xe4;r uppdelat i tv&#xe5; regionala strata som motsvarar 80 procent (V&#xe4;st) respektive 20 procent (&#xd6;st) av hela populationen. F&#xf6;r ett sampel p&#xe5; 1.000 personer skulle 800 (dvs. 80 %) v&#xe4;ljas fr&#xe5;n V&#xe4;st och 200 (dvs. 20 %) fr&#xe5;n &#xd6;st f&#xf6;r att ge en korrekt representation av deras andel av hela populationen.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability.Stratified.Disproportional">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability.Stratified.Disproportional">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/"/>
       <skos:notation>Probability.Stratified.Disproportional</skos:notation>
       <skos:prefLabel xml:lang="en">Probability: Stratified: Disproportional</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The target population is subdivided into separate and mutually exclusive segments (strata) that cover the entire population. In disproportional sampling the number of units chosen from each stratum is not proportional to the population size of the stratum when viewed against the entire population. The number of sampled units from each stratum can be equal, optimal, or can reflect the purpose of the study, like oversampling of different subgroups of the population. For example, a country is divided into two regional strata that comprise 80 percent (West) and 20 precent (East) of the country&apos;s population. If equal representation of the two regions is needed in a study, half the sample may be drawn from the West and half from the East, so that each region is represented by 50 percent of the sample. If a more detailed analysis of the population from the East is needed, 40 percent of the units may be drawn from the West and 60 percent from the East, so that the East is over-represented.</skos:definition>
@@ -315,9 +315,9 @@
       <skos:prefLabel xml:lang="sv">Sannolikhetsurval: stratifierat: oproportionerligt urval</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">M&#xe5;lpopulationen &#xe4;r uppdelad i flera delar (strata) som utesluter varandra och t&#xe4;cker hela populationen. F&#xf6;r ett oproportionerligt urval s&#xe5; st&#xe5;r antalet element som v&#xe4;ljs fr&#xe5;n varje stratum inte i proportion till stratumets populationsstorlek i f&#xf6;rh&#xe5;llande till hela populationen. Sampelstorleken kan vara lika stor, optimal eller kan avspegla studiens syfte genom ett avsiktligt st&#xf6;rre urval fr&#xe5;n olika undergrupper i populationen. Exempel: ett land &#xe4;r uppdelat i tv&#xe5; regionala strata som motsvarar 80 procent (V&#xe4;st) respektive 20 procent (&#xd6;st) av hela populationen. Om lika representation av b&#xe5;da regionerna beh&#xf6;vs i studien kan halva samplet dras fr&#xe5;n &#xd6;st och andra halvan fr&#xe5;n V&#xe4;st s&#xe5; att varje region representeras av 50 % av samplet. Om det beh&#xf6;vs en mer detaljerad analys av population i &#xd6;st kan 40 % av elementen dras fr&#xe5;n V&#xe4;st och 60 % fr&#xe5;n &#xd6;st s&#xe5; att &#xd6;st &#xe4;r &#xf6;verrepresenterat.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability.Cluster">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability.Cluster">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/"/>
       <skos:notation>Probability.Cluster</skos:notation>
       <skos:prefLabel xml:lang="en">Probability: Cluster</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The target population is divided into naturally occurring segments (clusters) and a probability sample of the clusters is selected. Data are then collected from all units within each selected cluster. Sampling is often clustered by geography, or time period. Use this broader term if a more specific type of cluster sampling is not known or is difficult to identify.</skos:definition>
@@ -351,12 +351,12 @@
 	  <skos:definition  xml:lang="sr">Ciljna populacija je podeljena na segmente (klastere) koji se javljaju u prirodi i odabran je verovatni uzorak klastera. Podaci se zatim prikupljaju iz svih jedinica unutar svakog odabranog klastera. Uzorkovanje je &#x10d;esto grupisano prema geografskoj lokaciji ili vremenskom periodu. Upotrebite ovaj &#x161;iri pojam ako se ne zna odre&#x111;enija vrsta uzorkovanja klastera ili ju je te&#x161;ko identifikovati.</skos:definition>
       <skos:prefLabel xml:lang="sv">Sannolikhetsurval: klusterurval</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">M&#xe5;lpopulationen &#xe4;r uppdelad i naturligt f&#xf6;rekommande segment (kluster) och ett sannolikhetsurval av klustren g&#xf6;rs. Data samlas sedan in fr&#xe5;n alla element i varje utvalt kluster. Urvalet p&#xe5;verkas ofta av geografiska eller tidsm&#xe4;ssiga kluster. Anv&#xe4;nd den h&#xe4;r bredare termen om det &#xe4;r ok&#xe4;nt vilken mer specifik typ av klusterurval det r&#xf6;r sig om eller om typen &#xe4;r sv&#xe5;r att identifiera.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability.Cluster.SimpleRandom"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability.Cluster.StratifiedRandom"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability.Cluster.SimpleRandom"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability.Cluster.StratifiedRandom"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability.Cluster.SimpleRandom">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability.Cluster.SimpleRandom">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/"/>
       <skos:notation>Probability.Cluster.SimpleRandom</skos:notation>
       <skos:prefLabel xml:lang="en">Probability: Cluster: Simple random</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The target population is divided into naturally occurring segments (clusters) and a simple random sample of the clusters is selected. Data are then collected from all units within each selected cluster. For example, for a sample of students in a city, a number of schools would be chosen using the random selection method, and then all of the students from every sampled school would be included.</skos:definition>
@@ -391,9 +391,9 @@
       <skos:prefLabel xml:lang="sv">Sannolikhetsurval: klusterurval: obundet slumpm&#xe4;ssigt urval</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">M&#xe5;lpopulationen &#xe4;r uppdelad i naturligt f&#xf6;rekommande segment (kluster) och ett obundet slumpm&#xe4;ssigt urval av klustren g&#xf6;rs. Data samlas sedan in fr&#xe5;n alla element i varje utvalt kluster. Exempel: f&#xf6;r att f&#xe5; ett sampel av elever i en stad s&#xe5; skulle ett antal skolor v&#xe4;ljas slumpm&#xe4;ssigt och alla elever p&#xe5; de utvalda skolorna skulle sedan ing&#xe5; i samplet.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability.Cluster.StratifiedRandom">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability.Cluster.StratifiedRandom">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/"/>
       <skos:notation>Probability.Cluster.StratifiedRandom</skos:notation>
       <skos:prefLabel xml:lang="en">Probability: Cluster: Stratified random</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The target population is divided into naturally occurring segments (clusters); next, these are divided into mutually exclusive strata and a random sample of clusters is selected from each stratum. Data are then collected from all units within each selected cluster. For example, for a sample of students in a city, schools would be divided into two strata by school type (private vs. public); schools would be then randomly selected from each stratum, and all of the students from every sampled school would be included.</skos:definition>
@@ -428,9 +428,9 @@
       <skos:prefLabel xml:lang="sv">Sannolikhetsurval: klusterurval: stratifierat slumpm&#xe4;ssigt urval</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">M&#xe5;lpopulationen &#xe4;r uppdelad i naturligt f&#xf6;rekommande segment (kluster). Dessa delas sedan upp i &#xf6;msesidigt uteslutande strata och det g&#xf6;rs ett slumpm&#xe4;ssigt urval av kluster fr&#xe5;n varje stratum. Data samlas in fr&#xe5;n alla element inom varje utvalt kluster. Exempel: f&#xf6;r att f&#xe5; ett sampel av elever i en stad s&#xe5; delas skolorna upp i tv&#xe5; strata efter typ av skola (kommunala skolor och friskolor). Skolor v&#xe4;ljs sedan ut slumpm&#xe4;ssigt fr&#xe5;n varje stratum och alla elever i de utvalda skolorna ing&#xe5;r i samplet.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Probability.Multistage">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Probability.Multistage">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/"/>
       <skos:notation>Probability.Multistage</skos:notation>
       <skos:prefLabel xml:lang="en">Probability: Multistage</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Sampling is carried out in stages using smaller and smaller units at each stage, and all stages involve a probability selection. The type of probability sampling procedure may be different at each stage. For example, for a sample of students in a city, schools are randomly selected in the first stage. A random sample of classes within each selected school is drawn in the second stage. Students are then randomly selected from each of these classes in the third stage.</skos:definition>
@@ -465,9 +465,9 @@
       <skos:prefLabel xml:lang="sv">Sannolikhetsurval: flerstegsurval</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Urvalet sker stegvis med allt mindre enheter f&#xf6;r varje steg, och varje steg omfattar ett sannolikhetsurval. Urvalsmetoden kan skilja sig fr&#xe5;n steg till steg. Exempel: f&#xf6;r att f&#xe5; ett sampel av elever i en stad s&#xe5; kan skolor v&#xe4;ljas slumpm&#xe4;ssigt i f&#xf6;rsta steget. Ett slumpm&#xe4;ssigt urval av klasser g&#xf6;rs i steg tv&#xe5;. Elever v&#xe4;ljs sedan fr&#xe5;n dessa klasser i ett tredje steg.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Nonprobability">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Nonprobability">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/"/>
       <skos:notation>Nonprobability</skos:notation>
       <skos:prefLabel xml:lang="en">Non-probability</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The selection of units (individuals, households, organizations, etc.) from the target population is not based on random selection. It is not possible to determine the probability of each element to be sampled. Use this broader term if the specific type of non-probability is not known, difficult to identify, or if multiple non-probability methods are being employed.</skos:definition>
@@ -501,14 +501,14 @@
 	  <skos:definition  xml:lang="sr">Izbor jedinica (pojedinaca, domac&#x301;instava, organizacija, itd.) iz ciljne populacije ne zasniva se na slu&#x10d;ajnom odabiru. Nije moguc&#x301;e utvrditi verovatnoc&#x301;u da c&#x301;e svaki element biti uzorkovan. Koristite ovaj &#x161;iri pojam ako specifi&#x10d;na vrsta neverovatnosti nije poznata, te&#x161;ko ju je identifikovati ili ako se koristi vi&#x161;e neverovatnih metoda.</skos:definition>
       <skos:prefLabel xml:lang="sv">Icke-sannolikhetsurval</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Urvalet av element (individer, hush&#xe5;ll, organisationer m.m.) fr&#xe5;n m&#xe5;lpopulationen g&#xf6;rs inte slumpm&#xe4;ssigt. Det g&#xe5;r inte att best&#xe4;mma sannolikheten f&#xf6;r att ett element ska tas med i samplet. Anv&#xe4;nd den h&#xe4;r bredare termen om det &#xe4;r ok&#xe4;nt vilken mer specifik typ av icke-sannolikhetsurval det r&#xf6;r sig om, om typen &#xe4;r sv&#xe5;r att identifiera, eller om flera metoder f&#xf6;r icke-sannolikhetsurval anv&#xe4;nds.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Nonprobability.Availability"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Nonprobability.Purposive"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Nonprobability.Quota"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Nonprobability.RespondentAssisted"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Nonprobability.Availability"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Nonprobability.Purposive"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Nonprobability.Quota"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Nonprobability.RespondentAssisted"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Nonprobability.Availability">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Nonprobability.Availability">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/"/>
       <skos:notation>Nonprobability.Availability</skos:notation>
       <skos:prefLabel xml:lang="en">Non-probability: Availability</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The sample selection is based on the units&apos; accessibility/relative ease of access. They may be easy to approach, or may themselves choose to participate in the study (self-selection). Researchers may have particular target groups in mind but they do not control the sample selection mechanism. For example, students leaving a particular building on campus may be approached, or individuals may volunteer to participate in response to invitations that do not target them specifically, but a larger group to which they may belong. Also called &quot;convenience&quot; or &quot;opportunity&quot; sampling.</skos:definition>
@@ -543,9 +543,9 @@
       <skos:prefLabel xml:lang="sv">Icke-sannolikhetsurval: tillg&#xe4;nglighetsurval</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Urvalet g&#xf6;rs utifr&#xe5;n elementens (relativa) l&#xe4;ttillg&#xe4;nglighet. De kan vara l&#xe4;tta att f&#xe5; tag i eller kan sj&#xe4;lva ha valt att delta i studien (sj&#xe4;lvurval). Forskare kan avse att inkludera vissa specifika m&#xe5;lgrupper men kontrollerar inte urvalsmekanismerna. Exempel: studenter som g&#xe5;r ut fr&#xe5;n en viss byggnad p&#xe5; universitetsomr&#xe5;det kontaktas; personer kan erbjuda sig frivilligt att delta efter att ha tagit del av en inbjudan som inte riktat sig specifikt till dem, utan till en st&#xf6;rre grupp som de kanske tillh&#xf6;r. Kallas &#xe4;ven f&#xf6;r &quot;bekv&#xe4;mlighetsurval&quot; eller &quot;m&#xf6;jlighetsurval&quot;.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Nonprobability.Purposive">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Nonprobability.Purposive">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/"/>
       <skos:notation>Nonprobability.Purposive</skos:notation>
       <skos:prefLabel xml:lang="en">Non-probability: Purposive</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Sample units are specifically identified, selected and contacted for the information they can provide on the researched topic. Selection is based on different characteristics of the independent and/or dependent variables under study, and relies on the researchers&apos; judgement. The study authors, or persons authorized by them have control over the sample selection mechanism and the universe is defined in terms of the selection criteria. Also called &quot;judgement&quot; sampling. For example, a medical researcher may intentionally select individuals who are similar in most respects, except on the outcome of the research topic, which can be a specific disease. Some types of purposive sampling are typical/deviant case, homogeneous/maximum variation, expert, or critical case sampling.</skos:definition>
@@ -580,9 +580,9 @@
       <skos:prefLabel xml:lang="sv">Icke-sannolikhetsurval: syftesurval</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Elementen i samplet identifieras, v&#xe4;ljs ut och kontaktas s&#xe4;rskilt f&#xf6;r den information som de kan erbjuda r&#xf6;rande forsknings&#xe4;mnet. Urvalet sker utifr&#xe5;n olika egenskaper hos de beroende och/eller oberoende variablerna som studeras, och beror p&#xe5; forskarnas bed&#xf6;mning. Studiens f&#xf6;rfattare eller personer som har utsetts av dem kontrollerar urvalsmekanismen och m&#xe5;lpopulationen definieras utifr&#xe5;n urvalskriterierna. Kallas &#xe4;ven f&#xf6;r &quot;bed&#xf6;mningsurval&quot;. Exempel: en forskare i medicin kan avsiktligt v&#xe4;lja ut individer som &#xe4;r v&#xe4;ldigt lika, med undantag f&#xf6;r f&#xf6;rloppet av en viss sjukdom. Exempel p&#xe5; syftesurval inkluderar typiska/avvikande fall, homogen/maximal variation, experter och kritiska fall.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Nonprobability.Quota">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Nonprobability.Quota">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/"/>
       <skos:notation>Nonprobability.Quota</skos:notation>
       <skos:prefLabel xml:lang="en">Non-probability: Quota</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The target population is subdivided into separate and mutually exclusive segments according to some predefined quotation criteria. The distribution of the quotation criteria (gender/age/ethnicity ratio, or other characteristics, like religion, education, etc.) is intended to reflect the real structure of the target population or the structure of the desired study population. Non-probability samples are then drawn from each segment until a specific number of units has been reached. For example, if the target population consists of 45 percent females and 55 percent males, a proportional quota sample will have the same gender percentages, while in a non-proportional quota sample the percentages will be different, based on some study-related consideration (for instance, the need to oversample for certain under-represented segments of the population).</skos:definition>
@@ -617,9 +617,9 @@
       <skos:prefLabel xml:lang="sv">Icke-sannolikhetsurval: kvoturval</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">M&#xe5;lpopulationen &#xe4;r uppdelad i flera separata segment som utesluter varandra enligt f&#xf6;rdefinierade kvoteringskriterier. F&#xf6;rdelningen av kvoteringskriterierna (k&#xf6;n/&#xe5;lder/etnicitet-f&#xf6;rh&#xe5;llande eller andra egenskaper, som religion, utbildning m.m.) avser att spegla strukturen i den &#xf6;nskade m&#xe5;lpopulationen f&#xf6;r studien. Icke-sannolikhetsurval g&#xf6;rs sedan fr&#xe5;n varje segment tills ett f&#xf6;rutbest&#xe4;mt antal enheter har inkluderats. Exempel: om m&#xe5;lpopulationen best&#xe5;r av 45 % kvinnor och 55 % m&#xe4;n s&#xe5; har ett proportionerligt kvoturval samma k&#xf6;nsf&#xf6;rdelning men ett icke-proportionerligt kvoturval har en annan kvot baserad p&#xe5; n&#xe5;gon f&#xf6;r studien relevant faktor (t.ex. behovet att &#xf6;verinkludera vissa underrepresenterade segment av populationen).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Nonprobability.RespondentAssisted">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Nonprobability.RespondentAssisted">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/"/>
       <skos:notation>Nonprobability.RespondentAssisted</skos:notation>
       <skos:prefLabel xml:lang="en">Non-probability: Respondent-assisted 	</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Sample units are identified from a target population with the assistance of units already selected (adapted from &quot;Public Health Research Methods&quot;, ed. Greg Guest, Emily E. Namey, 2014). A typical case is snowball sampling, in which the researcher identifies a group of units that matches a particular criterion of eligibility. The latter are asked to recruit other members of the same population that fulfil the same criterion of eligibility (sampling of specific populations like migrants, etc.).</skos:definition>
@@ -654,9 +654,9 @@
       <skos:prefLabel xml:lang="sv">Icke-sannolikhetsurval: respondent-assisterat urval</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Ytterligare element i samplet identifieras i m&#xe5;lpopulationen med hj&#xe4;lp av redan valda element (bearbetad fr&#xe5;n &quot;Public Health Research Methods&quot;, red. Greg Guest, Emily E. Namey, 2014). En typisk variant &#xe4;r sn&#xf6;bollssampling, d&#xe4;r forskaren identifierar en grupp element som st&#xe4;mmer &#xf6;verens med ett s&#xe4;rskilt urvalskriterium. Dessa ombeds att rekrytera andra medlemmar i samma population som uppfyller samma urvalskriterium (sampling av s&#xe4;rskilda populationer som t.ex. invandrare).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#MixedProbabilityNonprobability">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#MixedProbabilityNonprobability">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/"/>
       <skos:notation>MixedProbabilityNonprobability</skos:notation>
       <skos:prefLabel xml:lang="en">Mixed probability and non-probability</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Sample design that combines probability and non-probability sampling within the same sampling process. Different types of sampling may be used at different stages of creating the sample. For example, for a sample of minority students in a city, schools are randomly selected in the first stage. Then, a quota sample of students is selected within each school in the second stage. If separate samples are drawn from the same target population using different sampling methods, the type of sampling procedure used for each sample should be classified separately.</skos:definition>
@@ -691,9 +691,9 @@
       <skos:prefLabel xml:lang="sv">Blandat sannolikhets- och icke-sannolikhetsurval</skos:prefLabel>
 	  <skos:definition  xml:lang="sv">Urvalsmetod som kombinerar sannolikhets- och icke-sannolikhetsurval f&#xf6;r samma m&#xe5;lpopulation. De tv&#xe5; urvalsmetoderna kan kombineras p&#xe5; samma urvalsstadium eller s&#xe5; kan olika urvalsmetoder anv&#xe4;ndas vid olika steg i urvalsprocessen. Exempel: f&#xf6;r en studie av religi&#xf6;sa minoriteter skulle man kunna anv&#xe4;nda ett stratifierat sannolikhetsurval av minoritetsmedlemmar och ett urval med respondenthj&#xe4;lp samtidigt. Eller s&#xe5; skulle man kunna anv&#xe4;nda ett flerfasurval men med ett kvoturval i sista fasen.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1#Other">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/#Other">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/1.1/"/>
       <skos:notation>Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Use if the sampling procedure is known, but not found in the list.</skos:definition>

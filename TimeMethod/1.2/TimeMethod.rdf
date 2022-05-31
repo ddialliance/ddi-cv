@@ -4,7 +4,7 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
           xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod"/>
       <skos:notation>TimeMethod</skos:notation>
@@ -41,15 +41,15 @@
       <owl:versionInfo>1.2</owl:versionInfo>
       <dcterms:license rdf:resource="Creative Commons Attribution 4.0 International"/>
       <dcterms:rights>Copyright ©DDI Alliance 2019</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e124"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e754"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e1067"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e1171"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e1274"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e124"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e754"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e1067"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e1171"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e1274"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e124">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e124">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/"/>
       <skos:notation>Longitudinal</skos:notation>
       <skos:prefLabel xml:lang="en">Longitudinal</skos:prefLabel>
       <skos:definition xml:lang="en">Data collected repeatedly over time to allow studying change in a population. At least some of the questions or modules are repeated over waves. Use the broad term when none of the subterms is suitable.</skos:definition>
@@ -81,13 +81,13 @@
       <skos:definition xml:lang="sr">Longitudinalni podaci predstavljaju podatke u vidu ponovljenih merenja koji su prikupljeni na jedinkama posmatrane populacije (ili češće na uzorku iz populacije).Potrebno je da se barem neka pitanja ili moduli ponavljaju u svakom talasu istraživanja. Koristite širi pojam kada nijedan od pododgovora nije pogodan.</skos:definition>
       <skos:prefLabel xml:lang="sv">Longitudinell</skos:prefLabel>
       <skos:definition xml:lang="sv">Data samlas in upprepade gånger över tid så att det går att studera förändringar i populationen. Åtminstone en del frågor eller moduler upprepas i vågor. Använd den bredare termen när ingen av de mer precisa termerna passar.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e234"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e337"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e440"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e234"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e337"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e440"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e234">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e234">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/"/>
       <skos:notation>Longitudinal.CohortEventBased</skos:notation>
       <skos:prefLabel xml:lang="en">Longitudinal: Cohort/Event-based</skos:prefLabel>
       <skos:definition xml:lang="en">Data collected over time from the same cohort of respondents. The individuals in the cohort are connected in some way or have shared some significant experience within a given period. In some cases, the samples may differ between waves but are drawn from the same cohort. Examples: birth year, disease (clinical trials), common problem (intervention studies), education, employment, family formation, participation in an event.</skos:definition>
@@ -119,11 +119,11 @@
       <skos:definition xml:lang="sr">Podaci prikupljeni tokom vremena od iste grupe ispitanika. Pojedinci u kohorti povezani su na neki način ili su podelili neko značajno iskustvo u datom periodu. U nekim slučajevima se uzorci mogu razlikovati između talasa, ali uzimaju se iz iste grupe. Primeri: godina rođenja, bolest (klinička ispitivanja), uobičajeni problem (intervencione studije), obrazovanje, zaposlenje, formiranje porodice, učešće u nekom događaju.</skos:definition>
       <skos:prefLabel xml:lang="sv">Longitudinell: Kohort/Händelsebaserad</skos:prefLabel>
       <skos:definition xml:lang="sv">Data samlas in över tid från samma kohort med respondenter. Individerna i kohorten har någon koppling till varandra eller har delat någon viktig upplevelse under en viss tidsperiod. I vissa fall kan urvalen skilja sig mellan vågor men tas från samma kohort. Exempel: födelseår, sjukdom (kliniska studier), gemensamt problem (interventionsstudie), utbildning, anställning, familjekonstellation, deltagande i en händelse.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e124"/>
+      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e124"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e337">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e337">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/"/>
       <skos:notation>Longitudinal.TrendRepeatedCrossSection</skos:notation>
       <skos:prefLabel xml:lang="en">Longitudinal: Trend/Repeated cross-section</skos:prefLabel>
       <skos:definition xml:lang="en">Data collected from different samples or different groups of people from the same population at several points in time, using at least partly the same set of questions/variables. Conclusions are drawn for the population. Examples: European Social Survey (ESS), national longitudinal crime surveys.</skos:definition>
@@ -155,11 +155,11 @@
       <skos:definition xml:lang="sr">Podaci prikupljeni od različitih uzoraka ili različitih grupa ljudi iz iste populacije u više definisanih vremenskih trenutaka, koristeći barem delimično isti skup pitanja / promenljivih. Za stanovništvo se izvode zaključci. Primeri: European Social Survey (ESS), nacionalna longitudinalna istraživanja o kriminalu.</skos:definition>
       <skos:prefLabel xml:lang="sv">Longitudinell: Trend/Upprepat tvärsnitt</skos:prefLabel>
       <skos:definition xml:lang="sv">Data samlas in från olika urval eller olika grupper av människor från samma population vid flera olika tillfällen, med åtminstone delvis samma uppsättning frågor/variabler. Slutsatser dras om populationen. Exempel: European Social Survey (ESS), nationella longitudinella brottslighetssurveyer.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e124"/>
+      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e124"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e440">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e440">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/"/>
       <skos:notation>Longitudinal.Panel</skos:notation>
       <skos:prefLabel xml:lang="en">Longitudinal: Panel</skos:prefLabel>
       <skos:definition xml:lang="en">Data collected over time from, or about, the same sample of respondents. Differs from cohort/event-based data in that the selection of respondents is not based on their being connected in some way or having shared some significant experience.</skos:definition>
@@ -191,13 +191,13 @@
       <skos:definition xml:lang="sr">Podaci prikupljeni tokom vremena od istog ili približno istog uzorka ispitanika. Od kohortnih ili podataka zasnovanih na događajima razlikuje se po tome što se izbor ispitanika ne zasniva na tome da li su na neki način povezani ili dele neko značajno iskustvo.</skos:definition>
       <skos:prefLabel xml:lang="sv">Longitudinell: Panel</skos:prefLabel>
       <skos:definition xml:lang="sv">Data samlas in över tid från, eller om, samma urval av respondenter. Skiljer sig från kohort-/händelsebaserade data genom att urvalet av respondenter inte utgår från att de skulle ha någon koppling till varandra eller ha delat en viktig upplevelse.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e548"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e651"/>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e124"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e548"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e651"/>
+      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e124"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e548">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e548">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/"/>
       <skos:notation>Longitudinal.Panel.Continuous</skos:notation>
       <skos:prefLabel xml:lang="en">Longitudinal: Panel: Continuous</skos:prefLabel>
       <skos:definition xml:lang="en">Data collected from a panel of respondents on a regular basis.</skos:definition>
@@ -229,11 +229,11 @@
       <skos:definition xml:lang="sr">Podaci koji se redovno prikupljaju od panela ispitanika.</skos:definition>
       <skos:prefLabel xml:lang="sv">Longitudinell: Panel: Kontinuerlig</skos:prefLabel>
       <skos:definition xml:lang="sv">Data samlas in från en panel med respondenter på regelbunden basis.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e440"/>
+      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e440"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e651">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e651">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/"/>
       <skos:notation>Longitudinal.Panel.Interval</skos:notation>
       <skos:prefLabel xml:lang="en">Longitudinal: Panel: Interval</skos:prefLabel>
       <skos:definition xml:lang="en">Data collected from a panel of respondents only when information is needed.</skos:definition>
@@ -265,11 +265,11 @@
       <skos:definition xml:lang="sr">Podaci prikupljeni od panela ispitanika samo onda kada su potrebne informacije.</skos:definition>
       <skos:prefLabel xml:lang="sv">Longitudinell: Panel: Intervall</skos:prefLabel>
       <skos:definition xml:lang="sv">Data samlas in från en panel med respondenter endast när informationen behövs.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e440"/>
+      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e440"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e754">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e754">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/"/>
       <skos:notation>TimeSeries</skos:notation>
       <skos:prefLabel xml:lang="en">Time series</skos:prefLabel>
       <skos:definition xml:lang="en">Data collected repeatedly over time to study change in observations. These are typically "objective" measurements of phenomena that can be observed externally, as opposed to attitudes/opinions or feelings. Examples may include economic/financial indicators, natural/meteorological phenomena, vital statistics, etc.</skos:definition>
@@ -301,12 +301,12 @@
       <skos:definition xml:lang="sr">Podaci prikupljeni u više navrata tokom vremena, kako bi se proučile promene u opservacijama. To su obično "objektivna" merenja pojava koja se mogu posmatrati spolja, za razliku od stavova / mišljenja ili osećanja. Primeri mogu obuhvatati ekonomske / finansijske pokazatelje, prirodne / meteorološke pojave, vitalnu statistiku, itd.</skos:definition>
       <skos:prefLabel xml:lang="sv">Tidsserie</skos:prefLabel>
       <skos:definition xml:lang="sv">Data samlas in upprepade gånger över tid så att det går att studera förändringar i observationerna. Dessa är generellt "objektiva" mätningar av externa, observerbara fenomen, i motsats till attityder/åsikter eller känslor. Exempel kan inkludera ekonomiska/finansiella indikatorer, naturliga/meteorologiska fenomen, befolkningsstatistik m.m.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e861"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e964"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e861"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e964"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e861">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e861">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/"/>
       <skos:notation>TimeSeries.Continuous</skos:notation>
       <skos:prefLabel xml:lang="en">Time series: Continuous</skos:prefLabel>
       <skos:definition xml:lang="en">Measurements are taken at every instant in time. Examples: lie detectors, electrocardiograms, etc.</skos:definition>
@@ -338,11 +338,11 @@
       <skos:definition xml:lang="sr">Merenja se vrše u svakom trenutku u vremenu. Primeri: detektori laži, elektrokardiogrami itd.</skos:definition>
       <skos:prefLabel xml:lang="sv">Tidsserie: Kontinuerlig</skos:prefLabel>
       <skos:definition xml:lang="sv">Mätvärden tas vid varje given tidpunkt. Exempel: lögndetektorer, elektrokardiogram (EKG) m.m.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e754"/>
+      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e754"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e964">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e964">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/"/>
       <skos:notation>TimeSeries.Discrete</skos:notation>
       <skos:prefLabel xml:lang="en">Time series: Discrete</skos:prefLabel>
       <skos:definition xml:lang="en">Measurements are taken at (usually regularly) spaced intervals. Examples: macroeconomics (weekly share prices, monthly profits, sales); meteorology (hourly temperature); measurements of individuals (blood pressure, weight, height); sociology (crime figures, employment figures), etc.</skos:definition>
@@ -374,11 +374,11 @@
       <skos:definition xml:lang="sr">Merenja se vrše u razmacima (obično redovnim). Primeri: makroekonomija (nedeljne cene akcija, mesečna dobit, prodaja); meteorologija (temperatura svakog sata); merenja osoba (krvni pritisak, težina, visina); sociologija (podaci o kriminalu, podaci o zaposlenosti) itd.</skos:definition>
       <skos:prefLabel xml:lang="sv">Tidsserie: Diskret</skos:prefLabel>
       <skos:definition xml:lang="sv">Mätvärden tas med (vanligtvis regelbundna) intervall. Exempel: makroekonomi (aktiekurser varje vecka, månatliga vinster, försäljningssiffror); meteorologi (temperaturen varje timme); mätningar på individer (blodtryck, vikt, längd); sociologi (brottsstatistik, arbetslöshetstal) m.m.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e754"/>
+      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e754"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e1067">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e1067">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/"/>
       <skos:notation>CrossSection</skos:notation>
       <skos:prefLabel xml:lang="en">Cross-section</skos:prefLabel>
       <skos:definition xml:lang="en">Data collected by observing subjects within the study period, without regard to changes over time. May include more than one collection event. Analysis of cross-sectional data often consists in comparing the differences and similarities among subjects.</skos:definition>
@@ -411,9 +411,9 @@
       <skos:prefLabel xml:lang="sv">Tvärsnitt</skos:prefLabel>
       <skos:definition xml:lang="sv">Data samlas in genom att observera subjekten under studieperioden utan att ta hänsyn till förändring över tid. Kan inkludera mer än ett insamlingstillfälle. Analys av tvärsnittsdata består ofta i att jämföra likheter och skillnader mellan subjekten.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e1171">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e1171">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/"/>
       <skos:notation>CrossSectionAdHocFollowUp</skos:notation>
       <skos:prefLabel xml:lang="en">Cross-section ad-hoc follow-up</skos:prefLabel>
       <skos:definition xml:lang="en">Data collected at one point in time to complete information collected in a previous cross-sectional study; the decision to collect follow-up data was not included in the original study design.</skos:definition>
@@ -446,9 +446,9 @@
       <skos:prefLabel xml:lang="sv">Tvärsnitt ad hoc uppföljning</skos:prefLabel>
       <skos:definition xml:lang="sv">Data samlas in vid ett tillfälle för att komplettera information som har samlats in vid en tidigare tvärsnittsstudie; beslutet att samla in uppföljningsdata var inte en del av den ursprungliga studiedesignen.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d16e1274">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/d14e1274">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2/"/>
       <skos:notation>Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use if the time method is known, but not found in the list.</skos:definition>

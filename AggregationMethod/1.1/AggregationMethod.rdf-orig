@@ -4,7 +4,7 @@
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:dcterms="http://purl.org/dc/terms/"
 >
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod"/>
       <skos:notation>AggregationMethod</skos:notation>
@@ -19,21 +19,21 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</dcterms:description>
       <owl:versionInfo>1.1</owl:versionInfo>
       <dcterms:license rdf:resource="Creative Commons Attribution 4.0 International"/>
       <dcterms:rights>Copyright &#xa9;DDI Alliance 2019</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#Sum"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#ArithmeticMean"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#Count"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#Mode"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#Median"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#Maximum"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#Minimum"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#Percent"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#CumulativePercent"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#PercentileRank"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#Other"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#Sum"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#ArithmeticMean"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#Count"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#Mode"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#Median"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#Maximum"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#Minimum"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#Percent"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#CumulativePercent"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#PercentileRank"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#Other"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#Sum">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#Sum">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/"/>
       <skos:notation>Sum</skos:notation>
       <skos:prefLabel xml:lang="en">Sum</skos:prefLabel>
 	  <skos:definition  xml:lang="en">A value obtained as a result of adding two or more numbers (items/amounts).</skos:definition>
@@ -42,9 +42,9 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</dcterms:description>
       <skos:prefLabel xml:lang="no">Sum</skos:prefLabel>
 	  <skos:definition  xml:lang="no">En verdi som er resultatet av &#xe5; legge til to eller flere tall (elementer/mengder).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#ArithmeticMean">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#ArithmeticMean">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/"/>
       <skos:notation>ArithmeticMean</skos:notation>
       <skos:prefLabel xml:lang="en">Arithmetic mean</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Mathematical average of a set of values. The mean is calculated by adding up two or more values and dividing the total by their number. In social/political science, it is usually the sum of the measurements divided by the number of subjects, or cases.</skos:definition>
@@ -53,9 +53,9 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</dcterms:description>
       <skos:prefLabel xml:lang="no">Aritmetisk gjennomsnitt</skos:prefLabel>
 	  <skos:definition  xml:lang="no">Det matematiske gjennomsnittet til et sett av verdier. Gjennomsnittet beregnes ved &#xe5; addere to eller flere verdier og dele summen p&#xe5; antallet verdier. I samfunnsvitenskapen er det som regel summen av m&#xe5;lingene delt p&#xe5; antall subjekter eller tilfeller.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#Count">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#Count">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/"/>
       <skos:notation>Count</skos:notation>
       <skos:prefLabel xml:lang="en">Count</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Total number of units in a group of items.</skos:definition>
@@ -64,9 +64,9 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</dcterms:description>
       <skos:prefLabel xml:lang="no">Antall</skos:prefLabel>
 	  <skos:definition  xml:lang="no">Samlet antall enhenter i en gruppe av elementer</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#Mode">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#Mode">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/"/>
       <skos:notation>Mode</skos:notation>
       <skos:prefLabel xml:lang="en">Mode</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The value that appears most often in a set of values.</skos:definition>
@@ -75,9 +75,9 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</dcterms:description>
       <skos:prefLabel xml:lang="no">Modus</skos:prefLabel>
 	  <skos:definition  xml:lang="no">Den verdien som forekommer mest i et sett av verdier.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#Median">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#Median">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/"/>
       <skos:notation>Median</skos:notation>
       <skos:prefLabel xml:lang="en">Median</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The middle value in a series of values arranged sequentially from smallest to largest.</skos:definition>
@@ -86,9 +86,9 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</dcterms:description>
       <skos:prefLabel xml:lang="no">Median</skos:prefLabel>
 	  <skos:definition  xml:lang="no">Midtverdien i en serie av verdier som er arrangert i rekkef&#xf8;lge fra minst til st&#xf8;rst.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#Maximum">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#Maximum">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/"/>
       <skos:notation>Maximum</skos:notation>
       <skos:prefLabel xml:lang="en">Maximum</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The highest value attained or recorded.</skos:definition>
@@ -97,9 +97,9 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</dcterms:description>
       <skos:prefLabel xml:lang="no">Maksimum</skos:prefLabel>
 	  <skos:definition  xml:lang="no">Den h&#xf8;yeste oppn&#xe5;dde eller registrerte verdi.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#Minimum">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#Minimum">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/"/>
       <skos:notation>Minimum</skos:notation>
       <skos:prefLabel xml:lang="en">Minimum</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The lowest value attained or recorded.</skos:definition>
@@ -108,9 +108,9 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</dcterms:description>
       <skos:prefLabel xml:lang="no">Minimum</skos:prefLabel>
 	  <skos:definition  xml:lang="no">Den laveste oppn&#xe5;dde eller registrerte verdi.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#Percent">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#Percent">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/"/>
       <skos:notation>Percent</skos:notation>
       <skos:prefLabel xml:lang="en">Percent</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The number of parts out of 100. In mathematics, a percentage is a number of ratio expressed as a fraction of 100. Percentages are used to express how large one quantity is relative to another quantity.</skos:definition>
@@ -119,9 +119,9 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</dcterms:description>
       <skos:prefLabel xml:lang="no">Prosent</skos:prefLabel>
 	  <skos:definition  xml:lang="no">Antall deler av 100. I matematikk er en prosentdel et forholdstall som er uttrykket som en andel av 100. Prosentdel er brukt for &#xe5; uttrykke hvor stor en mengde er i forhold til en annen mengde.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#CumulativePercent">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#CumulativePercent">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/"/>
       <skos:notation>CumulativePercent</skos:notation>
       <skos:prefLabel xml:lang="en">Cumulative percent</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The total of a frequency and all frequencies below it in a frequency distribution; the &quot;running total&quot; of frequencies [the maximum value is 100%].</skos:definition>
@@ -130,9 +130,9 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</dcterms:description>
       <skos:prefLabel xml:lang="no">Kumulativ prosent</skos:prefLabel>
 	  <skos:definition  xml:lang="no">Summen av en frekvens og alle frekvenser under den i en frekvensfordeling; den &quot;l&#xf8;pende sum&quot; av frekvenser [den maksimale verdien er 100%].</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#PercentileRank">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#PercentileRank">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/"/>
       <skos:notation>PercentileRank</skos:notation>
       <skos:prefLabel xml:lang="en">Percentile rank</skos:prefLabel>
 	  <skos:definition  xml:lang="en">The percentile rank of a item is the percentage of items in its frequency distribution which are lower [cannot reach 100%].</skos:definition>
@@ -141,9 +141,9 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</dcterms:description>
       <skos:prefLabel xml:lang="no">Persentil</skos:prefLabel>
 	  <skos:definition  xml:lang="no">Persentil til en enhet er den prosentdelen av enheter i frekvensfordelingen som er lavere [kan ikke n&#xe5; 100%].</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1#Other">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/#Other">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1/"/>
       <skos:notation>Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
 	  <skos:definition  xml:lang="en">Use when the aggregation method is known, but not found in the list.</skos:definition>

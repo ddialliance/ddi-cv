@@ -4,7 +4,7 @@
           xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
           xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument"/>
       <skos:notation>TypeOfInstrument</skos:notation>
@@ -45,7 +45,7 @@
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/d8e110">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>Questionnaire</skos:notation>
       <skos:prefLabel xml:lang="en">Questionnaire</skos:prefLabel>
       <skos:definition xml:lang="en">Set of pre-determined questions presented to study participants.</skos:definition>
@@ -77,7 +77,7 @@
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/d8e201">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>Questionnaire.Structured</skos:notation>
       <skos:prefLabel xml:lang="en">Structured questionnaire</skos:prefLabel>
       <skos:definition xml:lang="en">Set of pre-determined questions, a great majority of which are closed-ended, although there may be a small proportion of open-ended questions.</skos:definition>
@@ -107,7 +107,7 @@
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/d8e285">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>Questionnaire.Semistructured</skos:notation>
       <skos:prefLabel xml:lang="en">Semi-structured questionnaire</skos:prefLabel>
       <skos:definition xml:lang="en">Set of pre-determined questions, a significant proportion of which are open-ended (roughly one third to two thirds), and the rest are closed-ended.</skos:definition>
@@ -137,7 +137,7 @@
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/d8e369">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>Questionnaire.Unstructured</skos:notation>
       <skos:prefLabel xml:lang="en">Unstructured questionnaire</skos:prefLabel>
       <skos:definition xml:lang="en">Set of pre-determined questions, a great majority of which are open-ended, although there may be a small proportion of close-ended questions.</skos:definition>
@@ -167,7 +167,7 @@
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/d8e454">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>InterviewSchemeAndThemes</skos:notation>
       <skos:prefLabel xml:lang="en">Interview scheme and/or themes</skos:prefLabel>
       <skos:definition xml:lang="en">Themes, topics, and/or questions used in an interview. Can vary between loosely defined themes to more exactly formulated questions. There is more flexibility than in an unstructured questionnaire regarding which questions are asked of each participant and how they are conveyed.</skos:definition>
@@ -196,7 +196,7 @@
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/d8e538">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>DataCollectionGuidelines</skos:notation>
       <skos:prefLabel xml:lang="en">Data collection guidelines</skos:prefLabel>
       <skos:definition xml:lang="en">Directions or instructions regarding the methods and procedures to be used for collecting the data. Use a more specific term if possible.</skos:definition>
@@ -229,7 +229,7 @@
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/d8e631">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>DataCollectionGuidelines.ObservationGuide</skos:notation>
       <skos:prefLabel xml:lang="en">Data collection guidelines: Observation guide</skos:prefLabel>
       <skos:definition xml:lang="en">Guidelines regarding what will be observed. Depending on the study design, an observation guide can be more or less structured, ranging from exact specifications and scales to loosely formulated ideas.</skos:definition>
@@ -259,7 +259,7 @@
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/d8e715">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>DataCollectionGuidelines.DiscussionGuide</skos:notation>
       <skos:prefLabel xml:lang="en">Data collection guidelines: Discussion guide</skos:prefLabel>
       <skos:definition xml:lang="en">Guidelines for a group discussion. Depending on the study design, a discussion guide can be more or less structured, ranging from exactly formulated questions to general ideas on what to discuss. For example, a list of topics to be discussed in a focus group, or themes formulated by a researcher to direct a blog discussion, etc.</skos:definition>
@@ -289,7 +289,7 @@
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/d8e799">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>DataCollectionGuidelines.SelfAdministeredWritingsGuide</skos:notation>
       <skos:prefLabel xml:lang="en">Data collection guidelines: Self-administered writings guide</skos:prefLabel>
       <skos:definition xml:lang="en">Guidelines regarding the desired, or expected content of self-written personal accounts or narratives from potential participants. The instructions can be supplied as part of the writing invitation or separately. For example, an invitation asking people suffering from a specific disease or disability to describe how it affects their feelings, social relations, and everyday life; or a writing invitation asking people to keep a diary of books read during a period of six months and the thoughts provoked by the books.</skos:definition>
@@ -319,7 +319,7 @@
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/d8e883">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>DataCollectionGuidelines.SecondaryDataCollectionGuide</skos:notation>
       <skos:prefLabel xml:lang="en">Data collection guidelines: Secondary data collection guide</skos:prefLabel>
       <skos:definition xml:lang="en">Guidelines specifying what data are to be collected from previously existing sources originally created for other purposes. For example, directions on how to select and code data from qualitative sources to create a quantitative dataset.</skos:definition>
@@ -349,7 +349,7 @@
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/d8e968">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>ParticipantTasks</skos:notation>
       <skos:prefLabel xml:lang="en">Participant tasks</skos:prefLabel>
       <skos:definition xml:lang="en">A description of tasks that participants are asked to carry out as a part of the data collection process. For example, marking places on a map, taking photographs, telling a fairy tale, etc.</skos:definition>
@@ -378,7 +378,7 @@
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/d8e1052">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>TechnicalInstruments</skos:notation>
       <skos:prefLabel xml:lang="en">Technical instrument(s)</skos:prefLabel>
       <skos:definition xml:lang="en">Instruments used to collect objective data like measurements, images, etc. For example, chronometers, scales, speedometers, blood pressure monitors, thermometers, x-ray machines, etc.</skos:definition>
@@ -407,7 +407,7 @@
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/d8e1136">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>ProgrammingScript</skos:notation>
       <skos:prefLabel xml:lang="en">Programming script</skos:prefLabel>
       <skos:definition xml:lang="en">Programming script written in a data query language that is used to extract specific data, for instance from online social networks.</skos:definition>
@@ -436,7 +436,7 @@
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/d8e1220">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1/"/>
       <skos:notation>Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use when the type of instrument is known, but not found in the list.</skos:definition>
