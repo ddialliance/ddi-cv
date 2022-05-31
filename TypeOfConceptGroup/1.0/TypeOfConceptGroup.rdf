@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:owl="http://www.w3.org/2002/07/owl#"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+          xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+      <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup"/>
+      <skos:notation>TypeOfConceptGroup</skos:notation>
+      <skos:prefLabel xml:lang="en">Type of Concept Group</skos:prefLabel>
+      <skos:prefLabel xml:lang="no">Type konseptgruppe</skos:prefLabel>
+      <skos:definition xml:lang="en">Specifies the rationale for creating a concept group.</skos:definition>
+      <skos:definition xml:lang="no">Spesifiserer rasjonale for å lage en konseptgruppe.</skos:definition>
+      <owl:versionInfo>1.0</owl:versionInfo>
+      <dcterms:license rdf:resource="Creative Commons Attribution 4.0 International"/>
+      <dcterms:rights>Copyright ©DDI Alliance 2020</dcterms:rights>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0/d56e38"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0/d56e60"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0/d56e82"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0/d56e38">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0"/>
+      <skos:notation>Administrative</skos:notation>
+      <skos:prefLabel xml:lang="en">Administrative</skos:prefLabel>
+      <skos:definition xml:lang="en">A concept group created for administrative purposes, for instance for subsetting or reorganizing data.</skos:definition>
+      <skos:prefLabel xml:lang="no">Administrativ</skos:prefLabel>
+      <skos:definition xml:lang="no">En konseptgruppe som lages for administrative formål, for eksempel for å subsette eller reorganisere data.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0/d56e60">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0"/>
+      <skos:notation>Thematic</skos:notation>
+      <skos:prefLabel xml:lang="en">Thematic</skos:prefLabel>
+      <skos:definition xml:lang="en">A concept group created to bring together concepts reflecting the same general theme, or topic; for example, a group called "Trust" can include trust in institutions, trust in government, as well as interpersonal trust.</skos:definition>
+      <skos:prefLabel xml:lang="no">Tematisk</skos:prefLabel>
+      <skos:definition xml:lang="no">En konseptgruppe som lages for å knytte sammen konsepter som gjenspeiler det samme generelle tema eller emne; for eksempel, en gruppe kalt "Tillit" kan inkludere tillit til institusjoner, tillit til styresmakter, så vel som mellommenneskelige tillit.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0/d56e82">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0"/>
+      <skos:notation>Other</skos:notation>
+      <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
+      <skos:definition xml:lang="en">Use when the type of concept group is known, but not found in the list.</skos:definition>
+      <skos:prefLabel xml:lang="no">Annen</skos:prefLabel>
+      <skos:definition xml:lang="no">Bruk når typen konseptgruppe er kjent, men ikke finnes på listen.</skos:definition>
+   </rdf:Description>
+</rdf:RDF>

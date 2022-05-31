@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+      <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType"/>
+      <skos:notation>LifecycleEventType</skos:notation>
+      <dcterms:title xml:lang="en">Lifecycle Event Type</dcterms:title>
+      <dcterms:description xml:lang="en">Specifies the event happening over the data life cycle that is considered significant enough to document.</dcterms:description>
+      <dcterms:title xml:lang="no">Livssyklus hendelsestype</dcterms:title>
+      <dcterms:description xml:lang="no">Spesifiserer hendelser som skjer i data livssyklusen som anses som signifikante nok til &#xe5; bli dokumentert.</dcterms:description>
+      <owl:versionInfo>1.0</owl:versionInfo>
+      <dcterms:license rdf:resource="Creative Commons Attribution 4.0 International"/>
+      <dcterms:rights>Copyright &#xa9;DDI Alliance 2020</dcterms:rights>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#StudyProposal"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#Funding"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#StudyDesign"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#InstrumentDesign"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#QuestionnaireTranslation"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#QuestionnaireAdaptation"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#InterviewerTraining"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#EthicsReview"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#LegalReview"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#Sampling"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#InstrumentPreTesting"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#PilotStudy"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataCollection"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataCollectionReports"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#MetadataProduction"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#MetadataEditing"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#MetadataTranslation"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#FinalReport"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#Evaluation"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#OriginalRelease"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#Deposit"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#PreservationPackageProduction"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DisseminationPackageProduction"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DisseminationPackageRelease"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataAnalysisReports"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#NewVersionRelease"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#Other"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#StudyProposal">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>StudyProposal</skos:notation>
+      <skos:prefLabel xml:lang="en">Study proposal</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Defining outlines for a new study/data collection, including needs for information and general  research  objectives, as well  as main concepts, study scope and methodology, usually to be presented for approval to funders, partners, or other relevant bodies.</skos:definition>
+      <skos:prefLabel xml:lang="no">Studieforslag</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Definere rammene for en ny studie/datainnsamling, inkluderer behovet for informasjon og de generelle forskningsm&#xe5;lene, samt hovedkonsepter, studieomfang og metodologi, som regel presenteres dette for godkjenning hos finansiere, partnere og andre relevante akt&#xf8;rer.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#Funding">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>Funding</skos:notation>
+      <skos:prefLabel xml:lang="en">Funding</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Decisions to extend financial support for the study/data collection.</skos:definition>
+      <skos:prefLabel xml:lang="no">Finansiering</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Avgj&#xf8;relser om &#xe5; forlenge finansiell st&#xf8;tte for en studie/datainnsamling.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#StudyDesign">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>StudyDesign</skos:notation>
+      <skos:prefLabel xml:lang="en">Study design</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Detailed planning for carrying out the study/data collection: refining concepts and identifying ways to measure them, defining the target population, time dimension, sampling frame and sample selection, data collection methodology, production systems and workflows, etc.</skos:definition>
+      <skos:prefLabel xml:lang="no">Studie design</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Detaljert planlegging for &#xe5; gjennomf&#xf8;re studien/datainnsamlingen: raffinere konsepter og identifisere m&#xe5;ter &#xe5; m&#xe5;le de, definere m&#xe5;l populasjonen, tidsdimensjonen, utvalgsrammeverket og utvalgstrekning, datainnsamlings metodologi, produksjonssystemer og arbeidsflyt, etc.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#InstrumentDesign">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>InstrumentDesign</skos:notation>
+      <skos:prefLabel xml:lang="en">Instrument design</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Building the data collection instrument, for example, the questionnaire or interview questions, focus group topics, observation forms for an observational design, standardized record review, independent and dependent variables for an experimental design, etc.</skos:definition>
+      <skos:prefLabel xml:lang="no">Instrumentdesign</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Utvikle datainnsamlingsinstrumentet, for eksempel, sp&#xf8;rreskjemaet eller intervjusp&#xf8;rsm&#xe5;lene, fokusgruppe emner, observasjonsskjema for observasjonsdesign, standardisert journalgjennomgang, uavhengig og avhengig variabler for eksperimentelt design.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#QuestionnaireTranslation">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>QuestionnaireTranslation</skos:notation>
+      <skos:prefLabel xml:lang="en">Questionnaire translation</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Translating the source questionnaire into other languages, for example, in cross-national surveys or in national surveys conducted in multilingual countries.</skos:definition>
+      <skos:prefLabel xml:lang="no">Sp&#xf8;rreskjema oversettelse</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Oversette kildesp&#xf8;rreskjemaet til andre spr&#xe5;k, for eksempel, i tverrnasjonale sp&#xf8;rreskjema eller i nasjonale sp&#xf8;rreskjema gjennomf&#xf8;rt i flerspr&#xe5;klige land.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#QuestionnaireAdaptation">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>QuestionnaireAdaptation</skos:notation>
+      <skos:prefLabel xml:lang="en">Questionnaire adaptation</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Changing the wording of questions to reflect cultural or institutional differences if same-language questionnaires are administered in different regions or countries.</skos:definition>
+      <skos:prefLabel xml:lang="no">Sp&#xf8;rreskjema tilpasning</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Endring av spr&#xe5;kformulering i sp&#xf8;rsm&#xe5;l for &#xe5; belyse kulturelle eller institusjonelle forskjeller, hvis sp&#xf8;rreskjema i samme spr&#xe5;k utf&#xf8;res i forskjellige regioner eller land.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#InterviewerTraining">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>InterviewerTraining</skos:notation>
+      <skos:prefLabel xml:lang="en">Interviewer training</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Training the interviewers that administer questionnaires in survey-type studies.</skos:definition>
+      <skos:prefLabel xml:lang="no">Intervjueroppl&#xe6;ring</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Oppl&#xe6;ring av intervjuere som administrerer sp&#xf8;rreskjemaet i sp&#xf8;rreskjemaunders&#xf8;kelser.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#EthicsReview">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>EthicsReview</skos:notation>
+      <skos:prefLabel xml:lang="en">Ethics review</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Review of the study/data collection to ensure that it complies with statutory ethics requirements or regulations, including verification of the informed consent statement, performed by a qualified body, like a Research Ethics Committee, or Institutional Review Board.</skos:definition>
+      <skos:prefLabel xml:lang="no">Etisk godkjenning</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Gjennomgang av studien/datainnsamlingen for &#xe5; forsikre at den samsvarer med lovp&#xe5;lagte etiske krav eller forskrifter, inkludert verifisering av informert samtykke, gjennomf&#xf8;rt av et godkjent organ, som en forskningsetisk komit&#xe9; eller institusjonell vurderingsnemd.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#LegalReview">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>LegalReview</skos:notation>
+      <skos:prefLabel xml:lang="en">Legal review</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Review of the study/data collection in terms of compliance with the law  (legislation concerning confidentiality, the protection of children, etc.).</skos:definition>
+      <skos:prefLabel xml:lang="no">Lovlig godkjenning</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Gjennomgang av studien/datainnsamling i forhold til samsvar med loven (lovgivning som omhandler konfidensialitet, beskyttelse av barn, etc.).</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#Sampling">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>Sampling</skos:notation>
+      <skos:prefLabel xml:lang="en">Sampling</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Selecting the sample for the study/data collection.</skos:definition>
+      <skos:prefLabel xml:lang="no">Utvalgstrekking</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Velge utvalget for studien/datainnsamlingen.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#InstrumentPreTesting">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>InstrumentPreTesting</skos:notation>
+      <skos:prefLabel xml:lang="en">Instrument pre-testing</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Small-scale application of the data collection instrument designed to identify potential problems before using it for the entire study.</skos:definition>
+      <skos:prefLabel xml:lang="no">Instrumenttest</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Sm&#xe5;skala anvendelse av datainnsamling instrumentet med hensikt &#xe5; identifisere potensielle problemer f&#xf8;r en tar det i bruk i fullskala for hele studien.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#PilotStudy">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>PilotStudy</skos:notation>
+      <skos:prefLabel xml:lang="en">Pilot study</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Dress rehearsal of the full project, for example, by administering the questionnaire to a small number of people, then coding and analyzing results, etc.</skos:definition>
+      <skos:prefLabel xml:lang="no">Pilotstudie</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Generalpr&#xf8;ve for hele prosjektet, for eksempel ved &#xe5; gjennomf&#xf8;re datainnsamling via sp&#xf8;rreskjema til et lite antall mennesker, s&#xe5; kode og analysere resultatene, etc.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataCollection">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>DataCollection</skos:notation>
+      <skos:prefLabel xml:lang="en">Data collection</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Setting up, running and finalizing the data collection process, including follow-up procedures, etc.</skos:definition>
+      <skos:prefLabel xml:lang="no">Datainnsamling</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Klargj&#xf8;re, gjennomf&#xf8;re og ferdigstille datainnsamling prosessen, inkludert oppf&#xf8;lging prosedyrer, etc.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataCollectionReports">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>DataCollectionReports</skos:notation>
+      <skos:prefLabel xml:lang="en">Data collection reports</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Reports on designing and conducting the data collection process, including methodological decisions and problems encountered. These may take the form of conference posters or presentations, journal articles or online publications, book chapters, etc.</skos:definition>
+      <skos:prefLabel xml:lang="no">Datainnsamling rapporter</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Rapporter p&#xe5; designet og gjennomf&#xf8;relsen av datainnsamling prosessen, inkludert metodologiske avgj&#xf8;relser og utfordringer som har oppst&#xe5;tt. Disse kan v&#xe6;re konferansepresentasjoner, tidsskriftartikler eller online publikasjoner, bokkapitler, etc.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>DataProcessing</skos:notation>
+      <skos:prefLabel xml:lang="en">Data processing</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Changes, additions or deletions brought to the data at any point in time after collection.</skos:definition>
+      <skos:prefLabel xml:lang="no">Databehandling</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Endringer, tillegg eller sletting gjennomf&#xf8;rt p&#xe5; data p&#xe5; hvilket som helst tidspunkt etter innsamlingen.</skos:definition>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.Coding"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.Classification"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.InterviewTranscriptions"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.Weighting"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.Aggregation"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.CompositeMeasures"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.Derivation"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.DataQualityChecks"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.DataIntegration"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.DisclosureLimitation"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.Imputation"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.Coding">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>DataProcessing.Coding</skos:notation>
+      <skos:prefLabel xml:lang="en">Data processing: Coding</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Converting raw data into machine-readable codes.</skos:definition>
+      <skos:prefLabel xml:lang="no">Databehandling: Koding</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Konvertering av r&#xe5;data til maskinlesbare koder.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.Classification">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>DataProcessing.Classification</skos:notation>
+      <skos:prefLabel xml:lang="en">Data processing: Classification</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Documenting the meaning/substance of coded data.</skos:definition>
+      <skos:prefLabel xml:lang="no">Databehandling: Klassifisering</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Dokumentering av meningen/innholdet av kodede data.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.InterviewTranscriptions">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>DataProcessing.InterviewTranscriptions</skos:notation>
+      <skos:prefLabel xml:lang="en">Data processing: Transcriptions of interviews</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Transferring video- or audio-taped data into written form.</skos:definition>
+      <skos:prefLabel xml:lang="no">Databehandling: Transkibering av intervjuer</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Overf&#xf8;ring av video- eller lydopptak data til skriftlig format.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.Weighting">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>DataProcessing.Weighting</skos:notation>
+      <skos:prefLabel xml:lang="en">Data processing: Weighting</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Calculating weight variables and adding them to the data.</skos:definition>
+      <skos:prefLabel xml:lang="no">Databehandling: Vekting</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Utregning av vektevariabler og legge de til datamaterialet.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.Aggregation">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>DataProcessing.Aggregation</skos:notation>
+      <skos:prefLabel xml:lang="en">Data processing: Aggregation</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Calculating cumulative measures of individual-level data or microdata.</skos:definition>
+      <skos:prefLabel xml:lang="no">Databehandling: Aggregering</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Utregning av kumulative m&#xe5;l p&#xe5; individniv&#xe5; data eller mikrodata.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.CompositeMeasures">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>DataProcessing.CompositeMeasures</skos:notation>
+      <skos:prefLabel xml:lang="en">Data processing: Composite measures</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Calculating scales, indexes, or typologies and adding them to the data.</skos:definition>
+      <skos:prefLabel xml:lang="no">Databehandling: Sammensatte m&#xe5;l</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Utregning av skalaer, indekser eller typologier og legge de til datamaterialet.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.Derivation">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>DataProcessing.Derivation</skos:notation>
+      <skos:prefLabel xml:lang="en">Data processing: Derivation</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Calculating new variables from measured variables, usually by recodes.</skos:definition>
+      <skos:prefLabel xml:lang="no">Databehandling: Avledning</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Utregning av nye variabler fra m&#xe5;lte variabler, som regel gjennom rekoding.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.DataQualityChecks">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>DataProcessing.DataQualityChecks</skos:notation>
+      <skos:prefLabel xml:lang="en">Data processing: Quality checks</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Checks for consistency, undocumented codes, missing data representation, etc.</skos:definition>
+      <skos:prefLabel xml:lang="no">Databehandling: Kvalitetskontroll</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Kontrollere overensstemmelser, udokumenterte koder, missing data representasjoner, etc.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.DataIntegration">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>DataProcessing.DataIntegration</skos:notation>
+      <skos:prefLabel xml:lang="en">Data processing: Data integration</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Creating complex datasets by merging related data, for example, hierarchical datasets with multiple but related  analysis units, or multiple-wave datasets, or data collected in different countries for a cross-national study, etc.</skos:definition>
+      <skos:prefLabel xml:lang="no">Databehandling: Dataintegrering</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Opprette komplekse datasett med &#xe5; koble sammen relaterte data, for eksempel, hierarkiske datasett med flere, men sammenliknbare, analyseenheter, eller datasett fra flere runder av en unders&#xf8;kelse, eller data samlet inn i forskjellige land for en tverrnasjonal studie, etc.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.DisclosureLimitation">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>DataProcessing.DisclosureLimitation</skos:notation>
+      <skos:prefLabel xml:lang="en">Data processing: Disclosure limitation</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Editing the data to prevent identification of subjects, for example, performing anonymization measures like recoding or top-coding sensitive variables like income levels, suppressing some geographic indicators, or replacing personal names with pseudonyms and/or categorizing background or demographic information in qualitative data.</skos:definition>
+      <skos:prefLabel xml:lang="no">Databehandling: Begrensning om avsl&#xf8;ring</skos:prefLabel>
+	  <skos:definition  xml:lang="no">&#xc5; endre dataene for &#xe5; forhindre identifisering av subjekter, for eksempel, &#xe5; utf&#xf8;re anonymiseringstiltak som &#xe5; rekode eller topp-kode sensitive variabler som inntektsniv&#xe5;, aggregere eller holde tilbake geografiske indikatorer, eller erstatte personnavn med pseudonymer og/eller kategorisere bakgrunnsopplysninger eller demografisk informasjon i kvalitative data.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataProcessing.Imputation">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>DataProcessing.Imputation</skos:notation>
+      <skos:prefLabel xml:lang="en">Data processing: Imputation</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Replacing missing data points with values calculated according to an imputation technique.</skos:definition>
+      <skos:prefLabel xml:lang="no">Databehandling: Imputasjon</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Erstatte manglende data punkter med verdier utregnet ved bruk av imputasjonsteknikker.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#MetadataProduction">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>MetadataProduction</skos:notation>
+      <skos:prefLabel xml:lang="en">Metadata production</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Documenting the data, for example, by producing study-level and variable descriptions.</skos:definition>
+      <skos:prefLabel xml:lang="no">Metadata produksjon</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Dokumentere data, for eksempel ved &#xe5; produsere studieniv&#xe5; og variabel beskrivelser.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#MetadataEditing">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>MetadataEditing</skos:notation>
+      <skos:prefLabel xml:lang="en">Metadata editing</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Amending the metadata to reflect changes in the data or to improve or enhance documentation.</skos:definition>
+      <skos:prefLabel xml:lang="no">Metadata redigering</skos:prefLabel>
+	  <skos:definition  xml:lang="no">&#xc5; endre metadataene for &#xe5; gjenspeile endringer i dataene eller for &#xe5; forbedre eller styrke dokumentasjonen.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#MetadataTranslation">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>MetadataTranslation</skos:notation>
+      <skos:prefLabel xml:lang="en">Metadata translation</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Translating the metadata into another language.</skos:definition>
+      <skos:prefLabel xml:lang="no">Metadata oversettelse</skos:prefLabel>
+	  <skos:definition  xml:lang="no">&#xc5; oversette metadata til et annet spr&#xe5;k.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#FinalReport">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>FinalReport</skos:notation>
+      <skos:prefLabel xml:lang="en">Final report</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Complete account on how the study was conducted through all its stages, often required by funders or other administrative bodies.</skos:definition>
+      <skos:prefLabel xml:lang="no">Sluttrapport</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Fullstendig redegj&#xf8;relse for hvordan studien ble gjennomf&#xf8;rt i alle stadier, ofte p&#xe5;krevd av finansi&#xf8;r eller andre administrative instanser.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#Evaluation">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>Evaluation</skos:notation>
+      <skos:prefLabel xml:lang="en">Evaluation</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Analysis of how the study, in all its stages, was managed and/or conducted, including the outcome of methodological, technical, and business decisions. May serve as a basis for changes or improvements in planning future iterations of the data collection, or entirely new projects.</skos:definition>
+      <skos:prefLabel xml:lang="no">Evaluering</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Analyse av hvordan studien, i alle stadier, ble administrert og/eller gjennomf&#xf8;rt, inkludert utfallet av metodologiske-, tekniske- og forretningsbeslutninger. Kan tjene som et grunnlag for endringer eller forbedringer i planleggingen av fremtidige iterasjoner av datainnsamlingen eller helt nye prosjekter.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#OriginalRelease">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>OriginalRelease</skos:notation>
+      <skos:prefLabel xml:lang="en">Original release</skos:prefLabel>
+	  <skos:definition  xml:lang="en">First release of data and/or metadata to other individuals and/or agencies than the study producers.</skos:definition>
+      <skos:prefLabel xml:lang="no">Original utgivelse</skos:prefLabel>
+	  <skos:definition  xml:lang="no">F&#xf8;rste utgivelse av data og/eller metadata til andre individer og/eller byr&#xe5;er enn studiens produsenter.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#Deposit">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>Deposit</skos:notation>
+      <skos:prefLabel xml:lang="en">Deposit</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Handing over the data and available metadata (Submission Information Package in OAIS terms) to a data archive or repository for preservation, possible further processing,  and dissemination.</skos:definition>
+      <skos:prefLabel xml:lang="no">Deponering</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Overlevering av data og tilgjengelig metadata (Submission Information Package i OAIS terminologi) til ett dataarkiv eller oppbevaringssted for bevaring, mulig videre prosessering, og formidling.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#PreservationPackageProduction">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>PreservationPackageProduction</skos:notation>
+      <skos:prefLabel xml:lang="en">Preservation package production</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Producing a preservation package of the data for archiving purposes (Archival Information Package in OAIS terms).</skos:definition>
+      <skos:prefLabel xml:lang="no">Produksjon av bevaringspakke</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Produsere en bevaringspakke av datamaterialet for arkivform&#xe5;l (Archival Information Package i OAIS terminologi).</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DisseminationPackageProduction">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>DisseminationPackageProduction</skos:notation>
+      <skos:prefLabel xml:lang="en">Dissemination package production</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Producing a dissemination package for distribution of the data (Dissemination Information Package in OAIS terms).</skos:definition>
+      <skos:prefLabel xml:lang="no">Produksjon av formidlingspakke</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Produsere en formidlingspakke for distribusjon av data (Dissemination Information Package i OAIS terminologi).</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DisseminationPackageRelease">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>DisseminationPackageRelease</skos:notation>
+      <skos:prefLabel xml:lang="en">Dissemination package release</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Publishing or otherwise making the dissemination package available to users.</skos:definition>
+      <skos:prefLabel xml:lang="no">Utgivelse av formidlingspakke</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Publisering, eller annen tilgjengeliggj&#xf8;ring, av formidlingspakken for brukere.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#DataAnalysisReports">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>DataAnalysisReports</skos:notation>
+      <skos:prefLabel xml:lang="en">Data analysis reports</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Reports describing how the data were analyzed,  as well as the resulting findings. These may take the form of conference posters or presentations, journal articles or online publications, books, book chapters, etc.</skos:definition>
+      <skos:prefLabel xml:lang="no">Dataanalyse rapport</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Rapport som beskriver hvordan data ble analyser, inklusiv funn. Dette kan v&#xe6;re konferansepresentasjoner, tidsskriftartikler eller online publikasjoner, b&#xf8;ker eller bokkapitler, etc.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#NewVersionRelease">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>NewVersionRelease</skos:notation>
+      <skos:prefLabel xml:lang="en">New version release</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Publishing or otherwise making a new version of the data and/or metadata available to users.</skos:definition>
+      <skos:prefLabel xml:lang="no">Ny versjon utgivelse</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Publisering, eller annen tilgjengeliggj&#xf8;ring, av en ny versjon av data og/eller metadata for brukere.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0#Other">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0"/>
+      <skos:notation>Other</skos:notation>
+      <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Use if the event type is known, but not found in the list.</skos:definition>
+      <skos:prefLabel xml:lang="no">Annet</skos:prefLabel>
+	  <skos:definition  xml:lang="no">Bruk hvis hendelsestypen er kjent, men ikke finnes p&#xe5; listen.</skos:definition>
+   </rdf:Description>
+</rdf:RDF>

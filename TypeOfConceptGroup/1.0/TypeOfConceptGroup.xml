@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ddi:FragmentInstance xmlns:ddi="ddi:instance:3_2"
+                       xmlns:ddi-cv="urn:ddi-cv"
+                       xmlns:l="ddi:logicalproduct:3_2"
+                       xmlns:r="ddi:reusable:3_2">
+   <ddi:Fragment>
+      <l:CodeList>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfConceptGroup</r:ID>
+         <r:Version>1.0</r:Version>
+         <r:Label/>
+         <r:Description/>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfConceptGroup-Administrative-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfConceptGroup-Administrative-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Administrative</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfConceptGroup-Thematic-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfConceptGroup-Thematic-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Thematic</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfConceptGroup-Other-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfConceptGroup-Other-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Other</r:Value>
+         </l:Code>
+      </l:CodeList>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfConceptGroup-Administrative-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>Administrative</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Administrative</r:Content>
+            <r:Content xml:lang="no">Administrativ</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">A concept group created for administrative purposes, for instance for subsetting or reorganizing data.</r:Content>
+            <r:Content xml:lang="no">En konseptgruppe som lages for administrative formål, for eksempel for å subsette eller reorganisere data.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfConceptGroup-Thematic-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>Thematic</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Thematic</r:Content>
+            <r:Content xml:lang="no">Tematisk</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">A concept group created to bring together concepts reflecting the same general theme, or topic; for example, a group called "Trust" can include trust in institutions, trust in government, as well as interpersonal trust.</r:Content>
+            <r:Content xml:lang="no">En konseptgruppe som lages for å knytte sammen konsepter som gjenspeiler det samme generelle tema eller emne; for eksempel, en gruppe kalt "Tillit" kan inkludere tillit til institusjoner, tillit til styresmakter, så vel som mellommenneskelige tillit.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfConceptGroup-Other-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>Other</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Other</r:Content>
+            <r:Content xml:lang="no">Annen</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Use when the type of concept group is known, but not found in the list.</r:Content>
+            <r:Content xml:lang="no">Bruk når typen konseptgruppe er kjent, men ikke finnes på listen.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+</ddi:FragmentInstance>

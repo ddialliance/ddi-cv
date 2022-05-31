@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+      <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod"/>
+      <skos:notation>TypeOfTranslationMethod</skos:notation>
+      <dcterms:title xml:lang="en">Type of Translation Method</dcterms:title>
+      <dcterms:description xml:lang="en">A typology of methods used to translate data collection instruments, including questionnaires, individual questions, measurements, data capture flows, etc.</dcterms:description>
+      <owl:versionInfo>1.0</owl:versionInfo>
+      <dcterms:license rdf:resource="Creative Commons Attribution 4.0 International"/>
+      <dcterms:rights>Copyright &#xa9;DDI Alliance 2022</dcterms:rights>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#SingleTranslation"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#SplitTranslation"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#ParallelTranslations"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#SameLanguageAdaptation"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#SameLanguageHarmonization"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#TranslationMethodUnspecified"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#Other"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#SingleTranslation">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0"/>
+      <skos:notation>SingleTranslation</skos:notation>
+      <skos:prefLabel xml:lang="en">Single translation</skos:prefLabel>
+	  <skos:definition  xml:lang="en">A single translator produces one translation. Use this broader term if the translator makes the decisions about the final version, if it is not known who makes the final decisions, or if the review process is not explained in either of the narrower terms.</skos:definition>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#SingleTranslation.IndividualReview"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#SingleTranslation.CommitteeReview"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#SingleTranslation.IndividualReview">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0"/>
+      <skos:notation>SingleTranslation.IndividualReview</skos:notation>
+      <skos:prefLabel xml:lang="en">Single translation: Individual review</skos:prefLabel>
+	  <skos:definition  xml:lang="en">A single translator produces one translation. Another individual reviews the translation, possibly in consultation with the translator. There may be more than one review round and different individual reviewers in each round.  An  adjudicator (possibly a reviewer) approves the final version.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#SingleTranslation.CommitteeReview">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0"/>
+      <skos:notation>SingleTranslation.CommitteeReview</skos:notation>
+      <skos:prefLabel xml:lang="en">Single translation: Committee review</skos:prefLabel>
+	  <skos:definition  xml:lang="en">A single translator produces one translation. A committee, possibly including the translator, reviews it and approves the final version. There may be more than one review round. In survey translation, the committee may include survey, domain and language experts.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#SplitTranslation">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0"/>
+      <skos:notation>SplitTranslation</skos:notation>
+      <skos:prefLabel xml:lang="en">Split translation</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Two or more translators produce one translation by splitting up a source text (for example, a questionnaire) into subsections and each translating a subsection. Use this broader term if the translators decide on the final version amongst themselves, if it is not known who makes the final decisions or if the review process is not explained in either of the narrower terms.</skos:definition>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#SplitTranslation.IndividualReview"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#SplitTranslation.CommitteeReview"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#SplitTranslation.IndividualReview">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0"/>
+      <skos:notation>SplitTranslation.IndividualReview</skos:notation>
+      <skos:prefLabel xml:lang="en">Split translation: Individual review</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Two or more translators produce one translation by splitting up a source text (for example, a questionnaire) into subsections and each translating a subsection. An individual reviews the whole translation, possibly in consultation with the translators. There may be more than one review round and different individual reviewers in each round. An adjudicator (possibly a reviewer) approves the final version.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#SplitTranslation.CommitteeReview">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0"/>
+      <skos:notation>SplitTranslation.CommitteeReview</skos:notation>
+      <skos:prefLabel xml:lang="en">Split translation: Committee review</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Two or more translators produce one translation by splitting up a source text (for example, a questionnaire) into subsections and each translating a subsection. A committee, possibly including the translators, reviews the whole translation and approves the final version. There may be more than one review round. In survey translation, the committee may include survey, domain and language experts.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#ParallelTranslations">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0"/>
+      <skos:notation>ParallelTranslations</skos:notation>
+      <skos:prefLabel xml:lang="en">Parallel translations</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Two or more translators each produce a separate,  independent  translation of a whole text. Use this broader term if the  translators decide on a final version amongst themselves, if it is not known who makes the final decisions or if the review process is not described in either of the narrower terms.</skos:definition>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#ParallelTranslations.IndividualReview"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#ParallelTranslations.CommitteeReview"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#ParallelTranslations.IndividualReview">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0"/>
+      <skos:notation>ParallelTranslations.IndividualReview</skos:notation>
+      <skos:prefLabel xml:lang="en">Parallel translations: Individual review</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Two or more translators each produce a separate,  independent  translation of a whole text. An individual reviews all the translations and makes decisions on the final version, possibly in consultation with the translators. There may be more than one review round and different individual reviewers in each round. An adjudicator (possibly a reviewer) approves the final version.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#ParallelTranslations.CommitteeReview">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0"/>
+      <skos:notation>ParallelTranslations.CommitteeReview</skos:notation>
+      <skos:prefLabel xml:lang="en">Parallel translations: Committee review</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Two or more translators each produce a separate, independent  translation of a whole text. A committee, possibly including the translators, reviews all the translations, and makes decisions on the final version. There may be more than one review round. In survey translation, the committee may include survey, domain and language experts.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#SameLanguageAdaptation">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0"/>
+      <skos:notation>SameLanguageAdaptation</skos:notation>
+      <skos:prefLabel xml:lang="en">Same language adaptation</skos:prefLabel>
+	  <skos:definition  xml:lang="en">A country or region uses the final translation of another country or region sharing the same language as the basis for their own translation. Some of the content of the original translation is modified to reflect linguistic, cultural, socio-economic or political differences. If needed, this term may be used alongside other relevant terms from this list.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#SameLanguageHarmonization">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0"/>
+      <skos:notation>SameLanguageHarmonization</skos:notation>
+      <skos:prefLabel xml:lang="en">Same language harmonization</skos:prefLabel>
+	  <skos:definition  xml:lang="en">Two or more countries or regions sharing the same language cooperate in the translation process, producing a commonly agreed translation which each country or region can then modify to account for linguistic, cultural, socio-economic or political differences. If needed, this term may be used alongside other relevant terms from this list.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#TranslationMethodUnspecified">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0"/>
+      <skos:notation>TranslationMethodUnspecified</skos:notation>
+      <skos:prefLabel xml:lang="en">Translation method unspecified</skos:prefLabel>
+	  <skos:definition  xml:lang="en">It is not known what kind of translation method has been used.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0#Other">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0"/>
+      <skos:notation>Other</skos:notation>
+      <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
+	  <skos:definition  xml:lang="en">The translation method is known but not in the list. If needed, use the free-text element for a more extensive description.</skos:definition>
+   </rdf:Description>
+</rdf:RDF>

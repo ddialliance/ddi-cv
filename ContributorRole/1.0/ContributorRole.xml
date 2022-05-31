@@ -1,0 +1,1545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ddi:FragmentInstance xmlns:ddi="ddi:instance:3_2"
+                       xmlns:ddi-cv="urn:ddi-cv"
+                       xmlns:l="ddi:logicalproduct:3_2"
+                       xmlns:r="ddi:reusable:3_2">
+   <ddi:Fragment>
+      <l:CodeList>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole</r:ID>
+         <r:Version>1.0</r:Version>
+         <r:Label/>
+         <r:Description/>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-ProjectOrStudyDesign-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-ProjectOrStudyDesign-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ProjectOrStudyDesign</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-ProjectOrStudyDesign.Conceptualization-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-ProjectOrStudyDesign.Conceptualization-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ProjectOrStudyDesign.Conceptualization</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-ProjectOrStudyDesign.InstrumentDesign-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-ProjectOrStudyDesign.InstrumentDesign-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ProjectOrStudyDesign.InstrumentDesign</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-ProjectOrStudyDesign.MethodologyDevelopment-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-ProjectOrStudyDesign.MethodologyDevelopment-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ProjectOrStudyDesign.MethodologyDevelopment</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-ProjectOrStudyDesign.WeightsDesign-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-ProjectOrStudyDesign.WeightsDesign-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ProjectOrStudyDesign.WeightsDesign</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-ProjectOrStudyDesign.StandardsDevelopment-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-ProjectOrStudyDesign.StandardsDevelopment-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ProjectOrStudyDesign.StandardsDevelopment</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-ProjectOrStudyDesign.DataModeling-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-ProjectOrStudyDesign.DataModeling-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ProjectOrStudyDesign.DataModeling</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-ProjectOrStudyDesignSamplingDesign-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-ProjectOrStudyDesignSamplingDesign-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ProjectOrStudyDesignSamplingDesign</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-DataManagement-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-DataManagement-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataManagement</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-EthicsReview-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-EthicsReview-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EthicsReview</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-DataCollection-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-DataCollection-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataCollection</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-SampleSelection-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-SampleSelection-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>SampleSelection</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-DataEntry-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-DataEntry-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataEntry</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-DataProcessing-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-DataProcessing-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataProcessing</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-DataProcessing.DisclosureControl-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-DataProcessing.DisclosureControl-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataProcessing.DisclosureControl</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-DataProcessing.DataAggregation-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-DataProcessing.DataAggregation-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataProcessing.DataAggregation</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-DataProcessing.DataIntegration-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-DataProcessing.DataIntegration-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataProcessing.DataIntegration</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-DataProcessing.DataValidation-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-DataProcessing.DataValidation-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataProcessing.DataValidation</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-DataAcquisition-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-DataAcquisition-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataAcquisition</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-MetadataProduction-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-MetadataProduction-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>MetadataProduction</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-DataDistribution-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-DataDistribution-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataDistribution</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-DataHosting-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-DataHosting-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataHosting</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-LongTermPreservationOrArchiving-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-LongTermPreservationOrArchiving-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>LongTermPreservationOrArchiving</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-Consulting-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-Consulting-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Consulting</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-Contact-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-Contact-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Contact</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-DataAnalysis-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-DataAnalysis-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataAnalysis</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-Editing-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-Editing-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Editing</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-EquipmentDevelopment-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-EquipmentDevelopment-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EquipmentDevelopment</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-Evaluation-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-Evaluation-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Evaluation</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-FundingProvision-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-FundingProvision-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>FundingProvision</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-FundingOrSponsorshipAcquisition-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-FundingOrSponsorshipAcquisition-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>FundingOrSponsorshipAcquisition</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-Sponsorship-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-Sponsorship-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Sponsorship</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-GraphicDesign-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-GraphicDesign-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>GraphicDesign</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-ProjectOperations-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-ProjectOperations-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ProjectOperations</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-ProjectOperations.ProjectLeader-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-ProjectOperations.ProjectLeader-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ProjectOperations.ProjectLeader</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-ProjectOperations.ProjectManager-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-ProjectOperations.ProjectManager-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ProjectOperations.ProjectManager</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-ProjectOperations.ProjectMember-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-ProjectOperations.ProjectMember-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ProjectOperations.ProjectMember</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-Promotion-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-Promotion-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Promotion</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-RegistrationAuthority-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-RegistrationAuthority-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>RegistrationAuthority</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-Researcher-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-Researcher-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Researcher</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-ResearchGroup-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-ResearchGroup-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ResearchGroup</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-RightsHolding-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-RightsHolding-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>RightsHolding</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-RightsManagement-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-RightsManagement-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>RightsManagement</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-SoftwareDevelopment-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-SoftwareDevelopment-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>SoftwareDevelopment</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-Supervision-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-Supervision-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Supervision</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-Training-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-Training-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Training</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-Translation-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-Translation-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Translation</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-UserSupport-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-UserSupport-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>UserSupport</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-Visualization-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-Visualization-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Visualization</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-WebsiteDevelopment-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-WebsiteDevelopment-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>WebsiteDevelopment</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>ContributorRole-Other-Code</r:ID>
+            <r:Version>1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>ContributorRole-Other-Category</r:ID>
+               <r:Version>1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Other</r:Value>
+         </l:Code>
+      </l:CodeList>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-ProjectOrStudyDesign-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>ProjectOrStudyDesign</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Project/Study design</r:Content>
+            <r:Content xml:lang="no">Prosjekt/studie design</r:Content>
+            <r:Content xml:lang="sv">Projekt-/studiedesign</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Describing the rationale, and putting together a specific plan for conducting a study or research project.</r:Content>
+            <r:Content xml:lang="no">Beskriver rasjonale og sammenstilling av plan for å gjennomføre en studie eller et forskningsprosjekt.</r:Content>
+            <r:Content xml:lang="sv">Beskrivning av tanken bakom projektet/studien och hur man har sammanställt en plan för hur en studie eller ett forskningsprojekt ska utföras.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-ProjectOrStudyDesign.Conceptualization-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>ProjectOrStudyDesign.Conceptualization</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Project/Study design: Conceptualization</r:Content>
+            <r:Content xml:lang="no">Prosjekt/studie design: Konseptualisering</r:Content>
+            <r:Content xml:lang="sv">Projekt-/studiedesign: Begreppsbildning</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Developing high-level research concepts as well as specific concepts to be measured. Conceptualization involves clarifying the concepts with verbal definitions and examples as well as expressing relationships among the concepts.</r:Content>
+            <r:Content xml:lang="no">Utvikling av høyvnivå forskningskonsepter og spesifikke forskningskonsepter som skal måles. Konseptualisering involverer tydeliggjøring av konsepter med språklige definisjoner og eksempler, samtidig som relasjoner mellom konsepter uttrykkes.</r:Content>
+            <r:Content xml:lang="sv">Hur man tar fram forskningsbegrepp på hög nivå och specifika begrepp på det som ska mätas. Begreppsbildning inbegriper att beskriva begreppen med definitioner och exempel och att beskriva relationerna mellan begreppen.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-ProjectOrStudyDesign.InstrumentDesign-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>ProjectOrStudyDesign.InstrumentDesign</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Project/Study design: Instrument design</r:Content>
+            <r:Content xml:lang="no">Prosjekt/studie design: Instrument design</r:Content>
+            <r:Content xml:lang="sv">Projekt-/studiedesign: Instrumentdesign</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Conceiving and planning for the data collection instrument(s). May include the operationalization of concepts into questions and indicators, instrument testing, forward translation and subsequent changes in the master instrument(s),  as well as designing  and testing other types of data collection instruments than survey questionnaires.</r:Content>
+            <r:Content xml:lang="no">Utvikling og planlegging av datainnsamlingsinstrument. Kan inkludere operasjonalisering av konsepter til spørsmål og indikatorer, instrumenttesting, initiere oversettelse ("forward translation") og påfølgende endringer i hovedinstrumentet, samt utforme og teste andre datainnsamlingsinstrumenter enn spørreskjema.</r:Content>
+            <r:Content xml:lang="sv">Att ta fram och planera instrument för datainsamling. Detta kan handla om hur begrepp omsätts i frågor och indikatorer, instrumenttester, initial översättning ("forward translation") och efterföljande förändringar av huvudinstrumenten, samt att utforma och testa andra typer av datainsamlingsinstrument än frågeformulär.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-ProjectOrStudyDesign.MethodologyDevelopment-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>ProjectOrStudyDesign.MethodologyDevelopment</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Project/Study design: Methodology development</r:Content>
+            <r:Content xml:lang="no">Prosjekt/studie design: Metodeutvikling</r:Content>
+            <r:Content xml:lang="sv">Projekt-/studiedesign: Metodutveckling</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Developing guidelines or protocols for the methods used to conduct the study, and to process and analyze the data. For example, directions and instructions for collecting data, conducting interviews, translating questionnaires, input harmonization, using weights, etc.</r:Content>
+            <r:Content xml:lang="no">Utvikle retningslinjer og protokoll for metoder som skal følges i gjennomføring av studien, samt prosessering og analyse av data. For eksempel, veiledning og instruksjoner for datainnsamling, gjennomføring av intervju, oversettelse av spørreskjema, harmonisering av inndata, bruk av vekter, etc.</r:Content>
+            <r:Content xml:lang="sv">Att ta fram riktlinjer eller protokoll för de metoder som ska användas i utförandet av studien, och för att behandla och analysera data. Till exempel anvisningar och instruktioner för hur datainsamling, intervjuer, översättning av frågeformulär, harmonisering av indata, viktning osv. ska utföras.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-ProjectOrStudyDesign.WeightsDesign-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>ProjectOrStudyDesign.WeightsDesign</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Project/Study design: Weights design</r:Content>
+            <r:Content xml:lang="no">Prosjekt/studie design: Vektedesign</r:Content>
+            <r:Content xml:lang="sv">Projekt-/studiedesign: Viktningsdesign</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Developing weights to assist in adjusting the data to the desired objectives of the study, for example, to make the data representative of the target population.</r:Content>
+            <r:Content xml:lang="no">Utvikling av vekter som kan bidra i å justere data slik at det møter målene til studien, for eksempel å gjøre data representative for målpopulasjonen.</r:Content>
+            <r:Content xml:lang="sv">Att ta fram viktningar som en hjälp för att justera data efter studiens önskade mål, till exempel för att göra data representativa för målpopulationen.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-ProjectOrStudyDesign.StandardsDevelopment-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>ProjectOrStudyDesign.StandardsDevelopment</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Project/Study design: Standards development</r:Content>
+            <r:Content xml:lang="no">Prosjekt/studie design: Utvikling av standarderer</r:Content>
+            <r:Content xml:lang="sv">Projekt-/studiedesign: Utveckling av standarder</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Developing models for the structure and distribution of data and metadata in fixed, predictable formats. For example, the DATS (Data Tag Suite) for describing biomedical data, the Data Documentation Initiative (DDI) for describing social, behavioral, economic, and health sciences data, etc.</r:Content>
+            <r:Content xml:lang="no">Utvikle modeller for strukturering og distribuering av data og metadata i faste, forutsigbare formater. For eksempel, DATS (Data Tag Suite) for beskrivelse av biomedisinske data, DDI (Data Documentation Initiative) for beskrivelse av data fra samfunnsvitenskapene, økonomi og helsevitenskap osv.</r:Content>
+            <r:Content xml:lang="sv">Att ta fram modeller för struktur och fördelning av data och metadata i fasta, förutsägbara format. Till exempel DATS (Data Tag Suite) för att beskriva biomedicinska data, DDI (Data Documentation Initiative) för att beskriva data från samhällsvetenskap, nationalekonomi och hälsovetenskaperna osv.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-ProjectOrStudyDesign.DataModeling-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>ProjectOrStudyDesign.DataModeling</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Project/Study design: Data modeling</r:Content>
+            <r:Content xml:lang="no">Prosjekt/studie design: Datamodellering</r:Content>
+            <r:Content xml:lang="sv">Projekt-/studiedesign: Datamodellering</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Creating a data model based on an analysis of data objects and their relationships, data properties, as well as data flows and processes. It is often the first step in database creation, tool and standards development, etc., and typically involves a progression from a conceptual model to a logical model, and then to a physical schema.</r:Content>
+            <r:Content xml:lang="no">Opprette en datamodell basert på analyser av dataobjekter og deres relasjoner, dataegenskaper samt dataflyt og prosesser. Dette er ofte det første steget i databaseopprettelse, utvikling av verktøyer og standarder mv. og involverer typisk en utvikling fra en konseptuell modell til en logisk modell og deretter til et fysisk skjema.</r:Content>
+            <r:Content xml:lang="sv">Att skapa en datamodell som bygger på en analys av dataobjekt och deras relationer, dataegenskaper, samt dataflöden och -processer. Det är ofta det första steget till att skapa en databas, verktyg och standarder osv., och inbegriper vanligtvis en utveckling från en konceptuell modell till en logisk modell och vidare till ett fysiskt schema.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-ProjectOrStudyDesignSamplingDesign-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>ProjectOrStudyDesignSamplingDesign</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Project/Study design: Sampling design</r:Content>
+            <r:Content xml:lang="no">Prosjekt/studie design: Utvalgdesign</r:Content>
+            <r:Content xml:lang="sv">Projekt-/studiedesign: Urvalsdesign</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Defining which elements of the target population are included in the sample, as well as the rules and procedures by which they will be selected.</r:Content>
+            <r:Content xml:lang="no">Definere hvilke elementer i målpopulasjonen som skal være inkludert i utvalget, så vel som reglene og prosedyrene for at de vil bli valgt.</r:Content>
+            <r:Content xml:lang="sv">Att definiera vilka element av målpopulationen som ska ingå i urvalet, och vilka regler och processer som de ska väljas ut med.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-DataManagement-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>DataManagement</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data management</r:Content>
+            <r:Content xml:lang="no">Datahåndtering</r:Content>
+            <r:Content xml:lang="sv">Datahantering</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Development and execution of architectures, policies, practices and procedures to handle data at any stage of its life cycle. Includes processes and activities related to the selection, organization and integration of data, their annotation, as well as their publication and preservation so that the data maintain their value over time, and remain available for reuse.</r:Content>
+            <r:Content xml:lang="no">Utvikling og gjennomføring av arkitektur, politikk, praksis og prosedyrer for å håndtere data i alle trinn av livssyklusen. Inkluderer prosesser og aktiviteter knyttet til utvelgelse, organisasering og integrering av data, deres annotering, samt publisering og preservasjon sånn at dataene opprettholder sin verdi over tid og blir tilgjengelig for gjenbruk.</r:Content>
+            <r:Content xml:lang="sv">Att utveckla och använda arkitekturer, policyer, riktlinjer och procedurer för att hantera data i alla delar av deras livscykel. Detta inkluderar processer och åtgärder som ingår i urval, organisering och integrering av data, annotering av data, samt publicering och bevarande av data, så att deras värden bibehålls över tid och finns tillgängliga för återanvändning.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-EthicsReview-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>EthicsReview</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Ethics review</r:Content>
+            <r:Content xml:lang="no">Etisk godkjenning</r:Content>
+            <r:Content xml:lang="sv">Etikprövning</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Reviewing whether a research proposal or study complies with ethical principles based on legislation or approved ethical guidelines (soft legislation).</r:Content>
+            <r:Content xml:lang="no">Gjennomgang av hvorvidt et forskningsforslag eller en undersøkelse er i overenstemmelse med etiske prinsipper basert på lovgivning eller godkjente etiske retningslinjer (myk lovgivning).</r:Content>
+            <r:Content xml:lang="sv">Att pröva huruvida ett forskningsförslag eller en studie uppfyller etiska principer enligt lagkrav eller godkända etiska riktlinjer (så kallad mjuk lagstiftning).</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-DataCollection-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>DataCollection</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data collection</r:Content>
+            <r:Content xml:lang="no">Datainnsamling</r:Content>
+            <r:Content xml:lang="sv">Datainsamling</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Activities relating to the process of gathering data in an established, systematic fashion that enables answering the stated research questions, testing hypotheses, and evaluating outcomes. Maps to 'DataCollector' in DataCite.</r:Content>
+            <r:Content xml:lang="no">Aktiviteter relatert til prosessen med å samle inn data på en etablert og systematisk måte som muliggjør besvarelse av forskningsspørsmål, hypotesetesting og evaluering av resultatet. Kobles til 'DataCollector' i DataCite.</r:Content>
+            <r:Content xml:lang="sv">Aktiviteter som ingår i att samla in data på ett förutbestämt och systematiskt sätt, som gör det möjligt att besvara angivna forskningsfrågor, testa hypoteser och utvärdera utfall. Mappas till "DataCollector" i DataCite.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-SampleSelection-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>SampleSelection</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Sample selection</r:Content>
+            <r:Content xml:lang="no">Utvalgstrekking</r:Content>
+            <r:Content xml:lang="sv">Val av urval</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Selecting units from the target population.</r:Content>
+            <r:Content xml:lang="no">Trekking av enheter fra mål populasjonen.</r:Content>
+            <r:Content xml:lang="sv">Att välja enheter ur målpopulationen.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-DataEntry-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>DataEntry</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data entry</r:Content>
+            <r:Content xml:lang="no">Datainntasting</r:Content>
+            <r:Content xml:lang="sv">Datainmatning</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Entering or updating data into a computer system, often from other forms of media, like paper questionnaires, newspaper articles, etc.</r:Content>
+            <r:Content xml:lang="no">Inntaste eller oppdatering av data i et datasystem, ofte fra andre medium som papir-spørreskjema, avisartikler, etc.</r:Content>
+            <r:Content xml:lang="sv">Att skriva in, mata in eller uppdatera data i ett datasystem. Detta rör ofta data från andra former av media, som pappersenkäter, tidningsartiklar m.m.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-DataProcessing-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>DataProcessing</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data processing</r:Content>
+            <r:Content xml:lang="no">Databehandling</r:Content>
+            <r:Content xml:lang="sv">Databehandling</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Performing operations that result in changes to the data, including data cleaning, editing, post-harmonization, etc. Maps to 'DataCurator' in DataCite.</r:Content>
+            <r:Content xml:lang="no">Utfører handlinger som medfører endringer i data, inkludert rensing av data, redigering og post-harmonisering, etc. Kobles til 'DataCurator' i DataCite.</r:Content>
+            <r:Content xml:lang="sv">Att utföra åtgärder som gör att data förändras, t.ex. att rensa, redigera eller post-harmonisera data. Mappas till "DataCurator" i DataCite.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-DataProcessing.DisclosureControl-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>DataProcessing.DisclosureControl</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data processing: Disclosure control</r:Content>
+            <r:Content xml:lang="no">Databehandling: Konfidensialitet kontroll</r:Content>
+            <r:Content xml:lang="sv">Databehandling: Röjandekontroll</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Planning or using specific techniques to preserve the anonymity of individual or other entities that the data refer to. For example, anonymization, pseudonymization, or removal of direct and indirect identifiers.</r:Content>
+            <r:Content xml:lang="no">Planlegge eller bruke spesifikke teknikker for å ivareta anonymiteten til individer eller enheter som data omhandler. For eksempel, anonymisering, pseudonymisering eller fjerning av direkte og indirekte identifikatorer.</r:Content>
+            <r:Content xml:lang="sv">Att planera eller använda särskilda tekniker för att bevara anonymiteten för individer eller andra enheter som data hänvisar till. Till exempel anonymisering, pseudonymisering eller att ta bort direkta och indirekta identifierare.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-DataProcessing.DataAggregation-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>DataProcessing.DataAggregation</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data processing: Data aggregation</r:Content>
+            <r:Content xml:lang="no">Databehandling: Data aggregering</r:Content>
+            <r:Content xml:lang="sv">Databehandling: Dataaggregering</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Producing individually collected data in a summary form, for purposes such as statistical analysis. A common aggregation goal is to obtain more information about particular population groups, based on specific variables, such as age, profession, education, or income.</r:Content>
+            <r:Content xml:lang="no">Produsere individuelt innsamlede data i et sammenfattet format med hensikt om å tilrettelegge for ytterligere statistiske analyser. Et allment aggregeringsmål kunne oppnå mer informasjon om en spesifikk populasjongruppe basert på spesifikke variabler som alder, yrke, utdanning eller inntekt.</r:Content>
+            <r:Content xml:lang="sv">Att ta fram individuellt insamlade data i sammanfattad form för syften som t.ex. statistiska analyser. Ett vanligt mål för aggregering är att få mer information om vissa populationsgrupper utifrån vissa variabler, som ålder, yrke, utbildning eller inkomst.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-DataProcessing.DataIntegration-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>DataProcessing.DataIntegration</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data processing: Data integration</r:Content>
+            <r:Content xml:lang="no">Databehandling: Dataintegrering</r:Content>
+            <r:Content xml:lang="sv">Databehandling: Dataintegrering</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Combining data from separate sources into meaningful information. For example, linking register data with survey data or integrating datasets collected in different countries into a cross-national dataset.</r:Content>
+            <r:Content xml:lang="no">Sammenstilling av data fra ulike kilder til meningsfull informasjon. For eksempel, å koble på registerdata med spørreskjema data eller integrere datasett samlet inn i forskjellig land til et tverrnasjonalt datasett.</r:Content>
+            <r:Content xml:lang="sv">Att kombinera data från olika källor till meningsfull information. Till exempel att koppla registerdata till surveydata, eller att integrera dataset som samlats in i olika länder till ett tvärnationellt dataset.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-DataProcessing.DataValidation-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>DataProcessing.DataValidation</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data processing: Data validation</r:Content>
+            <r:Content xml:lang="no">Databehandling: Data validering</r:Content>
+            <r:Content xml:lang="sv">Databehandling: Datavalidering</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">The process of checking data to ensure that all of them have acceptable values, that they are accurate, coherent, consistent, complete and in the expected format.</r:Content>
+            <r:Content xml:lang="no">Prosessen ved å kvalitetssikre data for å sikre at alle har akseptable verdier, at de er nøyaktige, pålitelige, konsistente, fullstendige og i forventet format.</r:Content>
+            <r:Content xml:lang="sv">Att bedöma data för att se till att alla data har acceptabla värden, att de är korrekta, koherenta, konsekventa, fullständiga och har förväntat format.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-DataAcquisition-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>DataAcquisition</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data acquisition</r:Content>
+            <r:Content xml:lang="no">Datafangst</r:Content>
+            <r:Content xml:lang="sv">Datafångst</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Acquiring data and supporting documentation from potential contributors for further preservation and/or dissemination.</r:Content>
+            <r:Content xml:lang="no">Å anskaffe data og tilhørende dokumentasjon fra potensielle bidragsytere for fremtidig bevaring og/eller formidling.</r:Content>
+            <r:Content xml:lang="sv">Att hämta in data och tillhörande dokumentation från möjliga medverkande för ytterligare bevarande och/eller delning.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-MetadataProduction-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>MetadataProduction</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Metadata production</r:Content>
+            <r:Content xml:lang="no">Metadataproduksjon</r:Content>
+            <r:Content xml:lang="sv">Metadataproduktion</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Generating data documentation. For example, a study description covering study rationale, methodology, and other characteristics of the dataset as a whole; variable-level documentation (labels, frequencies, question text); references to study-related materials or publications, etc.</r:Content>
+            <r:Content xml:lang="no">Generere datadokumentasjon. For eksempel, en studiebeskrivelse som dekker undersøkelsens begrunnelse, metodologi og andre kjennetegn ved datasettet som en helhet; variabelnivå dokumentasjon (labler, frekvenser, spørsmålstekst); referanse til studierelatert materiale eller publikasjoner, etc.</r:Content>
+            <r:Content xml:lang="sv">Att generera datadokumentation. Till exempel en studiebeskrivning som innehåller tanken bakom studien, metoden och andra egenskaper hos datasetet som helhet; dokumentation på variabelnivå (etiketter, frekvenser, frågetext); referenser till studierelaterade material eller publikationer osv.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-DataDistribution-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>DataDistribution</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data distribution</r:Content>
+            <r:Content xml:lang="no">Datadistribusjon</r:Content>
+            <r:Content xml:lang="sv">Datadistribution</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Distributing/disseminating the data to users and making them available for reuse. Maps to 'Distributor' in DataCite.</r:Content>
+            <r:Content xml:lang="no">Distribusjon/formidling av data til brukere og tilgjengeliggjøring for gjenbruk. Kobles til 'Distributor' i DataCite.</r:Content>
+            <r:Content xml:lang="sv">Att distribuera/sprida data till användare och tillgängliggöra dem för återanvändning. Mappas till "Distributor" i DataCite.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-DataHosting-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>DataHosting</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data hosting</r:Content>
+            <r:Content xml:lang="no">Datalagring</r:Content>
+            <r:Content xml:lang="sv">Datalagring</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Housing, servicing, and maintaining data and, usually, the accompanying  metadata or related documentation. Maps to to 'HostingInstitution' in DataCite.</r:Content>
+            <r:Content xml:lang="no">Lagring, håndtering og vedlikehold av data, som oftest inkluderer dette også tilhørende metadata og relatert dokumentasjon. Kobles til 'HostingInstitution' i DataCite.</r:Content>
+            <r:Content xml:lang="sv">Att lagra, ta hand om och underhålla data och, vanligtvis, tillhörande metadata eller dokumentation. Mappas till "HostingInstitution" i DataCite.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-LongTermPreservationOrArchiving-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>LongTermPreservationOrArchiving</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Long-term preservation/archiving</r:Content>
+            <r:Content xml:lang="no">Langsiktig bevaring/arkivering</r:Content>
+            <r:Content xml:lang="sv">Långtidsbevarande/arkivering</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Protecting and maintaining the integrity and usability of data and accompanying metadata so that they remain available to future generations. Maps to 'DataManager' in DataCite.</r:Content>
+            <r:Content xml:lang="no">Ivareta og vedlikeholde integriteten og brukervennligheten til data og tilhørende metadata slik at det forblir tilgjengelig for fremtidige generasjoner. Kobles til 'DataManager' i DataCite.</r:Content>
+            <r:Content xml:lang="sv">Att skydda och bibehålla integriteten och användbarheten hos data och tillhörande metadata, så att de förblir tillgängliga för framtida generationer. Mappas till "DataManager" i DataCite.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-Consulting-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>Consulting</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Consulting</r:Content>
+            <r:Content xml:lang="no">Konsultasjon</r:Content>
+            <r:Content xml:lang="sv">Konsultande</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Providing expert advice.</r:Content>
+            <r:Content xml:lang="no">Gi ekspertråd.</r:Content>
+            <r:Content xml:lang="sv">Att ge expertråd.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-Contact-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>Contact</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Contact</r:Content>
+            <r:Content xml:lang="no">Kontakt</r:Content>
+            <r:Content xml:lang="sv">Kontaktperson</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Individual, or organization that may be reached to obtain data-related information. Maps to  'ContactPerson' in DataCite.</r:Content>
+            <r:Content xml:lang="no">Individ eller organisasjon som kan kontaktes for å få datarelatert informasjon. Kobles til 'ContactPerson' i Datacite.</r:Content>
+            <r:Content xml:lang="sv">En individ eller organisation som kan nås om man behöver datarelaterad information. Mappas till "ContactPerson" i DataCite.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-DataAnalysis-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>DataAnalysis</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data analysis</r:Content>
+            <r:Content xml:lang="no">Dataanalyse</r:Content>
+            <r:Content xml:lang="sv">Dataanalys</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">The process of investigating the data to help answer research questions and reach conclusions.</r:Content>
+            <r:Content xml:lang="no">Prosessen med å undersøke dataene for å besvare forskningsspørsmål og nå konklusjoner.</r:Content>
+            <r:Content xml:lang="sv">Att undersöka data för att få hjälp att besvara forskningsfrågor och dra slutsatser.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-Editing-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>Editing</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Editing</r:Content>
+            <r:Content xml:lang="no">Redigering</r:Content>
+            <r:Content xml:lang="sv">Redigering</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Arranging, revising, and preparing materials (e.g., text, audio or video) for final production or publication. Maps to 'Editor' in DataCite.</r:Content>
+            <r:Content xml:lang="no">Arrangere, revidere og forberede materialet (f.eks tekst, lyd eller video) for endelig produksjon eller publikasjon. Kobles til 'Editor' i DataCite.</r:Content>
+            <r:Content xml:lang="sv">Att ordna, revidera och förbereda material (t.ex. text, ljud eller video) för slutproduktion eller publikation. Mappas till "Editor" i DataCite.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-EquipmentDevelopment-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>EquipmentDevelopment</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Equipment development</r:Content>
+            <r:Content xml:lang="no">Utstyrsutvikling</r:Content>
+            <r:Content xml:lang="sv">Utveckling av utrustning</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Creating and maintaining equipment needed at any stage of the data life cycle.</r:Content>
+            <r:Content xml:lang="no">Opprette og vedlikeholde utstyr som er nødvendig på hvilket som helst stadie i dataenes livssyklus.</r:Content>
+            <r:Content xml:lang="sv">Att skapa och underhålla utrustning som behövs i någon fas av datalivscykeln.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-Evaluation-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>Evaluation</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Evaluation</r:Content>
+            <r:Content xml:lang="no">Evaluering</r:Content>
+            <r:Content xml:lang="sv">Utvärdering</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Assessing quality, worth and significance. Includes, for example, establishing evaluation criteria, gathering evaluation inputs and conducting the process of evaluation.</r:Content>
+            <r:Content xml:lang="no">Vurdering av kvalitet, verdi og betydelighet. Inkludere, for eksempel, etablering av evalueringskriterium, innsamling av evalueringsinput og gjennomføring av evalueringsprosessen.</r:Content>
+            <r:Content xml:lang="sv">Att bedöma kvalitet, värde och signifikans. Det omfattar till exempel att slå fast utvärderingskriterier, samla in data från utvärderingar och utföra själva utvärderingen.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-FundingProvision-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>FundingProvision</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Funding provision</r:Content>
+            <r:Content xml:lang="no">Finansiering</r:Content>
+            <r:Content xml:lang="sv">Finansiering</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Providing financial support to a program or project, usually by an organization or government. Funding is made for a specific purpose for which the successful applicant must often account in full.</r:Content>
+            <r:Content xml:lang="no">Yte økonomisk støtte til et program eller prosjekt som regel av en organisasjon eller myndighet. Finansiering foretas til et spesifikt formål hvor den godkjente søkeren ofte skal redegjøre fullt ut.</r:Content>
+            <r:Content xml:lang="sv">Att ge ekonomiskt stöd till ett program eller projekt, vanligtvis av en organisation eller regering. Finansiering ges till ett visst syfte, och mottagaren måste vanligtvis ge fullständiga redovisningar av den.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-FundingOrSponsorshipAcquisition-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>FundingOrSponsorshipAcquisition</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Funding/sponsorship acquisition</r:Content>
+            <r:Content xml:lang="no">Finansiering/sponsoravtale erhvervelse</r:Content>
+            <r:Content xml:lang="sv">Erhållande av finansiering/sponsring</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Searching for, and/or obtaining financial or other type of support for a program or project.</r:Content>
+            <r:Content xml:lang="no">Søke etter og/eller oppnå finansiell eller annen type støtte for et program eller prosjekt.</r:Content>
+            <r:Content xml:lang="sv">Att söka efter och/eller beviljas finansiering eller någon annan form av stöd för ett program eller projekt.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-Sponsorship-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>Sponsorship</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Sponsorship</r:Content>
+            <r:Content xml:lang="no">Sponsoravtale</r:Content>
+            <r:Content xml:lang="sv">Sponsring</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Providing support for research or for other work or activities. Includes in-kind support, for example, providing staff time, facilities or instrumentation. Maps to 'Sponsor' in DataCite.</r:Content>
+            <r:Content xml:lang="no">Støtte forskning eller andre typer arbeid eller aktiviteter. Inkluderer in natura, for eksempel, personal tid, fasiliteter eller instrumentering. Kobles til 'Sponsor' i DataCite.</r:Content>
+            <r:Content xml:lang="sv">Att ge stöd till forskning eller annan verksamhet. Det inkluderar stöd in natura, som att tillhandahålla deltidspersonal, lokaler eller instrument. Kopplas till "Sponsor" i DataCite.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-GraphicDesign-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>GraphicDesign</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Graphic design</r:Content>
+            <r:Content xml:lang="no">Grafisk design</r:Content>
+            <r:Content xml:lang="sv">Grafisk design</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Combining text and images to support and enhance content, and make it visually appealing and user-friendly.</r:Content>
+            <r:Content xml:lang="no">Kombinere tekst og bilder til å underbygge og forbedre innholdet og gjøre det mer visuelt tiltalende og brukervennlig.</r:Content>
+            <r:Content xml:lang="sv">Att kombinera text och bild för att understödja och förstärka innehåll, göra det visuellt tilltalande och användarvänligt.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-ProjectOperations-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>ProjectOperations</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Project operations</r:Content>
+            <r:Content xml:lang="no">Prosjektstyring</r:Content>
+            <r:Content xml:lang="sv">Projektverksamhet</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Initiating, planning, executing, controlling, and closing the work of a team designed to achieve specific goals.</r:Content>
+            <r:Content xml:lang="no">Initiering, planlegging, gjennomføring, kontrollering og ferdigstille arbeidet i en gruppe som er utformet for å nå spesifikke mål.</r:Content>
+            <r:Content xml:lang="sv">Att initiera, planera, genomföra, utvärdera och avsluta arbetet för ett team i syfte att uppnå angivna mål.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-ProjectOperations.ProjectLeader-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>ProjectOperations.ProjectLeader</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Project operations: Project leader</r:Content>
+            <r:Content xml:lang="no">Prosjektstyring: Prosjektleder</r:Content>
+            <r:Content xml:lang="sv">Projektverksamhet: Projektledare</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Person officially designated as head of a project, or subproject team that carries out the work for developing a resource. The project leader remains closely involved in the work performed throughout the life of the project. Maps to 'ProjectLeader' in DataCite.</r:Content>
+            <r:Content xml:lang="no">Person som offisielt utpekes som leder av prosjektet eller delprosjekt som gjennomfører arbeidet for utviklingen av en ressurs. Prosjektlederen er tett koblet opp til arbeidet som gjennomføres i prosjektet gjennom hele prosjekttiden. Kobles til 'ProjectLeader' i DataCite.</r:Content>
+            <r:Content xml:lang="sv">En person som officiellt har utsetts att leda ett projekt, eller ett team i ett delprojekt som utför arbete med att utveckla en resurs. Projektledaren är nära inblandad i arbetet genom projektets hela livslängd. Mappas till "ProjectLeader" i DataCite.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-ProjectOperations.ProjectManager-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>ProjectOperations.ProjectManager</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Project operations: Project manager</r:Content>
+            <r:Content xml:lang="no">Prosjektstyring: Prosjekt administrator</r:Content>
+            <r:Content xml:lang="sv">Projektverksamhet:  Projektansvarig</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Person officially designated as manager of a project. This function normally has more administrative responsibilities than actual work involvement. Maps to 'ProjectManager' in DataCite.</r:Content>
+            <r:Content xml:lang="no">Person som offisielt utpekes som administrator av prosjektet. Denne funksjonen har mer administrative ansvarsområder enn arbeidsengasjement. Kobles til 'ProjectManager' i DataCite.</r:Content>
+            <r:Content xml:lang="sv">En person som har utsetts att ansvara för ett projekt. Den här funktionen har normalt sett mer administrativa ansvarsområden än det faktiska projektarbetet. Mappas till "ProjectManager" i DataCite.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-ProjectOperations.ProjectMember-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>ProjectOperations.ProjectMember</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Project operations: Project member</r:Content>
+            <r:Content xml:lang="no">Prosjektstyring: Prosjektmedlem</r:Content>
+            <r:Content xml:lang="sv">Projektverksamhet: Projektmedlem</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Person that contributes and participates as a member in a designated project or project team. Maps to 'ProjectMember' in DataCite.</r:Content>
+            <r:Content xml:lang="no">Person som bidrar og deltar som et medlem i et angitt prosjekt eller prosjektgruppe. Kobles til 'ProjectMember' i DataCite.</r:Content>
+            <r:Content xml:lang="sv">En person som bidrar till och deltar som medlem i ett angivet projekt eller projektteam. Mappas till "ProjectMember" i DataCite.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-Promotion-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>Promotion</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Promotion</r:Content>
+            <r:Content xml:lang="no">Promotering</r:Content>
+            <r:Content xml:lang="sv">Marknadsföring</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Raising awareness and understanding of products and services, to attract potential users.</r:Content>
+            <r:Content xml:lang="no">Øke bevissthet og forståelse av produkter og tjenester for å tiltrekke seg potensielle brukere.</r:Content>
+            <r:Content xml:lang="sv">Att öka medvetenheten om och förståelsen av produkter och tjänster i syfte att attrahera möjliga användare.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-RegistrationAuthority-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>RegistrationAuthority</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Registration authority</r:Content>
+            <r:Content xml:lang="no">Registreringsmyndighet</r:Content>
+            <r:Content xml:lang="sv">Registreringsauktoritet</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">A standards-setting body from which Registration Agencies obtain official recognition and guidance. For example, the International DOI Foundation (IDF) serves as the registration authority for the International Standards Organization (ISO) in the area/domain of Digital Object Identifiers.</r:Content>
+            <r:Content xml:lang="no">Et standardiseringsorgan hvor registreringsbyrå oppnår offisiell anerkjennelse og veiledning. For eksempel fungerer International DOI Foundation (IDF) som registreringsbyrå for International Standards Organizations (ISO) innenfor domene Digital Object Identifiers.</r:Content>
+            <r:Content xml:lang="sv">Ett standardsättande organ som ger registreringsmyndigheter officiellt erkännande och vägledning. Till exempel fungerar International DOI Foundation (IDF) som registreringsauktoritet för International Standards Organization (ISO) när det gäller Digital Object Identifiers (DOI).</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-Researcher-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>Researcher</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Researcher</r:Content>
+            <r:Content xml:lang="no">Forsker</r:Content>
+            <r:Content xml:lang="sv">Forskare</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">An individual involved in analyzing the data or the study results, but whose role is to help with the research rather than be a creator.  For example, a researcher may seek, and find additional data from another source and correlate it to the study or experiment that is being conducted. Maps to 'Researcher' in DataCite.</r:Content>
+            <r:Content xml:lang="no">Et individ involvert i analysering av data eller undersøkelsesresultatene, men rollen er å hjelpe med forskningen istedenfor å være skaper. For eksempel, en forsker kan lete og finne ytterligere data fra en annen kilde og korrelere det til studien eller eksperimentet som blir gjennomført. Kobles til 'Researcher' i DataCite.</r:Content>
+            <r:Content xml:lang="sv">En individ som är delaktig i att analysera data eller studieresultaten, men vars roll är att hjälpa till med forskningen snarare än att vara en skapare. En forskare kan till exempel leta efter och hitta ytterligare data från en annan källa och koppla dem till studien eller experimentet som utförs. Mappas till "Researcher" i DataCite.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-ResearchGroup-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>ResearchGroup</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Research group</r:Content>
+            <r:Content xml:lang="no">Forskningsgruppe</r:Content>
+            <r:Content xml:lang="sv">Forskargrupp</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Group of individuals involved in the research. Maps to 'ResearchGroup' in DataCite.</r:Content>
+            <r:Content xml:lang="no">En gruppe med individer som er involvert i forskningen. Kobles til 'ResearchGroup' i DataCite.</r:Content>
+            <r:Content xml:lang="sv">En grupp av personer som är delaktiga i forskningen. Mappas till "ResearchGroup" i DataCite.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-RightsHolding-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>RightsHolding</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Rights holding</r:Content>
+            <r:Content xml:lang="no">Rettighetsinnehaver</r:Content>
+            <r:Content xml:lang="sv">Rättighetsinnehavare</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Owning property rights, including intellectual property rights over the resource. Maps to 'RightsHolder' in DataCite.</r:Content>
+            <r:Content xml:lang="no">Eie eiendomsretten, inklusiv intellektuelle rettigheter over ressursen. Kobles til 'RightsHolder' i DataCite.</r:Content>
+            <r:Content xml:lang="sv">Den som står som ägare för äganderätten, inklusive de immaterialrätten för resursen. Mappas till "RightsHolder" i DataCite.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-RightsManagement-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>RightsManagement</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Rights management</r:Content>
+            <r:Content xml:lang="no">Rettighetesstyring</r:Content>
+            <r:Content xml:lang="sv">Rättighetshantering</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Managing licenses for distributed data, tools, and other research materials on behalf of the rights holder.</r:Content>
+            <r:Content xml:lang="no">Håndtere lisenser for distribuerte data, verktøy og annen forskningsmateriale på vegne av rettighetsinnehaver.</r:Content>
+            <r:Content xml:lang="sv">Hantering av licenser för distribuerade data, verktyg och annat forskningsmaterial på uppdrag av rättighetsinnehavaren.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-SoftwareDevelopment-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>SoftwareDevelopment</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Software development</r:Content>
+            <r:Content xml:lang="no">Programvareutvikling</r:Content>
+            <r:Content xml:lang="sv">Programvaruutveckling</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Creating and maintaining software needed at any stage of the data life cycle.</r:Content>
+            <r:Content xml:lang="no">Skape og vedlikeholde programvare som er nødvendig på hvilket som helst stadie i data livssyklusen.</r:Content>
+            <r:Content xml:lang="sv">Att skapa och underhålla programvara som behövs i någon fas av datalivscykeln.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-Supervision-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>Supervision</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Supervision</r:Content>
+            <r:Content xml:lang="no">Tilsyn</r:Content>
+            <r:Content xml:lang="sv">Handledning</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Overseeing one or more individuals or teams in their work. Maps to 'Supervisor' in DataCite.</r:Content>
+            <r:Content xml:lang="no">Å se til ett eller flere individer eller grupper i deres arbeid. Kobles til 'Supervisor' i DataCite.</r:Content>
+            <r:Content xml:lang="sv">Att handleda en eller flera personer eller team i deras arbete. Mappas till "Supervisor" i DataCite.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-Training-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>Training</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Training</r:Content>
+            <r:Content xml:lang="no">Opplæring</r:Content>
+            <r:Content xml:lang="sv">Utbildning</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Imparting information and/or instructions to improve the recipient's performance or to help attain a required level of knowledge or skills related to research or research data. For example, training interviewers, translators, data archivists, or data analysts.</r:Content>
+            <r:Content xml:lang="no">Gi informasjon og/eller instruere slik at mottakers prestasjon forbedres, eller for å hjelpe til med å oppnå et nødvendig kunnskaps- eller ferdighetsnivå relatert til forskning eller forskningsdata. For eksempel, opplæring av intervjuere, oversettere, dataarkivarer eller dataanalytikere.</r:Content>
+            <r:Content xml:lang="sv">Att delge information och/eller instruktioner för att förbättra mottagarens prestation, eller för att bidra till att nå en begärd nivå av kunskap och förmågor kring forskning eller forskningsdata. Till exempel utbildning av intervjuare, översättare, dataarkivarier eller dataanalytiker.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-Translation-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>Translation</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Translation</r:Content>
+            <r:Content xml:lang="no">Oversettelse</r:Content>
+            <r:Content xml:lang="sv">Översättning</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Expressing the content of text or speech in a different language than the original language used. For example, questionnaire or study report translation.</r:Content>
+            <r:Content xml:lang="no">Å uttrykke innholdet i teksten eller talen i et annet språk enn originalspråket som ble brukt. For eksempel, spørreskjema eller studierapport oversettelse.</r:Content>
+            <r:Content xml:lang="sv">Att uttrycka innehållet i text eller tal på ett annat språk än originalspråket. Till exempel översättning av frågeformulär eller studierapporter.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-UserSupport-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>UserSupport</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">User support</r:Content>
+            <r:Content xml:lang="no">Brukerstøtte</r:Content>
+            <r:Content xml:lang="sv">Användarsupport</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Providing assistance to users of data, metadata, tools, etc.</r:Content>
+            <r:Content xml:lang="no">Å gi veiledning til brukere av data, metadata, verktøy, etc.</r:Content>
+            <r:Content xml:lang="sv">Att ge stöd till personerna som använder data, metadata, verktyg osv.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-Visualization-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>Visualization</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Visualization</r:Content>
+            <r:Content xml:lang="no">Visualisering</r:Content>
+            <r:Content xml:lang="sv">Visualisering</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Representing data, analysis results, or other information as a chart, image or animation, to aid in the understanding of their meaning.</r:Content>
+            <r:Content xml:lang="no">Representere data, analyse resultater, eller annen informasjon som grafer, bilder eller animasjon, for å hjelpe til i forståelse av deres betydning.</r:Content>
+            <r:Content xml:lang="sv">Att återge data, analysresultat eller annan information i form av diagram, bilder eller animeringar, för att göra det lättare att förstå dem..</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-WebsiteDevelopment-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>WebsiteDevelopment</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Website development</r:Content>
+            <r:Content xml:lang="no">Nettstedsutvikling</r:Content>
+            <r:Content xml:lang="sv">Webbplatsutveckling</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Creating and maintaining a website related to the data. May include web design, building a user interface, network security configuration, etc.</r:Content>
+            <r:Content xml:lang="no">Å opprette og vedlikeholde en nettside relatert til data. Kan inkludere web design, konstruksjon av brukergrensesnitt, nettverkssikkerhet konfigurering, etc.</r:Content>
+            <r:Content xml:lang="sv">Att skapa och underhålla en webbplats som är kopplad till data. Det kan inkludera webbdesign, att skapa ett användargränssnitt, konfigurera nätverkssäkerhet osv.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>ContributorRole-Other-Category</r:ID>
+         <r:Version>1.0</r:Version>
+         <l:CategoryName>Other</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Other</r:Content>
+            <r:Content xml:lang="no">Annet</r:Content>
+            <r:Content xml:lang="sv">Övrigt</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Use if the role is known but not in the list. Can be mapped to the roles 'RelatedPerson', 'Producer', and 'Work Package Leader' in DataCite.</r:Content>
+            <r:Content xml:lang="no">Bruk hvis rollen er kjent, men ikke på listen. Kan bli koblet til rollene 'RelatedPerson', 'Producer', og 'Work Package Leader' i DataCite.</r:Content>
+            <r:Content xml:lang="sv">Används om rollen är känd men inte finns med i listan. Kan mappas till rollerna "RelatedPerson", "Producer" och "WorkPackageLeader" i DataCite.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+</ddi:FragmentInstance>

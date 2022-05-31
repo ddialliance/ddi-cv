@@ -1,0 +1,789 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<title>Controlled Vocabulary</title>
+	<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'/>
+	<style type="text/css">
+
+		body {
+			font-family: 'Roboto', sans-serif;
+			margin: 2em;
+			font-size:0.8em;
+			/*
+            font-size: 90%;
+            */
+		}
+		h2, caption {
+			font-size: 130%;
+		}
+		div.UsageTitle {
+			font-size: 110%;
+			font-weight: bold;
+		}
+        p {
+            margin: 0;
+            padding: 0;
+        }
+		hr {
+			clear: left;
+			color: #D3D3D3; /*lightgrey */
+			margin-top: 2em;
+			margin-bottom: 2em;
+			margin-left: 10%;
+			margin-right: 10%;
+		}
+		table, th, td {
+			border-style: solid;
+			border-color: #D3D3D3; /*lightgrey */
+			border-width: 1px;
+			border-collapse: collapse;
+		}
+		caption {
+			font-weight: bold;
+			margin-bottom: 1em;
+			text-align: left;
+		}
+		thead {
+			font-size: 120%;
+		}
+		th, td {
+			padding: 0.5em;
+			vertical-align: top;
+		}
+		td.Code {
+			font-weight: bold;
+		}
+		td.Term {
+			white-space: nowrap;
+		}
+		dl {
+			float: left;
+		}
+		dt {
+			clear: left;
+			float: left;
+			font-weight: bold;
+			width: 15em;
+			margin-bottom: 0.3em;
+			margin-right: 1em;
+		}
+		dd {
+			float: left;
+			margin: 0;
+			margin-bottom: 0.3em;
+		}
+		span.LanguageCode{
+			color: #D3D3D3; /*lightgrey */
+			font-style: italic;
+		}
+		table.UsageDetails>thead>tr>th {
+			width: 15em;
+		}
+		div.CodeList {
+			page-break-before:always;
+		}
+		.URL {
+			font-size:80%;
+		}
+
+		@page {
+			@bottom-right {
+				color: #97acc2;
+				content: counter(page) " / " counter(pages);
+			}
+		}
+
+		@media print
+		{
+			div.page{
+				page-break-inside: avoid;
+			}
+
+			.pagebreak { page-break-before: always; }
+		}
+
+		.logo {
+			width:120px;
+		}
+
+		.switch {
+			float: right;
+		}
+		.switch button {
+			border: 1px solid black;
+			padding: 4px 10px;
+			background-color: #fff;
+		}
+		.switch button.active {
+			background-color: #dddddd;
+		}
+	</style>
+	<script>
+		/*<![CDATA[*/
+		var callback = function(){
+			var logo = "data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPAAAAA5CAYAAAAIsqbuAAAbGUlEQVR42u1dB1hUV\/Yfe2LcZJPtSXazu\/\/dTTbZqsZootgVFLuJbhLNRo0NUSkiIEgTpEhTAQEpooJiR0E0YolKMaiIhSIqiNJBeoez91xgnD73zbyBJ3\/P951PGN+7cy9vfnP6OSJ4SS\/pJb2wJNLVwu3t7dDW1gbFZZUwxWoH\/HLBRnh1xnroM9UIRJNWdvCU1TBwujG8MccUhq9xA+fI0xCbcvuF+yO2kbOezsiG5YdiQD8oAt7b4gVv2myF1yy3wE+sneFtew\/481ZfmBceBSEpNyAlL\/+FO2NTSyNczDgHbiftYUOUESwKmA3zfKfALO8JMN93Kvl9DqwI+Qo8Yp3gcuYFyCt79MKdsb29DbIeJ8HRH1whNG49uEbOAYfwKWAbOh42h00E530zwOPAF7D3rBX8mHkSHhff7V0AbmpugZq6Bmhsaha\/tjn0BPxklgkzDyHcV9+IgH0djDB2g6wnxYJ70BX19RB1Ix1+becGorXWIDKxhYEWDjCIkQdusAfRehvoZ24Hf\/PYCcm5wgP004p8OJSyH2Z7TYBJW0eAvvunMMNzLDNP3zaG3PcxzPGeBBsPGENRZaHgzljfWA1pOWfBKcIAzPyHgUXgJ2C9ewxhPSa2Ch4DG3Z9DJbBn4H3oa8gr\/gOb3vzObwI1u74G9iEjANr8j7G2z+CwJjVugNwc3Mr1NU3yr1eXlkDg6av5QRi5Ndmrof+BmvgzbnmkHAzUzAP\/W5hMbzn5AmiddbQlwBwEAfgyvIABDIBf3+yTkjKdahsaBTEGVNyrsIcn0kwwWU4BSIX4CoC8mTXT6iUvpmbKpjnWFTxELZGzgazgOFgGfQZM2iVAdkicCQFMkrmhqZarfZ2OsWfrDkaTlz1hOq6MnhWUwQZeVfA1O\/fkHT3CL8A9jl8DkQTVoBdaIxyMU\/UZQQkVxCLpfJMVL1Xwyz7XT32wBftPwyDCOD6E9YGtKpYZLoZfu\/oCQ0tLT1yxnV7l1Fpqw1gVbGhpx4B8wjYEGnUY8\/xwHl7KtEQINqAVhVbBI4C1\/2zobW1ifP+svKTCKYWQ8mzPPg+dTckXA+FCzf3UNUeyZ6o9CiVtQawmf8hGDTNWAwylJa19colyPXMXPA\/fgE+WuIAg2doDmb8MvjoO6due+AJ2Q9AZGylM9AqBDJRr0WmtlBcU6vz87URuy86eR9M3DpcZ8BVxCjdv9gxrdue4\/0n18DEf6jOQKuIN+waARuJZK6tr2DaY17xbTDx+yf9GSX5mu1\/hZr6cnhUmEbt8fwStLnbYcexJVDb8ExzAP+Y8QhEE1dKARFt1zMp6m0AVLP\/sNgWXjFcqzGI++mvgU3hMTp\/6JanzkJ\/M7tuBa+kev1nZ2\/dn\/HgWgKmYd0K3i42cP8MHI5u1PkZUSW1DPq0W8ErZiLt3aPmM+3zYloEsXX\/Kgbwat\/3xf8Xec4Wsp+kiK\/Lzk\/RAMDt7WAddBQGGa5TCCyrwKNMy\/x9+RYYKCG9NeX3l9jDtaxcnTz0d+09egS40uxIpf+CPQd1csapbqNgpue4HgGvmL3GETtZD2JuHNbJGdFz3CPAlWFTIv33n7NRq97jF00XgM0ChhG7919gQSR5aJyJ+LqHhTfhcnoUNwC3tbXDK9PX0lCQYqeTCVy795BprY+WOfECYOQBZJ1jV9N4e+A7r6RAX6K+Inh6HsDP+UPX7byd0em4NYx3HtazwJXicWBIQOwTv5W3M169c4g6loQAXkn2jF6oXLPNImpzp9RFABv5ftDpZ1oM63f8XXwdOreelNzjBuC6+gZY5BJKbVBZEL2OtumU1cRob1O5Rn5RObEJjsDrs02pY4oPAL\/e6bHmLa62fhMN7wgJvNQuXrcJMopLtT5fY3MDAe9QAYH3OeO+0Cbng8w7wztCA7BZwMdQUqlYa6yoKSQq92gaj6YqtM\/7YolrRiR4Y1Mt1DVWguMefWhpbWYDMIKyprZe\/PvltGxq\/3YBCOO1P5trDjFXbipdYzCR3Gi34rVcY8KzbPxh6bYI+M5zL7xqqPz+n39uAdfv52n10PubbRYccKVBbA1DPf21OuN4F2GCVwxisr\/QS9qdcWPQKMEBVxrEw2DH0f8q3HtlbTERcp9AU0s9dV6JBWhDJRSV59DYsN\/xZexe6GYlIQ10WB1IuAa5BaVqVO826GewRiPp2pfcJ0mfGrurlMSoHTS3tHJ+4IXV1fAnFx9Bg1eSzWPiOZ\/xStYFmOI2UtDg7eJpHqMh\/fENzmfEmCk6jIQMXkmOS96pxBt9B4x8\/gJOEdOoKXDp1n6IOGtJ1evyqifsceCGxiatVZlvtoZRcGnkbZ4qHS88fDFV7T2YNMJZbTa2UptJ9avNrvCOvTu8bcfOeP3PrJ1pskZHxpYNLwDuY7oZHpZXMJ+vpa2FZkXNUOuwGgcLd0yDr\/xmcOIv\/Qxhxrax1Ck20eVjmL5tNC9hJu6hTX7CRFv2GipkdIhhHJYvAGOIqbz6qYoQXyvcy70MmY8TlardItVO53atAZyWnadEdTYlarWRUiDiPb\/5QjrE8OhpCQxWo4ajql5V18C+v6eFNBNKFWAweSM5JxfKa2qhrJoDk+sfl1XAmbtZEHA5CT71CaRqMNqz2nqnDXfvA9anczB5LwN4x4Khhx7ceJgMlXUVHLkcHpXkQOqDRNh5xh3m+06hXxgoSbUBcfwt9lBhQfl9rTOqOpIwPqEx1tqGCjlGNfZc6m7eALyJcHi8uXY+G2XAlcxn1pb+vXyLtGpMgPvHr20wJg3vf2Mn5xhDlVs0cQU47Tklv+EJK8j1q6jXWzbBA9c08Yumv6c\/fML2ByCSUR1gEMBZhfzmZHt8f6lDKmtod\/cl973r4MH0XhOp9GXIlPIYA9kF\/CXoF1cWwHfBC4hUHs70BaJICm+LdWKUvsN4S75QRT8QdZZPNXpj4Chw2T+TXwBjUQLfhOpwV47ztbsP5P7\/C4cgGEiAu9AxGNrb1MuWhNR79HrR5FUwy1ba6bHUIwL6kdfV0eb4BCaw6ALAXVRSVQP9TDUDMWoOqjzTza3NYBT+X\/ZUR54BLEn+Z7eBPlGxuQIZUzvVaYJnfwwC6xC9FxLAyOgtL6nM4w\/AbTIAuv+4iNif15kWXOa2B5LvyseD+xMAD+n0LIfEXlF4b2ziLU6bj0tOh9mb\/ORef1xYBq\/IOMBkqai6hti1bj0OYKRT6fc0VquXHjyudN3vb8dSm1QIAEZa5D+Lc661IeFrRDVXRphqiM4ePtMfuxvAyIcvbeUHwBkErKGdAItOuEZV01cM11HgobR7c5aJ3CLR56\/BL+eaQ99OKYsplr\/70hqaOtXwt+aawevE5hWru2SdxS6hOvugDCB2MKrYX7uFK73md06e0JdR8ukawDR8UFcPhrv2cA8tGVspXRMLB2Z46gkGwEj1jbWcUzcNPD5Tuh5WFG3kMU2ypwCMmVq8APjDZY4wmKi5mJgxRIGTCMFcWlEtnRr5nRMtzJe9Fgsc+pB1FDqbyP\/V1Dbw\/gFx2RsnZRcrtPFpwga7R7g7ACz2F7jv5AzisGvyIZf88lzOpYDdAWCk2oYqmOT6CaewUkVtmcIniYDjuwChJwCMnJoVqz2Au2zVISqSK9D+lCTMqhqsQWaVZdBR3j8cb80xe\/4FQiRxa5t8Zk96QREtFuALwBVEenqevwJeEuxz\/ioEJ12HS1kPMB7AvP8Msre+HAsopgTukVsnMjGce7mfGgAfvbYfjqTsk2J87fyd01D47AmnLKoF2w2oZGXdW+zN4wo8zzm8lwX2JIBD4tZrB+C6xiapHGWsGEIpiiyZjGFguUN6ESVSVl3B\/sUb\/BfqD5RJGnGLPit3zajtwdycRWoAnFVSpvQLAePLNA5MVN3pAXuYzjA7eB8NNzGr0WutISDxR6k1DDWp11UD4Fle4xXGjrsK9zEObOD+KdxiLNx3PmbF7NTC9j0lVUVS92NGki5KAHsKwBjHTr53THMAbzt0TurDHxJ7uUPf7BQgGL7pKrAfvtIZhq1whn8QlVuTAv1XpqlPuEi8nQN\/+GpTByiJXb3EXT0AzhPtYIhEiOnthVZQWFElfWgO4NAWwHJgW2MJ+n5has9hHB3DKaT0W0dPqfs1KczXDMCKunDowTjnoVBRoz53e4ILWx0y1it7nXaWDh0FDOtVAEZb3mX\/LM0BPM8xSEpC3nv0VM6TLFkFhKxJVRFK9LEmnio3Zr37OAX5IKIFDOncD9q0TuEnaVmjMmptbYUBElIYf\/7+Rgbn2K+uANzleKquV23\/Z5L3Y+3+MdDCnoJYrEk11dJa254CcJdkXhexRO0HcI7XBKb1prqPglVhi3s1gLEfV1c5IWcAZ+UXwU\/nmkl5imVpioUvTcKQBeRgw3UQcPwCvNbprVYFXsywQiDeyFIe99p55LyUFJWV3pjkofJQ45dDn859onq\/yP25N7qgqppztRHfAFbnPdZEU8BrxXHR9FiNEif4BXAHiONuqlYJr2aeZ14Pc7m7qLqulJfMK2EBWA\/MyZeSRgD2i7lEQUsBiQ6pmfLhIixg6DdVGsD9ZfKVo86lwN9k1GpMfxxv6gVWQUchv7hc\/aYmrlRbpRR++qradWKupNECiA+XOopfi0hN454woQMAI\/tdSlK5f8PACPb8aCKBKxs6pDp2uZjRbTawmmwq52HU2aWKOsJdLEkdH4vvuZ59WmdtcHoSwFhJ1dhcxx3AZoFHxCmN\/Yla\/M\/lW+RT48or4Z0FllLA9CF2syx5R38vBbh5dtya0fVhcIp94xrGvF5e0fMQhOPZi4IB8EjvXQq95OKQWPwFTnu8X1pOs5bWRSwVDIDRsbU6bBEvdjB2txRn4l0P65UAtgweLVdxxATghsZmMPKOpDan6LNvISxOcbaUbcjxzubsq8A+TD7ZvKiskhYhSILNyDeKeUNtrW1SNqwyHrPOg3nNFokSw\/l7DggGwGiLB1+9pnTdu08LmddFb3fsvSwory2DBTunCQbA1AGlprJoNlmXJWaNHu6G5g4tA5ur90YAox2cmZfIHcD1DR2lgyXlVVqFcdYQsHap4l08dzM3Cayo64esCu2lIDykLGsj5\/Hz8MPonbuFA+D1m2AmUZOVZy01cip22J18HR6VPICZXuMEBeDJriNVPiIseGBpHI8JHWU1JfSegJiVvRTAerQbh8YA1pb+paBhHXbSGLN+G\/njHIa8wjK1a6hrt4PZYA+flqhd5+ilG1RSv2pgLH7tU44xYJ0C2MQGRvsEKV0XK8JEHAod\/K6mwMOSHI0b1ekKwFPdVAN4Tdg3VNVmaRJf8KwjMuJ\/YnmvBXCiTPN2RhWaHwArk55doOzyQmOfaKV5wTV1StdBD\/TkDT5qvdB99deIPeKSHnVBSWATW2oH8wXg4OTUFxLARowAlpbAK3qxBI7hDuDqmnqtwYtliF3Ao3FbApy+U1fDzE1+NP3y919tEudB6xGJrNpubYHtRxJgIJGedBAaWQule3tbm1p7d4CBscQXhwkMlOjS8bmQbOB11rA0Uvm3bXF1DXPIC23gk5028EKB2cCS3mNFhF09WIr\/Mbbd0Fzf+23gx4k9J4GLK6rgW7dwuJktH+fF98COGQgs9DTrggytd8qp779Z+Dzm6iQgLzRWQyXmKNdEYtLvctpjTlk57Wi4VkBeaBYJPIWxsAHDTV107kboSy+0JIBxqiAfLXTUUX\/954X9LJMcuNIAfWkPNtrjf1\/hLMg48AcuPlCvovOJ0+kEzeLAxywFA2CUmv\/dNY+fdEoXyThwXC+OA9dyB3BTUwtlXZP+Rl+xLZyW\/Zj39X8xb4O0zUxUb4vgY4LLxMKKo\/zyZyrP8itbV04hKXEm1u1TggHwXO+JtFJJGVXXP2PunSWZiVVVVwJWwb0vE8tM00wslL51Evm5KXceUDv1rTmm8AYBwh8X24JD+Em4naPZLNsSolp\/1tkWFsv8hq5w1skXBDp+JJvlvTHbFDIeFwoqFxpZzzeYIZVyE+O84Q4JLM6FbqyFaT2eC40FCCOgoUl1VtEWWpGkfi1sx7MqdNH\/g1zoUZoXM3TN951O7MhXO5uxY3cNTK3Edq3UQUV+vvPgCWdgfWLkSqThajGAz167ozMpj1MTu+qTh652hebWVkEBGIGZW6o6pfReQRFzMUMfIs3fdZR2Ck5yHdGjAEZP+CI\/9c3aZjOuidVInnG9vxppqzbVSPSFscvUZkFhnfD6HQeZms8hfbTUQdwbGoH18Ik8GPafTeZsE5+8mgYGGFKSsd1xhAtOi8Aw0snkdLn7RvoG9QiAMWw0f\/c+KKxUnSyDGVhDOGZ0+ctkdOGsoZ4CMGZe2R4yVfv8npTnEvV5DHM9cHGVtCa181jvqgc29R8GyfeOagfgX3xuwVyQL2Lo\/IijWIbIxXJXwn+cOlRIY98oeI1IeXHJ4JTVMIqo2onp9xUml1y+lQ0Oe07SGuGuoeE4\/Hul1z6aJIIN+TBWPERJRRXSrYJCXjtyYGdIrC6ibWJleZ01vOewDf4TdgAam9la9eI9AzkAePIu+Trp\/YmhvAMYa4wRnLKMTii0Y78mEvfSPbYMuQt345mLGDo6cshXNRWUZdPxnb0FwLtj13HPu5B9YYFzCPtkwOnGUFCq2hGDOdaKaoYRXFiCiDnVshMPaV\/oCSuozS23YewLTe4domDw97sLLcHIJ1KiFthYcXZlO789sUpramHTiXiwiTkjxQ6x5+DA9Vu0YR0rZRZyb6kTkiLfEyuvLJcW1vMJ4LCLfhB6YacUh1zYAYeS90LGk3Soqa9kPie21NFnbKnTkcBRquA59raeWKe0BzDOFuqvzz7LCLtPqiNUj0cQW\/TNOWYUfIMZhpyhl\/rXn0tPZnjwpERqqLg6Doq7rHRPvyU2Y1+zzYJqaocSmmu3EPVdKYXX1M7ukBmnfWGetDLCDhZ8DjN74btSIv1jpTPtmsECEhY1WpZy8osh4NgFsQrMuvbaHQeYwausI6XY\/qqshp\/ZbBUMgMdvDyYqtxWvfaGxsH8iY4y1OwBcVl0CllFGHFV7PUh5oLz2G6f5OeyZ2gv6QrvwB+BwIjFlK4qUThDUN9LojQuJ6s0y50hyANDINW5sqj1RnT9Y6qB2DzanE5hsTV0DOCHzPmfJ+3wyg\/KijqbWJsFMZkD6NnA+9SZzn8ygOn32zI+BLzSAOyYz5PIHYOpkuJXN1CoW7dtGDdIwUQqzqNLTLHfAoq1h8I1ruMr5wJI8wcJHZaE815CSrgC8j9iuH7r4MIeLZNMw32GcjcTa4E4XAG5ra4ULd+KZs61kZyN5nHJkeh++JhN2+2wkov7j1ENNSeV0wj9\/a68WLOgB1oQKiss52bPMqvPElZz2kfa0QG1mFu12UVTCywcaJxUaRZ+gXxwDtZhOaBAcwZz6GpUUzjidcAzcL8zQ+ozV9ZWQ+jAJvgmYo8VM4nFw+tYJ9s9TWTaVZLoG8OX0SP6mE4Z0TSds1w2A41Pv0hCPNramLGHONTatm2MboLYBHlfGWPNYc2\/ufwRjK\/US+GkRihNaDcXC9NrWNqhpbIS0x0\/h6I3bMCMwQjwrWJvxoih9H5SVM5+vpbWFaUIhAjjr6W0qNVkZ1dvmlkYorSqCnKJM2Hs5CBb5z+7sET36hZsPjADGMynjS2n7eJW+quYDaw1gpJl2u1R2yPh4tfqhTJ\/bBVL1VzR5JS3t41vqdvXnQu+5RtpAVTX8cYuXam8vAY3I1LYDgKxMrscUR00KHVSxyYk4zme8nHmeQRqOo8UHCD4ujF5iDPVokjyiLGyUlpfK+YxVdaXgGjWXlxnBypjPTpinkny11nZELBdl5hfJDeN+vbNla7OaUaTF5VW0g4YuQCvJxn7RWv8xNB3z2V2Mjq5\/bfPTztvtPJQXkOmKcX\/BF3ZqdUaLwFE6L7rXrmBhOPgeWcyLSSZivRBral+XcV79fJ766eJnU+6obZGjtd07YQWz00oV+V9NoZ5doQL4T87e8FBNBZM60rTlbHex12kXrctak+4eoXW1wgTwWHCLmgcV1QXdC2Ck9762oVIXQ0xxSenM92G6pC5ATFMvJ67kBbxd5PtDEvQh6q\/QwPvBVl\/ezuhw1JJIumGCAi6q355xW3g749U7B2EjUXmFBuBtB7\/g1csv4nrD07JnKkebKCMr7DutpmE7F8b48+74q6AresfeXRhqs7EVzA8\/oJMzsvSh0jVjB00saDiWelAnZ9yy1xA2CQC4pv7\/hn1nrXg\/n0iTm7BgQNMulgMM1mgF3P4GxrQvdWlljc5T\/sxj4nvMLkbHFzrWdE0bo9bABOfhPQJedJjZHdmg8zPGJm+ndbY9At7gMeAWOVdnZxNpemNjYzPU1HJvhLfKa5\/G4MX86L98aw\/RP9yA7qJ4zJIytupeqbvehnqxC6t1\/yXV2t4KB5MjOsNM47oNvBgm+ny7frc9x6z8ZCoFuxO8GJJCz3VNfbnwACxO12tugfr6RiqVu6i0olr5G07irkajzY327u3cAugp+nLvIRhgbq9R1hQzcIm0\/53jNqhnLDvkm4wjltAOkrq0c3E8itn+lT32HKMSbGnCh5UOnVwY38UiC4yP65pEfC6GLV3\/gI6usctob+YPiLT81jUcHj7tKAVb5r6H3Tk1aRXNaXbcHwdCIqwlxkomDOn009JjPWCDA40VY\/ngrsQfoaK+XhBnTLp\/GWZ7TyBScpjWsV1sxo5dJ+f6Tobrj1IE8xwLy++Dy76ZNKSjfQbXGNgYOJKOBk25dxzqG6u77Rwivhd8WFgGIfGJ8PZ\/rEA07jsQ6S2Dt+aagYlfNPx0jpmKod8doSn0cmPSx1r\/aDh3MxOESGW1dbDvehr8wta1o2ifqLtc0iIHEimOY1WwnPGvbtvhyqM8wZ0xvzwPDhDVeqbXeCqVWUafyAIXc7Bne08E88jVUPDsieDOWNtQCTeyT4NjhAFtz2NBQMgFuFYEuKgmI3A9oxdCblF6t59B1B1vkvYgH7yOJIB50FGYaRcAembeMNbcCwxs\/GC5TyTYRZyChLRMaGppgReRWtvb4NTdLFhy4DhM2hVOJLQnvGHtDIMtneA1yy3wKzt3+D9nH5gVGgnBSamQ+OjxC3dGHCp2\/t4Z2BqzGcwiV8FX\/rNgjvckKqnx36\/J78t3fwmuJ+3gYsb38Kj0wQt3RkyVzMi7AocuOcPu2LW0P5Vd2CSwCRkHtqHjYcve6eAeNR8izljAtYwTkFd0u8f3LIKX9JJe0gtL\/wOvglnPV7PvCAAAAABJRU5ErkJggg==";
+			var images = document.getElementsByTagName('img');
+			for(var i = 0; i < images.length; i++) {
+				if( images[i].classList.contains('logo'))
+					images[i].src = logo;
+			}
+
+			var buttons = document.getElementsByTagName('button');
+			for(var i = 0; i < buttons.length; i++) {
+				buttons[i].addEventListener("click", function(e) {
+					toggleLang (buttons, e.currentTarget);
+					e.stopPropagation();
+				}, false);
+			}
+		};
+
+		function toggleLang(buttons, currentButton){
+			var id = currentButton.value;
+			var divs = document.getElementsByClassName("cv");
+			for (i = 0; i < divs.length; i++) {
+				if( id !== "all")
+					divs[i].style.display = "none";
+				else
+					divs[i].style.display = "block";
+			}
+			if( id !== "all")
+				document.getElementById(id).style.display = "block";
+
+			for(var i = 0; i < buttons.length; i++) {
+				buttons[i].classList.remove('active');
+			}
+			currentButton.classList.add('active');
+		}
+
+		if ( document.readyState === "complete" || (document.readyState !== "loading" && !document.documentElement.doScroll)) {
+			callback();
+		} else {
+			document.addEventListener("DOMContentLoaded", callback);
+		}
+		/*]]>*/
+	</script>
+</head>
+<body>
+
+<div class="switch">
+	<p>
+		<button value="all" class="active">show all</button>
+	
+		<button value="en" title="English (en)">en</button>
+	
+		<button value="no" title="Norwegian (no)">no</button>
+	
+
+	</p>
+</div>
+
+
+	<div class="cv" id="en">
+		
+
+		<div class="page">
+			<div style="width: 100%;">
+				<div style="width:130px;float:left;padding-right:15px">
+					<img alt="agency-logo" class="logo" src="data:image/png;base64,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"/>
+				</div>
+				<div>
+					<h1>DDI Alliance Controlled Vocabulary for LifecycleEventType</h1>
+				</div>
+			</div>
+
+			<hr />
+			<h2>CV definition</h2>
+			<p>Specifies the event happening over the data life cycle that is considered significant enough to document.</p>
+			<hr />
+			<h2>Details</h2>
+			<dl>
+				<dt>CV short name:</dt>
+				<dd>LifecycleEventType</dd>
+				<dt>CV name:</dt>
+				<dd>Lifecycle Event Type</dd>
+                <dt>CV notes:</dt>
+                <dd>This vocabulary was first published by the DDI Alliance. Please see: https://ddialliance.org/controlled-vocabularies/all.</dd>
+				<dt>Language:</dt>
+				<dd>English (en)</dd>
+				<dt>Version:</dt>
+				<dd>1.0</dd>
+                
+				<dt>Version notes:</dt>
+				<dd><html>
+ <head></head>
+ <body></body>
+</html></dd>
+				<dt>Version changes:</dt>
+				<dd><html>
+ <head></head>
+ <body></body>
+</html></dd>
+				<dt>Canonical URI:</dt>
+				<dd>
+					<a rel="canonical URN this version" href="http://vocabularies.cessda.eu:80/urn/urn:ddi:int.ddi.cv:LifecycleEventType:1.0">urn:ddi:int.ddi.cv:LifecycleEventType:1.0</a>
+				</dd>
+
+				<dt>Agency: </dt>
+				<dd>
+					<a href="http://www.ddialliance.org/">DDI Alliance</a>
+				</dd>
+                
+                
+                
+			</dl>
+		</div>
+		<hr />
+
+		<div class="CodeList page">
+			<table aria-describedby="page-heading">
+				<caption>Code List</caption>
+				<thead>
+				<tr>
+                    <th scope="col" style="width: 25%">Code value</th>
+                    <th scope="col" style="width: 25%">Code descriptive term</th>
+                    <th scope="col" style="width: 50%">Code definition</th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">StudyProposal</td>
+                    <td style="width: 25%">Study proposal</td>
+                    <td style="width: 50%">Defining outlines for a new study/data collection, including needs for information and general  research  objectives, as well  as main concepts, study scope and methodology, usually to be presented for approval to funders, partners, or other relevant bodies.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">Funding</td>
+                    <td style="width: 25%">Funding</td>
+                    <td style="width: 50%">Decisions to extend financial support for the study/data collection.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">StudyDesign</td>
+                    <td style="width: 25%">Study design</td>
+                    <td style="width: 50%">Detailed planning for carrying out the study/data collection: refining concepts and identifying ways to measure them, defining the target population, time dimension, sampling frame and sample selection, data collection methodology, production systems and workflows, etc.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">InstrumentDesign</td>
+                    <td style="width: 25%">Instrument design</td>
+                    <td style="width: 50%">Building the data collection instrument, for example, the questionnaire or interview questions, focus group topics, observation forms for an observational design, standardized record review, independent and dependent variables for an experimental design, etc.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">QuestionnaireTranslation</td>
+                    <td style="width: 25%">Questionnaire translation</td>
+                    <td style="width: 50%">Translating the source questionnaire into other languages, for example, in cross-national surveys or in national surveys conducted in multilingual countries.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">QuestionnaireAdaptation</td>
+                    <td style="width: 25%">Questionnaire adaptation</td>
+                    <td style="width: 50%">Changing the wording of questions to reflect cultural or institutional differences if same-language questionnaires are administered in different regions or countries.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">InterviewerTraining</td>
+                    <td style="width: 25%">Interviewer training</td>
+                    <td style="width: 50%">Training the interviewers that administer questionnaires in survey-type studies.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">EthicsReview</td>
+                    <td style="width: 25%">Ethics review</td>
+                    <td style="width: 50%">Review of the study/data collection to ensure that it complies with statutory ethics requirements or regulations, including verification of the informed consent statement, performed by a qualified body, like a Research Ethics Committee, or Institutional Review Board.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">LegalReview</td>
+                    <td style="width: 25%">Legal review</td>
+                    <td style="width: 50%">Review of the study/data collection in terms of compliance with the law  (legislation concerning confidentiality, the protection of children, etc.).</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">Sampling</td>
+                    <td style="width: 25%">Sampling</td>
+                    <td style="width: 50%">Selecting the sample for the study/data collection.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">InstrumentPreTesting</td>
+                    <td style="width: 25%">Instrument pre-testing</td>
+                    <td style="width: 50%">Small-scale application of the data collection instrument designed to identify potential problems before using it for the entire study.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">PilotStudy</td>
+                    <td style="width: 25%">Pilot study</td>
+                    <td style="width: 50%">Dress rehearsal of the full project, for example, by administering the questionnaire to a small number of people, then coding and analyzing results, etc.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataCollection</td>
+                    <td style="width: 25%">Data collection</td>
+                    <td style="width: 50%">Setting up, running and finalizing the data collection process, including follow-up procedures, etc.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataCollectionReports</td>
+                    <td style="width: 25%">Data collection reports</td>
+                    <td style="width: 50%">Reports on designing and conducting the data collection process, including methodological decisions and problems encountered. These may take the form of conference posters or presentations, journal articles or online publications, book chapters, etc.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing</td>
+                    <td style="width: 25%">Data processing</td>
+                    <td style="width: 50%">Changes, additions or deletions brought to the data at any point in time after collection.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.Coding</td>
+                    <td style="width: 25%">Data processing: Coding</td>
+                    <td style="width: 50%">Converting raw data into machine-readable codes.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.Classification</td>
+                    <td style="width: 25%">Data processing: Classification</td>
+                    <td style="width: 50%">Documenting the meaning/substance of coded data.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.InterviewTranscriptions</td>
+                    <td style="width: 25%">Data processing: Transcriptions of interviews</td>
+                    <td style="width: 50%">Transferring video- or audio-taped data into written form.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.Weighting</td>
+                    <td style="width: 25%">Data processing: Weighting</td>
+                    <td style="width: 50%">Calculating weight variables and adding them to the data.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.Aggregation</td>
+                    <td style="width: 25%">Data processing: Aggregation</td>
+                    <td style="width: 50%">Calculating cumulative measures of individual-level data or microdata.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.CompositeMeasures</td>
+                    <td style="width: 25%">Data processing: Composite measures</td>
+                    <td style="width: 50%">Calculating scales, indexes, or typologies and adding them to the data.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.Derivation</td>
+                    <td style="width: 25%">Data processing: Derivation</td>
+                    <td style="width: 50%">Calculating new variables from measured variables, usually by recodes.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.DataQualityChecks</td>
+                    <td style="width: 25%">Data processing: Quality checks</td>
+                    <td style="width: 50%">Checks for consistency, undocumented codes, missing data representation, etc.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.DataIntegration</td>
+                    <td style="width: 25%">Data processing: Data integration</td>
+                    <td style="width: 50%">Creating complex datasets by merging related data, for example, hierarchical datasets with multiple but related  analysis units, or multiple-wave datasets, or data collected in different countries for a cross-national study, etc.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.DisclosureLimitation</td>
+                    <td style="width: 25%">Data processing: Disclosure limitation</td>
+                    <td style="width: 50%">Editing the data to prevent identification of subjects, for example, performing anonymization measures like recoding or top-coding sensitive variables like income levels, suppressing some geographic indicators, or replacing personal names with pseudonyms and/or categorizing background or demographic information in qualitative data.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.Imputation</td>
+                    <td style="width: 25%">Data processing: Imputation</td>
+                    <td style="width: 50%">Replacing missing data points with values calculated according to an imputation technique.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">MetadataProduction</td>
+                    <td style="width: 25%">Metadata production</td>
+                    <td style="width: 50%">Documenting the data, for example, by producing study-level and variable descriptions.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">MetadataEditing</td>
+                    <td style="width: 25%">Metadata editing</td>
+                    <td style="width: 50%">Amending the metadata to reflect changes in the data or to improve or enhance documentation.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">MetadataTranslation</td>
+                    <td style="width: 25%">Metadata translation</td>
+                    <td style="width: 50%">Translating the metadata into another language.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">FinalReport</td>
+                    <td style="width: 25%">Final report</td>
+                    <td style="width: 50%">Complete account on how the study was conducted through all its stages, often required by funders or other administrative bodies.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">Evaluation</td>
+                    <td style="width: 25%">Evaluation</td>
+                    <td style="width: 50%">Analysis of how the study, in all its stages, was managed and/or conducted, including the outcome of methodological, technical, and business decisions. May serve as a basis for changes or improvements in planning future iterations of the data collection, or entirely new projects.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">OriginalRelease</td>
+                    <td style="width: 25%">Original release</td>
+                    <td style="width: 50%">First release of data and/or metadata to other individuals and/or agencies than the study producers.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">Deposit</td>
+                    <td style="width: 25%">Deposit</td>
+                    <td style="width: 50%">Handing over the data and available metadata (Submission Information Package in OAIS terms) to a data archive or repository for preservation, possible further processing,  and dissemination.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">PreservationPackageProduction</td>
+                    <td style="width: 25%">Preservation package production</td>
+                    <td style="width: 50%">Producing a preservation package of the data for archiving purposes (Archival Information Package in OAIS terms).</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DisseminationPackageProduction</td>
+                    <td style="width: 25%">Dissemination package production</td>
+                    <td style="width: 50%">Producing a dissemination package for distribution of the data (Dissemination Information Package in OAIS terms).</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DisseminationPackageRelease</td>
+                    <td style="width: 25%">Dissemination package release</td>
+                    <td style="width: 50%">Publishing or otherwise making the dissemination package available to users.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataAnalysisReports</td>
+                    <td style="width: 25%">Data analysis reports</td>
+                    <td style="width: 50%">Reports describing how the data were analyzed,  as well as the resulting findings. These may take the form of conference posters or presentations, journal articles or online publications, books, book chapters, etc.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">NewVersionRelease</td>
+                    <td style="width: 25%">New version release</td>
+                    <td style="width: 50%">Publishing or otherwise making a new version of the data and/or metadata available to users.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">Other</td>
+                    <td style="width: 25%">Other</td>
+                    <td style="width: 50%">Use if the event type is known, but not found in the list.</td>
+				</tr>
+				</tbody>
+			</table>
+		</div>
+		<hr />
+
+		<div class="Usage page">
+			<h2>Usage</h2>
+			<html>
+ <head></head>
+ <body>
+  <p><a href="https://ddialliance.org/Specification/DDI-Lifecycle/3.3/" rel="noopener noreferrer" target="_blank" style="background-color: transparent; color: rgb(30, 135, 240);">DDI-L 3.3</a></p>
+  <p><span style="background-color: rgb(255, 255, 255); color: rgb(33, 37, 41);">Module name: reusable</span></p>
+  <p><span style="background-color: rgb(255, 255, 255); color: rgb(33, 37, 41);">Element name:&nbsp;</span><a href="https://ddialliance.org/Specification/DDI-Lifecycle/3.3/XMLSchema/FieldLevelDocumentation/schemas/reusable_xsd/elements/EventType.html" rel="noopener noreferrer" target="_blank" style="background-color: transparent; color: rgb(30, 135, 240);">EventType</a></p>
+  <p><br /></p>
+  <p><a href="http://www.ddialliance.org/Specification/DDI-Lifecycle/3.2/" rel="noopener noreferrer" target="_blank" style="background-color: transparent; color: rgb(30, 135, 240);">DDI-L 3.2</a></p>
+  <p><span style="background-color: rgb(255, 255, 255); color: rgb(33, 37, 41);">Module name: reusable</span></p>
+  <p><span style="background-color: rgb(255, 255, 255); color: rgb(33, 37, 41);">Element name:&nbsp;</span><a href="http://www.ddialliance.org/Specification/DDI-Lifecycle/3.2/XMLSchema/FieldLevelDocumentation/schemas/reusable_xsd/elements/EventType.html" rel="noopener noreferrer" target="_blank" style="background-color: transparent; color: rgb(30, 135, 240);">EventType</a></p>
+  <p><br /></p>
+  <p><a href="http://www.ddialliance.org/Specification/DDI-Codebook/2.5/" rel="noopener noreferrer" target="_blank" style="background-color: transparent; color: rgb(30, 135, 240);">DDI-C 2.5</a></p>
+  <p><span style="background-color: rgb(255, 255, 255); color: rgb(33, 37, 41);">DDI-Codebook (DDI 2.5 and all previous DDI versions) does not include an element or attribute that would support this controlled vocabulary.</span></p>
+  <p><br /></p>
+ </body>
+</html>
+		</div>
+		<hr />
+        <h2>Copyright and License</h2>
+        <p>Copyright © <a href="http://www.ddialliance.org/">DDI Alliance</a> <span>2020</span>.</p>
+        <p>
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+                <img style="border-width:0;width:140px" alt="Creative Commons Attribution 4.0 International" src="data:image/png;base64,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" title="Creative Commons Attribution 4.0 International" />
+            </a>
+            <span>This work is licensed under a
+						<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
+					</span>
+        </p>
+        <p>Citation:
+            <span>DDI Alliance. (2020). Lifecycle Event Type (Version 1.0) [Controlled vocabulary]. CESSDA. urn:ddi:int.ddi.cv:LifecycleEventType:1.0. </span> Available from:
+            <a href="http://vocabularies.cessda.eu:80/urn/urn:ddi:int.ddi.cv:LifecycleEventType:1.0">http://vocabularies.cessda.eu:80/urn/urn:ddi:int.ddi.cv:LifecycleEventType:1.0</a>
+        </p>
+		<br/><br/><br/><br/>
+	</div>
+
+
+
+	<div class="cv" id="no">
+		<div class="pagebreak"></div>
+
+		<div class="page">
+			<div style="width: 100%;">
+				<div style="width:130px;float:left;padding-right:15px">
+					<img alt="agency-logo" class="logo" src="data:image/png;base64,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"/>
+				</div>
+				<div>
+					<h1>DDI Alliance Controlled Vocabulary for LifecycleEventType</h1>
+				</div>
+			</div>
+
+			<hr />
+			<h2>CV definition</h2>
+			<p>Spesifiserer hendelser som skjer i data livssyklusen som anses som signifikante nok til å bli dokumentert.</p>
+			<hr />
+			<h2>Details</h2>
+			<dl>
+				<dt>CV short name:</dt>
+				<dd>LifecycleEventType</dd>
+				<dt>CV name:</dt>
+				<dd>Livssyklus hendelsestype</dd>
+                <dt>CV notes:</dt>
+                <dd></dd>
+				<dt>Language:</dt>
+				<dd>Norwegian (no)</dd>
+				<dt>Version:</dt>
+				<dd>1.0.1</dd>
+                
+				
+				
+				
+				
+				<dt>Canonical URI:</dt>
+				<dd>
+					<a rel="canonical URN this version" href="http://vocabularies.cessda.eu:80/urn/urn:ddi:int.ddi.cv:LifecycleEventType:1.0">urn:ddi:int.ddi.cv:LifecycleEventType:1.0</a>
+				</dd>
+
+				<dt>Agency: </dt>
+				<dd>
+					<a href="http://www.ddialliance.org/">DDI Alliance</a>
+				</dd>
+                <dt>Translator Agency: </dt>
+                <dd>
+                    <a href="https://nsd.no">NSD</a>
+                </dd>
+                
+			</dl>
+		</div>
+		<hr />
+
+		<div class="CodeList page">
+			<table aria-describedby="page-heading">
+				<caption>Code List</caption>
+				<thead>
+				<tr>
+                    <th scope="col" style="width: 25%">Code value</th>
+                    <th scope="col" style="width: 25%">Code descriptive term</th>
+                    <th scope="col" style="width: 50%">Code definition</th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">StudyProposal</td>
+                    <td style="width: 25%">Studieforslag</td>
+                    <td style="width: 50%">Definere rammene for en ny studie/datainnsamling, inkluderer behovet for informasjon og de generelle forskningsmålene, samt hovedkonsepter, studieomfang og metodologi, som regel presenteres dette for godkjenning hos finansiere, partnere og andre relevante aktører.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">Funding</td>
+                    <td style="width: 25%">Finansiering</td>
+                    <td style="width: 50%">Avgjørelser om å forlenge finansiell støtte for en studie/datainnsamling.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">StudyDesign</td>
+                    <td style="width: 25%">Studie design</td>
+                    <td style="width: 50%">Detaljert planlegging for å gjennomføre studien/datainnsamlingen: raffinere konsepter og identifisere måter å måle de, definere mål populasjonen, tidsdimensjonen, utvalgsrammeverket og utvalgstrekning, datainnsamlings metodologi, produksjonssystemer og arbeidsflyt, etc.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">InstrumentDesign</td>
+                    <td style="width: 25%">Instrumentdesign</td>
+                    <td style="width: 50%">Utvikle datainnsamlingsinstrumentet, for eksempel, spørreskjemaet eller intervjuspørsmålene, fokusgruppe emner, observasjonsskjema for observasjonsdesign, standardisert journalgjennomgang, uavhengig og avhengig variabler for eksperimentelt design.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">QuestionnaireTranslation</td>
+                    <td style="width: 25%">Spørreskjema oversettelse</td>
+                    <td style="width: 50%">Oversette kildespørreskjemaet til andre språk, for eksempel, i tverrnasjonale spørreskjema eller i nasjonale spørreskjema gjennomført i flerspråklige land.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">QuestionnaireAdaptation</td>
+                    <td style="width: 25%">Spørreskjema tilpasning</td>
+                    <td style="width: 50%">Endring av språkformulering i spørsmål for å belyse kulturelle eller institusjonelle forskjeller, hvis spørreskjema i samme språk utføres i forskjellige regioner eller land.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">InterviewerTraining</td>
+                    <td style="width: 25%">Intervjueropplæring</td>
+                    <td style="width: 50%">Opplæring av intervjuere som administrerer spørreskjemaet i spørreskjemaundersøkelser.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">EthicsReview</td>
+                    <td style="width: 25%">Etisk godkjenning</td>
+                    <td style="width: 50%">Gjennomgang av studien/datainnsamlingen for å forsikre at den samsvarer med lovpålagte etiske krav eller forskrifter, inkludert verifisering av informert samtykke, gjennomført av et godkjent organ, som en forskningsetisk komité eller institusjonell vurderingsnemd.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">LegalReview</td>
+                    <td style="width: 25%">Lovlig godkjenning</td>
+                    <td style="width: 50%">Gjennomgang av studien/datainnsamling i forhold til samsvar med loven (lovgivning som omhandler konfidensialitet, beskyttelse av barn, etc.).</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">Sampling</td>
+                    <td style="width: 25%">Utvalgstrekking</td>
+                    <td style="width: 50%">Velge utvalget for studien/datainnsamlingen.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">InstrumentPreTesting</td>
+                    <td style="width: 25%">Instrumenttest</td>
+                    <td style="width: 50%">Småskala anvendelse av datainnsamling instrumentet med hensikt å identifisere potensielle problemer før en tar det i bruk i fullskala for hele studien.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">PilotStudy</td>
+                    <td style="width: 25%">Pilotstudie</td>
+                    <td style="width: 50%">Generalprøve for hele prosjektet, for eksempel ved å gjennomføre datainnsamling via spørreskjema til et lite antall mennesker, så kode og analysere resultatene, etc.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataCollection</td>
+                    <td style="width: 25%">Datainnsamling</td>
+                    <td style="width: 50%">Klargjøre, gjennomføre og ferdigstille datainnsamling prosessen, inkludert oppfølging prosedyrer, etc.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataCollectionReports</td>
+                    <td style="width: 25%">Datainnsamling rapporter</td>
+                    <td style="width: 50%">Rapporter på designet og gjennomførelsen av datainnsamling prosessen, inkludert metodologiske avgjørelser og utfordringer som har oppstått. Disse kan være konferansepresentasjoner, tidsskriftartikler eller online publikasjoner, bokkapitler, etc.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing</td>
+                    <td style="width: 25%">Databehandling</td>
+                    <td style="width: 50%">Endringer, tillegg eller sletting gjennomført på data på hvilket som helst tidspunkt etter innsamlingen.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.Coding</td>
+                    <td style="width: 25%">Databehandling: Koding</td>
+                    <td style="width: 50%">Konvertering av rådata til maskinlesbare koder.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.Classification</td>
+                    <td style="width: 25%">Databehandling: Klassifisering</td>
+                    <td style="width: 50%">Dokumentering av meningen/innholdet av kodede data.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.InterviewTranscriptions</td>
+                    <td style="width: 25%">Databehandling: Transkibering av intervjuer</td>
+                    <td style="width: 50%">Overføring av video- eller lydopptak data til skriftlig format.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.Weighting</td>
+                    <td style="width: 25%">Databehandling: Vekting</td>
+                    <td style="width: 50%">Utregning av vektevariabler og legge de til datamaterialet.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.Aggregation</td>
+                    <td style="width: 25%">Databehandling: Aggregering</td>
+                    <td style="width: 50%">Utregning av kumulative mål på individnivå data eller mikrodata.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.CompositeMeasures</td>
+                    <td style="width: 25%">Databehandling: Sammensatte mål</td>
+                    <td style="width: 50%">Utregning av skalaer, indekser eller typologier og legge de til datamaterialet.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.Derivation</td>
+                    <td style="width: 25%">Databehandling: Avledning</td>
+                    <td style="width: 50%">Utregning av nye variabler fra målte variabler, som regel gjennom rekoding.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.DataQualityChecks</td>
+                    <td style="width: 25%">Databehandling: Kvalitetskontroll</td>
+                    <td style="width: 50%">Kontrollere overensstemmelser, udokumenterte koder, missing data representasjoner, etc.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.DataIntegration</td>
+                    <td style="width: 25%">Databehandling: Dataintegrering</td>
+                    <td style="width: 50%">Opprette komplekse datasett med å koble sammen relaterte data, for eksempel, hierarkiske datasett med flere, men sammenliknbare, analyseenheter, eller datasett fra flere runder av en undersøkelse, eller data samlet inn i forskjellige land for en tverrnasjonal studie, etc.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.DisclosureLimitation</td>
+                    <td style="width: 25%">Databehandling: Begrensning om avsløring</td>
+                    <td style="width: 50%">Å endre dataene for å forhindre identifisering av subjekter, for eksempel, å utføre anonymiseringstiltak som å rekode eller topp-kode sensitive variabler som inntektsnivå, aggregere eller holde tilbake geografiske indikatorer, eller erstatte personnavn med pseudonymer og/eller kategorisere bakgrunnsopplysninger eller demografisk informasjon i kvalitative data.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataProcessing.Imputation</td>
+                    <td style="width: 25%">Databehandling: Imputasjon</td>
+                    <td style="width: 50%">Erstatte manglende data punkter med verdier utregnet ved bruk av imputasjonsteknikker.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">MetadataProduction</td>
+                    <td style="width: 25%">Metadata produksjon</td>
+                    <td style="width: 50%">Dokumentere data, for eksempel ved å produsere studienivå og variabel beskrivelser.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">MetadataEditing</td>
+                    <td style="width: 25%">Metadata redigering</td>
+                    <td style="width: 50%">Å endre metadataene for å gjenspeile endringer i dataene eller for å forbedre eller styrke dokumentasjonen.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">MetadataTranslation</td>
+                    <td style="width: 25%">Metadata oversettelse</td>
+                    <td style="width: 50%">Å oversette metadata til et annet språk.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">FinalReport</td>
+                    <td style="width: 25%">Sluttrapport</td>
+                    <td style="width: 50%">Fullstendig redegjørelse for hvordan studien ble gjennomført i alle stadier, ofte påkrevd av finansiør eller andre administrative instanser.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">Evaluation</td>
+                    <td style="width: 25%">Evaluering</td>
+                    <td style="width: 50%">Analyse av hvordan studien, i alle stadier, ble administrert og/eller gjennomført, inkludert utfallet av metodologiske-, tekniske- og forretningsbeslutninger. Kan tjene som et grunnlag for endringer eller forbedringer i planleggingen av fremtidige iterasjoner av datainnsamlingen eller helt nye prosjekter.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">OriginalRelease</td>
+                    <td style="width: 25%">Original utgivelse</td>
+                    <td style="width: 50%">Første utgivelse av data og/eller metadata til andre individer og/eller byråer enn studiens produsenter.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">Deposit</td>
+                    <td style="width: 25%">Deponering</td>
+                    <td style="width: 50%">Overlevering av data og tilgjengelig metadata (Submission Information Package i OAIS terminologi) til ett dataarkiv eller oppbevaringssted for bevaring, mulig videre prosessering, og formidling.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">PreservationPackageProduction</td>
+                    <td style="width: 25%">Produksjon av bevaringspakke</td>
+                    <td style="width: 50%">Produsere en bevaringspakke av datamaterialet for arkivformål (Archival Information Package i OAIS terminologi).</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DisseminationPackageProduction</td>
+                    <td style="width: 25%">Produksjon av formidlingspakke</td>
+                    <td style="width: 50%">Produsere en formidlingspakke for distribusjon av data (Dissemination Information Package i OAIS terminologi).</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DisseminationPackageRelease</td>
+                    <td style="width: 25%">Utgivelse av formidlingspakke</td>
+                    <td style="width: 50%">Publisering, eller annen tilgjengeliggjøring, av formidlingspakken for brukere.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">DataAnalysisReports</td>
+                    <td style="width: 25%">Dataanalyse rapport</td>
+                    <td style="width: 50%">Rapport som beskriver hvordan data ble analyser, inklusiv funn. Dette kan være konferansepresentasjoner, tidsskriftartikler eller online publikasjoner, bøker eller bokkapitler, etc.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">NewVersionRelease</td>
+                    <td style="width: 25%">Ny versjon utgivelse</td>
+                    <td style="width: 50%">Publisering, eller annen tilgjengeliggjøring, av en ny versjon av data og/eller metadata for brukere.</td>
+				</tr>
+				<tr >
+                    <td style="width: 25%;white-space:pre-line;word-break:break-all;word-wrap:break-word;">Other</td>
+                    <td style="width: 25%">Annet</td>
+                    <td style="width: 50%">Bruk hvis hendelsestypen er kjent, men ikke finnes på listen.</td>
+				</tr>
+				</tbody>
+			</table>
+		</div>
+		<hr />
+
+		<div class="Usage page">
+			<h2>Usage</h2>
+			<html>
+ <head></head>
+ <body>
+  <p><a href="https://ddialliance.org/Specification/DDI-Lifecycle/3.3/" rel="noopener noreferrer" target="_blank">DDI3.3</a></p>
+  <p>Module name: reusable</p>
+  <p>Element name: <a href="https://ddialliance.org/Specification/DDI-Lifecycle/3.3/XMLSchema/FieldLevelDocumentation/schemas/reusable_xsd/elements/EventType.html" rel="noopener noreferrer" target="_blank">EventType</a></p>
+  <p><br /></p>
+  <p><a href="http://www.ddialliance.org/Specification/DDI-Lifecycle/3.2/" rel="noopener noreferrer" target="_blank">DDI 3.2</a></p>
+  <p>Module name: reusable</p>
+  <p>Element name: <a href="http://www.ddialliance.org/Specification/DDI-Lifecycle/3.2/XMLSchema/FieldLevelDocumentation/schemas/reusable_xsd/elements/EventType.html" rel="noopener noreferrer" target="_blank">EventType</a></p>
+  <p><br /></p>
+  <p><a href="http://www.ddialliance.org/Specification/DDI-Codebook/2.5/" rel="noopener noreferrer" target="_blank">DDI 2.5</a></p>
+  <p>DDI-Codebook (DDI 2.5 and all previous DDI versions) does not include an element or attribute that would support this controlled vocabulary.</p>
+  <p><br /></p>
+ </body>
+</html>
+		</div>
+		<hr />
+        <h2>Copyright and License</h2>
+        <p>Copyright © <a href="http://www.ddialliance.org/">DDI Alliance</a> <span>2020</span>.</p>
+        <p>
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+                <img style="border-width:0;width:140px" alt="Creative Commons Attribution 4.0 International" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMoAAABHCAYAAABGS9iuAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAC4sAAAuLAEOa5FsAAAAB3RJTUUH5AIaDA8EjYo2HQAAIKFJREFUeNrtnXd4VFX6+D/3TkmmpBcCgZBGgECAAAEjQigKrEhRKYuADRT8sS6/1V2wrl9ll11hH13wq7CgIqyiC4SqIJAgSGhhEQKhhJIeEkgmdTKTmcnM/f4RM2SYQAICMeXzPHlgzr3n3lPue8p73vMeABEYCewBSgGp7a/tr+2P0p9lYiQgCsAo4H/d3NzCQ8JDUatVNbe10UZrRQBDpYH0y+noK/SXgN8JwB6tm/bh52fPpF9MP2QyWZugtNG6EcBqtXI8+Tifr/wMfYU+QQ7EhIaF0S+mHxqNBklqk5I22hAEgX4D+rEvcR+nTqbEyAEPjVaNTCZDkqQ2QWnhCILg8G9dauu+7RuoQSaTodGqATzkwH0fatWtJPv/hevpqFtRbZX2yxFEAQEBs9mM0WDEYDBQqa+kUq/HbLGgUqnQaDVotBpUKhVqtRqZXIZka2s4a79J+f16nyAKiIKIxWLBVGXCUm2hylhFpb4SvV6P0WhEoVCg1WrRaDWo1WoUCgVKFyUuLi41aW7r8W4LURQxm8wUFBRwMe0i58+eJ/3SZfR6PdXV1VgsFmw2G3KZHLlCjkKhwMvbi4huXenavSuh4aH4+PjYhaY1c08FRRAEBEHAZDJxNf8qly5eIuNyOtmZ2ZSWlWGqqqLaUlNh1dXViKKIQqFArpCjVCrRaDUEBAQQEhZCaHgYnUM64+bmhiiK2Gy2pi67Xy2iWNMgXTifRsKuBE6nnKastIzq6uoG4xZeK+TC+Qvs3rkLX19fBsQOYOjwYXTo2AFBEFptQ3VPBKV2OFVWWsqpk6f4b/JxLpxPo7SktMHKMhqNDr8vX7zMoaRDqNVqAjsF0ju6N/0H9CcouDMKhaJNYG5AEARysnPY8/0eDh84RElJSb33iaKIXC5HJpNRXV1NdXW1gxCYTWau5F1ha/xWkg8nM3TEMOKGx+Hj69Mqy/yuC4ooipSVlXH00FH2791PxuV0zGbzL3qmJElUVlZy4fwFLqZdJHF3Iv0G9GfYiGGEdQlDFMVW29LdyInjJ/hqzZdkZWQ5hCsUCvz9/YmOjqZHjx74+/vj6+uLWq2mrKyMoqIiCgoKOHnyJKmpqZSUlGC1WpEkiSt5V/jmy685czqVac9MJyQspNWV910TFEEQsFqtnE45zfYt2zlzKhWLxXLXEyxJEsW6Yvbs3M2J//7E8EeGM2Lkw622pYOasrdYLPz4w49s+Ho9uiKd/ZpSqSQ2NpapU6cyePBggoKC0Gq19T5HkiRKS0u5fPkyCQkJrFu3jrNnz2K1WrHZbKScSKGkuITpz06nd98+9WrOWioCIMUOimXuH36Hi4vLHbUUtfOQPTv3sCV+C2WlpTe9VxRFPD09CQ0NpV27dnh5eeHt7Y2XlxcmkwmdTkdJSQnFxcVkZWWRl5dHVVXVzZ8nE+keGcmUaVPoFtmtqcuzSbBZbXy3/Tviv9mIwWCwh/fs2ZOXXnqJiRMn4u/vf1vPlCSJjIwM1q5dy+eff05OTo79mrePD8/MfIbYh2KbOuv3jNpv+uMP/5fDBw//8h5FEAXKS8vZvGETe3btwVRlqvelHTp0oH///jz44IMMHjyY0NBQNBoNrq6uyOXXkyFJEiaTiaqqKnQ6HSdOnGD//v0cPXqUM2fOOHwIUPORnDmdykcfXGXi1EkMGToEuVzeaoYGgiBw6OAhNq/fZC8bURQZPXo077//Pj179qw3nslk4uTJk+Tn59OtWzciIiIQRdHhuaGhofz5z39myJAhzJ8/n+PHjwNQrNOxbu1XeHp5ENmzR6soaxnwP52COjEgdoDDB9sYBEGg4Eo+az9fyw+JP1BtcZ6oBwQE8Pzzz7N48WJmz57N0KFD6dSpE1qtFqVS6VA5tc+Uy+W4urri7e1NZGQko0aNYsKECfTu3RudTkd+fj5Wq9UhnqHSwLnUsygUCkLCQm47L80RQRA4m3qWL1atpqS4ZtKuUCh45pln+OCDDwgPD683nslkYvHixbzyyiusW7eOnTt30rFjR7p3717vO0JCQhg0aBDp6elcvnwZgEp9Jbk5eXSP7I67h3tTF8U9KVur1cqxI8nk5uTeuaAIosCVvCus/GQlx48dd2pV3NzcmDRpEkuWLOG5554jMDAQhUJxR4kWRRGtVkvPnj159NFHCQkJIT8/n6tXrzq812KxkHYuDVEU6dK1S43dWgtFEAR0RUV8uvxTsjIy7eFPPfUUH3zwAe3atbtp3GPHjjFv3jwKCwuprq5Gp9ORk5PD+PHjUavV9cbx9/cnNjaWU6dOkZlZ875iXTHl5RX0ie6DQnlndftr5UZBEe/0IeWl5Xzz769JPZXqdL1Dhw784x//YOXKlQwaNOiOBaQ+/Pz8ePHFF1m/fj3Tp09HqVQ6XK+qqmJr/BYSdiU49TotCUmS+HHfAdLOnbeHDRs2jIULF+Lt7X3LuLm5uZSVlTmEFRQUoNPpbhkvLCyMJUuWEBkZaQ/76dhxTv50ssVP7G9bUAShxhRia/wWjh4+6nS9e/furFixglmzZt20dbobhIaGsnTpUv70pz/h5ubmcM1oNLLh6w0kH0lukRVY25vvS/jB3qN27tyZRYsWERwc3GD8iIgI2rdv7xQWEBDQYNz+/fvz3nvv4eHhAdQ0TAm79lBeVt4iy7qW2x56SZJEwq4Etmzc7KT+feCBB1ixYgXDhw+/L4Xm6urKgw8+iJ+fH8nJyQ4TfbPJRG52Ll0ju+Ht7d2yJpwSfLf1W5KPJAM1jde8efOYNm1ao8rd398fHx8fLl26hM1m44EHHuDdd9+96ZzmRoKDg0lLS+P06dMAFBcX07FTIJ1Dgpu6ZO4av2joJYoiqSmn2bR+k5PKtnv37ixbtoyBAwfe1wy5urrywgsv8Oabbzr1YDnZOWz6Tzx6vb7FtHaCIFBSUsKJ4yfsYT179uTpp59uMI+SJFFVVYXJZGLixInEx8ezY8cOVq9eTXR0NAaDoVGLw2q1mtmzZ9vnQRazhePHfron62a/Fho9excEgbLSMrZt3kZJcbHDtYCAAP72t78RExPTJJmQyWS88MILZGdns2zZMgczmePHjnPk4GFGjHy4SdJ2txEEgdzsHPKv5NvDJk2aRGhoaINxN2zYwOrVqzEYDAiCgCiKCIKAzWazG5wGBASwYMEC+vbte8tnDRgwgLi4ONavXw9ARnoGxbpi2gW0a1m998/clg714IGDnDl9xiFMo9Hwxhtv8NhjjzVpRtRqNa+99hrZ2dls3LjRHm42m/n+2++J6h2Ff7vmX4mSJHE29Zy9R/fy8iIuLq7BeKWlpSxfvpx9+/Y1eG9wcDDR0dG37KFcXFyIi4sjPj4eq9WKrrCIzIxMAtoHNPsyro9GDb0EQaCoqIh9CT84GTVOnjyZmTNn/ipUsX5+frz99tuEhYU5hGdlZnHk4JGmTt5dwWQycfniJfvvrl270qNHj0bFq6ysbNQ7ysrKGmUOFBsbi4+PD1DTIGVlZLZYM6JGz1GOJx8nK8vR0K5jx47MmTPnnmq3bpeoqCimT5/u0BpKksTBHw+iK9I167mKIAgYDUYqyivsYZGRkXh5eTU6/t28LyAggKCgIPvvkuISbNZWKiiCIFCpr+TooSNYqx3XJaZOnUq/fv2aOg9O6Z0+fbpTK5udlc25s+eataAg1Khj625FCAgIcLJuuF9oNBo8PT3tvyvKK7DaWubaVaMEJSszi4z0DIfwiIgInnvuuQaHXJIkUVFRQUZGBufPnyc3N5fKyspGddGSJGE0GsnJyeH8+fNkZWVRVlbW4EJieHg4M2bMcPiAqqurOXn8ZLPWzAgIVBmNDoJyu8aOdxOVSoW7+3XzlfLy8hY79GpwMi9JEmdOp6Kv0DuEP/LII3Tt2vWW8dLS0li/fj179+4lPz8fy8/7s729vYmLi2PcuHH07du33vWb3NxcNm3axM6dO8nMzMRkMqFUKnF3dycmJobx48czePBgVCpVve8fOXIky5YtIy8vzx526cJFu2amuVZodbXVYZ54s/zfD+RyuX2bNtTMU1riRB4aEBRBEDAajVy+eNkhXKVSMWTIkJt2+dXV1WzYsIGFCxdy/vz5egsvKSmJL774gldeeYUXX3zRvkdCkiT27dvHW2+9xdGjR+vtPY4dO8ZXX33Fs88+y4IFC5xWmQG6dOlCZGSkg6AUFRZRkF9Au4Cb20H92qn1IVBBzTzlZjsY7wdVVVXo9dcbULVa3WTDwHtNg7kqLysnJzvHISwwMPCmayaSJPH111/z+9//nnPnzt2yhcnLy+Ott95i6dKl9lYyKSmJ2bNnc+jQoVsOscrKyvjoo494/fXXneyWoGb8PGTIEIcws9lMxuUMmiuSJKFSqRx6kWvXrjVZK240GikvL7f/dnN3b7GC0mCPUqwrdtoDEhMTQ4cOHeqNk5KSwnvvvUdRUZE9zNXVlbi4OGJiYhAEgYSEBJKTk7FarRiNRlavXs24ceNo374977zzDhcvXryeQLmcgQMHMmjQILRaLUlJSfzwww92DyJbt25lwoQJTJgwwSktAwYMwN3d3V6ZkiRReO0aUjN2henq6opKfV1QcnJysFqtDZofabVaZs+ezZgxY4iPj+fUqVNO94wfP57+/fvTt2/fRn3wer3eoZ7d3LStU1AA9BV6p30m4eHhDmPTWmw2G9988w2XLl3X88vlcubNm8cbb7xhn/jNmjWLuXPnkpiYyPDhw5k1axZhYWHEx8dz6NAhe1xBEJg6dSqLFy+2G+zpdDpee+01/v3vfxMTE8Nzzz3HoEGD6k17x44d8fT0dGj19Ho9NqutWWq/JElCpVbh4+tjD0tNTSU3N7dBY0iNRsPzzz8PQFpaWr2C8thjjzFr1qxGp+fSpUtkZ2fbf/u387c7UmxpNNij6PUVDpoiURTti0w3UlxcTGJiokNYREQEs2fPdtCOBAUFsWjRIjIyMoiLi8PDwwOz2UxiYiIm0/UdkgEBAbz88ssOVq0+Pj688cYbjBo1isGDB99y34WHh4fTGo/BYMRsNuPq6tosK1ShUBDZswdHDh5BkiTS09M5efJko6yGG+J2y+PAgQNUVNTMlTRaDaHhYS3WpVGjepS6cwWFQoGvr2+99+bk5JCbm+sQFh0dTWBgoNO9UVFRREVF2X8bDAa7NWotkZGRdOnSxSluSEgIISEhDWbOzc3NSVCMBgNmU42gNFe6dO2Ch4cHpaWlmEwmduzYwZgxY+7qvp+GKC4udjCHadeuHZ06d2qRQgINTOZtNpuTWlipVN5UUHQ6nZNVsb+/v9PmqvowGo321qlu3Jt5DGkMCoXCaROTodKA2Wy6wyc2PZIk0b5DezqHdLaHbd26lSNH7q+JznfffcfRo9f3I3Xt3hWt1q11CgqA9Yb1BkEQbtpy1bq1qUtjbcDqiyuXy3/RXKK+tNpsNmw2qcb/TDNEkiQ0Gg2Dhw62N0DXrl1jxYoVTkqXe0VBQQH/+te/7Auf7h7uDHzwAeTyprf3u1fcUlBEUUSj1TiEWSyWm+ru3d3dnXqP4uLiRm3JVavVTsOhoqKiX1T5VqvVKa2uKlVNGptxwydJEv0G9Ccy6rqZzrZt2/jyyy/veYtuNpv55JNPHHqTAQ8MIKJbRLNdxG0MDfYoblpHlZ/FYnFQCdYlMDDQwfYH4MyZM/Xer9fr2bt3r/2aSqVy2lNx4cIFrly54hTXbDazf/9+p/nQjRgMBocFMQC1WoXSpeGh4K8ZSZJwc3Nj1G9G2udger2e9957j++///6evddms7FmzRqHdS8fHx9GjBzRqOF1c+aWgiIhoXXTIldcn/PXeu2oD39/fycjyZSUFLZs2eLQ2thsNtatW8fkyZP57W9/y8aNG7FarTz00EMOcTMzM/nqq68cNGEACQkJTJ8+nccff5yVK1dy7dq1etNTVlbm5MtYpVajVCqb/VjaZrPRK7o3wx4Zbm/I8vLymD9/PgcPHrxl3DvJu9VqZePGjbzzzjt2dbtCoWD0Y6MJDQtr0b0JNKT1kkDrpkUhV2A2Xd8impeXhyRJTvMHV1dXpkyZwo4dO+wT86qqKt5++23S09MZPHgwMpmMxMRE1q5di06nIzExkbS0NDp16sTYsWNZtWqVfR3GarXyz3/+k4KCAkaPHo2bmxvHjh3j008/JTc3l9zcXM6dO4dKpWLGjBlOyS8qKnJSEKg16hbjIE+pVPLEpCcoKizi6KGayXxqaiozZ87k73//O2PHjq13jtihQwfCwsIcFiltNpvdYcSNGI1GVq1axV//+ld7oySIAsMeHsaoMaMRZS3f9/MtBUVCwtPTExcXF4dNP8eOHaOwsLBey9VRo0YxY8YMVqxYYW9lCgsLWbx4MR9++CGAw7qMTCZj0qRJ9O7dGxcXF+bNm8eCBQvsc5OKigpWrVrF559/jkwmw2KxOFTKww8/zKhRo+pN/+nTp52GfV5eXi1G1y9JEh6eHkx7+ilKS0pIO5cG1Cwozpkzh4yMDJ5++mmnda/58+fz0ksvOT3Pz8/PKSwzM5OlS5eyatUqh2+gX/9+TPztJFQqVYsoy4a4pRcWAQFRJiPlRApFhYX28MrKSoYPH17vWoZCoaBfv36UlpZy5swZh4l8jcbpehdd66TgzTffxMPDA0EQ6NmzJ0qlkhMnTjiomiVJcniWTCZjwoQJLF682GHzUC0Wi4WlS5c6rEDL5XJGPTqKTp2DWkzlSpKEm7s7waEhXMnNo/BaTT1VVlbyww8/kJycjEajoVOnTnZrCo1Gg7e3t9NfXWuLgoICvvjiC+bPn8/27dvtTidEUWRA7ECefv5p/Pz9Wkw53shte4pUKBTkZGVzIe2CPcxkMhESEsLQoUPrfYlWq2Xo0KGEhYVRUVGB0WikqqoKm81mX4cZNGgQr7/+Oi+//LKDAkChUDBw4ED69OlDVVUVlZWVVFVV2e2ZPD096d27N/PmzePNN9+sV0igZni4ePFihx7F08uTxyaMxcPTo8VVsLePD5E9IikrLeNK3hV7w5KRkcGOHTtISkqyKz9qzUzkcnnNqVxmM+Xl5RQUFHDkyBFWrVrFokWLWLt2LVeuXLGXldJFyahHRzHt2en4+vq2uDKsy42C0uDKvEwmo3vPSCcH3AkJCcyZM+emJiTu7u48++yzPPHEE1y8eJH8/HwMBgNarRZ/f38iIiIczFrqolQqefTRRxk2bBjp6enk5ORQUVGBq6srPj4+dOnSpd5hQl0OHz7stHU5ODQYX7+WWcGSzUa79u2YOWcWfu382btnL+U/W1Xr9XoSExPZu3cvHh4eBAUF4enpiYeHByqVCr1eT3l5OTqdjqysrHpV8u0C2vHouDGMeGQELq53dupBc6ZRG7e6RHShQ2AgGZfT7eHJycls3ryZOXPm3DK+u7v7HW8XVqlU9OjRo1HOE+pSXFzM6tWrHTRegijQq09v1Gp1i9XQSDYJN3c3pkybQnS/aHbv3MVP//0Jo6GmHGrPPym9xbEcN+Ll5UXs4AcZ/shwgjoHgdA6D6BtlKB4ennSL6afg6CYzWZWrVrFb37zGzp37tzQY+4r27ZtY//+/Q5hvr6+9OoddYdPbD5IkoRMJqNHVA/CwsM4feo0Rw4d4fKFS1y7eq1RDu40Gg3tO7SnW4/uPDDoAcK7hCOXy2samNYnI0Aj/XqJokjsQ7Ec2PcjVwuu2sNTUlL48ssveeONN341Zut5eXmsXLnSyeYsZmAMHToGttje5EZsNhtKFyUxA2OI7hdNsa6YzIxMLqZdRFdURHlZOXq9Hmu1FRcXF7TuWtzd3WnfoT3hEV0I6hyE1k2LTCZzUsK0RholKDabjcCOHXlw8INs2bjF3vVarVZWrFhBTEwMI0eObOq8YDQaWbp0KceOHXMI9/bxZvDPBwy1tgq32WyIooifvx/+7fzpP6C//cOvPY3ZRemCTC5DEARkMpldfS5JUqsrr5vR6O1oMpnI8EdGEBwa7BCem5vL/PnzSUlJadKMWK1WPvvsMz755BMH5wuCIBA3PI6QsJBWXel1P/raE4FrvagoXZTIZDL7obG1LlbbuE6jBUWSJALaBzBm3Bgnzx8pKSksWLDA4Zy/+83WrVtZuHChkzfE0LBQRox8GFkLtmz9JbQJROOQA3aHzfUdQ13bBdcS+9CD5GTn8u2W7Q4LgHv27GH+/PksXryYTp063bcMWK1Wvv32W+bPn+9k8+Xu7s6TUybWOI621eRBEIRfzXyqjV8vdZ2Yw8+CUllZSVZmlvM+E0lC46a1m0BIkoRSqWT8E+PRFRWRtD/JfqvNZuM///kPRUVFLFmyhD59+tzzzNQ6pli4cCEFBQUO1xQKBWPGj6FvTF+7oNe6JC0sLGxrSdtoEIvFYh+hCICkUChwVbki3LCbySbZ6Bzcmf83by7+7fyvf3CiQMGVApYv+4SzqWedXtCrVy/ef/99Ro4cec+8cuh0OpYsWcLHH3/sZEovk8l4ZPRInnr6KVTq67ZINpuNzRs2sfPbna1WzdlG45GQqDJWYbFYagTlVjcLgsC4x8cx9emnHD56URS5kHaBFcuWk52V7RQvMDCQmTNn8swzzxASEnLXhjtGo5F9+/bx0UcfkZCQ4OQiVSaXMWRoHDOem4Gb+/WtqaIoknoqlaVL/tmkTuPaaJ7IgP9p6KaCKwWEhAbTPrCD/cOTJAkfXx9Cw0PJv5JPUaGjlW5FRQVJSUns3bsXq9VKUFAQGo3mjgXGZDKRnJzMu+++y6JFi0hNTXXSYrmqXBkzbgxTnpriICSCIFBRXsHaz9c4+VBuo43G0GCPUkv3Ht2Z+/9/R0D7AIcPVBRF8q/k8/W/v+bIocP1uv1XKpVER0cTFxfH0KFDiYqKIiAgoEGnbRUVFaSnp3Po0CH27dvHgQMHyM/Pr/deL28vJk6ZyNCHhzltzLJarWzesIlN6zc5ne/SRhuNodGCAjBoyEPMnD3TobWGn4/TLi9ny8Yt7Nm522lVvO59KpWK8PBwevXqRfv27fHz88PPzw8fHx+qqqooLCy0/126dImUlBQKCwtvue8+qHMQTz0zjeh+0fVq7vYl7uOLT1djqLw/zheaE7U9fGOUGy1lH8+dcFuCIpPJeHTcGKZMm4KLi4uTsJhMJg4eOMiOrd+RnZXdqEIVRRGZTGY3/a6urm70+fAqtYqBsQN5bMJYOgd3dnqfKIqcOH6CFR+tQHeTff4tlYCAAF555RX8/f0ddqOazWby8/PZs2cPhw8fxsvLi1dffZXAwEBOnDjBJ5984rD1+vHHH2f8+PFUVVXx8ccfO/leay3c1hmOVquV3Tt2oVareGzCWAdvi5Ik4eLiwvCHh9OtezcSdyVwKOkwuqKiWwpMXXOKxuLi4kJE966MHP0I0f374urq6jRfEQSB0ymnWfvZmlYnJACenp5MmjSJ4OBgh1X52q3BL774InPnzmXr1q3IZDJmzJjBmDFjOHfunN1BRUhICH/+85/p06cPu3btuumwtzXQqMl8XaxWKxcvXMRsMhMeEe7Us0DNQl/PXj2J6h2FWqPBYDBgNBgb3VPUhyiKeHp50qtPL56c/CQTnnyc0C5hyESZU88GNacBf/6vz8jLzbvTVzZrfHx8mDZtGl5eXqxZs4a//OUvxMfHc/jwYbp160bHjh2RJIn4+HguXLjAkCFDCA0NxdfXl++//x6TycSrr77K5MmTKSoq4o9//COpqalNna0m47Z6lFrMJjM7tn2H0WBg0tTJePt4O7TokiQhiiIhYSEEBQcxesxo0s6ncS71LJcvXaaosAiTyYTFXGOUV1+PU7u24+7hQVDnICK6RRDZM5LAjoH2nqx2tb0WQRCorq7m0IGDrFu7Dl2RrsG8tAZOnjzJ5s2bgZoyio6OJjg42G7flZmZybJly1i+fDnDhw9n4sSJpKSk8OyzzwLw1VdfNeo04ZbMHQkK1LgtStydyNWCq0z87US6RXZ3muzZbDVe4318fRg0eBADYwdiNBgpKiqirLSMSn0llZV6Ksr1VOr1CIKA0sUFjUaNp7cXPj7e+LfzR+vmhlKptJ+JXp9xoyiK6Ip07Ni+g8RdCU6LkK2Zjh07EhUVhSiKdO3alX79+lFSUsLWrVvtWsDNmzczduxYnnzySebNm8fVq1cJDAzkzJkzLF++vFkf6Xc3uK3J/M3w9fPl0XFjGDZimF0jdrN5SV1bq7oal9phWa3NWW34rZ5Ve391dTVnU88S/594zp0526qthGvp2rUrO3fuJCQkBJPJhNlsrmmIlEqUSiW7d+9m9uzZZGZm2uMMHjyYb775xn72jclk4g9/+APLly9v6uw0Obc9R6kPg8HA2dSzZGZk4vLzvvZbeQ6sKwC1f3UFqLECYrPZyMnKZvuWbWz8ekOjNW2tAV9fX6ZPn46XlxdJSUls27aN48ePk5OTg5eXF1FRUQQGBpKYmGhX5+fl5eHj48OgQYMQBIHdu3ezcOFCJyeCrZE7HnrdiMVi4af//sS5s+fpHd2LEY88TJduXRzOZvylH3GtMFksFnJzcjn4YxJJ+5O4drXpjmdrDmzfvp0PPvjAvjFr0qRJrFmzhjFjxtC/f3/27NkD1Chqtm7dyty5c3Fzc2PTpk0UFxc3dfJ/Fdw1QanFaDBw5OARTp88TVhEOH2iexPVp2Zx0VV13Ql33Q/b4SMXcDDOrCscpSWlpJ1P4+R/T3Am9QyF19qsgBtD7VC0dp2qsLCQ6upqXF1dnc6PMZvN9mHw/fKO3xy464JSS2VlJadOpJCachpPL0/CI8LpHBJMp6BOBHYMxMPDA7lCjlwmRyavs+Boqcb68xHRRqORq/kF5GTnkJ2dw6W0i+RfyW+Ug4Q2rhMbG2t3Levh4cHjjz+OSqUiPT2dy5cv/8Kntw7umaDUYrPZKNYVk3w4mWNHjqFQKFCr1fj4+qB109accqtW4eLiYheOKmMVBoOBYl0x5WXlmEymtgn6bVLX+HTy5MlMmjTJHm6z2cjJyeH999/n3LlzTvFa6oGlv4R7Lih1kSQJs9mM2Wy+Ld9Sbdw+Op2OFStW4OPjU68Jy8GDB51c3kKNK9UPP/wQlUrF2bNn7+TVLZK7oh5uo42WTlsf20YbjUCkrUdpo42GkETgHG3C0kYbN0MCzv0ftD+VlNMq1W8AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDItMjZUMTI6MTU6NDcrMDE6MDDcII6IAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAyLTI2VDEyOjE1OjA0KzAxOjAwGN8iUwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAAASUVORK5CYII=" title="Creative Commons Attribution 4.0 International" />
+            </a>
+            <span>This work is licensed under a
+						<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>.
+					</span>
+        </p>
+        <p>Citation:
+            <span>DDI Alliance. (2020). LifecycleEventType[Livssyklus hendelsestype] (Version 1.0.1) [Controlled vocabulary]. CESSDA. urn:ddi:int.ddi.cv:LifecycleEventType:1.0.1. </span> Available from:
+            <a href="http://vocabularies.cessda.eu:80/urn/urn:ddi:int.ddi.cv:LifecycleEventType:1.0">http://vocabularies.cessda.eu:80/urn/urn:ddi:int.ddi.cv:LifecycleEventType:1.0</a>
+        </p>
+		<br/><br/><br/><br/>
+	</div>
+
+</body>
+</html>
