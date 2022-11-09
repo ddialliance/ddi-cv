@@ -10,6 +10,10 @@
       <skos:notation>ContributorRole</skos:notation>
       <dcterms:title xml:lang="en">Contributor Role</dcterms:title>
       <dcterms:description xml:lang="en">A classification of contributor roles.</dcterms:description>
+      <dcterms:title xml:lang="et">Kaast&#xf6;&#xf6;taja roll</dcterms:title>
+      <dcterms:description xml:lang="et">Kaast&#xf6;&#xf6;taja rollide klassifikaator.</dcterms:description>
+      <dcterms:title xml:lang="it">Ruolo del collaboratore</dcterms:title>
+      <dcterms:description xml:lang="it">Classificazione dei ruoli del collaboratore</dcterms:description>
       <dcterms:title xml:lang="no">Bidragsyterrolle</dcterms:title>
       <dcterms:description xml:lang="no">En klassifikasjon av bidragsyterroller.</dcterms:description>
       <dcterms:title xml:lang="sv">Roll f&#xf6;r medverkande</dcterms:title>
@@ -61,11 +65,15 @@
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>ProjectOrStudyDesign</skos:notation>
       <skos:prefLabel xml:lang="en">Project/Study design</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Describing the rationale, and putting together a specific plan for conducting a study or research project.</skos:definition>
+      <skos:definition xml:lang="en">Describing the rationale, and putting together a specific plan for conducting a study or research project.</skos:definition>
+      <skos:prefLabel xml:lang="et">Projekti/uuringu disain</skos:prefLabel>
+      <skos:definition xml:lang="et">Uuringu v&#xf5;i projekti eesm&#xe4;rgi kirjeldamine ning konkreetse kava koostamine uuringu v&#xf5;i projekti l&#xe4;biviimiseks.</skos:definition>
+      <skos:prefLabel xml:lang="it">Disegno del progetto/studio</skos:prefLabel>
+      <skos:definition xml:lang="it">Descrizione delle motivazioni e del piano operativo per condurre uno studio o un progetto di ricerca.</skos:definition>
       <skos:prefLabel xml:lang="no">Prosjekt/studie design</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Beskriver rasjonale og sammenstilling av plan for &#xe5; gjennomf&#xf8;re en studie eller et forskningsprosjekt.</skos:definition>
+      <skos:definition xml:lang="no">Beskriver rasjonale og sammenstilling av plan for &#xe5; gjennomf&#xf8;re en studie eller et forskningsprosjekt.</skos:definition>
       <skos:prefLabel xml:lang="sv">Projekt-/studiedesign</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Beskrivning av tanken bakom projektet/studien och hur man har sammanst&#xe4;llt en plan f&#xf6;r hur en studie eller ett forskningsprojekt ska utf&#xf6;ras.</skos:definition>
+      <skos:definition xml:lang="sv">Beskrivning av tanken bakom projektet/studien och hur man har sammanst&#xe4;llt en plan f&#xf6;r hur en studie eller ett forskningsprojekt ska utf&#xf6;ras.</skos:definition>
       <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#ProjectOrStudyDesign.Conceptualization"/>
       <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#ProjectOrStudyDesign.InstrumentDesign"/>
       <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#ProjectOrStudyDesign.MethodologyDevelopment"/>
@@ -78,143 +86,195 @@
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>ProjectOrStudyDesign.Conceptualization</skos:notation>
       <skos:prefLabel xml:lang="en">Project/Study design: Conceptualization</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Developing high-level research concepts as well as specific concepts to be measured. Conceptualization involves clarifying the concepts with verbal definitions and examples as well as expressing relationships among the concepts.</skos:definition>
+      <skos:definition xml:lang="en">Developing high-level research concepts as well as specific concepts to be measured. Conceptualization involves clarifying the concepts with verbal definitions and examples as well as expressing relationships among the concepts.</skos:definition>
+      <skos:prefLabel xml:lang="et">Projekti/uuringu disain: eesm&#xe4;rgi s&#xf5;nastamine</skos:prefLabel>
+      <skos:definition xml:lang="et">&#xdc;ldiste uurimiseesm&#xe4;rkide s&#xf5;nastamine ja konkreetsete m&#xf5;&#xf5;detavate n&#xe4;htuste kindlaksm&#xe4;&#xe4;ramine. H&#xf5;lmab uuritavate n&#xe4;htuste defineerimist koos n&#xe4;idetega ning n&#xe4;htuste vaheliste seoste kirjeldamist.</skos:definition>
+      <skos:prefLabel xml:lang="it">Disegno del progetto/studio: concettualizzazione</skos:prefLabel>
+      <skos:definition xml:lang="it">Definizione dei concetti sia a un alto livello di astrazione che specifici e misurabili. La concettualizzazione deve chiarire i concetti attraverso definizioni verbali ed esempi, cos&#xec; come le relazioni esistenti tra essi.</skos:definition>
       <skos:prefLabel xml:lang="no">Prosjekt/studie design: Konseptualisering</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Utvikling av h&#xf8;yvniv&#xe5; forskningskonsepter og spesifikke forskningskonsepter som skal m&#xe5;les. Konseptualisering involverer tydeliggj&#xf8;ring av konsepter med spr&#xe5;klige definisjoner og eksempler, samtidig som relasjoner mellom konsepter uttrykkes.</skos:definition>
+      <skos:definition xml:lang="no">Utvikling av h&#xf8;yvniv&#xe5; forskningskonsepter og spesifikke forskningskonsepter som skal m&#xe5;les. Konseptualisering involverer tydeliggj&#xf8;ring av konsepter med spr&#xe5;klige definisjoner og eksempler, samtidig som relasjoner mellom konsepter uttrykkes.</skos:definition>
       <skos:prefLabel xml:lang="sv">Projekt-/studiedesign: Begreppsbildning</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Hur man tar fram forskningsbegrepp p&#xe5; h&#xf6;g niv&#xe5; och specifika begrepp p&#xe5; det som ska m&#xe4;tas. Begreppsbildning inbegriper att beskriva begreppen med definitioner och exempel och att beskriva relationerna mellan begreppen.</skos:definition>
+      <skos:definition xml:lang="sv">Hur man tar fram forskningsbegrepp p&#xe5; h&#xf6;g niv&#xe5; och specifika begrepp p&#xe5; det som ska m&#xe4;tas. Begreppsbildning inbegriper att beskriva begreppen med definitioner och exempel och att beskriva relationerna mellan begreppen.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#ProjectOrStudyDesign.InstrumentDesign">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>ProjectOrStudyDesign.InstrumentDesign</skos:notation>
       <skos:prefLabel xml:lang="en">Project/Study design: Instrument design</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Conceiving and planning for the data collection instrument(s). May include the operationalization of concepts into questions and indicators, instrument testing, forward translation and subsequent changes in the master instrument(s),  as well as designing  and testing other types of data collection instruments than survey questionnaires.</skos:definition>
+      <skos:definition xml:lang="en">Conceiving and planning for the data collection instrument(s). May include the operationalization of concepts into questions and indicators, instrument testing, forward translation and subsequent changes in the master instrument(s),  as well as designing  and testing other types of data collection instruments than survey questionnaires.</skos:definition>
+      <skos:prefLabel xml:lang="et">Projekti/uuringu disain: andmekogumise kirjeldamine</skos:prefLabel>
+      <skos:definition xml:lang="et">Andmekogumisviisi(de) valimine ja ettevalmistamine. V&#xf5;ib t&#xe4;hendada nt uuritavate n&#xe4;htuste kohta k&#xfc;simuste ja n&#xe4;itajate koostamist, andmekogumisviiside testimist, k&#xfc;simustiku t&#xf5;lkimist ja selle p&#xf5;hjal andmekogumisviisi(de) muutmist v&#xf5;i lisaks k&#xfc;simustikele teiste andmekogumisviiside kavandamist ja testimist.</skos:definition>
+      <skos:prefLabel xml:lang="it">Disegno del progetto/studio: progettazione dello strumento</skos:prefLabel>
+      <skos:definition xml:lang="it">Ideazione e pianificazione degli strumenti di raccolta dati. Pu&#xf2; includere l&apos;operazionalizzazione dei concetti in domande e indicatori, la verifica degli strumenti, la traduzione e le successive modifiche degli strumenti principali, nonch&#xe9; la progettazione e la verifica di strumenti di raccolta dati diversi dai questionari.</skos:definition>
       <skos:prefLabel xml:lang="no">Prosjekt/studie design: Instrument design</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Utvikling og planlegging av datainnsamlingsinstrument. Kan inkludere operasjonalisering av konsepter til sp&#xf8;rsm&#xe5;l og indikatorer, instrumenttesting, initiere oversettelse (&quot;forward translation&quot;) og p&#xe5;f&#xf8;lgende endringer i hovedinstrumentet, samt utforme og teste andre datainnsamlingsinstrumenter enn sp&#xf8;rreskjema.</skos:definition>
+      <skos:definition xml:lang="no">Utvikling og planlegging av datainnsamlingsinstrument. Kan inkludere operasjonalisering av konsepter til sp&#xf8;rsm&#xe5;l og indikatorer, instrumenttesting, initiere oversettelse (&quot;forward translation&quot;) og p&#xe5;f&#xf8;lgende endringer i hovedinstrumentet, samt utforme og teste andre datainnsamlingsinstrumenter enn sp&#xf8;rreskjema.</skos:definition>
       <skos:prefLabel xml:lang="sv">Projekt-/studiedesign: Instrumentdesign</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att ta fram och planera instrument f&#xf6;r datainsamling. Detta kan handla om hur begrepp oms&#xe4;tts i fr&#xe5;gor och indikatorer, instrumenttester, initial &#xf6;vers&#xe4;ttning (&quot;forward translation&quot;) och efterf&#xf6;ljande f&#xf6;r&#xe4;ndringar av huvudinstrumenten, samt att utforma och testa andra typer av datainsamlingsinstrument &#xe4;n fr&#xe5;geformul&#xe4;r.</skos:definition>
+      <skos:definition xml:lang="sv">Att ta fram och planera instrument f&#xf6;r datainsamling. Detta kan handla om hur begrepp oms&#xe4;tts i fr&#xe5;gor och indikatorer, instrumenttester, initial &#xf6;vers&#xe4;ttning (&quot;forward translation&quot;) och efterf&#xf6;ljande f&#xf6;r&#xe4;ndringar av huvudinstrumenten, samt att utforma och testa andra typer av datainsamlingsinstrument &#xe4;n fr&#xe5;geformul&#xe4;r.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#ProjectOrStudyDesign.MethodologyDevelopment">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>ProjectOrStudyDesign.MethodologyDevelopment</skos:notation>
       <skos:prefLabel xml:lang="en">Project/Study design: Methodology development</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Developing guidelines or protocols for the methods used to conduct the study, and to process and analyze the data. For example, directions and instructions for collecting data, conducting interviews, translating questionnaires, input harmonization, using weights, etc.</skos:definition>
+      <skos:definition xml:lang="en">Developing guidelines or protocols for the methods used to conduct the study, and to process and analyze the data. For example, directions and instructions for collecting data, conducting interviews, translating questionnaires, input harmonization, using weights, etc.</skos:definition>
+      <skos:prefLabel xml:lang="et">Projekti/uuringu disain: metoodika v&#xe4;ljat&#xf6;&#xf6;tamine</skos:prefLabel>
+      <skos:definition xml:lang="et">Juhiste v&#xf5;i eeskirjade koostamine nii uuringu l&#xe4;biviimiseks kasutatavate kui andmete t&#xf6;&#xf6;tlemiseks ja anal&#xfc;&#xfc;simiseks kasutatavate meetodite kohta. N&#xe4;iteks juhised ja juhtn&#xf6;&#xf6;rid andmekogumise, k&#xfc;sitlemise, k&#xfc;simustike t&#xf5;lkimise, sisendi &#xfc;htlustamise, kaalude kasutamise jms kohta.</skos:definition>
+      <skos:prefLabel xml:lang="it">Disegno del progetto/studio: sviluppo della metodologia</skos:prefLabel>
+      <skos:definition xml:lang="it">Sviluppo di linee guida o protocolli relativi ai metodi utilizzati per condurre lo studio, elaborare e analizzare i dati. Ad esempio, indicazioni e istruzioni per la raccolta dei dati, la conduzione delle interviste, la traduzione dei questionari, l&apos;armonizzazione degli input, l&apos;uso dei pesi, ecc.</skos:definition>
       <skos:prefLabel xml:lang="no">Prosjekt/studie design: Metodeutvikling</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Utvikle retningslinjer og protokoll for metoder som skal f&#xf8;lges i gjennomf&#xf8;ring av studien, samt prosessering og analyse av data. For eksempel, veiledning og instruksjoner for datainnsamling, gjennomf&#xf8;ring av intervju, oversettelse av sp&#xf8;rreskjema, harmonisering av inndata, bruk av vekter, etc.</skos:definition>
+      <skos:definition xml:lang="no">Utvikle retningslinjer og protokoll for metoder som skal f&#xf8;lges i gjennomf&#xf8;ring av studien, samt prosessering og analyse av data. For eksempel, veiledning og instruksjoner for datainnsamling, gjennomf&#xf8;ring av intervju, oversettelse av sp&#xf8;rreskjema, harmonisering av inndata, bruk av vekter, etc.</skos:definition>
       <skos:prefLabel xml:lang="sv">Projekt-/studiedesign: Metodutveckling</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att ta fram riktlinjer eller protokoll f&#xf6;r de metoder som ska anv&#xe4;ndas i utf&#xf6;randet av studien, och f&#xf6;r att behandla och analysera data. Till exempel anvisningar och instruktioner f&#xf6;r hur datainsamling, intervjuer, &#xf6;vers&#xe4;ttning av fr&#xe5;geformul&#xe4;r, harmonisering av indata, viktning osv. ska utf&#xf6;ras.</skos:definition>
+      <skos:definition xml:lang="sv">Att ta fram riktlinjer eller protokoll f&#xf6;r de metoder som ska anv&#xe4;ndas i utf&#xf6;randet av studien, och f&#xf6;r att behandla och analysera data. Till exempel anvisningar och instruktioner f&#xf6;r hur datainsamling, intervjuer, &#xf6;vers&#xe4;ttning av fr&#xe5;geformul&#xe4;r, harmonisering av indata, viktning osv. ska utf&#xf6;ras.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#ProjectOrStudyDesign.WeightsDesign">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>ProjectOrStudyDesign.WeightsDesign</skos:notation>
       <skos:prefLabel xml:lang="en">Project/Study design: Weights design</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Developing weights to assist in adjusting the data to the desired objectives of the study, for example, to make the data representative of the target population.</skos:definition>
+      <skos:definition xml:lang="en">Developing weights to assist in adjusting the data to the desired objectives of the study, for example, to make the data representative of the target population.</skos:definition>
+      <skos:prefLabel xml:lang="et">Projekti/uuringu disain: kaalude m&#xe4;&#xe4;ramine</skos:prefLabel>
+      <skos:definition xml:lang="et">Kaalude leidmine, et andmeid saaks kasutada uuringu eesm&#xe4;rkide t&#xe4;itmiseks, n&#xe4;iteks et andmed v&#xf5;imaldaksid teha j&#xe4;reldusi &#xfc;ldkogumi kohta.</skos:definition>
+      <skos:prefLabel xml:lang="it">Disegno del progetto/studio: progettazione dei pesi</skos:prefLabel>
+      <skos:definition xml:lang="it">Sviluppo dei pesi al fine di adattare i dati agli obiettivi desiderati dello studio, ad esempio per rendere i dati rappresentativi della popolazione di riferimento.</skos:definition>
       <skos:prefLabel xml:lang="no">Prosjekt/studie design: Vektedesign</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Utvikling av vekter som kan bidra i &#xe5; justere data slik at det m&#xf8;ter m&#xe5;lene til studien, for eksempel &#xe5; gj&#xf8;re data representative for m&#xe5;lpopulasjonen.</skos:definition>
+      <skos:definition xml:lang="no">Utvikling av vekter som kan bidra i &#xe5; justere data slik at det m&#xf8;ter m&#xe5;lene til studien, for eksempel &#xe5; gj&#xf8;re data representative for m&#xe5;lpopulasjonen.</skos:definition>
       <skos:prefLabel xml:lang="sv">Projekt-/studiedesign: Viktningsdesign</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att ta fram viktningar som en hj&#xe4;lp f&#xf6;r att justera data efter studiens &#xf6;nskade m&#xe5;l, till exempel f&#xf6;r att g&#xf6;ra data representativa f&#xf6;r m&#xe5;lpopulationen.</skos:definition>
+      <skos:definition xml:lang="sv">Att ta fram viktningar som en hj&#xe4;lp f&#xf6;r att justera data efter studiens &#xf6;nskade m&#xe5;l, till exempel f&#xf6;r att g&#xf6;ra data representativa f&#xf6;r m&#xe5;lpopulationen.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#ProjectOrStudyDesign.StandardsDevelopment">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>ProjectOrStudyDesign.StandardsDevelopment</skos:notation>
       <skos:prefLabel xml:lang="en">Project/Study design: Standards development</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Developing models for the structure and distribution of data and metadata in fixed, predictable formats. For example, the DATS (Data Tag Suite) for describing biomedical data, the Data Documentation Initiative (DDI) for describing social, behavioral, economic, and health sciences data, etc.</skos:definition>
+      <skos:definition xml:lang="en">Developing models for the structure and distribution of data and metadata in fixed, predictable formats. For example, the DATS (Data Tag Suite) for describing biomedical data, the Data Documentation Initiative (DDI) for describing social, behavioral, economic, and health sciences data, etc.</skos:definition>
+      <skos:prefLabel xml:lang="et">Projekti/uuringu disain: standardite v&#xe4;ljat&#xf6;&#xf6;tamine</skos:prefLabel>
+      <skos:definition xml:lang="et">Mudelite loomine andmete ja metaandmete struktureerimiseks ning levitamiseks kindlaksm&#xe4;&#xe4;ratud formaadis. N&#xe4;iteks DATS (Data Tag Suite) biomeditsiiniliste andmete kirjeldamiseks, DDI (Data Documentation Initiative) sotsiaal-, k&#xe4;itumis-, majandus- ja terviseteaduslike andmete kirjeldamiseks jne.</skos:definition>
+      <skos:prefLabel xml:lang="it">Disegno del progetto/studio: sviluppo degli standard</skos:prefLabel>
+      <skos:definition xml:lang="it">Sviluppo di modelli per la struttura e la distribuzione di dati e metadati in formati fissi e prevedibili. Ad esempio, lo standard DATS (Data Tag Suite) per la descrizione dei dati biomedici, lo standard Data Documentation Initiative (DDI) per la descrizione dei dati delle scienze sociali, comportamentali, economiche e sanitarie, ecc.</skos:definition>
       <skos:prefLabel xml:lang="no">Prosjekt/studie design: Utvikling av standarderer</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Utvikle modeller for strukturering og distribuering av data og metadata i faste, forutsigbare formater. For eksempel, DATS (Data Tag Suite) for beskrivelse av biomedisinske data, DDI (Data Documentation Initiative) for beskrivelse av data fra samfunnsvitenskapene, &#xf8;konomi og helsevitenskap osv.</skos:definition>
+      <skos:definition xml:lang="no">Utvikle modeller for strukturering og distribuering av data og metadata i faste, forutsigbare formater. For eksempel, DATS (Data Tag Suite) for beskrivelse av biomedisinske data, DDI (Data Documentation Initiative) for beskrivelse av data fra samfunnsvitenskapene, &#xf8;konomi og helsevitenskap osv.</skos:definition>
       <skos:prefLabel xml:lang="sv">Projekt-/studiedesign: Utveckling av standarder</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att ta fram modeller f&#xf6;r struktur och f&#xf6;rdelning av data och metadata i fasta, f&#xf6;ruts&#xe4;gbara format. Till exempel DATS (Data Tag Suite) f&#xf6;r att beskriva biomedicinska data, DDI (Data Documentation Initiative) f&#xf6;r att beskriva data fr&#xe5;n samh&#xe4;llsvetenskap, nationalekonomi och h&#xe4;lsovetenskaperna osv.</skos:definition>
+      <skos:definition xml:lang="sv">Att ta fram modeller f&#xf6;r struktur och f&#xf6;rdelning av data och metadata i fasta, f&#xf6;ruts&#xe4;gbara format. Till exempel DATS (Data Tag Suite) f&#xf6;r att beskriva biomedicinska data, DDI (Data Documentation Initiative) f&#xf6;r att beskriva data fr&#xe5;n samh&#xe4;llsvetenskap, nationalekonomi och h&#xe4;lsovetenskaperna osv.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#ProjectOrStudyDesign.DataModeling">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>ProjectOrStudyDesign.DataModeling</skos:notation>
       <skos:prefLabel xml:lang="en">Project/Study design: Data modeling</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Creating a data model based on an analysis of data objects and their relationships, data properties, as well as data flows and processes. It is often the first step in database creation, tool and standards development, etc., and typically involves a progression from a conceptual model to a logical model, and then to a physical schema.</skos:definition>
+      <skos:definition xml:lang="en">Creating a data model based on an analysis of data objects and their relationships, data properties, as well as data flows and processes. It is often the first step in database creation, tool and standards development, etc., and typically involves a progression from a conceptual model to a logical model, and then to a physical schema.</skos:definition>
+      <skos:prefLabel xml:lang="et">Projekti/uuringu disain: andmemudelid</skos:prefLabel>
+      <skos:definition xml:lang="et">Andmemudeli loomine, l&#xe4;htudes andmeobjektide ja nende suhete, andmete omaduste ning andmevoogude ja -protsesside anal&#xfc;&#xfc;si tulemusest. See on sageli esimene etapp andmebaasi rajamisel v&#xf5;i  t&#xf6;&#xf6;riistade ja standardite jne v&#xe4;ljat&#xf6;&#xf6;tamisel. Reeglina alustatakse kontseptuaalsest mudelist, millele j&#xe4;rgneb loogiline mudel ja siis f&#xfc;&#xfc;siline mudel.</skos:definition>
+      <skos:prefLabel xml:lang="it">Disegno del progetto/studio: modellazione dei dati</skos:prefLabel>
+      <skos:definition xml:lang="it">Creazione di un modello di dati basato sull&apos;analisi degli oggetti e delle loro relazioni, delle propriet&#xe0;, dei flussi e dei processi riguardanti i dati. &#xc8; spesso il primo passo nella creazione di un database, nello sviluppo di strumenti e standard, ecc. e in genere comporta una progressione da un modello concettuale a un modello logico e quindi a uno schema fisico.</skos:definition>
       <skos:prefLabel xml:lang="no">Prosjekt/studie design: Datamodellering</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Opprette en datamodell basert p&#xe5; analyser av dataobjekter og deres relasjoner, dataegenskaper samt dataflyt og prosesser. Dette er ofte det f&#xf8;rste steget i databaseopprettelse, utvikling av verkt&#xf8;yer og standarder mv. og involverer typisk en utvikling fra en konseptuell modell til en logisk modell og deretter til et fysisk skjema.</skos:definition>
+      <skos:definition xml:lang="no">Opprette en datamodell basert p&#xe5; analyser av dataobjekter og deres relasjoner, dataegenskaper samt dataflyt og prosesser. Dette er ofte det f&#xf8;rste steget i databaseopprettelse, utvikling av verkt&#xf8;yer og standarder mv. og involverer typisk en utvikling fra en konseptuell modell til en logisk modell og deretter til et fysisk skjema.</skos:definition>
       <skos:prefLabel xml:lang="sv">Projekt-/studiedesign: Datamodellering</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att skapa en datamodell som bygger p&#xe5; en analys av dataobjekt och deras relationer, dataegenskaper, samt datafl&#xf6;den och -processer. Det &#xe4;r ofta det f&#xf6;rsta steget till att skapa en databas, verktyg och standarder osv., och inbegriper vanligtvis en utveckling fr&#xe5;n en konceptuell modell till en logisk modell och vidare till ett fysiskt schema.</skos:definition>
+      <skos:definition xml:lang="sv">Att skapa en datamodell som bygger p&#xe5; en analys av dataobjekt och deras relationer, dataegenskaper, samt datafl&#xf6;den och -processer. Det &#xe4;r ofta det f&#xf6;rsta steget till att skapa en databas, verktyg och standarder osv., och inbegriper vanligtvis en utveckling fr&#xe5;n en konceptuell modell till en logisk modell och vidare till ett fysiskt schema.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#ProjectOrStudyDesignSamplingDesign">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>ProjectOrStudyDesignSamplingDesign</skos:notation>
       <skos:prefLabel xml:lang="en">Project/Study design: Sampling design</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Defining which elements of the target population are included in the sample, as well as the rules and procedures by which they will be selected.</skos:definition>
+      <skos:definition xml:lang="en">Defining which elements of the target population are included in the sample, as well as the rules and procedures by which they will be selected.</skos:definition>
+      <skos:prefLabel xml:lang="et">Projekti/uuringu disain: valimi kirjeldus</skos:prefLabel>
+      <skos:definition xml:lang="et">Valimi t&#xe4;psustamine: mis/kes &#xfc;ldkogumist kuuluvad valimisse ning mis on valimi moodustamise kriteeriumid.</skos:definition>
+      <skos:prefLabel xml:lang="it">Disegno del progetto/studio: disegno campionario</skos:prefLabel>
+      <skos:definition xml:lang="it">Definizione degli elementi della popolazione di riferimento che sono inclusi nel campione, nonch&#xe9; le regole e le procedure con cui saranno selezionati.</skos:definition>
       <skos:prefLabel xml:lang="no">Prosjekt/studie design: Utvalgdesign</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Definere hvilke elementer i m&#xe5;lpopulasjonen som skal v&#xe6;re inkludert i utvalget, s&#xe5; vel som reglene og prosedyrene for at de vil bli valgt.</skos:definition>
+      <skos:definition xml:lang="no">Definere hvilke elementer i m&#xe5;lpopulasjonen som skal v&#xe6;re inkludert i utvalget, s&#xe5; vel som reglene og prosedyrene for at de vil bli valgt.</skos:definition>
       <skos:prefLabel xml:lang="sv">Projekt-/studiedesign: Urvalsdesign</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att definiera vilka element av m&#xe5;lpopulationen som ska ing&#xe5; i urvalet, och vilka regler och processer som de ska v&#xe4;ljas ut med.</skos:definition>
+      <skos:definition xml:lang="sv">Att definiera vilka element av m&#xe5;lpopulationen som ska ing&#xe5; i urvalet, och vilka regler och processer som de ska v&#xe4;ljas ut med.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#DataManagement">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>DataManagement</skos:notation>
       <skos:prefLabel xml:lang="en">Data management</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Development and execution of architectures, policies, practices and procedures to handle data at any stage of its life cycle. Includes processes and activities related to the selection, organization and integration of data, their annotation, as well as their publication and preservation so that the data maintain their value over time, and remain available for reuse.</skos:definition>
+      <skos:definition xml:lang="en">Development and execution of architectures, policies, practices and procedures to handle data at any stage of its life cycle. Includes processes and activities related to the selection, organization and integration of data, their annotation, as well as their publication and preservation so that the data maintain their value over time, and remain available for reuse.</skos:definition>
+      <skos:prefLabel xml:lang="et">Andmehaldus</skos:prefLabel>
+      <skos:definition xml:lang="et">Arhitektuuride, eeskirjade, toimingute ja hea tava arendamine ja rakendamine andmete haldamiseks igas eluts&#xfc;kli etapis. H&#xf5;lmab protsesse ja tegevusi, mis on seotud andmete valiku, korrastamise ja integreerimisega, andmete kirjeldamisega, andmete avaldamise ja s&#xe4;ilitamisega, et andmed ei kaotaks ajas v&#xe4;&#xe4;rtust ning oleksid k&#xe4;ttesaadavad uutele kasutajatele.</skos:definition>
+      <skos:prefLabel xml:lang="it">Gestione dei dati</skos:prefLabel>
+      <skos:definition xml:lang="it">Sviluppo ed esecuzione di architetture, politiche, pratiche e procedure per gestire i dati in qualsiasi fase del loro ciclo di vita. Comprende i processi e le attivit&#xe0; relativi alla selezione, all&apos;organizzazione e all&apos;integrazione dei dati, alla loro annotazione, nonch&#xe9; alla loro pubblicazione e conservazione, in modo che i dati mantengano il loro valore nel tempo e rimangano disponibili per il riutilizzo.</skos:definition>
       <skos:prefLabel xml:lang="no">Datah&#xe5;ndtering</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Utvikling og gjennomf&#xf8;ring av arkitektur, politikk, praksis og prosedyrer for &#xe5; h&#xe5;ndtere data i alle trinn av livssyklusen. Inkluderer prosesser og aktiviteter knyttet til utvelgelse, organisasering og integrering av data, deres annotering, samt publisering og preservasjon s&#xe5;nn at dataene opprettholder sin verdi over tid og blir tilgjengelig for gjenbruk.</skos:definition>
+      <skos:definition xml:lang="no">Utvikling og gjennomf&#xf8;ring av arkitektur, politikk, praksis og prosedyrer for &#xe5; h&#xe5;ndtere data i alle trinn av livssyklusen. Inkluderer prosesser og aktiviteter knyttet til utvelgelse, organisasering og integrering av data, deres annotering, samt publisering og preservasjon s&#xe5;nn at dataene opprettholder sin verdi over tid og blir tilgjengelig for gjenbruk.</skos:definition>
       <skos:prefLabel xml:lang="sv">Datahantering</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att utveckla och anv&#xe4;nda arkitekturer, policyer, riktlinjer och procedurer f&#xf6;r att hantera data i alla delar av deras livscykel. Detta inkluderar processer och &#xe5;tg&#xe4;rder som ing&#xe5;r i urval, organisering och integrering av data, annotering av data, samt publicering och bevarande av data, s&#xe5; att deras v&#xe4;rden bibeh&#xe5;lls &#xf6;ver tid och finns tillg&#xe4;ngliga f&#xf6;r &#xe5;teranv&#xe4;ndning.</skos:definition>
+      <skos:definition xml:lang="sv">Att utveckla och anv&#xe4;nda arkitekturer, policyer, riktlinjer och procedurer f&#xf6;r att hantera data i alla delar av deras livscykel. Detta inkluderar processer och &#xe5;tg&#xe4;rder som ing&#xe5;r i urval, organisering och integrering av data, annotering av data, samt publicering och bevarande av data, s&#xe5; att deras v&#xe4;rden bibeh&#xe5;lls &#xf6;ver tid och finns tillg&#xe4;ngliga f&#xf6;r &#xe5;teranv&#xe4;ndning.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#EthicsReview">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>EthicsReview</skos:notation>
       <skos:prefLabel xml:lang="en">Ethics review</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Reviewing whether a research proposal or study complies with ethical principles based on legislation or approved ethical guidelines (soft legislation).</skos:definition>
+      <skos:definition xml:lang="en">Reviewing whether a research proposal or study complies with ethical principles based on legislation or approved ethical guidelines (soft legislation).</skos:definition>
+      <skos:prefLabel xml:lang="et">Eetikan&#xf5;uete t&#xe4;itmine</skos:prefLabel>
+      <skos:definition xml:lang="et">Kontrollimine, kas valitud uurimisprobleem v&#xf5;i uuring on koosk&#xf5;las eetikap&#xf5;him&#xf5;tetega, mis tulenevad seadustest v&#xf5;i kinnitatud eetikan&#xf5;uetest (nn pehme &#xf5;igus).</skos:definition>
+      <skos:prefLabel xml:lang="it">Valutazione etica</skos:prefLabel>
+      <skos:definition xml:lang="it">Valutazione della conformit&#xe0; di una proposta di ricerca o di uno studio ai principi etici basati sulla legislazione o sulle linee guida etiche approvate (non vincolanti).</skos:definition>
       <skos:prefLabel xml:lang="no">Etisk godkjenning</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Gjennomgang av hvorvidt et forskningsforslag eller en unders&#xf8;kelse er i overenstemmelse med etiske prinsipper basert p&#xe5; lovgivning eller godkjente etiske retningslinjer (myk lovgivning).</skos:definition>
+      <skos:definition xml:lang="no">Gjennomgang av hvorvidt et forskningsforslag eller en unders&#xf8;kelse er i overenstemmelse med etiske prinsipper basert p&#xe5; lovgivning eller godkjente etiske retningslinjer (myk lovgivning).</skos:definition>
       <skos:prefLabel xml:lang="sv">Etikpr&#xf6;vning</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att pr&#xf6;va huruvida ett forskningsf&#xf6;rslag eller en studie uppfyller etiska principer enligt lagkrav eller godk&#xe4;nda etiska riktlinjer (s&#xe5; kallad mjuk lagstiftning).</skos:definition>
+      <skos:definition xml:lang="sv">Att pr&#xf6;va huruvida ett forskningsf&#xf6;rslag eller en studie uppfyller etiska principer enligt lagkrav eller godk&#xe4;nda etiska riktlinjer (s&#xe5; kallad mjuk lagstiftning).</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#DataCollection">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>DataCollection</skos:notation>
       <skos:prefLabel xml:lang="en">Data collection</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Activities relating to the process of gathering data in an established, systematic fashion that enables answering the stated research questions, testing hypotheses, and evaluating outcomes. Maps to &apos;DataCollector&apos; in DataCite.</skos:definition>
+      <skos:definition xml:lang="en">Activities relating to the process of gathering data in an established, systematic fashion that enables answering the stated research questions, testing hypotheses, and evaluating outcomes. Maps to &apos;DataCollector&apos; in DataCite.</skos:definition>
+      <skos:prefLabel xml:lang="et">Andmekogumine </skos:prefLabel>
+      <skos:definition xml:lang="et">Andmete s&#xfc;stemaatiline, kindlaksm&#xe4;&#xe4;ratud viisil kogumine, mis v&#xf5;imaldab leida vastused p&#xfc;stitatud uurimisk&#xfc;simustele, testida h&#xfc;poteese ja hinnata tulemusi. Vastab DataCite s&#xfc;steemis rollile DataCollector.</skos:definition>
+      <skos:prefLabel xml:lang="it">Raccolta dei dati</skos:prefLabel>
+      <skos:definition xml:lang="it">Attivit&#xe0; relative al processo di raccolta sistematica dei dati che consente di rispondere alle domande di ricerca formulate, di testare le ipotesi e di valutare i risultati. Corrisponde a &apos;DataCollector&apos; in DataCite.</skos:definition>
       <skos:prefLabel xml:lang="no">Datainnsamling</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Aktiviteter relatert til prosessen med &#xe5; samle inn data p&#xe5; en etablert og systematisk m&#xe5;te som muliggj&#xf8;r besvarelse av forskningssp&#xf8;rsm&#xe5;l, hypotesetesting og evaluering av resultatet. Kobles til &apos;DataCollector&apos; i DataCite.</skos:definition>
+      <skos:definition xml:lang="no">Aktiviteter relatert til prosessen med &#xe5; samle inn data p&#xe5; en etablert og systematisk m&#xe5;te som muliggj&#xf8;r besvarelse av forskningssp&#xf8;rsm&#xe5;l, hypotesetesting og evaluering av resultatet. Kobles til &apos;DataCollector&apos; i DataCite.</skos:definition>
       <skos:prefLabel xml:lang="sv">Datainsamling</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Aktiviteter som ing&#xe5;r i att samla in data p&#xe5; ett f&#xf6;rutbest&#xe4;mt och systematiskt s&#xe4;tt, som g&#xf6;r det m&#xf6;jligt att besvara angivna forskningsfr&#xe5;gor, testa hypoteser och utv&#xe4;rdera utfall. Mappas till &quot;DataCollector&quot; i DataCite.</skos:definition>
+      <skos:definition xml:lang="sv">Aktiviteter som ing&#xe5;r i att samla in data p&#xe5; ett f&#xf6;rutbest&#xe4;mt och systematiskt s&#xe4;tt, som g&#xf6;r det m&#xf6;jligt att besvara angivna forskningsfr&#xe5;gor, testa hypoteser och utv&#xe4;rdera utfall. Mappas till &quot;DataCollector&quot; i DataCite.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#SampleSelection">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>SampleSelection</skos:notation>
       <skos:prefLabel xml:lang="en">Sample selection</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Selecting units from the target population.</skos:definition>
+      <skos:definition xml:lang="en">Selecting units from the target population.</skos:definition>
+      <skos:prefLabel xml:lang="et">Valimi moodustamine</skos:prefLabel>
+      <skos:definition xml:lang="et">&#xdc;ksuste valimine &#xfc;ldkogumist.</skos:definition>
+      <skos:prefLabel xml:lang="it">Selezione del campione</skos:prefLabel>
+      <skos:definition xml:lang="it">Selezione delle unit&#xe0; dalla popolazione di riferimento.</skos:definition>
       <skos:prefLabel xml:lang="no">Utvalgstrekking</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Trekking av enheter fra m&#xe5;l populasjonen.</skos:definition>
+      <skos:definition xml:lang="no">Trekking av enheter fra m&#xe5;l populasjonen.</skos:definition>
       <skos:prefLabel xml:lang="sv">Val av urval</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att v&#xe4;lja enheter ur m&#xe5;lpopulationen.</skos:definition>
+      <skos:definition xml:lang="sv">Att v&#xe4;lja enheter ur m&#xe5;lpopulationen.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#DataEntry">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>DataEntry</skos:notation>
       <skos:prefLabel xml:lang="en">Data entry</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Entering or updating data into a computer system, often from other forms of media, like paper questionnaires, newspaper articles, etc.</skos:definition>
+      <skos:definition xml:lang="en">Entering or updating data into a computer system, often from other forms of media, like paper questionnaires, newspaper articles, etc.</skos:definition>
+      <skos:prefLabel xml:lang="et">Andmesisestus</skos:prefLabel>
+      <skos:definition xml:lang="et">Andmete sisestamine v&#xf5;i uuendamine arvutiprogrammis; enamasti sisestatakse andmeid teistelt andmekandjatelt (nt paberankeedid, ajaleheartiklid jne).</skos:definition>
+      <skos:prefLabel xml:lang="it">Inserimento dati</skos:prefLabel>
+      <skos:definition xml:lang="it">Inserimento o aggiornamento di dati in un sistema informatico, spesso provenienti da altre forme di supporto, come questionari cartacei, articoli di giornale, ecc.</skos:definition>
       <skos:prefLabel xml:lang="no">Datainntasting</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Inntaste eller oppdatering av data i et datasystem, ofte fra andre medium som papir-sp&#xf8;rreskjema, avisartikler, etc.</skos:definition>
+      <skos:definition xml:lang="no">Inntaste eller oppdatering av data i et datasystem, ofte fra andre medium som papir-sp&#xf8;rreskjema, avisartikler, etc.</skos:definition>
       <skos:prefLabel xml:lang="sv">Datainmatning</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att skriva in, mata in eller uppdatera data i ett datasystem. Detta r&#xf6;r ofta data fr&#xe5;n andra former av media, som pappersenk&#xe4;ter, tidningsartiklar m.m.</skos:definition>
+      <skos:definition xml:lang="sv">Att skriva in, mata in eller uppdatera data i ett datasystem. Detta r&#xf6;r ofta data fr&#xe5;n andra former av media, som pappersenk&#xe4;ter, tidningsartiklar m.m.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#DataProcessing">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>DataProcessing</skos:notation>
       <skos:prefLabel xml:lang="en">Data processing</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Performing operations that result in changes to the data, including data cleaning, editing, post-harmonization, etc. Maps to &apos;DataCurator&apos; in DataCite.</skos:definition>
+      <skos:definition xml:lang="en">Performing operations that result in changes to the data, including data cleaning, editing, post-harmonization, etc. Maps to &apos;DataCurator&apos; in DataCite.</skos:definition>
+      <skos:prefLabel xml:lang="et">Andmet&#xf6;&#xf6;tlus</skos:prefLabel>
+      <skos:definition xml:lang="et">Toimingud, mille tulemusel andmed muutuvad, sh andmete puhastamine, ettevalmistamine, &#xfc;htlustamine jne. Vastab DataCite s&#xfc;steemis rollile DataCurator.</skos:definition>
+      <skos:prefLabel xml:lang="it">Elaborazione dei dati</skos:prefLabel>
+      <skos:definition xml:lang="it">Operazioni che comportano cambiamenti ai dati, tra cui la pulizia e la modifica dei dati, la post-armonizzazione, ecc. Corrisponde a &apos;DataCurator&apos; in DataCite.</skos:definition>
       <skos:prefLabel xml:lang="no">Databehandling</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Utf&#xf8;rer handlinger som medf&#xf8;rer endringer i data, inkludert rensing av data, redigering og post-harmonisering, etc. Kobles til &apos;DataCurator&apos; i DataCite.</skos:definition>
+      <skos:definition xml:lang="no">Utf&#xf8;rer handlinger som medf&#xf8;rer endringer i data, inkludert rensing av data, redigering og post-harmonisering, etc. Kobles til &apos;DataCurator&apos; i DataCite.</skos:definition>
       <skos:prefLabel xml:lang="sv">Databehandling</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att utf&#xf6;ra &#xe5;tg&#xe4;rder som g&#xf6;r att data f&#xf6;r&#xe4;ndras, t.ex. att rensa, redigera eller post-harmonisera data. Mappas till &quot;DataCurator&quot; i DataCite.</skos:definition>
+      <skos:definition xml:lang="sv">Att utf&#xf6;ra &#xe5;tg&#xe4;rder som g&#xf6;r att data f&#xf6;r&#xe4;ndras, t.ex. att rensa, redigera eller post-harmonisera data. Mappas till &quot;DataCurator&quot; i DataCite.</skos:definition>
       <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#DataProcessing.DisclosureControl"/>
       <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#DataProcessing.DataAggregation"/>
       <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#DataProcessing.DataIntegration"/>
@@ -225,220 +285,300 @@
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>DataProcessing.DisclosureControl</skos:notation>
       <skos:prefLabel xml:lang="en">Data processing: Disclosure control</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Planning or using specific techniques to preserve the anonymity of individual or other entities that the data refer to. For example, anonymization, pseudonymization, or removal of direct and indirect identifiers.</skos:definition>
+      <skos:definition xml:lang="en">Planning or using specific techniques to preserve the anonymity of individual or other entities that the data refer to. For example, anonymization, pseudonymization, or removal of direct and indirect identifiers.</skos:definition>
+      <skos:prefLabel xml:lang="et">Andmet&#xf6;&#xf6;tlus: konfidentsiaalsuse tagamine</skos:prefLabel>
+      <skos:definition xml:lang="et">Konkreetsete meetmete planeerimine v&#xf5;i kasutamine, et tagada &#xfc;ksikisikute v&#xf5;i teiste andmesubjektide anon&#xfc;&#xfc;msus. Nt anon&#xfc;&#xfc;mimine, pseudoanon&#xfc;&#xfc;mimine, otsest v&#xf5;i kaudset tuvastamist v&#xf5;imaldavate andemete eemaldamine.</skos:definition>
+      <skos:prefLabel xml:lang="it">Elaborazione dei dati: controllo divulgazione</skos:prefLabel>
+      <skos:definition xml:lang="it">Pianificazione o utilizzo di tecniche specifiche per preservare l&apos;anonimato delle persone o di altre entit&#xe0; a cui i dati si riferiscono. Ad esempio, l&apos;anonimizzazione, la pseudonimizzazione o la rimozione degli identificatori diretti e indiretti.</skos:definition>
       <skos:prefLabel xml:lang="no">Databehandling: Konfidensialitet kontroll</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Planlegge eller bruke spesifikke teknikker for &#xe5; ivareta anonymiteten til individer eller enheter som data omhandler. For eksempel, anonymisering, pseudonymisering eller fjerning av direkte og indirekte identifikatorer.</skos:definition>
+      <skos:definition xml:lang="no">Planlegge eller bruke spesifikke teknikker for &#xe5; ivareta anonymiteten til individer eller enheter som data omhandler. For eksempel, anonymisering, pseudonymisering eller fjerning av direkte og indirekte identifikatorer.</skos:definition>
       <skos:prefLabel xml:lang="sv">Databehandling: R&#xf6;jandekontroll</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att planera eller anv&#xe4;nda s&#xe4;rskilda tekniker f&#xf6;r att bevara anonymiteten f&#xf6;r individer eller andra enheter som data h&#xe4;nvisar till. Till exempel anonymisering, pseudonymisering eller att ta bort direkta och indirekta identifierare.</skos:definition>
+      <skos:definition xml:lang="sv">Att planera eller anv&#xe4;nda s&#xe4;rskilda tekniker f&#xf6;r att bevara anonymiteten f&#xf6;r individer eller andra enheter som data h&#xe4;nvisar till. Till exempel anonymisering, pseudonymisering eller att ta bort direkta och indirekta identifierare.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#DataProcessing.DataAggregation">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>DataProcessing.DataAggregation</skos:notation>
       <skos:prefLabel xml:lang="en">Data processing: Data aggregation</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Producing individually collected data in a summary form, for purposes such as statistical analysis. A common aggregation goal is to obtain more information about particular population groups, based on specific variables, such as age, profession, education, or income.</skos:definition>
+      <skos:definition xml:lang="en">Producing individually collected data in a summary form, for purposes such as statistical analysis. A common aggregation goal is to obtain more information about particular population groups, based on specific variables, such as age, profession, education, or income.</skos:definition>
+      <skos:prefLabel xml:lang="et">Andmet&#xf6;&#xf6;tlus: agregeerimine</skos:prefLabel>
+      <skos:definition xml:lang="et">&#xdc;ksikandmetest koondandmestiku moodustamine, nt statistiliseks anal&#xfc;&#xfc;siks v&#xf5;i muul eesm&#xe4;rgil. Agregeerimise peamisi eesm&#xe4;rke on saada rohkem teavet teatud rahvastikur&#xfc;hmade kohta mingi muutuja (nt vanus, amet, haridus, sissetulek) alusel.</skos:definition>
+      <skos:prefLabel xml:lang="it">Elaborazione dei dati: aggregazione dei dati</skos:prefLabel>
+      <skos:definition xml:lang="it">Produzione di una sintesi dei dati raccolti a livello individuale, per scopi quali l&apos;analisi statistica. Un obiettivo comune dell&apos;aggregazione &#xe8; quello di ottenere maggiori informazioni su particolari gruppi di popolazione, in base a variabili specifiche, come l&apos;et&#xe0;, la professione, l&apos;istruzione o il reddito.</skos:definition>
       <skos:prefLabel xml:lang="no">Databehandling: Data aggregering</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Produsere individuelt innsamlede data i et sammenfattet format med hensikt om &#xe5; tilrettelegge for ytterligere statistiske analyser. Et allment aggregeringsm&#xe5;l kunne oppn&#xe5; mer informasjon om en spesifikk populasjongruppe basert p&#xe5; spesifikke variabler som alder, yrke, utdanning eller inntekt.</skos:definition>
+      <skos:definition xml:lang="no">Produsere individuelt innsamlede data i et sammenfattet format med hensikt om &#xe5; tilrettelegge for ytterligere statistiske analyser. Et allment aggregeringsm&#xe5;l kunne oppn&#xe5; mer informasjon om en spesifikk populasjongruppe basert p&#xe5; spesifikke variabler som alder, yrke, utdanning eller inntekt.</skos:definition>
       <skos:prefLabel xml:lang="sv">Databehandling: Dataaggregering</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att ta fram individuellt insamlade data i sammanfattad form f&#xf6;r syften som t.ex. statistiska analyser. Ett vanligt m&#xe5;l f&#xf6;r aggregering &#xe4;r att f&#xe5; mer information om vissa populationsgrupper utifr&#xe5;n vissa variabler, som &#xe5;lder, yrke, utbildning eller inkomst.</skos:definition>
+      <skos:definition xml:lang="sv">Att ta fram individuellt insamlade data i sammanfattad form f&#xf6;r syften som t.ex. statistiska analyser. Ett vanligt m&#xe5;l f&#xf6;r aggregering &#xe4;r att f&#xe5; mer information om vissa populationsgrupper utifr&#xe5;n vissa variabler, som &#xe5;lder, yrke, utbildning eller inkomst.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#DataProcessing.DataIntegration">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>DataProcessing.DataIntegration</skos:notation>
       <skos:prefLabel xml:lang="en">Data processing: Data integration</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Combining data from separate sources into meaningful information. For example, linking register data with survey data or integrating datasets collected in different countries into a cross-national dataset.</skos:definition>
+      <skos:definition xml:lang="en">Combining data from separate sources into meaningful information. For example, linking register data with survey data or integrating datasets collected in different countries into a cross-national dataset.</skos:definition>
+      <skos:prefLabel xml:lang="et">Andmet&#xf6;&#xf6;tlus: integreerimine</skos:prefLabel>
+      <skos:definition xml:lang="et">Eri allikatest saadud andmete kombineerimine kasulikuks teabeks. N&#xe4;iteks registriandmete ja uuringuandmete seostamine v&#xf5;i erinevate riikide andmestike kombineerimine rahvusvaheliseks andmestikuks.</skos:definition>
+      <skos:prefLabel xml:lang="it">Elaborazione dei dati: integrazione dei dati</skos:prefLabel>
+      <skos:definition xml:lang="it">Combinazione di dati provenienti da fonti separate in informazioni significative. Ad esempio, collegamento tra i dati dei registri e quelli di survey o integrazione dei dataset raccolti in diversi Paesi in un unico dataset transnazionale.</skos:definition>
       <skos:prefLabel xml:lang="no">Databehandling: Dataintegrering</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Sammenstilling av data fra ulike kilder til meningsfull informasjon. For eksempel, &#xe5; koble p&#xe5; registerdata med sp&#xf8;rreskjema data eller integrere datasett samlet inn i forskjellig land til et tverrnasjonalt datasett.</skos:definition>
+      <skos:definition xml:lang="no">Sammenstilling av data fra ulike kilder til meningsfull informasjon. For eksempel, &#xe5; koble p&#xe5; registerdata med sp&#xf8;rreskjema data eller integrere datasett samlet inn i forskjellig land til et tverrnasjonalt datasett.</skos:definition>
       <skos:prefLabel xml:lang="sv">Databehandling: Dataintegrering</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att kombinera data fr&#xe5;n olika k&#xe4;llor till meningsfull information. Till exempel att koppla registerdata till surveydata, eller att integrera dataset som samlats in i olika l&#xe4;nder till ett tv&#xe4;rnationellt dataset.</skos:definition>
+      <skos:definition xml:lang="sv">Att kombinera data fr&#xe5;n olika k&#xe4;llor till meningsfull information. Till exempel att koppla registerdata till surveydata, eller att integrera dataset som samlats in i olika l&#xe4;nder till ett tv&#xe4;rnationellt dataset.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#DataProcessing.DataValidation">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>DataProcessing.DataValidation</skos:notation>
       <skos:prefLabel xml:lang="en">Data processing: Data validation</skos:prefLabel>
-	  <skos:definition  xml:lang="en">The process of checking data to ensure that all of them have acceptable values, that they are accurate, coherent, consistent, complete and in the expected format.</skos:definition>
+      <skos:definition xml:lang="en">The process of checking data to ensure that all of them have acceptable values, that they are accurate, coherent, consistent, complete and in the expected format.</skos:definition>
+      <skos:prefLabel xml:lang="et">Andmet&#xf6;&#xf6;tlus: valideerimine</skos:prefLabel>
+      <skos:definition xml:lang="et">Andmete kontrollimine: kas k&#xf5;ik v&#xe4;&#xe4;rtused on sobivad, kas andmed on t&#xe4;psed, sidusad, &#xfc;htsed, t&#xe4;ielikud ja n&#xf5;utud formaadis.</skos:definition>
+      <skos:prefLabel xml:lang="it">Elaborazione dei dati: validazione dei dati</skos:prefLabel>
+      <skos:definition xml:lang="it">Processo di verifica che intende assicurare che i dati abbiano tutti i valori ammissibili, che siano accurati, coerenti, consistenti, completi e nel formato previsto.</skos:definition>
       <skos:prefLabel xml:lang="no">Databehandling: Data validering</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Prosessen ved &#xe5; kvalitetssikre data for &#xe5; sikre at alle har akseptable verdier, at de er n&#xf8;yaktige, p&#xe5;litelige, konsistente, fullstendige og i forventet format.</skos:definition>
+      <skos:definition xml:lang="no">Prosessen ved &#xe5; kvalitetssikre data for &#xe5; sikre at alle har akseptable verdier, at de er n&#xf8;yaktige, p&#xe5;litelige, konsistente, fullstendige og i forventet format.</skos:definition>
       <skos:prefLabel xml:lang="sv">Databehandling: Datavalidering</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att bed&#xf6;ma data f&#xf6;r att se till att alla data har acceptabla v&#xe4;rden, att de &#xe4;r korrekta, koherenta, konsekventa, fullst&#xe4;ndiga och har f&#xf6;rv&#xe4;ntat format.</skos:definition>
+      <skos:definition xml:lang="sv">Att bed&#xf6;ma data f&#xf6;r att se till att alla data har acceptabla v&#xe4;rden, att de &#xe4;r korrekta, koherenta, konsekventa, fullst&#xe4;ndiga och har f&#xf6;rv&#xe4;ntat format.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#DataAcquisition">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>DataAcquisition</skos:notation>
       <skos:prefLabel xml:lang="en">Data acquisition</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Acquiring data and supporting documentation from potential contributors for further preservation and/or dissemination.</skos:definition>
+      <skos:definition xml:lang="en">Acquiring data and supporting documentation from potential contributors for further preservation and/or dissemination.</skos:definition>
+      <skos:prefLabel xml:lang="et">Andmeh&#xf5;ive</skos:prefLabel>
+      <skos:definition xml:lang="et">Andmete ja vajaliku lisadokumentatsiooni kogumine potentsiaalsetest allikatest t&#xe4;iendavaks s&#xe4;ilitamiseks ja/v&#xf5;i levitamiseks.</skos:definition>
+      <skos:prefLabel xml:lang="it">Acquisizione dei dati</skos:prefLabel>
+      <skos:definition xml:lang="it">Acquisizione di dati e della documentazione di supporto, provenienti da eventuali collaboratori, per la successiva conservazione e/o divulgazione.</skos:definition>
       <skos:prefLabel xml:lang="no">Datafangst</skos:prefLabel>
-	  <skos:definition  xml:lang="no">&#xc5; anskaffe data og tilh&#xf8;rende dokumentasjon fra potensielle bidragsytere for fremtidig bevaring og/eller formidling.</skos:definition>
+      <skos:definition xml:lang="no">&#xc5; anskaffe data og tilh&#xf8;rende dokumentasjon fra potensielle bidragsytere for fremtidig bevaring og/eller formidling.</skos:definition>
       <skos:prefLabel xml:lang="sv">Dataf&#xe5;ngst</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att h&#xe4;mta in data och tillh&#xf6;rande dokumentation fr&#xe5;n m&#xf6;jliga medverkande f&#xf6;r ytterligare bevarande och/eller delning.</skos:definition>
+      <skos:definition xml:lang="sv">Att h&#xe4;mta in data och tillh&#xf6;rande dokumentation fr&#xe5;n m&#xf6;jliga medverkande f&#xf6;r ytterligare bevarande och/eller delning.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#MetadataProduction">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>MetadataProduction</skos:notation>
       <skos:prefLabel xml:lang="en">Metadata production</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Generating data documentation. For example, a study description covering study rationale, methodology, and other characteristics of the dataset as a whole; variable-level documentation (labels, frequencies, question text); references to study-related materials or publications, etc.</skos:definition>
+      <skos:definition xml:lang="en">Generating data documentation. For example, a study description covering study rationale, methodology, and other characteristics of the dataset as a whole; variable-level documentation (labels, frequencies, question text); references to study-related materials or publications, etc.</skos:definition>
+      <skos:prefLabel xml:lang="et">Metaandmete loomine</skos:prefLabel>
+      <skos:definition xml:lang="et">Andmete dokumenteerimine. N&#xe4;iteks uuringu kirjeldus, kus on kirjas uuringu eesm&#xe4;rk, metoodika ning andmestiku &#xfc;ldtunnused; muutujate dokumenteerimine (nimetused, sagedused, k&#xfc;simuste s&#xf5;nastus); viited uuringuga seotud materjalidele v&#xf5;i publikatsioonidele jne.</skos:definition>
+      <skos:prefLabel xml:lang="it">Produzione dei metadati</skos:prefLabel>
+      <skos:definition xml:lang="it">Creazione della documentazione sui dati. Ad esempio, una descrizione dello studio che comprenda le ragioni dello studio, la metodologia e altre caratteristiche del dataset nel suo complesso; documentazione a livello di variabili (etichette, frequenze, testo delle domande); riferimenti a materiali o pubblicazioni relativi allo studio, ecc.</skos:definition>
       <skos:prefLabel xml:lang="no">Metadataproduksjon</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Generere datadokumentasjon. For eksempel, en studiebeskrivelse som dekker unders&#xf8;kelsens begrunnelse, metodologi og andre kjennetegn ved datasettet som en helhet; variabelniv&#xe5; dokumentasjon (labler, frekvenser, sp&#xf8;rsm&#xe5;lstekst); referanse til studierelatert materiale eller publikasjoner, etc.</skos:definition>
+      <skos:definition xml:lang="no">Generere datadokumentasjon. For eksempel, en studiebeskrivelse som dekker unders&#xf8;kelsens begrunnelse, metodologi og andre kjennetegn ved datasettet som en helhet; variabelniv&#xe5; dokumentasjon (labler, frekvenser, sp&#xf8;rsm&#xe5;lstekst); referanse til studierelatert materiale eller publikasjoner, etc.</skos:definition>
       <skos:prefLabel xml:lang="sv">Metadataproduktion</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att generera datadokumentation. Till exempel en studiebeskrivning som inneh&#xe5;ller tanken bakom studien, metoden och andra egenskaper hos datasetet som helhet; dokumentation p&#xe5; variabelniv&#xe5; (etiketter, frekvenser, fr&#xe5;getext); referenser till studierelaterade material eller publikationer osv.</skos:definition>
+      <skos:definition xml:lang="sv">Att generera datadokumentation. Till exempel en studiebeskrivning som inneh&#xe5;ller tanken bakom studien, metoden och andra egenskaper hos datasetet som helhet; dokumentation p&#xe5; variabelniv&#xe5; (etiketter, frekvenser, fr&#xe5;getext); referenser till studierelaterade material eller publikationer osv.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#DataDistribution">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>DataDistribution</skos:notation>
       <skos:prefLabel xml:lang="en">Data distribution</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Distributing/disseminating the data to users and making them available for reuse. Maps to &apos;Distributor&apos; in DataCite.</skos:definition>
+      <skos:definition xml:lang="en">Distributing/disseminating the data to users and making them available for reuse. Maps to &apos;Distributor&apos; in DataCite.</skos:definition>
+      <skos:prefLabel xml:lang="et">Levitamine</skos:prefLabel>
+      <skos:definition xml:lang="et">Andmete levitamine ja kasutajatele k&#xe4;ttesaadavaks tegemine. Vastab DataCite s&#xfc;steemis rollile Distributor.</skos:definition>
+      <skos:prefLabel xml:lang="it">Distribuzione dei dati</skos:prefLabel>
+      <skos:definition xml:lang="it">Distribuzione/diffusione dei dati agli utenti, rendendoli disponibili per il riutilizzo. Corrisponde a &apos;Distributor&apos; in DataCite.</skos:definition>
       <skos:prefLabel xml:lang="no">Datadistribusjon</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Distribusjon/formidling av data til brukere og tilgjengeliggj&#xf8;ring for gjenbruk. Kobles til &apos;Distributor&apos; i DataCite.</skos:definition>
+      <skos:definition xml:lang="no">Distribusjon/formidling av data til brukere og tilgjengeliggj&#xf8;ring for gjenbruk. Kobles til &apos;Distributor&apos; i DataCite.</skos:definition>
       <skos:prefLabel xml:lang="sv">Datadistribution</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att distribuera/sprida data till anv&#xe4;ndare och tillg&#xe4;ngligg&#xf6;ra dem f&#xf6;r &#xe5;teranv&#xe4;ndning. Mappas till &quot;Distributor&quot; i DataCite.</skos:definition>
+      <skos:definition xml:lang="sv">Att distribuera/sprida data till anv&#xe4;ndare och tillg&#xe4;ngligg&#xf6;ra dem f&#xf6;r &#xe5;teranv&#xe4;ndning. Mappas till &quot;Distributor&quot; i DataCite.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#DataHosting">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>DataHosting</skos:notation>
       <skos:prefLabel xml:lang="en">Data hosting</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Housing, servicing, and maintaining data and, usually, the accompanying  metadata or related documentation. Maps to to &apos;HostingInstitution&apos; in DataCite.</skos:definition>
+      <skos:definition xml:lang="en">Housing, servicing, and maintaining data and, usually, the accompanying  metadata or related documentation. Maps to to &apos;HostingInstitution&apos; in DataCite.</skos:definition>
+      <skos:prefLabel xml:lang="et">Andmemajutus</skos:prefLabel>
+      <skos:definition xml:lang="et">Andmete ning reeglina ka seotud metaandmete v&#xf5;i muu dokumentatsiooni majutamine, haldamine ja s&#xe4;ilitamine. Vastab DataCite s&#xfc;steemis rollile HostingInstitution.</skos:definition>
+      <skos:prefLabel xml:lang="it">Hosting dei dati</skos:prefLabel>
+      <skos:definition xml:lang="it">Ospitare, gestire e mantenere i dati e, solitamente, i metadati che li accompagnano o la relativa documentazione. Corrisponde a &apos;HostingInstitution&apos; in DataCite.</skos:definition>
       <skos:prefLabel xml:lang="no">Datalagring</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Lagring, h&#xe5;ndtering og vedlikehold av data, som oftest inkluderer dette ogs&#xe5; tilh&#xf8;rende metadata og relatert dokumentasjon. Kobles til &apos;HostingInstitution&apos; i DataCite.</skos:definition>
+      <skos:definition xml:lang="no">Lagring, h&#xe5;ndtering og vedlikehold av data, som oftest inkluderer dette ogs&#xe5; tilh&#xf8;rende metadata og relatert dokumentasjon. Kobles til &apos;HostingInstitution&apos; i DataCite.</skos:definition>
       <skos:prefLabel xml:lang="sv">Datalagring</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att lagra, ta hand om och underh&#xe5;lla data och, vanligtvis, tillh&#xf6;rande metadata eller dokumentation. Mappas till &quot;HostingInstitution&quot; i DataCite.</skos:definition>
+      <skos:definition xml:lang="sv">Att lagra, ta hand om och underh&#xe5;lla data och, vanligtvis, tillh&#xf6;rande metadata eller dokumentation. Mappas till &quot;HostingInstitution&quot; i DataCite.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#LongTermPreservationOrArchiving">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>LongTermPreservationOrArchiving</skos:notation>
       <skos:prefLabel xml:lang="en">Long-term preservation/archiving</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Protecting and maintaining the integrity and usability of data and accompanying metadata so that they remain available to future generations. Maps to &apos;DataManager&apos; in DataCite.</skos:definition>
+      <skos:definition xml:lang="en">Protecting and maintaining the integrity and usability of data and accompanying metadata so that they remain available to future generations. Maps to &apos;DataManager&apos; in DataCite.</skos:definition>
+      <skos:prefLabel xml:lang="et">Pikaajaline s&#xe4;ilitamine/arhiveerimine</skos:prefLabel>
+      <skos:definition xml:lang="et">Andmete ning seotud metaandmete tervikluse ja kasutatavuse tagamine, et andmed oleksid k&#xe4;ttesaadavad j&#xe4;rgmistele p&#xf5;lvkondadele. Vastab DataCite s&#xfc;steemis rollile DataManager.</skos:definition>
+      <skos:prefLabel xml:lang="it">Conservazione a lungo termine/archiviazione</skos:prefLabel>
+      <skos:definition xml:lang="it">Protezione e mantenimento dell&apos;integrit&#xe0; e dell&apos;usabilit&#xe0; dei dati e dei metadati che li accompagnano, in modo che rimangano a disposizione delle generazioni future. Corrisponde a &apos;DataManager&apos; in DataCite.</skos:definition>
       <skos:prefLabel xml:lang="no">Langsiktig bevaring/arkivering</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Ivareta og vedlikeholde integriteten og brukervennligheten til data og tilh&#xf8;rende metadata slik at det forblir tilgjengelig for fremtidige generasjoner. Kobles til &apos;DataManager&apos; i DataCite.</skos:definition>
+      <skos:definition xml:lang="no">Ivareta og vedlikeholde integriteten og brukervennligheten til data og tilh&#xf8;rende metadata slik at det forblir tilgjengelig for fremtidige generasjoner. Kobles til &apos;DataManager&apos; i DataCite.</skos:definition>
       <skos:prefLabel xml:lang="sv">L&#xe5;ngtidsbevarande/arkivering</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att skydda och bibeh&#xe5;lla integriteten och anv&#xe4;ndbarheten hos data och tillh&#xf6;rande metadata, s&#xe5; att de f&#xf6;rblir tillg&#xe4;ngliga f&#xf6;r framtida generationer. Mappas till &quot;DataManager&quot; i DataCite.</skos:definition>
+      <skos:definition xml:lang="sv">Att skydda och bibeh&#xe5;lla integriteten och anv&#xe4;ndbarheten hos data och tillh&#xf6;rande metadata, s&#xe5; att de f&#xf6;rblir tillg&#xe4;ngliga f&#xf6;r framtida generationer. Mappas till &quot;DataManager&quot; i DataCite.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#Consulting">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>Consulting</skos:notation>
       <skos:prefLabel xml:lang="en">Consulting</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Providing expert advice.</skos:definition>
+      <skos:definition xml:lang="en">Providing expert advice.</skos:definition>
+      <skos:prefLabel xml:lang="et">N&#xf5;ustamine</skos:prefLabel>
+      <skos:definition xml:lang="et">Erialase n&#xf5;u andmine.</skos:definition>
+      <skos:prefLabel xml:lang="it">Consulenza</skos:prefLabel>
+      <skos:definition xml:lang="it">Fornire consulenza specializzata.</skos:definition>
       <skos:prefLabel xml:lang="no">Konsultasjon</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Gi ekspertr&#xe5;d.</skos:definition>
+      <skos:definition xml:lang="no">Gi ekspertr&#xe5;d.</skos:definition>
       <skos:prefLabel xml:lang="sv">Konsultande</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att ge expertr&#xe5;d.</skos:definition>
+      <skos:definition xml:lang="sv">Att ge expertr&#xe5;d.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#Contact">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>Contact</skos:notation>
       <skos:prefLabel xml:lang="en">Contact</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Individual, or organization that may be reached to obtain data-related information. Maps to  &apos;ContactPerson&apos; in DataCite.</skos:definition>
+      <skos:definition xml:lang="en">Individual, or organization that may be reached to obtain data-related information. Maps to  &apos;ContactPerson&apos; in DataCite.</skos:definition>
+      <skos:prefLabel xml:lang="et">Kontakt</skos:prefLabel>
+      <skos:definition xml:lang="et">Isik v&#xf5;i organisatsioon, kelle poole p&#xf6;&#xf6;rduda andmete kohta lisateabe saamiseks. Vastab DataCite s&#xfc;steemis rollile ContactPerson.</skos:definition>
+      <skos:prefLabel xml:lang="it">Contatto</skos:prefLabel>
+      <skos:definition xml:lang="it">Persona o organizzazione che pu&#xf2; essere contattata per ottenere informazioni sui dati. Corrisponde a &apos;ContactPerson&apos; in DataCite.</skos:definition>
       <skos:prefLabel xml:lang="no">Kontakt</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Individ eller organisasjon som kan kontaktes for &#xe5; f&#xe5; datarelatert informasjon. Kobles til &apos;ContactPerson&apos; i Datacite.</skos:definition>
+      <skos:definition xml:lang="no">Individ eller organisasjon som kan kontaktes for &#xe5; f&#xe5; datarelatert informasjon. Kobles til &apos;ContactPerson&apos; i Datacite.</skos:definition>
       <skos:prefLabel xml:lang="sv">Kontaktperson</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">En individ eller organisation som kan n&#xe5;s om man beh&#xf6;ver datarelaterad information. Mappas till &quot;ContactPerson&quot; i DataCite.</skos:definition>
+      <skos:definition xml:lang="sv">En individ eller organisation som kan n&#xe5;s om man beh&#xf6;ver datarelaterad information. Mappas till &quot;ContactPerson&quot; i DataCite.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#DataAnalysis">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>DataAnalysis</skos:notation>
       <skos:prefLabel xml:lang="en">Data analysis</skos:prefLabel>
-	  <skos:definition  xml:lang="en">The process of investigating the data to help answer research questions and reach conclusions.</skos:definition>
+      <skos:definition xml:lang="en">The process of investigating the data to help answer research questions and reach conclusions.</skos:definition>
+      <skos:prefLabel xml:lang="et">Andmeanal&#xfc;&#xfc;s</skos:prefLabel>
+      <skos:definition xml:lang="et">Andmete s&#xfc;vitsi uurimine, et leida vastused uurimisk&#xfc;simustele ning teha j&#xe4;reldusi.</skos:definition>
+      <skos:prefLabel xml:lang="it">Analisi dei dati</skos:prefLabel>
+      <skos:definition xml:lang="it">Il processo di analisi dei dati che consente di rispondere alle domande di ricerca e giungere alle conclusioni.</skos:definition>
       <skos:prefLabel xml:lang="no">Dataanalyse</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Prosessen med &#xe5; unders&#xf8;ke dataene for &#xe5; besvare forskningssp&#xf8;rsm&#xe5;l og n&#xe5; konklusjoner.</skos:definition>
+      <skos:definition xml:lang="no">Prosessen med &#xe5; unders&#xf8;ke dataene for &#xe5; besvare forskningssp&#xf8;rsm&#xe5;l og n&#xe5; konklusjoner.</skos:definition>
       <skos:prefLabel xml:lang="sv">Dataanalys</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att unders&#xf6;ka data f&#xf6;r att f&#xe5; hj&#xe4;lp att besvara forskningsfr&#xe5;gor och dra slutsatser.</skos:definition>
+      <skos:definition xml:lang="sv">Att unders&#xf6;ka data f&#xf6;r att f&#xe5; hj&#xe4;lp att besvara forskningsfr&#xe5;gor och dra slutsatser.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#Editing">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>Editing</skos:notation>
       <skos:prefLabel xml:lang="en">Editing</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Arranging, revising, and preparing materials (e.g., text, audio or video) for final production or publication. Maps to &apos;Editor&apos; in DataCite.</skos:definition>
+      <skos:definition xml:lang="en">Arranging, revising, and preparing materials (e.g., text, audio or video) for final production or publication. Maps to &apos;Editor&apos; in DataCite.</skos:definition>
+      <skos:prefLabel xml:lang="et">Toimetamine</skos:prefLabel>
+      <skos:definition xml:lang="et">Materjalide (nt tekstide, heli- v&#xf5;i videomaterjali) koostamine, toimetamine ja ettevalmistamine esitamiseks v&#xf5;i avaldamiseks. Vastab DataCite s&#xfc;steemis rollile Editor.</skos:definition>
+      <skos:prefLabel xml:lang="it">Editing</skos:prefLabel>
+      <skos:definition xml:lang="it">Organizzazione, revisione e preparazione dei materiali (ad esempio, testi, audio o video) per la produzione finale o la pubblicazione. Corrisponde a &apos;Editor&apos; in DataCite.</skos:definition>
       <skos:prefLabel xml:lang="no">Redigering</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Arrangere, revidere og forberede materialet (f.eks tekst, lyd eller video) for endelig produksjon eller publikasjon. Kobles til &apos;Editor&apos; i DataCite.</skos:definition>
+      <skos:definition xml:lang="no">Arrangere, revidere og forberede materialet (f.eks tekst, lyd eller video) for endelig produksjon eller publikasjon. Kobles til &apos;Editor&apos; i DataCite.</skos:definition>
       <skos:prefLabel xml:lang="sv">Redigering</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att ordna, revidera och f&#xf6;rbereda material (t.ex. text, ljud eller video) f&#xf6;r slutproduktion eller publikation. Mappas till &quot;Editor&quot; i DataCite.</skos:definition>
+      <skos:definition xml:lang="sv">Att ordna, revidera och f&#xf6;rbereda material (t.ex. text, ljud eller video) f&#xf6;r slutproduktion eller publikation. Mappas till &quot;Editor&quot; i DataCite.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#EquipmentDevelopment">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>EquipmentDevelopment</skos:notation>
       <skos:prefLabel xml:lang="en">Equipment development</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Creating and maintaining equipment needed at any stage of the data life cycle.</skos:definition>
+      <skos:definition xml:lang="en">Creating and maintaining equipment needed at any stage of the data life cycle.</skos:definition>
+      <skos:prefLabel xml:lang="et">Seadmete arendamine</skos:prefLabel>
+      <skos:definition xml:lang="et">Andmete eluts&#xfc;kli eri etappides vajaminevate seadmete arendamine ja hooldamine.</skos:definition>
+      <skos:prefLabel xml:lang="it">Sviluppo delle apparecchiature</skos:prefLabel>
+      <skos:definition xml:lang="it">Creazione e mantenimento delle apparecchiature necessarie in qualsiasi fase del ciclo di vita dei dati.</skos:definition>
       <skos:prefLabel xml:lang="no">Utstyrsutvikling</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Opprette og vedlikeholde utstyr som er n&#xf8;dvendig p&#xe5; hvilket som helst stadie i dataenes livssyklus.</skos:definition>
+      <skos:definition xml:lang="no">Opprette og vedlikeholde utstyr som er n&#xf8;dvendig p&#xe5; hvilket som helst stadie i dataenes livssyklus.</skos:definition>
       <skos:prefLabel xml:lang="sv">Utveckling av utrustning</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att skapa och underh&#xe5;lla utrustning som beh&#xf6;vs i n&#xe5;gon fas av datalivscykeln.</skos:definition>
+      <skos:definition xml:lang="sv">Att skapa och underh&#xe5;lla utrustning som beh&#xf6;vs i n&#xe5;gon fas av datalivscykeln.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#Evaluation">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>Evaluation</skos:notation>
       <skos:prefLabel xml:lang="en">Evaluation</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Assessing quality, worth and significance. Includes, for example, establishing evaluation criteria, gathering evaluation inputs and conducting the process of evaluation.</skos:definition>
+      <skos:definition xml:lang="en">Assessing quality, worth and significance. Includes, for example, establishing evaluation criteria, gathering evaluation inputs and conducting the process of evaluation.</skos:definition>
+      <skos:prefLabel xml:lang="et">Hindamine</skos:prefLabel>
+      <skos:definition xml:lang="et">Kvaliteedi, kasulikkuse ja olulisuse hindamine. H&#xf5;lmab muuhulgas hindamiskriteeriumite paika panemist, hindamiseks vajaliku sisendi kogumist ning hindamise l&#xe4;biviimist.</skos:definition>
+      <skos:prefLabel xml:lang="it">Valutazione</skos:prefLabel>
+      <skos:definition xml:lang="it">Valutazione della qualit&#xe0;, del valore e del significato. Include, ad esempio, la definizione dei criteri di valutazione, la raccolta degli input di valutazione e la conduzione del processo di valutazione.</skos:definition>
       <skos:prefLabel xml:lang="no">Evaluering</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Vurdering av kvalitet, verdi og betydelighet. Inkludere, for eksempel, etablering av evalueringskriterium, innsamling av evalueringsinput og gjennomf&#xf8;ring av evalueringsprosessen.</skos:definition>
+      <skos:definition xml:lang="no">Vurdering av kvalitet, verdi og betydelighet. Inkludere, for eksempel, etablering av evalueringskriterium, innsamling av evalueringsinput og gjennomf&#xf8;ring av evalueringsprosessen.</skos:definition>
       <skos:prefLabel xml:lang="sv">Utv&#xe4;rdering</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att bed&#xf6;ma kvalitet, v&#xe4;rde och signifikans. Det omfattar till exempel att sl&#xe5; fast utv&#xe4;rderingskriterier, samla in data fr&#xe5;n utv&#xe4;rderingar och utf&#xf6;ra sj&#xe4;lva utv&#xe4;rderingen.</skos:definition>
+      <skos:definition xml:lang="sv">Att bed&#xf6;ma kvalitet, v&#xe4;rde och signifikans. Det omfattar till exempel att sl&#xe5; fast utv&#xe4;rderingskriterier, samla in data fr&#xe5;n utv&#xe4;rderingar och utf&#xf6;ra sj&#xe4;lva utv&#xe4;rderingen.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#FundingProvision">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>FundingProvision</skos:notation>
       <skos:prefLabel xml:lang="en">Funding provision</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Providing financial support to a program or project, usually by an organization or government. Funding is made for a specific purpose for which the successful applicant must often account in full.</skos:definition>
+      <skos:definition xml:lang="en">Providing financial support to a program or project, usually by an organization or government. Funding is made for a specific purpose for which the successful applicant must often account in full.</skos:definition>
+      <skos:prefLabel xml:lang="et">Rahastamine</skos:prefLabel>
+      <skos:definition xml:lang="et">Programmi v&#xf5;i projekti rahaline toetamine; tavaliselt on finantseerijaks m&#xf5;ni organisatsioon v&#xf5;i riik. Raha eraldatakse konkreetseks eesm&#xe4;rgiks ning taotleja peab &#xfc;ldjuhul raha kasutamise kohta p&#xf5;hjalikult aru andma.</skos:definition>
+      <skos:prefLabel xml:lang="it">Finanziamento</skos:prefLabel>
+      <skos:definition xml:lang="it">Fornitura di un sostegno finanziario a un programma o a un progetto, solitamente da parte di un&apos;organizzazione o del governo. Il finanziamento viene erogato per uno scopo specifico che il richiedente selezionato deve spesso rendicontare per intero.</skos:definition>
       <skos:prefLabel xml:lang="no">Finansiering</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Yte &#xf8;konomisk st&#xf8;tte til et program eller prosjekt som regel av en organisasjon eller myndighet. Finansiering foretas til et spesifikt form&#xe5;l hvor den godkjente s&#xf8;keren ofte skal redegj&#xf8;re fullt ut.</skos:definition>
+      <skos:definition xml:lang="no">Yte &#xf8;konomisk st&#xf8;tte til et program eller prosjekt som regel av en organisasjon eller myndighet. Finansiering foretas til et spesifikt form&#xe5;l hvor den godkjente s&#xf8;keren ofte skal redegj&#xf8;re fullt ut.</skos:definition>
       <skos:prefLabel xml:lang="sv">Finansiering</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att ge ekonomiskt st&#xf6;d till ett program eller projekt, vanligtvis av en organisation eller regering. Finansiering ges till ett visst syfte, och mottagaren m&#xe5;ste vanligtvis ge fullst&#xe4;ndiga redovisningar av den.</skos:definition>
+      <skos:definition xml:lang="sv">Att ge ekonomiskt st&#xf6;d till ett program eller projekt, vanligtvis av en organisation eller regering. Finansiering ges till ett visst syfte, och mottagaren m&#xe5;ste vanligtvis ge fullst&#xe4;ndiga redovisningar av den.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#FundingOrSponsorshipAcquisition">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>FundingOrSponsorshipAcquisition</skos:notation>
       <skos:prefLabel xml:lang="en">Funding/sponsorship acquisition</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Searching for, and/or obtaining financial or other type of support for a program or project.</skos:definition>
+      <skos:definition xml:lang="en">Searching for, and/or obtaining financial or other type of support for a program or project.</skos:definition>
+      <skos:prefLabel xml:lang="et">Rahastaja/toetaja leidmine</skos:prefLabel>
+      <skos:definition xml:lang="et">Programmile v&#xf5;i projektile rahalise v&#xf5;i muu toetuse otsimine ja/v&#xf5;i saamine.</skos:definition>
+      <skos:prefLabel xml:lang="it">Acquisizione di finanziamenti/sponsorizzazioni</skos:prefLabel>
+      <skos:definition xml:lang="it">Ricerca e/o ottenimento di un sostegno finanziario o di altro tipo per un programma o un progetto.</skos:definition>
       <skos:prefLabel xml:lang="no">Finansiering/sponsoravtale erhvervelse</skos:prefLabel>
-	  <skos:definition  xml:lang="no">S&#xf8;ke etter og/eller oppn&#xe5; finansiell eller annen type st&#xf8;tte for et program eller prosjekt.</skos:definition>
+      <skos:definition xml:lang="no">S&#xf8;ke etter og/eller oppn&#xe5; finansiell eller annen type st&#xf8;tte for et program eller prosjekt.</skos:definition>
       <skos:prefLabel xml:lang="sv">Erh&#xe5;llande av finansiering/sponsring</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att s&#xf6;ka efter och/eller beviljas finansiering eller n&#xe5;gon annan form av st&#xf6;d f&#xf6;r ett program eller projekt.</skos:definition>
+      <skos:definition xml:lang="sv">Att s&#xf6;ka efter och/eller beviljas finansiering eller n&#xe5;gon annan form av st&#xf6;d f&#xf6;r ett program eller projekt.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#Sponsorship">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>Sponsorship</skos:notation>
       <skos:prefLabel xml:lang="en">Sponsorship</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Providing support for research or for other work or activities. Includes in-kind support, for example, providing staff time, facilities or instrumentation. Maps to &apos;Sponsor&apos; in DataCite.</skos:definition>
+      <skos:definition xml:lang="en">Providing support for research or for other work or activities. Includes in-kind support, for example, providing staff time, facilities or instrumentation. Maps to &apos;Sponsor&apos; in DataCite.</skos:definition>
+      <skos:prefLabel xml:lang="et">Toetamine</skos:prefLabel>
+      <skos:definition xml:lang="et">Uuringu, teadust&#xf6;&#xf6; v&#xf5;i muu tegevuse toetamine. H&#xf5;lmab ka mitterahalist toetamist, n&#xe4;iteks t&#xf6;&#xf6;j&#xf5;u, ruumide v&#xf5;i tehnika andmist. Vastab DataCite s&#xfc;steemis rollile Sponsor.</skos:definition>
+      <skos:prefLabel xml:lang="it">Sponsorizzazioni</skos:prefLabel>
+      <skos:definition xml:lang="it">Sostegno alla ricerca o ad altri lavori o attivit&#xe0;. Include il sostegno in natura, ad esempio fornendo tempo del proprio personale, servizi o strumentazione. Corrisponde a &apos;Sponsor&apos; in DataCite.</skos:definition>
       <skos:prefLabel xml:lang="no">Sponsoravtale</skos:prefLabel>
-	  <skos:definition  xml:lang="no">St&#xf8;tte forskning eller andre typer arbeid eller aktiviteter. Inkluderer in natura, for eksempel, personal tid, fasiliteter eller instrumentering. Kobles til &apos;Sponsor&apos; i DataCite.</skos:definition>
+      <skos:definition xml:lang="no">St&#xf8;tte forskning eller andre typer arbeid eller aktiviteter. Inkluderer in natura, for eksempel, personal tid, fasiliteter eller instrumentering. Kobles til &apos;Sponsor&apos; i DataCite.</skos:definition>
       <skos:prefLabel xml:lang="sv">Sponsring</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att ge st&#xf6;d till forskning eller annan verksamhet. Det inkluderar st&#xf6;d in natura, som att tillhandah&#xe5;lla deltidspersonal, lokaler eller instrument. Kopplas till &quot;Sponsor&quot; i DataCite.</skos:definition>
+      <skos:definition xml:lang="sv">Att ge st&#xf6;d till forskning eller annan verksamhet. Det inkluderar st&#xf6;d in natura, som att tillhandah&#xe5;lla deltidspersonal, lokaler eller instrument. Kopplas till &quot;Sponsor&quot; i DataCite.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#GraphicDesign">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>GraphicDesign</skos:notation>
       <skos:prefLabel xml:lang="en">Graphic design</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Combining text and images to support and enhance content, and make it visually appealing and user-friendly.</skos:definition>
+      <skos:definition xml:lang="en">Combining text and images to support and enhance content, and make it visually appealing and user-friendly.</skos:definition>
+      <skos:prefLabel xml:lang="et">Graafiline disain</skos:prefLabel>
+      <skos:definition xml:lang="et">Teksti ja piltide kombineerimine sisu paremaks edasiandmiseks; sisu visuaalselt huvitavalt ja kasutajas&#xf5;bralikult esitamine.</skos:definition>
+      <skos:prefLabel xml:lang="it">Progettazione grafica</skos:prefLabel>
+      <skos:definition xml:lang="it">Combinare testo e immagini per supportare e migliorare i contenuti e renderli visivamente interessanti e facili da usare.</skos:definition>
       <skos:prefLabel xml:lang="no">Grafisk design</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Kombinere tekst og bilder til &#xe5; underbygge og forbedre innholdet og gj&#xf8;re det mer visuelt tiltalende og brukervennlig.</skos:definition>
+      <skos:definition xml:lang="no">Kombinere tekst og bilder til &#xe5; underbygge og forbedre innholdet og gj&#xf8;re det mer visuelt tiltalende og brukervennlig.</skos:definition>
       <skos:prefLabel xml:lang="sv">Grafisk design</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att kombinera text och bild f&#xf6;r att underst&#xf6;dja och f&#xf6;rst&#xe4;rka inneh&#xe5;ll, g&#xf6;ra det visuellt tilltalande och anv&#xe4;ndarv&#xe4;nligt.</skos:definition>
+      <skos:definition xml:lang="sv">Att kombinera text och bild f&#xf6;r att underst&#xf6;dja och f&#xf6;rst&#xe4;rka inneh&#xe5;ll, g&#xf6;ra det visuellt tilltalande och anv&#xe4;ndarv&#xe4;nligt.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#ProjectOperations">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>ProjectOperations</skos:notation>
       <skos:prefLabel xml:lang="en">Project operations</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Initiating, planning, executing, controlling, and closing the work of a team designed to achieve specific goals.</skos:definition>
+      <skos:definition xml:lang="en">Initiating, planning, executing, controlling, and closing the work of a team designed to achieve specific goals.</skos:definition>
+      <skos:prefLabel xml:lang="et">Projekti teostus</skos:prefLabel>
+      <skos:definition xml:lang="et">Konkreetsete eesm&#xe4;rkide saavutamiseks moodustatud meeskonna t&#xf6;&#xf6; algatamine, planeerimine, elluviimine, juhtimine ja l&#xf5;petamine.</skos:definition>
+      <skos:prefLabel xml:lang="it">Attivit&#xe0; di progetto</skos:prefLabel>
+      <skos:definition xml:lang="it">Avviare, pianificare, eseguire, controllare e concludere il lavoro di un team finalizzato a raggiungere specifici obiettivi.</skos:definition>
       <skos:prefLabel xml:lang="no">Prosjektstyring</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Initiering, planlegging, gjennomf&#xf8;ring, kontrollering og ferdigstille arbeidet i en gruppe som er utformet for &#xe5; n&#xe5; spesifikke m&#xe5;l.</skos:definition>
+      <skos:definition xml:lang="no">Initiering, planlegging, gjennomf&#xf8;ring, kontrollering og ferdigstille arbeidet i en gruppe som er utformet for &#xe5; n&#xe5; spesifikke m&#xe5;l.</skos:definition>
       <skos:prefLabel xml:lang="sv">Projektverksamhet</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att initiera, planera, genomf&#xf6;ra, utv&#xe4;rdera och avsluta arbetet f&#xf6;r ett team i syfte att uppn&#xe5; angivna m&#xe5;l.</skos:definition>
+      <skos:definition xml:lang="sv">Att initiera, planera, genomf&#xf6;ra, utv&#xe4;rdera och avsluta arbetet f&#xf6;r ett team i syfte att uppn&#xe5; angivna m&#xe5;l.</skos:definition>
       <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#ProjectOperations.ProjectLeader"/>
       <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#ProjectOperations.ProjectManager"/>
       <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#ProjectOperations.ProjectMember"/>
@@ -448,186 +588,254 @@
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>ProjectOperations.ProjectLeader</skos:notation>
       <skos:prefLabel xml:lang="en">Project operations: Project leader</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Person officially designated as head of a project, or subproject team that carries out the work for developing a resource. The project leader remains closely involved in the work performed throughout the life of the project. Maps to &apos;ProjectLeader&apos; in DataCite.</skos:definition>
+      <skos:definition xml:lang="en">Person officially designated as head of a project, or subproject team that carries out the work for developing a resource. The project leader remains closely involved in the work performed throughout the life of the project. Maps to &apos;ProjectLeader&apos; in DataCite.</skos:definition>
+      <skos:prefLabel xml:lang="et">Projekti teostus: tiimijuht</skos:prefLabel>
+      <skos:definition xml:lang="et">Ametlikult projekti v&#xf5;i alamprojekti tiimijuhiks m&#xe4;&#xe4;ratud isik, kes juhib ressursi loomiseks tehtavat t&#xf6;&#xf6;d. Tiimijuht osaleb otseselt t&#xf6;&#xf6;s kogu projekti jooksul. Vastab DataCite s&#xfc;steemis rollile ProjectLeader.</skos:definition>
+      <skos:prefLabel xml:lang="it">Attivit&#xe0; di progetto: coordinatore del progetto</skos:prefLabel>
+      <skos:definition xml:lang="it">Persona ufficialmente nominata come capo di un progetto o di un team di un sottoprogetto che svolge il lavoro di sviluppo di una risorsa. Il coordinatore del progetto rimane direttamente coinvolto nel lavoro svolto per tutta la durata del progetto. Corrisponde a &apos;ProjectLeader&apos; in DataCite.</skos:definition>
       <skos:prefLabel xml:lang="no">Prosjektstyring: Prosjektleder</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Person som offisielt utpekes som leder av prosjektet eller delprosjekt som gjennomf&#xf8;rer arbeidet for utviklingen av en ressurs. Prosjektlederen er tett koblet opp til arbeidet som gjennomf&#xf8;res i prosjektet gjennom hele prosjekttiden. Kobles til &apos;ProjectLeader&apos; i DataCite.</skos:definition>
+      <skos:definition xml:lang="no">Person som offisielt utpekes som leder av prosjektet eller delprosjekt som gjennomf&#xf8;rer arbeidet for utviklingen av en ressurs. Prosjektlederen er tett koblet opp til arbeidet som gjennomf&#xf8;res i prosjektet gjennom hele prosjekttiden. Kobles til &apos;ProjectLeader&apos; i DataCite.</skos:definition>
       <skos:prefLabel xml:lang="sv">Projektverksamhet: Projektledare</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">En person som officiellt har utsetts att leda ett projekt, eller ett team i ett delprojekt som utf&#xf6;r arbete med att utveckla en resurs. Projektledaren &#xe4;r n&#xe4;ra inblandad i arbetet genom projektets hela livsl&#xe4;ngd. Mappas till &quot;ProjectLeader&quot; i DataCite.</skos:definition>
+      <skos:definition xml:lang="sv">En person som officiellt har utsetts att leda ett projekt, eller ett team i ett delprojekt som utf&#xf6;r arbete med att utveckla en resurs. Projektledaren &#xe4;r n&#xe4;ra inblandad i arbetet genom projektets hela livsl&#xe4;ngd. Mappas till &quot;ProjectLeader&quot; i DataCite.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#ProjectOperations.ProjectManager">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>ProjectOperations.ProjectManager</skos:notation>
       <skos:prefLabel xml:lang="en">Project operations: Project manager</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Person officially designated as manager of a project. This function normally has more administrative responsibilities than actual work involvement. Maps to &apos;ProjectManager&apos; in DataCite.</skos:definition>
+      <skos:definition xml:lang="en">Person officially designated as manager of a project. This function normally has more administrative responsibilities than actual work involvement. Maps to &apos;ProjectManager&apos; in DataCite.</skos:definition>
+      <skos:prefLabel xml:lang="et">Projekti teostus: projektijuht</skos:prefLabel>
+      <skos:definition xml:lang="et">Ametlikult projektijuhiks m&#xe4;&#xe4;ratud isik. Selles rollis on isikul reeglina rohkem administratiivseid &#xfc;lesandeid kui otseseid t&#xf6;&#xf6;&#xfc;lesandeid. Vastab DataCite s&#xfc;steemis rollile ProjectManager.</skos:definition>
+      <skos:prefLabel xml:lang="it">Attivit&#xe0; di progetto: responsabile del progetto</skos:prefLabel>
+      <skos:definition xml:lang="it">Persona ufficialmente nominata come responsabile di un progetto. Questa funzione ha normalmente responsabilit&#xe0; amministrative piuttosto che un effettivo coinvolgimento nel lavoro. Corrisponde a &apos;ProjectManager&apos; in DataCite.</skos:definition>
       <skos:prefLabel xml:lang="no">Prosjektstyring: Prosjekt administrator</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Person som offisielt utpekes som administrator av prosjektet. Denne funksjonen har mer administrative ansvarsomr&#xe5;der enn arbeidsengasjement. Kobles til &apos;ProjectManager&apos; i DataCite.</skos:definition>
+      <skos:definition xml:lang="no">Person som offisielt utpekes som administrator av prosjektet. Denne funksjonen har mer administrative ansvarsomr&#xe5;der enn arbeidsengasjement. Kobles til &apos;ProjectManager&apos; i DataCite.</skos:definition>
       <skos:prefLabel xml:lang="sv">Projektverksamhet:  Projektansvarig</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">En person som har utsetts att ansvara f&#xf6;r ett projekt. Den h&#xe4;r funktionen har normalt sett mer administrativa ansvarsomr&#xe5;den &#xe4;n det faktiska projektarbetet. Mappas till &quot;ProjectManager&quot; i DataCite.</skos:definition>
+      <skos:definition xml:lang="sv">En person som har utsetts att ansvara f&#xf6;r ett projekt. Den h&#xe4;r funktionen har normalt sett mer administrativa ansvarsomr&#xe5;den &#xe4;n det faktiska projektarbetet. Mappas till &quot;ProjectManager&quot; i DataCite.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#ProjectOperations.ProjectMember">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>ProjectOperations.ProjectMember</skos:notation>
       <skos:prefLabel xml:lang="en">Project operations: Project member</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Person that contributes and participates as a member in a designated project or project team. Maps to &apos;ProjectMember&apos; in DataCite.</skos:definition>
+      <skos:definition xml:lang="en">Person that contributes and participates as a member in a designated project or project team. Maps to &apos;ProjectMember&apos; in DataCite.</skos:definition>
+      <skos:prefLabel xml:lang="et">Projekti teostus: osaleja</skos:prefLabel>
+      <skos:definition xml:lang="et">Isik, kes panustab ja osaleb konkreetse projekti v&#xf5;i meeskonna liikmena. Vastab DataCite s&#xfc;steemis rollile ProjectMember.</skos:definition>
+      <skos:prefLabel xml:lang="it">Attivit&#xe0; di progetto: membro del progetto</skos:prefLabel>
+      <skos:definition xml:lang="it">Persona che contribuisce e partecipa come membro a un progetto o a un team di progetto. Corrisponde a &apos;ProjectMember&apos; in DataCite.</skos:definition>
       <skos:prefLabel xml:lang="no">Prosjektstyring: Prosjektmedlem</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Person som bidrar og deltar som et medlem i et angitt prosjekt eller prosjektgruppe. Kobles til &apos;ProjectMember&apos; i DataCite.</skos:definition>
+      <skos:definition xml:lang="no">Person som bidrar og deltar som et medlem i et angitt prosjekt eller prosjektgruppe. Kobles til &apos;ProjectMember&apos; i DataCite.</skos:definition>
       <skos:prefLabel xml:lang="sv">Projektverksamhet: Projektmedlem</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">En person som bidrar till och deltar som medlem i ett angivet projekt eller projektteam. Mappas till &quot;ProjectMember&quot; i DataCite.</skos:definition>
+      <skos:definition xml:lang="sv">En person som bidrar till och deltar som medlem i ett angivet projekt eller projektteam. Mappas till &quot;ProjectMember&quot; i DataCite.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#Promotion">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>Promotion</skos:notation>
       <skos:prefLabel xml:lang="en">Promotion</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Raising awareness and understanding of products and services, to attract potential users.</skos:definition>
+      <skos:definition xml:lang="en">Raising awareness and understanding of products and services, to attract potential users.</skos:definition>
+      <skos:prefLabel xml:lang="et">Turundus</skos:prefLabel>
+      <skos:definition xml:lang="et">Toodete ja teenuste tutvustamine ja teadlikkuse t&#xf5;stmine, et leida potentsiaalseid kasutajaid.</skos:definition>
+      <skos:prefLabel xml:lang="it">Promozione</skos:prefLabel>
+      <skos:definition xml:lang="it">Accrescere la consapevolezza e la comprensione di prodotti e servizi per attirare potenziali utenti.</skos:definition>
       <skos:prefLabel xml:lang="no">Promotering</skos:prefLabel>
-	  <skos:definition  xml:lang="no">&#xd8;ke bevissthet og forst&#xe5;else av produkter og tjenester for &#xe5; tiltrekke seg potensielle brukere.</skos:definition>
+      <skos:definition xml:lang="no">&#xd8;ke bevissthet og forst&#xe5;else av produkter og tjenester for &#xe5; tiltrekke seg potensielle brukere.</skos:definition>
       <skos:prefLabel xml:lang="sv">Marknadsf&#xf6;ring</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att &#xf6;ka medvetenheten om och f&#xf6;rst&#xe5;elsen av produkter och tj&#xe4;nster i syfte att attrahera m&#xf6;jliga anv&#xe4;ndare.</skos:definition>
+      <skos:definition xml:lang="sv">Att &#xf6;ka medvetenheten om och f&#xf6;rst&#xe5;elsen av produkter och tj&#xe4;nster i syfte att attrahera m&#xf6;jliga anv&#xe4;ndare.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#RegistrationAuthority">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>RegistrationAuthority</skos:notation>
       <skos:prefLabel xml:lang="en">Registration authority</skos:prefLabel>
-	  <skos:definition  xml:lang="en">A standards-setting body from which Registration Agencies obtain official recognition and guidance. For example, the International DOI Foundation (IDF) serves as the registration authority for the International Standards Organization (ISO) in the area/domain of Digital Object Identifiers.</skos:definition>
+      <skos:definition xml:lang="en">A standards-setting body from which Registration Agencies obtain official recognition and guidance. For example, the International DOI Foundation (IDF) serves as the registration authority for the International Standards Organization (ISO) in the area/domain of Digital Object Identifiers.</skos:definition>
+      <skos:prefLabel xml:lang="et">Keskne registriasutus</skos:prefLabel>
+      <skos:definition xml:lang="et">Standardeid kehtestav asutus, mis ametlikult kinnitab ja juhendab Registripidajaid. N&#xe4;iteks IDF (International DOI Foundation) on Rahvusvahelise Standardiorganisatsiooni (ISO) keskne registriasutus objektide digitaalidentifikaatorite (DOI) valdkonnas.</skos:definition>
+      <skos:prefLabel xml:lang="it">Autorit&#xe0; di registrazione</skos:prefLabel>
+      <skos:definition xml:lang="it">Organismo di definizione degli standard da cui le agenzie di registrazione ottengono il riconoscimento ufficiale e le linee di indirizzo. Ad esempio, l&apos;International DOI Foundation (IDF) funge da autorit&#xe0; di registrazione per l&apos;International Standards Organization (ISO) nell&apos;area/dominio degli identificatori di oggetti digitali.</skos:definition>
       <skos:prefLabel xml:lang="no">Registreringsmyndighet</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Et standardiseringsorgan hvor registreringsbyr&#xe5; oppn&#xe5;r offisiell anerkjennelse og veiledning. For eksempel fungerer International DOI Foundation (IDF) som registreringsbyr&#xe5; for International Standards Organizations (ISO) innenfor domene Digital Object Identifiers.</skos:definition>
+      <skos:definition xml:lang="no">Et standardiseringsorgan hvor registreringsbyr&#xe5; oppn&#xe5;r offisiell anerkjennelse og veiledning. For eksempel fungerer International DOI Foundation (IDF) som registreringsbyr&#xe5; for International Standards Organizations (ISO) innenfor domene Digital Object Identifiers.</skos:definition>
       <skos:prefLabel xml:lang="sv">Registreringsauktoritet</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Ett standards&#xe4;ttande organ som ger registreringsmyndigheter officiellt erk&#xe4;nnande och v&#xe4;gledning. Till exempel fungerar International DOI Foundation (IDF) som registreringsauktoritet f&#xf6;r International Standards Organization (ISO) n&#xe4;r det g&#xe4;ller Digital Object Identifiers (DOI).</skos:definition>
+      <skos:definition xml:lang="sv">Ett standards&#xe4;ttande organ som ger registreringsmyndigheter officiellt erk&#xe4;nnande och v&#xe4;gledning. Till exempel fungerar International DOI Foundation (IDF) som registreringsauktoritet f&#xf6;r International Standards Organization (ISO) n&#xe4;r det g&#xe4;ller Digital Object Identifiers (DOI).</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#Researcher">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>Researcher</skos:notation>
       <skos:prefLabel xml:lang="en">Researcher</skos:prefLabel>
-	  <skos:definition  xml:lang="en">An individual involved in analyzing the data or the study results, but whose role is to help with the research rather than be a creator.  For example, a researcher may seek, and find additional data from another source and correlate it to the study or experiment that is being conducted. Maps to &apos;Researcher&apos; in DataCite.</skos:definition>
+      <skos:definition xml:lang="en">An individual involved in analyzing the data or the study results, but whose role is to help with the research rather than be a creator.  For example, a researcher may seek, and find additional data from another source and correlate it to the study or experiment that is being conducted. Maps to &apos;Researcher&apos; in DataCite.</skos:definition>
+      <skos:prefLabel xml:lang="et">Teadlane</skos:prefLabel>
+      <skos:definition xml:lang="et">Isik, kes tegeleb andmete v&#xf5;i uuringu tulemuste anal&#xfc;&#xfc;simisega; selles rollis isik pigem t&#xf6;&#xf6;tab andmetega kui toodab v&#xf5;i loob andmeid. N&#xe4;iteks v&#xf5;ib teadlane otsida ja leida t&#xe4;iendavaid andmeid teisest allikast ning seostada neid l&#xe4;biviidava uuringu v&#xf5;i eksperimendi andmetega. Vastab DataCite s&#xfc;steemis rollile Researcher.</skos:definition>
+      <skos:prefLabel xml:lang="it">Ricercatore</skos:prefLabel>
+      <skos:definition xml:lang="it">Una persona coinvolta nell&apos;analisi dei dati o dei risultati dello studio, ma il cui ruolo &#xe8; quello di fornire un supporto alla ricerca piuttosto che esserne un creatore. Ad esempio, un ricercatore pu&#xf2; cercare e trovare dati aggiuntivi provenienti da un&apos;altra fonte e correlarli allo studio o all&apos;esperimento in corso. Corrisponde a &apos;Researcher&quot; in DataCite.</skos:definition>
       <skos:prefLabel xml:lang="no">Forsker</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Et individ involvert i analysering av data eller unders&#xf8;kelsesresultatene, men rollen er &#xe5; hjelpe med forskningen istedenfor &#xe5; v&#xe6;re skaper. For eksempel, en forsker kan lete og finne ytterligere data fra en annen kilde og korrelere det til studien eller eksperimentet som blir gjennomf&#xf8;rt. Kobles til &apos;Researcher&apos; i DataCite.</skos:definition>
+      <skos:definition xml:lang="no">Et individ involvert i analysering av data eller unders&#xf8;kelsesresultatene, men rollen er &#xe5; hjelpe med forskningen istedenfor &#xe5; v&#xe6;re skaper. For eksempel, en forsker kan lete og finne ytterligere data fra en annen kilde og korrelere det til studien eller eksperimentet som blir gjennomf&#xf8;rt. Kobles til &apos;Researcher&apos; i DataCite.</skos:definition>
       <skos:prefLabel xml:lang="sv">Forskare</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">En individ som &#xe4;r delaktig i att analysera data eller studieresultaten, men vars roll &#xe4;r att hj&#xe4;lpa till med forskningen snarare &#xe4;n att vara en skapare. En forskare kan till exempel leta efter och hitta ytterligare data fr&#xe5;n en annan k&#xe4;lla och koppla dem till studien eller experimentet som utf&#xf6;rs. Mappas till &quot;Researcher&quot; i DataCite.</skos:definition>
+      <skos:definition xml:lang="sv">En individ som &#xe4;r delaktig i att analysera data eller studieresultaten, men vars roll &#xe4;r att hj&#xe4;lpa till med forskningen snarare &#xe4;n att vara en skapare. En forskare kan till exempel leta efter och hitta ytterligare data fr&#xe5;n en annan k&#xe4;lla och koppla dem till studien eller experimentet som utf&#xf6;rs. Mappas till &quot;Researcher&quot; i DataCite.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#ResearchGroup">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>ResearchGroup</skos:notation>
       <skos:prefLabel xml:lang="en">Research group</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Group of individuals involved in the research. Maps to &apos;ResearchGroup&apos; in DataCite.</skos:definition>
+      <skos:definition xml:lang="en">Group of individuals involved in the research. Maps to &apos;ResearchGroup&apos; in DataCite.</skos:definition>
+      <skos:prefLabel xml:lang="et">Uurimisr&#xfc;hm</skos:prefLabel>
+      <skos:definition xml:lang="et">Isikute r&#xfc;hm, kes uuringut l&#xe4;bi viib. Vastab DataCite s&#xfc;steemis rollile ResearchGroup.</skos:definition>
+      <skos:prefLabel xml:lang="it">Gruppo di ricerca</skos:prefLabel>
+      <skos:definition xml:lang="it">Gruppo di persone coinvolte nella ricerca. Corrisponde a &apos;ResearchGroup&apos; in DataCite.</skos:definition>
       <skos:prefLabel xml:lang="no">Forskningsgruppe</skos:prefLabel>
-	  <skos:definition  xml:lang="no">En gruppe med individer som er involvert i forskningen. Kobles til &apos;ResearchGroup&apos; i DataCite.</skos:definition>
+      <skos:definition xml:lang="no">En gruppe med individer som er involvert i forskningen. Kobles til &apos;ResearchGroup&apos; i DataCite.</skos:definition>
       <skos:prefLabel xml:lang="sv">Forskargrupp</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">En grupp av personer som &#xe4;r delaktiga i forskningen. Mappas till &quot;ResearchGroup&quot; i DataCite.</skos:definition>
+      <skos:definition xml:lang="sv">En grupp av personer som &#xe4;r delaktiga i forskningen. Mappas till &quot;ResearchGroup&quot; i DataCite.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#RightsHolding">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>RightsHolding</skos:notation>
       <skos:prefLabel xml:lang="en">Rights holding</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Owning property rights, including intellectual property rights over the resource. Maps to &apos;RightsHolder&apos; in DataCite.</skos:definition>
+      <skos:definition xml:lang="en">Owning property rights, including intellectual property rights over the resource. Maps to &apos;RightsHolder&apos; in DataCite.</skos:definition>
+      <skos:prefLabel xml:lang="et">&#xd5;iguste valdamine</skos:prefLabel>
+      <skos:definition xml:lang="et">Ressursside omandi&#xf5;iguste, sh intellektuaalomandi &#xf5;iguste valdamine. Vastab DataCite s&#xfc;steemis rollile RightsHolder.</skos:definition>
+      <skos:prefLabel xml:lang="it">Titolare dei diritti</skos:prefLabel>
+      <skos:definition xml:lang="it">Titolare dei diritti di propriet&#xe0;, compresi i diritti di propriet&#xe0; intellettuale sulla risorsa. Corrisponde a &apos;RightsHolder&apos; in DataCite.</skos:definition>
       <skos:prefLabel xml:lang="no">Rettighetsinnehaver</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Eie eiendomsretten, inklusiv intellektuelle rettigheter over ressursen. Kobles til &apos;RightsHolder&apos; i DataCite.</skos:definition>
+      <skos:definition xml:lang="no">Eie eiendomsretten, inklusiv intellektuelle rettigheter over ressursen. Kobles til &apos;RightsHolder&apos; i DataCite.</skos:definition>
       <skos:prefLabel xml:lang="sv">R&#xe4;ttighetsinnehavare</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Den som st&#xe5;r som &#xe4;gare f&#xf6;r &#xe4;gander&#xe4;tten, inklusive de immaterialr&#xe4;tten f&#xf6;r resursen. Mappas till &quot;RightsHolder&quot; i DataCite.</skos:definition>
+      <skos:definition xml:lang="sv">Den som st&#xe5;r som &#xe4;gare f&#xf6;r &#xe4;gander&#xe4;tten, inklusive de immaterialr&#xe4;tten f&#xf6;r resursen. Mappas till &quot;RightsHolder&quot; i DataCite.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#RightsManagement">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>RightsManagement</skos:notation>
       <skos:prefLabel xml:lang="en">Rights management</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Managing licenses for distributed data, tools, and other research materials on behalf of the rights holder.</skos:definition>
+      <skos:definition xml:lang="en">Managing licenses for distributed data, tools, and other research materials on behalf of the rights holder.</skos:definition>
+      <skos:prefLabel xml:lang="et">&#xd5;iguste haldamine</skos:prefLabel>
+      <skos:definition xml:lang="et">Levitatud andmete, t&#xf6;&#xf6;riistade ja muude uuringumaterjalide kasutamise &#xf5;iguste ja litsentside haldamine (&#xf5;iguste valdaja nimel).</skos:definition>
+      <skos:prefLabel xml:lang="it">Gestione dei diritti</skos:prefLabel>
+      <skos:definition xml:lang="it">Gestione delle licenze dei dati, degli strumenti e di altri materiali di ricerca distribuiti per conto del titolare dei diritti.</skos:definition>
       <skos:prefLabel xml:lang="no">Rettighetesstyring</skos:prefLabel>
-	  <skos:definition  xml:lang="no">H&#xe5;ndtere lisenser for distribuerte data, verkt&#xf8;y og annen forskningsmateriale p&#xe5; vegne av rettighetsinnehaver.</skos:definition>
+      <skos:definition xml:lang="no">H&#xe5;ndtere lisenser for distribuerte data, verkt&#xf8;y og annen forskningsmateriale p&#xe5; vegne av rettighetsinnehaver.</skos:definition>
       <skos:prefLabel xml:lang="sv">R&#xe4;ttighetshantering</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Hantering av licenser f&#xf6;r distribuerade data, verktyg och annat forskningsmaterial p&#xe5; uppdrag av r&#xe4;ttighetsinnehavaren.</skos:definition>
+      <skos:definition xml:lang="sv">Hantering av licenser f&#xf6;r distribuerade data, verktyg och annat forskningsmaterial p&#xe5; uppdrag av r&#xe4;ttighetsinnehavaren.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#SoftwareDevelopment">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>SoftwareDevelopment</skos:notation>
       <skos:prefLabel xml:lang="en">Software development</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Creating and maintaining software needed at any stage of the data life cycle.</skos:definition>
+      <skos:definition xml:lang="en">Creating and maintaining software needed at any stage of the data life cycle.</skos:definition>
+      <skos:prefLabel xml:lang="et">Tarkvaraarendus</skos:prefLabel>
+      <skos:definition xml:lang="et">Andmete eluts&#xfc;kli mistahes etapis vajamineva tarkvara loomine ja haldamine.</skos:definition>
+      <skos:prefLabel xml:lang="it">Sviluppo software</skos:prefLabel>
+      <skos:definition xml:lang="it">Creazione e mantimento del software necessario in qualsiasi fase del ciclo di vita dei dati.</skos:definition>
       <skos:prefLabel xml:lang="no">Programvareutvikling</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Skape og vedlikeholde programvare som er n&#xf8;dvendig p&#xe5; hvilket som helst stadie i data livssyklusen.</skos:definition>
+      <skos:definition xml:lang="no">Skape og vedlikeholde programvare som er n&#xf8;dvendig p&#xe5; hvilket som helst stadie i data livssyklusen.</skos:definition>
       <skos:prefLabel xml:lang="sv">Programvaruutveckling</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att skapa och underh&#xe5;lla programvara som beh&#xf6;vs i n&#xe5;gon fas av datalivscykeln.</skos:definition>
+      <skos:definition xml:lang="sv">Att skapa och underh&#xe5;lla programvara som beh&#xf6;vs i n&#xe5;gon fas av datalivscykeln.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#Supervision">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>Supervision</skos:notation>
       <skos:prefLabel xml:lang="en">Supervision</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Overseeing one or more individuals or teams in their work. Maps to &apos;Supervisor&apos; in DataCite.</skos:definition>
+      <skos:definition xml:lang="en">Overseeing one or more individuals or teams in their work. Maps to &apos;Supervisor&apos; in DataCite.</skos:definition>
+      <skos:prefLabel xml:lang="et">Juhendamine</skos:prefLabel>
+      <skos:definition xml:lang="et">&#xdc;he v&#xf5;i mitme isiku v&#xf5;i meeskonna t&#xf6;&#xf6; juhendamine. Vastab DataCite s&#xfc;steemis rollile Supervisor.</skos:definition>
+      <skos:prefLabel xml:lang="it">Supervisione</skos:prefLabel>
+      <skos:definition xml:lang="it">Supervisione di uno o pi&#xf9; individui o team nello svolgimento del proprio lavoro. Corrisponde a &apos;Supervisor&apos; in DataCite.</skos:definition>
       <skos:prefLabel xml:lang="no">Tilsyn</skos:prefLabel>
-	  <skos:definition  xml:lang="no">&#xc5; se til ett eller flere individer eller grupper i deres arbeid. Kobles til &apos;Supervisor&apos; i DataCite.</skos:definition>
+      <skos:definition xml:lang="no">&#xc5; se til ett eller flere individer eller grupper i deres arbeid. Kobles til &apos;Supervisor&apos; i DataCite.</skos:definition>
       <skos:prefLabel xml:lang="sv">Handledning</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att handleda en eller flera personer eller team i deras arbete. Mappas till &quot;Supervisor&quot; i DataCite.</skos:definition>
+      <skos:definition xml:lang="sv">Att handleda en eller flera personer eller team i deras arbete. Mappas till &quot;Supervisor&quot; i DataCite.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#Training">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>Training</skos:notation>
       <skos:prefLabel xml:lang="en">Training</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Imparting information and/or instructions to improve the recipient&apos;s performance or to help attain a required level of knowledge or skills related to research or research data. For example, training interviewers, translators, data archivists, or data analysts.</skos:definition>
+      <skos:definition xml:lang="en">Imparting information and/or instructions to improve the recipient&apos;s performance or to help attain a required level of knowledge or skills related to research or research data. For example, training interviewers, translators, data archivists, or data analysts.</skos:definition>
+      <skos:prefLabel xml:lang="et">Koolitamine</skos:prefLabel>
+      <skos:definition xml:lang="et">Teabe ja/v&#xf5;i juhiste andmine, et tagada paremad t&#xf6;&#xf6;tulemused v&#xf5;i vajalikul tasemel teadmised/oskused uuringu v&#xf5;i saadud andmete kohta. N&#xe4;iteks k&#xfc;sitlejate, t&#xf5;lkijate, andmearhivaaride, andmeanal&#xfc;&#xfc;tikute koolitamine.</skos:definition>
+      <skos:prefLabel xml:lang="it">Formazione</skos:prefLabel>
+      <skos:definition xml:lang="it">Fornire informazioni e/o istruzioni per migliorare le prestazioni del destinatario o per aiutarlo a raggiungere un livello richiesto di conoscenze o competenze relative alla ricerca o ai dati della ricerca. Ad esempio, formazione di intervistatori, traduttori, archivisti o analisti di dati.</skos:definition>
       <skos:prefLabel xml:lang="no">Oppl&#xe6;ring</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Gi informasjon og/eller instruere slik at mottakers prestasjon forbedres, eller for &#xe5; hjelpe til med &#xe5; oppn&#xe5; et n&#xf8;dvendig kunnskaps- eller ferdighetsniv&#xe5; relatert til forskning eller forskningsdata. For eksempel, oppl&#xe6;ring av intervjuere, oversettere, dataarkivarer eller dataanalytikere.</skos:definition>
+      <skos:definition xml:lang="no">Gi informasjon og/eller instruere slik at mottakers prestasjon forbedres, eller for &#xe5; hjelpe til med &#xe5; oppn&#xe5; et n&#xf8;dvendig kunnskaps- eller ferdighetsniv&#xe5; relatert til forskning eller forskningsdata. For eksempel, oppl&#xe6;ring av intervjuere, oversettere, dataarkivarer eller dataanalytikere.</skos:definition>
       <skos:prefLabel xml:lang="sv">Utbildning</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att delge information och/eller instruktioner f&#xf6;r att f&#xf6;rb&#xe4;ttra mottagarens prestation, eller f&#xf6;r att bidra till att n&#xe5; en beg&#xe4;rd niv&#xe5; av kunskap och f&#xf6;rm&#xe5;gor kring forskning eller forskningsdata. Till exempel utbildning av intervjuare, &#xf6;vers&#xe4;ttare, dataarkivarier eller dataanalytiker.</skos:definition>
+      <skos:definition xml:lang="sv">Att delge information och/eller instruktioner f&#xf6;r att f&#xf6;rb&#xe4;ttra mottagarens prestation, eller f&#xf6;r att bidra till att n&#xe5; en beg&#xe4;rd niv&#xe5; av kunskap och f&#xf6;rm&#xe5;gor kring forskning eller forskningsdata. Till exempel utbildning av intervjuare, &#xf6;vers&#xe4;ttare, dataarkivarier eller dataanalytiker.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#Translation">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>Translation</skos:notation>
       <skos:prefLabel xml:lang="en">Translation</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Expressing the content of text or speech in a different language than the original language used. For example, questionnaire or study report translation.</skos:definition>
+      <skos:definition xml:lang="en">Expressing the content of text or speech in a different language than the original language used. For example, questionnaire or study report translation.</skos:definition>
+      <skos:prefLabel xml:lang="et">T&#xf5;lkimine</skos:prefLabel>
+      <skos:definition xml:lang="et">K&#xf5;ne v&#xf5;i kirjaliku teksti sisu edasiandmine teises keeles. N&#xe4;iteks k&#xfc;simustiku v&#xf5;i uuringuraporti t&#xf5;lkimine.</skos:definition>
+      <skos:prefLabel xml:lang="it">Traduzione</skos:prefLabel>
+      <skos:definition xml:lang="it">Esprimere il contenuto di un testo o di un discorso in una lingua diversa da quella originale. Ad esempio, la traduzione di un questionario o di un rapporto di ricerca.</skos:definition>
       <skos:prefLabel xml:lang="no">Oversettelse</skos:prefLabel>
-	  <skos:definition  xml:lang="no">&#xc5; uttrykke innholdet i teksten eller talen i et annet spr&#xe5;k enn originalspr&#xe5;ket som ble brukt. For eksempel, sp&#xf8;rreskjema eller studierapport oversettelse.</skos:definition>
+      <skos:definition xml:lang="no">&#xc5; uttrykke innholdet i teksten eller talen i et annet spr&#xe5;k enn originalspr&#xe5;ket som ble brukt. For eksempel, sp&#xf8;rreskjema eller studierapport oversettelse.</skos:definition>
       <skos:prefLabel xml:lang="sv">&#xd6;vers&#xe4;ttning</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att uttrycka inneh&#xe5;llet i text eller tal p&#xe5; ett annat spr&#xe5;k &#xe4;n originalspr&#xe5;ket. Till exempel &#xf6;vers&#xe4;ttning av fr&#xe5;geformul&#xe4;r eller studierapporter.</skos:definition>
+      <skos:definition xml:lang="sv">Att uttrycka inneh&#xe5;llet i text eller tal p&#xe5; ett annat spr&#xe5;k &#xe4;n originalspr&#xe5;ket. Till exempel &#xf6;vers&#xe4;ttning av fr&#xe5;geformul&#xe4;r eller studierapporter.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#UserSupport">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>UserSupport</skos:notation>
       <skos:prefLabel xml:lang="en">User support</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Providing assistance to users of data, metadata, tools, etc.</skos:definition>
+      <skos:definition xml:lang="en">Providing assistance to users of data, metadata, tools, etc.</skos:definition>
+      <skos:prefLabel xml:lang="et">Kasutajatugi</skos:prefLabel>
+      <skos:definition xml:lang="et">Andmete, metaandmete, t&#xf6;&#xf6;riistade jms kasutajate abistamine.</skos:definition>
+      <skos:prefLabel xml:lang="it">Supporto utenti</skos:prefLabel>
+      <skos:definition xml:lang="it">Fornire assistenza agli utenti sui dati, metadati, strumenti, ecc.</skos:definition>
       <skos:prefLabel xml:lang="no">Brukerst&#xf8;tte</skos:prefLabel>
-	  <skos:definition  xml:lang="no">&#xc5; gi veiledning til brukere av data, metadata, verkt&#xf8;y, etc.</skos:definition>
+      <skos:definition xml:lang="no">&#xc5; gi veiledning til brukere av data, metadata, verkt&#xf8;y, etc.</skos:definition>
       <skos:prefLabel xml:lang="sv">Anv&#xe4;ndarsupport</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att ge st&#xf6;d till personerna som anv&#xe4;nder data, metadata, verktyg osv.</skos:definition>
+      <skos:definition xml:lang="sv">Att ge st&#xf6;d till personerna som anv&#xe4;nder data, metadata, verktyg osv.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#Visualization">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>Visualization</skos:notation>
       <skos:prefLabel xml:lang="en">Visualization</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Representing data, analysis results, or other information as a chart, image or animation, to aid in the understanding of their meaning.</skos:definition>
+      <skos:definition xml:lang="en">Representing data, analysis results, or other information as a chart, image or animation, to aid in the understanding of their meaning.</skos:definition>
+      <skos:prefLabel xml:lang="et">Visualiseerimine</skos:prefLabel>
+      <skos:definition xml:lang="et">Andmete, anal&#xfc;&#xfc;situlemuste v&#xf5;i muu teabe esitamine diagrammi, pildi v&#xf5;i animatsioonina, et andmetest oleks parem aru saada.</skos:definition>
+      <skos:prefLabel xml:lang="it">Visualizzazione</skos:prefLabel>
+      <skos:definition xml:lang="it">Rappresentazione di dati, risultati di analisi o altre informazioni sotto forma di grafici, immagini o animazioni, per facilitare la comprensione del loro significato.</skos:definition>
       <skos:prefLabel xml:lang="no">Visualisering</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Representere data, analyse resultater, eller annen informasjon som grafer, bilder eller animasjon, for &#xe5; hjelpe til i forst&#xe5;else av deres betydning.</skos:definition>
+      <skos:definition xml:lang="no">Representere data, analyse resultater, eller annen informasjon som grafer, bilder eller animasjon, for &#xe5; hjelpe til i forst&#xe5;else av deres betydning.</skos:definition>
       <skos:prefLabel xml:lang="sv">Visualisering</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att &#xe5;terge data, analysresultat eller annan information i form av diagram, bilder eller animeringar, f&#xf6;r att g&#xf6;ra det l&#xe4;ttare att f&#xf6;rst&#xe5; dem..</skos:definition>
+      <skos:definition xml:lang="sv">Att &#xe5;terge data, analysresultat eller annan information i form av diagram, bilder eller animeringar, f&#xf6;r att g&#xf6;ra det l&#xe4;ttare att f&#xf6;rst&#xe5; dem..</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#WebsiteDevelopment">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>WebsiteDevelopment</skos:notation>
       <skos:prefLabel xml:lang="en">Website development</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Creating and maintaining a website related to the data. May include web design, building a user interface, network security configuration, etc.</skos:definition>
+      <skos:definition xml:lang="en">Creating and maintaining a website related to the data. May include web design, building a user interface, network security configuration, etc.</skos:definition>
+      <skos:prefLabel xml:lang="et">Veebilehe tegemine</skos:prefLabel>
+      <skos:definition xml:lang="et">Andmete jaoks veebilehe loomine ja haldamine. N&#xe4;iteks veebidisain, kasutajaliidese loomine v&#xf5;i v&#xf5;rguturbes&#xe4;tete seadistamine jne.</skos:definition>
+      <skos:prefLabel xml:lang="it">Sviluppo sito web</skos:prefLabel>
+      <skos:definition xml:lang="it">Creazione e manutenzione di un sito web relativo ai dati. Pu&#xf2; includere la progettazione web, la creazione di un&apos;interfaccia utente, la configurazione della sicurezza di rete, ecc.</skos:definition>
       <skos:prefLabel xml:lang="no">Nettstedsutvikling</skos:prefLabel>
-	  <skos:definition  xml:lang="no">&#xc5; opprette og vedlikeholde en nettside relatert til data. Kan inkludere web design, konstruksjon av brukergrensesnitt, nettverkssikkerhet konfigurering, etc.</skos:definition>
+      <skos:definition xml:lang="no">&#xc5; opprette og vedlikeholde en nettside relatert til data. Kan inkludere web design, konstruksjon av brukergrensesnitt, nettverkssikkerhet konfigurering, etc.</skos:definition>
       <skos:prefLabel xml:lang="sv">Webbplatsutveckling</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Att skapa och underh&#xe5;lla en webbplats som &#xe4;r kopplad till data. Det kan inkludera webbdesign, att skapa ett anv&#xe4;ndargr&#xe4;nssnitt, konfigurera n&#xe4;tverkss&#xe4;kerhet osv.</skos:definition>
+      <skos:definition xml:lang="sv">Att skapa och underh&#xe5;lla en webbplats som &#xe4;r kopplad till data. Det kan inkludera webbdesign, att skapa ett anv&#xe4;ndargr&#xe4;nssnitt, konfigurera n&#xe4;tverkss&#xe4;kerhet osv.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/#Other">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0/"/>
       <skos:notation>Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Use if the role is known but not in the list. Can be mapped to the roles &apos;RelatedPerson&apos;, &apos;Producer&apos;, and &apos;Work Package Leader&apos; in DataCite.</skos:definition>
+      <skos:definition xml:lang="en">Use if the role is known but not in the list. Can be mapped to the roles &apos;RelatedPerson&apos;, &apos;Producer&apos;, and &apos;Work Package Leader&apos; in DataCite.</skos:definition>
+      <skos:prefLabel xml:lang="et">Muu</skos:prefLabel>
+      <skos:definition xml:lang="et">Kasutada, kui roll on teada, kuid puudub loendis. Vastab DataCite s&#xfc;steemis vastavalt vajadusele kas rollile RelatedPerson v&#xf5;i Producer v&#xf5;i Work Package Leader.</skos:definition>
+      <skos:prefLabel xml:lang="it">Altro</skos:prefLabel>
+      <skos:definition xml:lang="it">Utilizzare se il ruolo del collaboratore &#xe8; noto, ma non riconducibile a nessun termine presente nell&apos;elenco. Pu&#xf2; corrispondere ai ruoli &quot;RelatedPerson&quot;, &quot;Producer&quot; e &quot;Work Package Leader&quot; in DataCite.</skos:definition>
       <skos:prefLabel xml:lang="no">Annet</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Bruk hvis rollen er kjent, men ikke p&#xe5; listen. Kan bli koblet til rollene &apos;RelatedPerson&apos;, &apos;Producer&apos;, og &apos;Work Package Leader&apos; i DataCite.</skos:definition>
+      <skos:definition xml:lang="no">Bruk hvis rollen er kjent, men ikke p&#xe5; listen. Kan bli koblet til rollene &apos;RelatedPerson&apos;, &apos;Producer&apos;, og &apos;Work Package Leader&apos; i DataCite.</skos:definition>
       <skos:prefLabel xml:lang="sv">&#xd6;vrigt</skos:prefLabel>
-	  <skos:definition  xml:lang="sv">Anv&#xe4;nds om rollen &#xe4;r k&#xe4;nd men inte finns med i listan. Kan mappas till rollerna &quot;RelatedPerson&quot;, &quot;Producer&quot; och &quot;WorkPackageLeader&quot; i DataCite.</skos:definition>
+      <skos:definition xml:lang="sv">Anv&#xe4;nds om rollen &#xe4;r k&#xe4;nd men inte finns med i listan. Kan mappas till rollerna &quot;RelatedPerson&quot;, &quot;Producer&quot; och &quot;WorkPackageLeader&quot; i DataCite.</skos:definition>
    </rdf:Description>
 </rdf:RDF>

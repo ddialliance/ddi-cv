@@ -297,6 +297,7 @@
          <r:Label>
             <r:Content xml:lang="en">Registers/Records/Accounts</r:Content>
             <r:Content xml:lang="da">Registre/Optegnelser/Opgørelser</r:Content>
+            <r:Content xml:lang="et">Registrid/Dokumendid/Andmekogud</r:Content>
             <r:Content xml:lang="fi">Rekisterit/asiakirjat</r:Content>
             <r:Content xml:lang="it">Registri/Documenti/Resoconti</r:Content>
             <r:Content xml:lang="lt">Registrai, įrašai ar ataskaitos</r:Content>
@@ -310,6 +311,7 @@
          <r:Description>
             <r:Content xml:lang="en">Official, formal, or semi-formal documents listing for example items, names, occurrences, actions, or results, and preserved in writing or some other permanent form for later reference.</r:Content>
             <r:Content xml:lang="da">Officielle, formelle eller semi-formelle dokumenter, der for eksempel angiver elementer, navne, begivenheder, handlinger eller resultater og bevares på skrift eller i anden permanent form til senere henvisning.</r:Content>
+            <r:Content xml:lang="et">Ametlikud või poolametlikud dokumendid, milles on loetletud näiteks objektid, nimed, juhtumid, toimingud või tulemused ning mis on säilitatud kirjalikul või muul püsival kujul edaspidiseks kasutamiseks.</r:Content>
             <r:Content xml:lang="fi">Viralliset ja puoliviralliset asiakirjat, joissa luetellaan esimerkiksi asioita, nimiä, tapahtumia, toimintoja tai tuloksia ja jotka on säilytetty kirjoitetussa tai muussa pysyvässä muodossa myöhempää käyttöä varten.</r:Content>
             <r:Content xml:lang="it">Documenti ufficiali, formali o semi-formali, che elencano per esempio articoli, nomi, occorrenze, azioni o risultati, e che sono conservati in forma scritta o in qualche altra forma permanente per possibili riferimenti futuri.</r:Content>
             <r:Content xml:lang="lt">Tarnybiniai, oficialūs ar pusiau oficialūs dokumentai, kuriuose išvardijami, pavyzdžiui, vienetai, vardai, įvykiai, veiksmai ar rezultatai, ir išsaugomi vėlesniam naudojimui rašytinėje ar kitoje ilgalaikio saugojimo formoje.</r:Content>
@@ -331,6 +333,7 @@
          <r:Label>
             <r:Content xml:lang="en">Registers/Records/Accounts: Administrative</r:Content>
             <r:Content xml:lang="da">Registre/Optegnelser/Opgørelser: Administrativ</r:Content>
+            <r:Content xml:lang="et">Registrid/Dokumendid/Andmekogud: administratiivandmed</r:Content>
             <r:Content xml:lang="fi">Rekisterit/asiakirjat: hallinnolliset</r:Content>
             <r:Content xml:lang="it">Registri/Documenti/Resoconti: amministrativi</r:Content>
             <r:Content xml:lang="lt">Registrai, įrašai ar ataskaitos: administraciniai</r:Content>
@@ -344,6 +347,7 @@
          <r:Description>
             <r:Content xml:lang="en">Information collected on individuals or groups as part of the routine administrative procedures of an agency, business, or institution. Such data are not usually collected with research purposes in mind, may be voluminous, and may require preparation such as coding in order to be usable by researchers. Examples: income tax forms, population registers, naturalization records, birth/death certificates, patent applications, etc.</r:Content>
             <r:Content xml:lang="da">Oplysninger indsamlet om individer eller grupper som en del af de rutinemæssige, administrative procedurer hos et agentur, virksomhed eller institution. Sådanne data er ikke normalt indsamlet til forskningsbrug, kan være omfattende og kan kræve forberedelse i form af kodning for at være brugbart for forskere. Eksempler: Formularer til indkomstskat, folkeregistre, opgørelser over naturalisering, fødsels-/dødsattester, patentansøgninger mm.</r:Content>
+            <r:Content xml:lang="et">Ameti, ettevõtte või asutuse tavapäraste haldustoimingute raames üksikisikute või rühmade kohta kogutud teave. Selliseid andmeid ei koguta tavaliselt teadusuuringute eesmärgil; need võivad olla mahukad ja vajada eeltöötlemist (nt kodeerimist), et teadlased saaksid neid kasutada. Näiteks tuludeklaratsioonid, rahvastikuregistrid, naturalisatsiooni korras kodakondsuse saanute andmed, sünni-/surmatõendid, patenditaotlused jne.</r:Content>
             <r:Content xml:lang="fi">Viraston, yrityksen tai muun organisaation esimerkiksi henkilöistä tai ryhmistä keräämää tietoa osana sen normaalia hallinnollista toimintaa. Tällaista tietoa ei yleensä kerätä ensisijaisesti tutkimustarkoituksiin ja se saattaa olla hyvin laajaa ja vaatia käsittelyä, kuten esimerkiksi koodausta, ollakseen tutkijoiden käytettävissä. Esimerkiksi tuloverotukseen liittyvät lomakkeet, väestötietorekisterit, syntymä/kuolintodistukset, patenttihakemukset.</r:Content>
             <r:Content xml:lang="it">Informazioni raccolte su individui o gruppi come risultato delle procedure amministrative di routine di un'agenzia, azienda o istituzione. Tali dati non vengono solitamente raccolti per scopi di ricerca, possono essere voluminosi e possono richiedere una trasformazione - come, ad esempio, la codifica - prima di poter essere utilizzati dai ricercatori. Esempi: dichiarazione dei redditi, registri demografici, documenti di naturalizzazione, certificati di nascita/morte, domande di brevetto, ecc.</r:Content>
             <r:Content xml:lang="lt">Informacija apie asmenis ar grupes, renkama vykdant agentūrų, verslo ar kitokių įstaigų įprastas administracines veiklas. Tokie duomenys paprastai nėra renkami tyrimų tikslais. Jie gali būti labai didelės apimties ir gali reikalauti specialaus paruošimo, pavyzdžiui, kodavimo, kad juos galėtų naudoti tyrėjai. Pavyzdžiai: pajamų mokesčių formos, gyventojų registrai, natūralizacijos įrašai, gimimo ar mirties liudijimai, patentų paraiškos ir kt.</r:Content>
@@ -365,6 +369,7 @@
          <r:Label>
             <r:Content xml:lang="en">Registers/Records/Accounts: Historical</r:Content>
             <r:Content xml:lang="da">Registre/Optegnelser/Opgørelser: Historisk</r:Content>
+            <r:Content xml:lang="et">Registrid/Dokumendid/Andmekogud: ajaloolised allikad</r:Content>
             <r:Content xml:lang="fi">Rekisterit/asiakirjat: historialliset</r:Content>
             <r:Content xml:lang="it">Registri/Documenti/Resoconti: storici</r:Content>
             <r:Content xml:lang="lt">Registrai, įrašai ar ataskaitos: istoriniai</r:Content>
@@ -378,6 +383,7 @@
          <r:Description>
             <r:Content xml:lang="en">Historical records preserve information and constitute evidence about past events. They may be produced by individuals, groups, or organizations. Administrative records become historical when they are no longer retained, or actively used by the issuing agency for their original purpose. Examples include parish registers, estate records, wills, chronicles, etc.</r:Content>
             <r:Content xml:lang="da">Historiske opgørelser bevarer oplysninger og udgør beviser om tidligere begivenheder. De kan være produceret af individer, grupper eller organisationer. Administrative optegnelser bliver historiske, når de ikke længere beholdes eller anvendes aktivt af det udstedende agentur til deres oprindelige formål. Eksempler inkluderer sogneregistre, tingbøger, testamenter, krøniker mm.</r:Content>
+            <r:Content xml:lang="et">Ajaloolised allikad säilitavad teavet ja on tõendiks mineviku sündmuste kohta. Need võivad olla üksikisikute, gruppide või organisatsioonide loodud allikad. Haldusdokumendid muutuvad ajalooliseks, kui neid koostanud asutus neid enam ei säilita ega kasuta aktiivselt esialgsel eesmärgil. Näiteks kirikuraamatud, kinnistusraamatud, testamendid, kroonikad jne.</r:Content>
             <r:Content xml:lang="fi">Historialliset asiakirjat säilyttävät tietoa ja toimivat todisteina menneistä tapahtumista. Ne voivat olla yksilöiden, ryhmien tai järjestöjen tuottamia. Hallinnollisista asiakirjoista tulee historiallisia, kun ne tuottanut organisaatio ei enää säilytä tai käytä niitä aktiivisesti alkuperäistä tarkoitusta varten. Esimerkiksi kirkonkirjat, kiinteistöasiakirjat, testamentit, kronikat.</r:Content>
             <r:Content xml:lang="it">I documenti storici conservano informazioni e costituiscono evidenze di eventi passati. Possono essere prodotti da individui, gruppi o organizzazioni. I documenti amministrativi diventano storici quando non vengono più conservati dall'istituzione che li ha prodotti oppure non sono più utilizzati attivamente per il loro scopo originale. Gli esempi includono registri parrocchiali, registri immobiliari, testamenti, diari, ecc.</r:Content>
             <r:Content xml:lang="lt">Istoriniuose įrašuose saugoma informacija ir įrodymai apie praeities įvykius. Jų kūrėjais gali būti asmenys, grupės ar organizacijos. Administraciniai įrašai tampa istoriniais, kai jie daugiau nebėra reikalingi arba juos išdavusi agentūra jų aktyviai nebenaudoja pagal pirminį tikslą. Pavyzdžiui, parapijų, dvarų turto registrai, testamentai, kronikos ir kt.</r:Content>
@@ -399,6 +405,7 @@
          <r:Label>
             <r:Content xml:lang="en">Registers/Records/Accounts: Legal</r:Content>
             <r:Content xml:lang="da">Registre/Optegnelser/Opgørelser: Retslige</r:Content>
+            <r:Content xml:lang="et">Registrid/Dokumendid/Andmekogud: juriidilised materjalid</r:Content>
             <r:Content xml:lang="fi">Rekisterit/asiakirjat: juridiset</r:Content>
             <r:Content xml:lang="it">Registri/Documenti/Resoconti: legali</r:Content>
             <r:Content xml:lang="lt">Registrai, įrašai ar ataskaitos: teisiniai</r:Content>
@@ -412,6 +419,7 @@
          <r:Description>
             <r:Content xml:lang="en">Records pertaining to law and its administration, for example records related to cases that have been brought to court or to a tribunal.</r:Content>
             <r:Content xml:lang="da">Optegnelser angående lovgivning og dens administration, for eksempel optegnelser relateret til sager, der har været bragt for en domstol eller et nævn.</r:Content>
+            <r:Content xml:lang="et">Dokumendid, mis puudutavad õigust ja selle rakendamist, näiteks dokumendid, mis on seotud kohtus või vahekohtus menetletavate juhtumitega.</r:Content>
             <r:Content xml:lang="fi">Juridiset ja juridishallinnolliset asiakirjat, kuten oikeuskäsittelyihin, oikeudenkäynteihin ja tuomioistuinten toimintaan liittyvät asiakirjat.</r:Content>
             <r:Content xml:lang="it">Documenti relativi alla legge e alla sua amministrazione, ad esempio record relativi a casi giudiziari portati in tribunale.</r:Content>
             <r:Content xml:lang="lt">Įrašai susiję su įstatymais ir jų vykdymu, pavyzdžiui, įrašai, susiję su bylomis, kurios buvo perduotos teismui ar tribunolui.</r:Content>
@@ -433,6 +441,7 @@
          <r:Label>
             <r:Content xml:lang="en">Registers/Records/Accounts: Medical/Clinical</r:Content>
             <r:Content xml:lang="da">Registre/Optegnelser/Opgørelser: Medicinsk/Klinisk</r:Content>
+            <r:Content xml:lang="et">Registrid/Dokumendid/Andmekogud: meditsiinilised ja raviandmed</r:Content>
             <r:Content xml:lang="fi">Rekisterit/asiakirjat: lääketieteelliset/kliiniset</r:Content>
             <r:Content xml:lang="it">Registri/Documenti/Resoconti: medici/clinici</r:Content>
             <r:Content xml:lang="lt">Registrai, įrašai ar ataskaitos: medicininiai ar klinikiniai</r:Content>
@@ -446,6 +455,7 @@
          <r:Description>
             <r:Content xml:lang="en">Health-related data created or collected by health care professionals about a patient. Usually include the results of medical tests or measurements, findings from consultations or clinical trial programs, etc.</r:Content>
             <r:Content xml:lang="da">Sundhedsrelaterede data skabt eller indsamlet af sundhedspersonale om en patient. Indeholder som regel resultaterne af medicinske tests eller målinger, resultater fra konsultationer eller kliniske forsøgsprogrammer mm.</r:Content>
+            <r:Content xml:lang="et">Tervisega seotud andmed, mille tervishoiutöötajad on patsiendi kohta koostanud või kogunud, eelkõige meditsiiniliste testide või mõõtmiste tulemused, konsultatsioonide kokkuvõtted või kliiniliste uuringutega kogutud andmed jne.</r:Content>
             <r:Content xml:lang="fi">Terveydenhuollon ammattilaisten potilaistaan keräämää tai tuottamaa, terveydentilaan liittyvää tietoa. Esimerkiksi lääketieteellisten kokeiden, testien ja mittausten tulokset, lääkärin tekemän tutkimuksen ja kliinisten tutkimusohjelmien löydökset.</r:Content>
             <r:Content xml:lang="it">Dati relativi alla salute creati o raccolti da operatori sanitari relativi a un paziente. Di solito includono risultati di esami o misurazioni mediche, risultati di consultazioni o programmi di sperimentazione clinica, ecc.</r:Content>
             <r:Content xml:lang="lt">Sveikatos priežiūros specialistų sukurti ar surinkti su sveikata susiję duomenys apie pacientus. Paprastai apima medicininių tyrimų ar matavimų rezultatus, konsultacijų ar klinikinių tyrimų programų išvadas ir kt.</r:Content>
@@ -467,6 +477,7 @@
          <r:Label>
             <r:Content xml:lang="en">Registers/Records/Accounts: Academic/Aptitude</r:Content>
             <r:Content xml:lang="da">Registre/Optegnelser/Opgørelser: Akademisk/Egnethed</r:Content>
+            <r:Content xml:lang="et">Registrid/Dokumendid/Andmekogud: eksamite ja testide tulemused</r:Content>
             <r:Content xml:lang="fi">Rekisterit/asiakirjat: oppimis-,  soveltuvuus- ja kykytestit</r:Content>
             <r:Content xml:lang="it">Registri/Documenti/Resoconti: accademici/attitudinali</r:Content>
             <r:Content xml:lang="lt">Registrai, įrašai ar ataskaitos: akademiniai ar gebėjimų</r:Content>
@@ -480,6 +491,7 @@
          <r:Description>
             <r:Content xml:lang="en">Information gathered during an evaluation process and presented as results. Examples include educational tests, IQ tests, verbal or logical reasoning tests, competence tests for professional occupations, etc.</r:Content>
             <r:Content xml:lang="da">Oplysninger indsamlet under en evalueringsproces og præsenteret som resultater. Eksempler inkluderer uddannelsesprøver, IQ-tests, tests af verbal eller logisk ræsonnement, tests af kompetencer til professionel beskæftigelse mm.</r:Content>
+            <r:Content xml:lang="et">Hindamise käigus kogutud teave ja hindamise tulemused. Näiteks haridusasutuste eksamid ja testid, IQ-testid, lugemisoskuse ja loogilise mõtlemise testid, kutseeksamid jne.</r:Content>
             <r:Content xml:lang="fi">Tietoa, joka on kerätty osana arviointiprosessia ja esitetään tuloksina. Esimerkiksi oppimiseen ja opiskeluun liittyvät kokeet ja testit, älykkyystestit, ammattien soveltuvuustestit.</r:Content>
             <r:Content xml:lang="it">Informazioni raccolte durante un processo di valutazione e presentate come risultati. Esempi includono test educativi, test QI, test di ragionamento verbale o logico, test di competenza per attività professionali, ecc.</r:Content>
             <r:Content xml:lang="lt">Vertinimo proceso metu surinkta informacija, pateikiama kaip rezultatas. Pavyzdžiai apima švietimo testus, IQ testus, žodinio ar loginio samprotavimo testus, profesinių gebėjimų testus ir kt.</r:Content>
@@ -501,6 +513,7 @@
          <r:Label>
             <r:Content xml:lang="en">Registers/Records/Accounts: Economic/Financial</r:Content>
             <r:Content xml:lang="da">Registre/Optegnelser/Opgørelser: Økonomisk/Finansiel</r:Content>
+            <r:Content xml:lang="et">Registrid/Dokumendid/Andmekogud: majandus- ja finantsandmed</r:Content>
             <r:Content xml:lang="fi">Rekisterit/asiakirjat: taloudelliset</r:Content>
             <r:Content xml:lang="it">Registri/Documenti/Resoconti: economici/finanziari</r:Content>
             <r:Content xml:lang="lt">Registrai, įrašai ar ataskaitos: ekonominiai ar finansiniai </r:Content>
@@ -514,6 +527,7 @@
          <r:Description>
             <r:Content xml:lang="en">Records of the financial activities of a business, person, state institution or other organizations or entities. Examples are statements of retained earnings, cash flow, income statements, a company's balance sheet and tax return.</r:Content>
             <r:Content xml:lang="da">Optegnelser af de finansielle aktiviteter hos en virksomhed, person, statslig institution eller andre organisationer eller enheder. Eksempler er redegørelser om bevaret indtjening, pengestrøm, resultatopgørelser, en virksomheds balance og selvangivelse.</r:Content>
+            <r:Content xml:lang="et">Ettevõtte, isiku, riigiasutuse või muu organisatsiooni või üksuse tegevuse finantsandmed. Näiteks jaotamata kasumi, rahavoogude ja kasumiaruanded, ettevõtte bilanss ja maksudeklaratsioonid.</r:Content>
             <r:Content xml:lang="fi">Yrityksen, henkilön, valtion viraston tai muun organisaation tai tahon taloudelliseen toimintaan liittyvät asiakirjat. Esimerkiksi rahoitus- ja tuloslaskelmat, yrityksen taseet ja veroilmoitukset.</r:Content>
             <r:Content xml:lang="it">Registri delle attività finanziarie di un'azienda, persona, istituzione statale o di altre organizzazioni. Esempi sono le dichiarazioni di utili non distribuiti, il flusso di cassa, i conti economici, il bilancio di una società o le dichiarazioni fiscali.</r:Content>
             <r:Content xml:lang="lt">Verslo, asmenų, valstybės institucijų ar kitokių organizacijų bei subjektų finansinės veiklos įrašai. Pavyzdžiui, nepaskirstyto pelno, pinigų srautų, pajamų ataskaitos, įmonių balansai ar mokesčių deklaracijos.</r:Content>
@@ -535,6 +549,7 @@
          <r:Label>
             <r:Content xml:lang="en">Registers/Records/Accounts: Personal</r:Content>
             <r:Content xml:lang="da">Registre/Optegnelser/Opgørelser: Personlig</r:Content>
+            <r:Content xml:lang="et">Registrid/Dokumendid/Andmekogud: iIsiklikud materjalid</r:Content>
             <r:Content xml:lang="fi">Rekisterit/asiakirjat: henkilökohtaiset</r:Content>
             <r:Content xml:lang="it">Registri/Documenti/Resoconti: personali</r:Content>
             <r:Content xml:lang="lt">Registrai, įrašai ar ataskaitos: asmeniniai</r:Content>
@@ -548,6 +563,7 @@
          <r:Description>
             <r:Content xml:lang="en">Records or accounts created unofficially by individuals or families for other purposes than research. Examples may include private diaries or memoirs, family record books or Bibles, collections of personal documents, photographs, etc.</r:Content>
             <r:Content xml:lang="da">Optegnelser eller opgørelser skabt uofficielt af individer eller familier til andre formål end forskning. Eksempler kan inkludere private dagbøger eller erindringer, familieoptegnelser eller bibler, samlinger af personlige dokumenter, fotografier mm.</r:Content>
+            <r:Content xml:lang="et">Andmed või allikad, mille üksikisikud või perekonnad on koostanud isiklikuks kasutamiseks ja mitteteaduslikul eesmärgil. Näiteks isiklikud päevikud või kirjalikud mälestused, perekonnaseisudokumendid või -märkmed, isiklikud arhiivid, fotokogud jne.</r:Content>
             <r:Content xml:lang="fi">Henkilöiden tai perheiden muuhun kuin tutkimustarkoituksiin epävirallisesti tuottamat asiakirjat ja dokumentit. Esimerkiksi henkilökohtaiset päiväkirjat tai muistelmat, sukukirjat tai perheraamatut, henkilökohtaisten dokumenttien kokoelmat, valokuvat.</r:Content>
             <r:Content xml:lang="it">Documenti creati in modo non ufficiale da individui o famiglie per scopi diversi dalla ricerca. Tali documenti possono riguardare diari privati o memorie, libri di famiglia, raccolte di documenti personali, fotografie, ecc.</r:Content>
             <r:Content xml:lang="lt">Įrašai ar ataskaitos, kurias neoficialiai sukūrė asmenys ar šeimos kitais nei mokslinių tyrimų tikslais. Pavyzdžiui, privatūs dienoraščiai ar atsiminimai, šeimos istorijos ar kitokių įrašų knygos, asmeninių dokumentų kolekcijos, nuotraukos ir kt.</r:Content>
@@ -569,6 +585,7 @@
          <r:Label>
             <r:Content xml:lang="en">Registers/Records/Accounts: Voting results</r:Content>
             <r:Content xml:lang="da">Registre/Optegnelser/Opgørelser: Valgresultater</r:Content>
+            <r:Content xml:lang="et">Registrid/Dokumendid/Andmekogud: hääletustulemused</r:Content>
             <r:Content xml:lang="fi">Rekisterit/asiakirjat: äänestystulokset</r:Content>
             <r:Content xml:lang="it">Registri/Documenti/Resoconti: risultati di voto</r:Content>
             <r:Content xml:lang="lt">Registrai, įrašai ar ataskaitos: balsavimo rezultatai </r:Content>
@@ -582,6 +599,7 @@
          <r:Description>
             <r:Content xml:lang="en">Details of votes cast for candidates in an election (also known as 'election returns/results'), parliamentary or organizational votes on policies, motions or proposals, public referendums, etc.</r:Content>
             <r:Content xml:lang="da">Detaljer om stemmeafgivelser på kandidater ved et valg (også kendt som 'valgresultater'), parlamentariske eller organisatoriske stemmeafgivninger om politikker, beslutningsforslag, udspil, folkeafstemninger mm.</r:Content>
+            <r:Content xml:lang="et">Valimistel kandidaatidele antud hääled (ehk valimistulemused), parlamendi või organisatsiooni hääletused eelnõude, algatuste või ettepanekute üle, rahvahääletuste tulemused jne.</r:Content>
             <r:Content xml:lang="fi">Tiedot vaaleissa ehdokkaille annetuista äänistä (vaalitulokset), eduskunnan tai organisaatioiden äänestysten tulokset, kansanäänestykset jne.</r:Content>
             <r:Content xml:lang="it">Dettaglio dei voti espressi per i candidati alle elezioni (detti anche "risultati elettorali"), voti parlamentari o organizzativi espressi su politiche, mozioni o proposte, referendum pubblici, ecc.</r:Content>
             <r:Content xml:lang="lt">Informacija apie balsus, atiduotus per rinkimus (dar vadinama „rinkimų rezultatais“), per visuotinius referendumus, balsavimus parlamente ar kitose organizacijose dėl politinių pasiūlymų, įstatymų projektų, pataisų ir kt.</r:Content>
@@ -603,6 +621,7 @@
          <r:Label>
             <r:Content xml:lang="en">Events/Interactions</r:Content>
             <r:Content xml:lang="da">Begivenheder/Interaktioner</r:Content>
+            <r:Content xml:lang="et">Sündmused/Koostoimimised</r:Content>
             <r:Content xml:lang="fi">Tapahtumat/vuorovaikutustilanteet</r:Content>
             <r:Content xml:lang="it">Eventi/Interazioni</r:Content>
             <r:Content xml:lang="lt">Įvykiai ar sąveikos</r:Content>
@@ -616,6 +635,7 @@
          <r:Description>
             <r:Content xml:lang="en">Events are usually one-time, individual occurrences, with a limited or short duration. An event may be listed as data source when it is directly observed or recorded for research. Interactions are events in which two or more people, groups, objects or systems act upon one another having reciprocal influence, or effect. Examples: types of gatherings (ceremonies, competitions, festivals, meetings), riots, terrorist attacks, computing events (i.e., actions or occurrences detected by computer programs), etc.</r:Content>
             <r:Content xml:lang="da">Begivenheder er som regel enkeltstående, individuelle hændelser med en begrænset eller kort varighed. En begivenhed kan være listet som en datakilde, når den observeres direkte eller optages til forskning. Interaktioner er begivenheder, hvor to eller flere personer, grupper, objekter eller systemer agerer i forhold til hinanden med gensidig indvirkning eller effekt. Eksempler: Typer af sammenkomster (ceremonier, konkurrencer, festivaler, møder), optøjer, terrorangreb, datalogiske begivenheder (dvs. handlinger eller hændelser opdaget ved hjælp af computerprogrammer) mm.</r:Content>
+            <r:Content xml:lang="et">Sündmused on tavaliselt ühekordsed üksikjuhtumid, mis on lühiajalised või piiratud kestusega. Sündmus võib olla andmeallikana loetletud, kui seda vaadeldakse otse või salvestatakse uurimiseks. Koostoimimised on sündmused, milles kaks või enam inimest, rühma, objekti või süsteemi mõjutavad üksteist vastastikku või millel on tagajärg. Näiteks teatud rahvakogunemised (tseremooniad, võistlused, festivalid, koosolekud), mässud, terrorirünnakud, arvutisündmused (st arvutiprogrammide tuvastatud toimingud või sündmused) jne.</r:Content>
             <r:Content xml:lang="fi">Tapahtumat ovat yleensä yksittäisiä tapauksia, joiden kesto on lyhyt tai rajattu. Tapahtuma on aineistolähde silloin, kun sitä on suoraan havainnoitu tai taltioitu tutkimustarkoituksiin. Vuorovaikutustilanteet ovat tapahtumia, joissa kaksi tai useampi ihminen, ryhmä, esine tai järjestelmä vaikuttaa toisiinsa vastavuoroisesti. Esimerkiksi erilaiset tapaamiset (juhlat, kilpailut, festivaalit, kokoukset), mellakat, terroristihyökkäykset, tietokoneen toiminta (eli tietokoneohjelmien havaitsemat toiminnot tai tapahtumat).</r:Content>
             <r:Content xml:lang="it">Gli eventi generalmente sono unici, accadono una sola volta, con una durata limitata o breve. Un evento può essere indicato come fonte di dati quando viene direttamente osservato o registrato per la ricerca. Le interazioni sono eventi in cui due o più persone, gruppi, oggetti o sistemi agiscono l'uno con l'altro influenzandosi reciprocamente. Esempi: raduni di vario tipo (cerimonie, concorsi, festival, riunioni), rivolte, attacchi terroristici, eventi informatici (cioè azioni o occorrenze rilevate da programmi per computer), ecc.</r:Content>
             <r:Content xml:lang="lt">Įvykiai paprastai būna vienkartiniai, atskiri, ribotos arba trumpos trukmės. Įvykis gali būti nurodomas kaip duomenų šaltinis, kai jis tiesiogiai stebimas arba aprašomas atliekant tyrimą. Sąveikos – tai įvykiai, kurių metu veikia du ar daugiau žmonės, grupės, objektai ar sistemos, vienas kitam darydami įtaką ar poveikį. Pavyzdžiai: susibūrimai (ceremonijos, rungtynės, festivaliai, susitikimai), riaušės, teroristiniai išpuoliai, kompiuteriniai įvykiai (t. y. kompiuterių programų aptikti veiksmai ar įvykiai) ir kt.</r:Content>
@@ -637,6 +657,7 @@
          <r:Label>
             <r:Content xml:lang="en">Processes</r:Content>
             <r:Content xml:lang="da">Processer</r:Content>
+            <r:Content xml:lang="et">Protsessid</r:Content>
             <r:Content xml:lang="fi">Prosessit</r:Content>
             <r:Content xml:lang="it">Processi</r:Content>
             <r:Content xml:lang="lt">Procesai </r:Content>
@@ -650,6 +671,7 @@
          <r:Description>
             <r:Content xml:lang="en">Processes are sequences of occurrences, events, activities, actions or operations that take place over time and bring about changes or transformations in organisms, objects, ideas or social phenomena. For example, a business process may include receiving orders, invoicing, shipping the products, or setting a marketing budget.</r:Content>
             <r:Content xml:lang="da">Processer er sekvenser af hændelser, begivenheder, aktiviteter, handlinger eller operationer, der finder sted over tid og medfører forandringer eller transformationer i organismer, objekter, idéer eller sociale fænomener. For eksempel, en proces hos en virksomhed kan inkludere modtagelse af ordrer, fakturering, spedition eller fastlæggelse af et marketingsbudget.</r:Content>
+            <r:Content xml:lang="et">Protsessid on juhtumite, sündmuste, tegevuste, toimingute või operatsioonide järjestused, mis on pikemaajalised ning mille käigus muutuvad või arenevad organismid, objektid, ideed või ühiskondlikud nähtused. Näiteks võib äriprotsess sisaldada tellimuste vastuvõtmist, arvete esitamist, toodete kohaletoimetamist või turunduseelarve koostamist.</r:Content>
             <r:Content xml:lang="fi">Prosessit ovat tapahtumien, toimenpiteiden ja toimien sarjoja, jotka tapahtuvat tietyllä ajanjaksolla ja saavat aikaan muutoksia elollisissa olennoissa, asioissa, ideoissa tai yhteiskunnallisissa ilmiöissä. Esimerkiksi liiketoiminnan prosessi voi olla tilausten vastaanotto, laskutus, tuotteiden toimitus tai markkinointibudjetin laatiminen.</r:Content>
             <r:Content xml:lang="it">I processi sono sequenze di eventi, attività, azioni o operazioni che si verificano nel tempo e portano cambiamenti o trasformazioni in organismi, oggetti, idee o fenomeni sociali. Ad esempio, un processo aziendale può includere la ricezione di ordini, la fatturazione, la spedizione dei prodotti o l'impostazione di un budget di marketing.</r:Content>
             <r:Content xml:lang="lt">Procesai yra atvejų, įvykių, veiklų, veiksmų ar operacijų sekos, sukeliančios organizmų, objektų, idėjų ar socialinių reiškinių pokyčius ar transformacijas. Pavyzdžiui, verslo procesas gali apimti užsakymų gavimą, sąskaitų faktūrų išrašymą, produktų pristatymą arba rinkodaros biudžeto sudarymą.</r:Content>
@@ -671,6 +693,7 @@
          <r:Label>
             <r:Content xml:lang="en">Processes: Workflow(s)</r:Content>
             <r:Content xml:lang="da">Processer: Arbejdsgang(e)</r:Content>
+            <r:Content xml:lang="et">Protsessid: töövood</r:Content>
             <r:Content xml:lang="fi">Prosessit: työnkulku</r:Content>
             <r:Content xml:lang="it">Processi: flusso di lavoro</r:Content>
             <r:Content xml:lang="lt">Procesai: darbų seka</r:Content>
@@ -684,6 +707,7 @@
          <r:Description>
             <r:Content xml:lang="en">Sequence of steps and processes through which a piece of work passes from initiation to completion (adapted from the Oxford dictionary online: http://www.oxforddictionaries.com/us/definition/american_english/workflow). Examples from data life cycle: data collection, data processing, data analysis, data archiving, etc.</r:Content>
             <r:Content xml:lang="da">Sekvens af trin eller processer, hvor et stykke arbejde går fra at være igangsætning til afslutning (tilpasset fra the Oxford dictionary online: http://www.oxforddictionaries.com/us/definition/american_english/workflow). Eksempler fra datas livscyklus: dataindsamling, databehandling, dataanalyse, dataarkivering mm.</r:Content>
+            <r:Content xml:lang="et">Etappide ja protsesside järjestus, mida tööobjekt läbib algusest kuni valmimiseni (kohandatud Oxfordi sõnastike veebilehe definitsiooni järgi: http://www.oxforddictionaries.com/us/definition/american_english/workflow). Andmete elutsükli etapid on näiteks andmete kogumine, andmetöötlus, andmete analüüs, andmete arhiveerimine jne.</r:Content>
             <r:Content xml:lang="fi">Sarja vaiheita ja prosesseja, joiden myötä teos tai kappale siirtyy alullepanosta valmistumiseen.</r:Content>
             <r:Content xml:lang="it">Sequenza di passaggi e processi attraverso i quali una parte di lavoro passa dallo stato iniziale al suo completamento. Esempi tratti dal "ciclo di vita dei dati" sono: raccolta dei dati, elaborazione dei dati, analisi dei dati, archiviazione dei dati, ecc.</r:Content>
             <r:Content xml:lang="lt">Žingsnių ir procesų seka, kuriais pradedamas, vykdomas ir užbaigiamas tam tikras darbas (adaptuota pagal internetinį Oksfordo žodyną: http://www.oxforddictionaries.com/us/definition/american_english/workflow). Pavyzdžiai iš duomenų gyvavimo ciklo: duomenų rinkimas, duomenų apdorojimas, duomenų analizė, duomenų archyvavimas ir kt.</r:Content>
@@ -705,6 +729,7 @@
          <r:Label>
             <r:Content xml:lang="en">Communications</r:Content>
             <r:Content xml:lang="da">Kommunikation</r:Content>
+            <r:Content xml:lang="et">Suhtlus</r:Content>
             <r:Content xml:lang="fi">Viestintä</r:Content>
             <r:Content xml:lang="it">Comunicazioni</r:Content>
             <r:Content xml:lang="lt">Komunikacija</r:Content>
@@ -718,6 +743,7 @@
          <r:Description>
             <r:Content xml:lang="en">Messages resulting from the act or process of using words, sounds, signs, or behaviors to convey or exchange information, ideas, thoughts, feelings, etc. (adapted from www.merriam-webster.com).</r:Content>
             <r:Content xml:lang="da">Meddelelser som følge af handlingen eller processen ved at bruge ord, lyd, tegn eller adfærd til at formidle eller udveksle informationer, idéer, tanker, følelser mm. (tilpasset fra www.merriam-webster.com).</r:Content>
+            <r:Content xml:lang="et">Sõnade, helide, märkide abil või teatud käitumisviiside kaudu edastatavad sõnumid, millega väljendatakse või antakse edasi teavet, ideid, mõtteid, tundeid jne (kohandatud www.merriam-webster.com sõnastiku definitsiooni järgi).</r:Content>
             <r:Content xml:lang="fi">Esimerkiksi sanoin, äänin, merkein, ilmein tai elein tuotettavat viestit, joilla välitetään tai vaihdetaan tietoa, ideoita, ajatuksia, tunteita ym.</r:Content>
             <r:Content xml:lang="it">Messaggi derivanti dall'utilizzo di parole, suoni, segni o comportamenti per trasmettere o scambiare informazioni, idee, pensieri, sentimenti, ecc.</r:Content>
             <r:Content xml:lang="lt">Pranešimai, atsirandantys kai žodžiai, garsai, ženklai ar elgesys naudojami siekiant perduoti ar keistis informacija, idėjomis, mintimis, jausmais ir kt. (adaptuota pagal www.merriam-webster.com).</r:Content>
@@ -739,6 +765,7 @@
          <r:Label>
             <r:Content xml:lang="en">Communications: Public</r:Content>
             <r:Content xml:lang="da">Kommunikation: Offentlig</r:Content>
+            <r:Content xml:lang="et">Suhtlus: avalik</r:Content>
             <r:Content xml:lang="fi">Viestintä: julkinen</r:Content>
             <r:Content xml:lang="it">Comunicazioni: pubbliche</r:Content>
             <r:Content xml:lang="lt">Komunikacija: viešoji</r:Content>
@@ -752,6 +779,7 @@
          <r:Description>
             <r:Content xml:lang="en">Communications addressed directly to a public audience, for example, in person (public gatherings, political rallies, etc.), by means of broadcast, print or Internet mass media (radio, television, print or online newspapers/journals), by means of billboards, banners or other signage placed in public view, or social media (public postings on Facebook, Twitter, and others).</r:Content>
             <r:Content xml:lang="da">Kommunikation rettet direkte til et offentligt publikum, for eksempel, personligt (offentlige forsamlinger, politiske møder mm.) ved hjælp af TV-udsendelser, trykte massemedier eller massemedier på internettet (radio, fjernsyn trykte eller online netaviser/tidsskrifter), ved hjælp af reklametavler, bannere eller anden skiltning placeret i det offentlige rum, eller sociale medier (offentlige indlæg på Facebook, Twitter, og andre).</r:Content>
+            <r:Content xml:lang="et">Otse avalikkusele suunatud teated, näiteks isiklikult (avalikul koosolekul, poliitilisel kogunemisel jne) või ringhäälingu-, trüki- või Interneti-meedias (sh raadio, televisioon, trükitud või veebiajalehed/-ajakirjad) edastatud teated, avalikult nähtavate reklaamplakatite, bännerite või muude kandjatega edastatud teated ning sotsiaalmeedias avaldatud teated (avalikud postitused Facebookis, Twitteris ja mujal).</r:Content>
             <r:Content xml:lang="fi">Suoraan julkiselle yleisölle osoitetut viestit. Viestit voidaan välittää esimerkiksi kasvokkain (julkiset kokoontumiset, poliittiset tapahtumat), massaviestimillä (radio, televisio, painettu media, verkkolehdet/julkaisut), ulkomainoksilla ja muilla julkisissa tiloissa sijaitsevilla ilmoituksilla tai sosiaalisessa mediassa (julkiset kommentit ja julkaisut Facebookissa, Twitterissä ym.)</r:Content>
             <r:Content xml:lang="it">Comunicazioni indirizzate direttamente a un pubblico che può essere presente (raduni pubblici, manifestazioni politiche, ecc.), oppure ricevere la comunicazione tramite mezzi di trasmissione, stampa o mass media (radio, televisione, stampa o giornali/riviste online), mediante cartelloni pubblicitari, striscioni o altri tipi di segnaletica collocati in modo visibile, oppure tramite social media (messaggi pubblici su Facebook, Twitter e altri).</r:Content>
             <r:Content xml:lang="lt">Pranešimai tiesiogiai skirti viešai auditorijai, pavyzdžiui, kai dalyvaujama asmeniškai (viešuose susibūrimuose, politiniuose mitinguose ir pan.), kai transliuojama ar naudojama spausdintinė ar internetinė žiniasklaida (per radiją, televiziją, spausdintuose ar internetiniuose laikraščiuose ar  žurnaluose), kai naudojami reklaminiai stendai, reklaminės juostos ar kitos priemonės, talpinamos viešai arba socialinėse medijose (vieši įrašai „Facebook“, „Twitter“ ir kt.).</r:Content>
@@ -773,6 +801,7 @@
          <r:Label>
             <r:Content xml:lang="en">Communications: Interpersonal</r:Content>
             <r:Content xml:lang="da">Kommunikation: Interpersonel</r:Content>
+            <r:Content xml:lang="et">Suhtlus: isikutevaheline</r:Content>
             <r:Content xml:lang="fi">Viestintä: henkilöiden välinen</r:Content>
             <r:Content xml:lang="it">Comunicazioni: interpersonali</r:Content>
             <r:Content xml:lang="lt">Komunikacija: tarpasmeninė</r:Content>
@@ -786,6 +815,7 @@
          <r:Description>
             <r:Content xml:lang="en">Communications made by an individual to another individual or a private group of persons, for purposes other than research. For example emails, letters, telephone conversations, social media postings with limited access.</r:Content>
             <r:Content xml:lang="da">Kommunikation foretaget af et individ til et andet individ eller en privat grupper af personer, til andre formål end forskning. For eksempel e-mails, breve, telefonsamtaler, indlæg på sociale medier med begrænset adgang.</r:Content>
+            <r:Content xml:lang="et">Ühelt isikult teisele isikule või isikute rühmale eraviisiliselt ning mitteteaduslikul eesmärgil edastatud teated. Näiteks e-kirjad, kirjad, telefonivestlused, piiratud juurdepääsuga sotsiaalmeediapostitused.</r:Content>
             <r:Content xml:lang="fi">Henkilön toiselle henkilölle tai ryhmälle osoittamat viestit muissa kuin tutkimustarkoituksissa. Esimerkiksi sähköpostit, kirjeet, puhelinkeskustelut tai tietylle ryhmälle rajatut sosiaalisen median viestit.</r:Content>
             <r:Content xml:lang="it">Comunicazioni fatte da un individuo a un altro individuo oppure a un gruppo privato di persone, per scopi diversi dalla ricerca. Ad esempio e-mail, lettere, conversazioni telefoniche, post sui social media con accesso limitato.</r:Content>
             <r:Content xml:lang="lt">Vieno asmens komunikacija kitam asmeniui ar privačiai asmenų grupei kitais nei tyrimų tikslais. Pavyzdžiui, el. laiškai, laiškai, telefoniniai pokalbiai, nevieši socialinių medijų įrašai.</r:Content>
@@ -807,6 +837,7 @@
          <r:Label>
             <r:Content xml:lang="en">Research data</r:Content>
             <r:Content xml:lang="da">Forskningsdata</r:Content>
+            <r:Content xml:lang="et">Uuringuandmed</r:Content>
             <r:Content xml:lang="fi">Tutkimusaineisto</r:Content>
             <r:Content xml:lang="it">Dati di ricerca</r:Content>
             <r:Content xml:lang="lt">Tyrimų duomenys</r:Content>
@@ -820,6 +851,7 @@
          <r:Description>
             <r:Content xml:lang="en">Pre-existing data; data that have already been collected and/or used for a different research project.</r:Content>
             <r:Content xml:lang="da">Allerede-eksisterende data; data, der allerede er indsamlet og/eller anvendt til et andet forskningsprojekt.</r:Content>
+            <r:Content xml:lang="et">Olemasolevad andmed; andmed, mis on juba kogutud ja/või kasutatud mõne teise uuringu jaoks.</r:Content>
             <r:Content xml:lang="fi">Olemassa oleva aineisto, joka on jo kerätty aiemmin tai jota on käytetty eri tutkimusta varten. Esimerkiksi metatutkimus.</r:Content>
             <r:Content xml:lang="it">Dati preesistenti; dati che sono già stati raccolti e/o utilizzati per un diverso progetto di ricerca.</r:Content>
             <r:Content xml:lang="lt">Egzistuojantys duomenys; duomenys, kurie buvo surinkti ir (arba) panaudoti kitam tyrimų projektui.</r:Content>
@@ -841,6 +873,7 @@
          <r:Label>
             <r:Content xml:lang="en">Research data: Published</r:Content>
             <r:Content xml:lang="da">Forskningsdata: Publiceret</r:Content>
+            <r:Content xml:lang="et">Uuringuandmed: avaldatud</r:Content>
             <r:Content xml:lang="fi">Tutkimusaineisto: julkaistu</r:Content>
             <r:Content xml:lang="it">Dati di ricerca: pubblicati</r:Content>
             <r:Content xml:lang="lt">Tyrimų duomenys: publikuoti</r:Content>
@@ -854,6 +887,7 @@
          <r:Description>
             <r:Content xml:lang="en">Pre-existing data that have been made available to the general public, or sections thereof.</r:Content>
             <r:Content xml:lang="da">Allerede-eksisterende data, der er gjort tilgængelige for den generelle offentlighed, eller dele heraf.</r:Content>
+            <r:Content xml:lang="et">Olemasolevad andmed, mis on avalikkusele (või osale avalikkusest) kättesaadavaks tehtud.</r:Content>
             <r:Content xml:lang="fi">Olemassa oleva aineisto, joka on julkisesti saatavilla.</r:Content>
             <r:Content xml:lang="it">Dati preesistenti che sono stati resi disponibili al pubblico (anche solo in parte).</r:Content>
             <r:Content xml:lang="lt">Egzistuojantys duomenys arba jų dalys, kurie yra viešai prieinami plačiajai visuomenei.</r:Content>
@@ -875,6 +909,7 @@
          <r:Label>
             <r:Content xml:lang="en">Research data: Unpublished</r:Content>
             <r:Content xml:lang="da">Forskningsdata: Upubliceret</r:Content>
+            <r:Content xml:lang="et">Uuringuandmed: avaldamata</r:Content>
             <r:Content xml:lang="fi">Tutkimusaineisto: julkaisematon</r:Content>
             <r:Content xml:lang="it">Dati di ricerca: non pubblicati</r:Content>
             <r:Content xml:lang="lt">Tyrimų duomenys: nepublikuoti</r:Content>
@@ -888,6 +923,7 @@
          <r:Description>
             <r:Content xml:lang="en">Pre-existing data that have not been made available to the general public, or sections thereof.</r:Content>
             <r:Content xml:lang="da">Allerede-eksisterende data, der ikke er gjort tilgængelige for den generelle offentlighed, eller dele heraf.</r:Content>
+            <r:Content xml:lang="et">Olemasolevad andmed, mis ei ole avalikkusele (või osale avalikkusest) kättesaadavaks tehtud.</r:Content>
             <r:Content xml:lang="fi">Olemassa oleva aineisto, joka ei ole julkisesti saatavilla.</r:Content>
             <r:Content xml:lang="it">Dati preesistenti che non sono stati resi disponibili, interamente o in parte, al pubblico.</r:Content>
             <r:Content xml:lang="lt">Egzistuojantys duomenys arba jų dalys, kurie nėra viešai prieinami plačiajai visuomenei.</r:Content>
@@ -909,6 +945,7 @@
          <r:Label>
             <r:Content xml:lang="en">Population group</r:Content>
             <r:Content xml:lang="da">Populationsgruppe</r:Content>
+            <r:Content xml:lang="et">Rahvastikurühm</r:Content>
             <r:Content xml:lang="fi">Väestöryhmä</r:Content>
             <r:Content xml:lang="it">Gruppi di popolazione</r:Content>
             <r:Content xml:lang="lt">Gyventojų grupė</r:Content>
@@ -922,6 +959,7 @@
          <r:Description>
             <r:Content xml:lang="en">Group of individuals that can be defined by one or several common characteristics: ethnicity, race, gender, age range, geographic location or distribution, level of education, income level or economic status, professional status, state of health or medical conditions, or belonging to specific communities (e.g., special interest groups, or social media), or networks, etc.</r:Content>
             <r:Content xml:lang="da">Gruppe af individer, der kan defineres af en eller flere fælles karakteristika: etnicitet, race, køn, aldersspænd, geografisk placering eller fordeling, uddannelsesniveau, indkomstniveau eller økonomisk status, professionel status, helbredstilstand eller medicinske forhold, tilhørsforhold til specifikke fællesskaber (f.eks. særlige interessegrupper eller sociale medier), eller netværk, mm.</r:Content>
+            <r:Content xml:lang="et">Rahvastikurühm, mida saab eristada ühe või mitme tunnuse põhjal: rahvus, rass, sugu, vanuserühm, geograafiline asukoht või paiknemine, haridustase, sissetuleku tase või sotsiaal-majanduslik seisund, ametirühm või -aste, tervislik seisund või esinevad haigused, konkreetsesse kogukonda (nt huvirühmad või sotsiaalmeedia-kogukonnad) või võrgustikku kuulumine jne.</r:Content>
             <r:Content xml:lang="fi">Ryhmä henkilöitä, joka on rajattavissa yhden tai useamman yhteisen piirteen mukaan: etnisyys, rotu, sukupuoli, ikäryhmä, maantieteellinen sijainti, koulutustaso, tulotaso tai taloudellinen asema, ammatillinen asema, terveydentila, tiettyihin yhteisöihin tai verkostoihin kuuluminen (esim. eturyhmät, sosiaalisen median käyttäjät) jne.</r:Content>
             <r:Content xml:lang="it">Gruppo di individui che possono essere definiti da una o più caratteristiche comuni: etnia, razza, genere, fascia d'età, localizzazione o distribuzione geografica, livello di istruzione, livello di reddito o status economico, status professionale, stato di salute o condizioni mediche, oppure che appartengono a comunità specifiche (ad esempio gruppi di interesse o gruppi sui social media) o a reti di persone, ecc.</r:Content>
             <r:Content xml:lang="lt">Asmenų grupė, kurią galima apibūdinti pagal vieną ar keletą bendrų savybių: tautybę, rasę, lytį, amžių, geografinę vietą ar pasiskirstymą, išsilavinimo lygį, pajamų lygį ar ekonominį statusą, profesinį statusą, sveikatos būklę ar medicininę būklę arba pagal priklausymą konkrečioms bendruomenėms (pavyzdžiui, specifinių interesų grupėms ar socialinėms medijoms), tinklams ir kt.</r:Content>
@@ -943,6 +981,7 @@
          <r:Label>
             <r:Content xml:lang="en">Geographic area</r:Content>
             <r:Content xml:lang="da">Geografisk område</r:Content>
+            <r:Content xml:lang="et">Geograafiline piirkond</r:Content>
             <r:Content xml:lang="fi">Maantieteellinen alue</r:Content>
             <r:Content xml:lang="it">Area geografica</r:Content>
             <r:Content xml:lang="lt">Geografinė teritorija</r:Content>
@@ -956,6 +995,7 @@
          <r:Description>
             <r:Content xml:lang="en">An area of the Earth, demarcated for the purposes of administration, politics, environment, etc. The demarcation is identifiable via coordinates or other systems used to identify position precisely.</r:Content>
             <r:Content xml:lang="da">Et område på jorden, afgrænset med henblik på administration, politik, miljø mm. Afgrænsningen kan identificeres ved hjælp af koordinater eller andre systemer, der anvendes til at identificere position præcist.</r:Content>
+            <r:Content xml:lang="et">Ala Maal, mis on piiritletav haldusjaotuse või riigipiiride järgi või geograafiliselt. Piiritlemine on tuvastatav koordinaatide või muude süsteemide abil, mida kasutatakse täpse asukoha määramiseks.</r:Content>
             <r:Content xml:lang="fi">Alue, joka on rajattu poliittisten, hallinnollisten, ympäristöllisten ym. syiden vuoksi. Rajat ovat määriteltävissä ja tunnistettavissa koordinaatein tai muita tarkkoja paikannusjärjestelmiä käyttäen.</r:Content>
             <r:Content xml:lang="it">Un'area territoriale delimitata per scopi amministrativi, politici, ambientali, ecc. La delimitazione è identificabile tramite coordinate o altri sistemi utilizzati per identificare con precisione la posizione.</r:Content>
             <r:Content xml:lang="lt">Žemės teritorija apibrėžta administraciniais, politiniais, aplinkos tvarkymo ar kt. tikslais. Ribos identifikuojamos naudojant koordinačių ar kitas tikslios vietos nustatymo sistemas.</r:Content>
@@ -977,6 +1017,7 @@
          <r:Label>
             <r:Content xml:lang="en">Physical objects</r:Content>
             <r:Content xml:lang="da">Fysiske objekter</r:Content>
+            <r:Content xml:lang="et">Füüsilised objektid</r:Content>
             <r:Content xml:lang="fi">Fyysiset objektit</r:Content>
             <r:Content xml:lang="it">Oggetti fisici</r:Content>
             <r:Content xml:lang="lt">Fiziniai objektai</r:Content>
@@ -990,6 +1031,7 @@
          <r:Description>
             <r:Content xml:lang="en">Natural or man-made entities with spatial locations. For instance, works of art, constructions, rock samples, machines, etc. These are considered data sources if the data describe the physical characteristics of the given object rather than any information encoded in it.</r:Content>
             <r:Content xml:lang="da">Naturlige eller menneskeskabte enheder med rumlige lokationer. For eksempel, kunstværker, konstruktioner, stenprøver, maskiner mm. Disse betragtes som datakilder, hvis dataene beskriver de fysiske karakteristika af det givne objekt frem for enhver information indkodet i det.</r:Content>
+            <r:Content xml:lang="et">Ruumilise asukohaga looduslikud või tehislikud objektid. Näiteks kunstiteosed, ehitised, kiviminäidised, masinad jne. Need loetakse andmeallikateks, kui andmed kirjeldavad pigem antud objekti füüsilisi omadusi kui sinna kodeeritud informatsiooni.</r:Content>
             <r:Content xml:lang="fi">Luonnolliset tai ihmisen tekemät paikannettavissa olevat esineet, objektit ja kokonaisuudet. Esimerkiksi taideteokset, rakennelmat, kivinäytteet, koneet jne. Nämä ovat aineistolähteitä silloin, kun aineistossa kuvaillaan esineen/objektin fyysisiä ominaisuuksia eikä sen sisältämää muuta tietoa.</r:Content>
             <r:Content xml:lang="it">Entità naturali o create dall'uomo con una posizione spaziale determinata. Per esempio, opere d'arte, costruzioni, campioni di roccia, macchine, ecc. Sono considerati come fonti di dati se i dati descrivono le caratteristiche fisiche dell'oggetto anziché riportare informazioni codificate in esso.</r:Content>
             <r:Content xml:lang="lt">Natūralūs ar žmogaus sukurti objektai, turintys vietą erdvėje. Pavyzdžiui, meno kūriniai, statiniai, uolienų pavyzdžiai, mašinos ir kt. Šie objektai laikomi duomenų šaltiniais, jei duomenys apibūdina pačio objekto fizines savybes, o ne kokią nors jame užkoduotą informaciją.</r:Content>
@@ -1011,6 +1053,7 @@
          <r:Label>
             <r:Content xml:lang="en">Biological samples</r:Content>
             <r:Content xml:lang="da">Biologiske prøver</r:Content>
+            <r:Content xml:lang="et">Bioloogilised proovid</r:Content>
             <r:Content xml:lang="fi">Biologiset näytteet</r:Content>
             <r:Content xml:lang="it">Campioni biologici</r:Content>
             <r:Content xml:lang="lt">Biologiniai mėginiai</r:Content>
@@ -1024,6 +1067,7 @@
          <r:Description>
             <r:Content xml:lang="en">Biological materials collected from living organisms, including, for example, biological specimens of human or animal organs, cells or tissues such as hair, muscle or tumor tissue, bodily fluids such as blood, urine, saliva, extracted material such as DNA and RNA, microorganisms, plant matter, etc. The source of the data are the samples themselves, not measurements and/or other tests applied to them.</r:Content>
             <r:Content xml:lang="da">Biologiske materialer indsamlet fra levende organismer, inkluderende, for eksempel, biologiske prøver af menneske- eller dyreorganer, celler eller væv såsom hår, muskel- eller tumorvæv, kropsvæsker såsom blod, urin, spyt, ekstraheret materiale såsom DNA og RNA, mikroorganismer, plantematerie, mm. Datakilden er prøverne i sig selv, ikke målinger og/eller andre test tillagt dem.</r:Content>
+            <r:Content xml:lang="et">Elusorganismidelt kogutud bioloogiline materjal, sealhulgas inimese või loomade elundite, rakkude või kudede bioloogilised proovid (nt juuksed/karvad, lihaste või kasvajate koeproovid), kehavedelikud nagu veri, uriin, sülg, eraldatud ainete (nt DNA ja RNA) proovid, mikroorganismid, taimed jne. Andmete allikaks on proovid ise, mitte nendega läbiviidavad mõõtmised ja/või muud katsed.</r:Content>
             <r:Content xml:lang="fi">Elollisilta olennoilta kerätty biologinen materiaali, esimerkiksi ihmisten tai eläinten elin-, solu- tai kudosnäytteet, kuten karvat, lihas- tai kasvainkudos; eritteet, kuten veri, virtsa tai sylki; eristetty materiaali, kuten DNA ja RNA; mikro-organismit; kasviaines jne. Käytä, kun näytteet itsessään toimivat aineistolähteenä eivätkä niihin kohdistetut mittaukset ja/tai muut testit.</r:Content>
             <r:Content xml:lang="it">Materiali biologici raccolti da organismi viventi inclusi, ad esempio, campioni biologici di organi umani o animali, cellule o tessuti come capelli, tessuto muscolare o tumorale, fluidi corporei come sangue, urina, saliva, materiale estratto come DNA e RNA, microrganismi, materiale vegetale, ecc. La fonte dei dati sono i campioni stessi, non le misurazioni e/o altri test applicati ad essi.</r:Content>
             <r:Content xml:lang="lt">Iš gyvų organizmų surinktos biologinės medžiagos įskaitant, pavyzdžiui, biologinius žmogaus ar gyvūnų organų, ląstelių ar audinių (pavyzdžiui, plaukų, raumenų ar navikų) mėginius, kūno skysčius (pavyzdžiui, kraujas, šlapimas, seilės), išgautas medžiagas (pavyzdžiui, DNR ir RNR); taip pat mikroorganizmus, augalines medžiagas ir kt. Duomenų šaltinis yra patys mėginiai, o ne ankstesni matavimai ir (arba) kiti jiems taikyti tyrimai.</r:Content>
@@ -1045,6 +1089,7 @@
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>
             <r:Content xml:lang="da">Andet</r:Content>
+            <r:Content xml:lang="et">Muu</r:Content>
             <r:Content xml:lang="fi">Muu alkuperä</r:Content>
             <r:Content xml:lang="it">Altro</r:Content>
             <r:Content xml:lang="lt">Kita</r:Content>
@@ -1058,6 +1103,7 @@
          <r:Description>
             <r:Content xml:lang="en">Use when the data source is known, but not found in the list.</r:Content>
             <r:Content xml:lang="da">Anvend, når datakilden er kendt, men ikke findes i listen.</r:Content>
+            <r:Content xml:lang="et">Kasutage, kui andmeallikas on teada, kuid puudub loendis.</r:Content>
             <r:Content xml:lang="fi">Käytä mikäli aineiston alkuperä on tiedossa, mutta ei listassa.</r:Content>
             <r:Content xml:lang="it">Utilizzare quando l'origine dei dati è conosciuta, ma non è presente nell'elenco.</r:Content>
             <r:Content xml:lang="lt">Naudoti, jei duomenų šaltinis yra žinomas, bet jo nėra sąraše.</r:Content>

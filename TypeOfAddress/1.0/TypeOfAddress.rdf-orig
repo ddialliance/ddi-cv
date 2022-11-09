@@ -23,7 +23,7 @@
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.0/"/>
       <skos:notation>Mailing</skos:notation>
       <skos:prefLabel xml:lang="en">Mailing address</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Includes both &quot;street&quot;, and P.O. Box addresses used for sending and receiving physical/conventional mail through the postal system.</skos:definition>
+      <skos:definition xml:lang="en">Includes both &quot;street&quot;, and P.O. Box addresses used for sending and receiving physical/conventional mail through the postal system.</skos:definition>
       <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.0/#Mailing.Residential"/>
       <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.0/#Mailing.Nonresidential"/>
    </rdf:Description>
@@ -32,21 +32,21 @@
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.0/"/>
       <skos:notation>Mailing.Residential</skos:notation>
       <skos:prefLabel xml:lang="en">Mailing address: Residential</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Address for directing physical/conventional mail to a person&apos;s private residence; this entry will not be used to describe addresses of businesses, organizations, or other type of associations.</skos:definition>
+      <skos:definition xml:lang="en">Address for directing physical/conventional mail to a person&apos;s private residence; this entry will not be used to describe addresses of businesses, organizations, or other type of associations.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.0/#Mailing.Nonresidential">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.0/"/>
       <skos:notation>Mailing.Nonresidential</skos:notation>
       <skos:prefLabel xml:lang="en">Mailing address: Nonresidential</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Address for directing physical/conventional mail to a business, organization, or other type of association.</skos:definition>
+      <skos:definition xml:lang="en">Address for directing physical/conventional mail to a business, organization, or other type of association.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.0/#Visiting">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.0/"/>
       <skos:notation>Visiting</skos:notation>
       <skos:prefLabel xml:lang="en">Visiting address</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Address used to identify a physical location (typically a building or a unit in a building) that may be accessed in person.</skos:definition>
+      <skos:definition xml:lang="en">Address used to identify a physical location (typically a building or a unit in a building) that may be accessed in person.</skos:definition>
       <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.0/#Visiting.Residential"/>
       <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.0/#Visiting.Nonresidential"/>
    </rdf:Description>
@@ -55,20 +55,20 @@
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.0/"/>
       <skos:notation>Visiting.Residential</skos:notation>
       <skos:prefLabel xml:lang="en">Visiting address: Residential</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Visiting address for a person&apos;s private residence; this entry will not be used to describe addresses of businesses, organizations, or other type of associations.</skos:definition>
+      <skos:definition xml:lang="en">Visiting address for a person&apos;s private residence; this entry will not be used to describe addresses of businesses, organizations, or other type of associations.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.0/#Visiting.Nonresidential">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.0/"/>
       <skos:notation>Visiting.Nonresidential</skos:notation>
       <skos:prefLabel xml:lang="en">Visiting address: Nonresidential</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Visiting address for a business, organization, or other type of association.</skos:definition>
+      <skos:definition xml:lang="en">Visiting address for a business, organization, or other type of association.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.0/#Other">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.0/"/>
       <skos:notation>Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Use if type of address is known, but not found in the list.</skos:definition>
+      <skos:definition xml:lang="en">Use if type of address is known, but not found in the list.</skos:definition>
    </rdf:Description>
 </rdf:RDF>

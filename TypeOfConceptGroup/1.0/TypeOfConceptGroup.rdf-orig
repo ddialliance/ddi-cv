@@ -24,26 +24,26 @@
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0/"/>
       <skos:notation>Administrative</skos:notation>
       <skos:prefLabel xml:lang="en">Administrative</skos:prefLabel>
-	  <skos:definition  xml:lang="en">A concept group created for administrative purposes, for instance for subsetting or reorganizing data.</skos:definition>
+      <skos:definition xml:lang="en">A concept group created for administrative purposes, for instance for subsetting or reorganizing data.</skos:definition>
       <skos:prefLabel xml:lang="no">Administrativ</skos:prefLabel>
-	  <skos:definition  xml:lang="no">En konseptgruppe som lages for administrative form&#xe5;l, for eksempel for &#xe5; subsette eller reorganisere data.</skos:definition>
+      <skos:definition xml:lang="no">En konseptgruppe som lages for administrative form&#xe5;l, for eksempel for &#xe5; subsette eller reorganisere data.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0/#Thematic">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0/"/>
       <skos:notation>Thematic</skos:notation>
       <skos:prefLabel xml:lang="en">Thematic</skos:prefLabel>
-	  <skos:definition  xml:lang="en">A concept group created to bring together concepts reflecting the same general theme, or topic; for example, a group called &quot;Trust&quot; can include trust in institutions, trust in government, as well as interpersonal trust.</skos:definition>
+      <skos:definition xml:lang="en">A concept group created to bring together concepts reflecting the same general theme, or topic; for example, a group called &quot;Trust&quot; can include trust in institutions, trust in government, as well as interpersonal trust.</skos:definition>
       <skos:prefLabel xml:lang="no">Tematisk</skos:prefLabel>
-	  <skos:definition  xml:lang="no">En konseptgruppe som lages for &#xe5; knytte sammen konsepter som gjenspeiler det samme generelle tema eller emne; for eksempel, en gruppe kalt &quot;Tillit&quot; kan inkludere tillit til institusjoner, tillit til styresmakter, s&#xe5; vel som mellommenneskelige tillit.</skos:definition>
+      <skos:definition xml:lang="no">En konseptgruppe som lages for &#xe5; knytte sammen konsepter som gjenspeiler det samme generelle tema eller emne; for eksempel, en gruppe kalt &quot;Tillit&quot; kan inkludere tillit til institusjoner, tillit til styresmakter, s&#xe5; vel som mellommenneskelige tillit.</skos:definition>
    </rdf:Description>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0/#Other">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0/"/>
       <skos:notation>Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
-	  <skos:definition  xml:lang="en">Use when the type of concept group is known, but not found in the list.</skos:definition>
+      <skos:definition xml:lang="en">Use when the type of concept group is known, but not found in the list.</skos:definition>
       <skos:prefLabel xml:lang="no">Annen</skos:prefLabel>
-	  <skos:definition  xml:lang="no">Bruk n&#xe5;r typen konseptgruppe er kjent, men ikke finnes p&#xe5; listen.</skos:definition>
+      <skos:definition xml:lang="no">Bruk n&#xe5;r typen konseptgruppe er kjent, men ikke finnes p&#xe5; listen.</skos:definition>
    </rdf:Description>
 </rdf:RDF>
