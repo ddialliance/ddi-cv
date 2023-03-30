@@ -8,12 +8,14 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/</r:UserID>
          <r:Label/>
          <r:Description/>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone--12:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e118</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone--12:00-Category</r:ID>
@@ -26,6 +28,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone--11:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e140</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone--11:00-Category</r:ID>
@@ -38,6 +41,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone--10:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e162</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone--10:00-Category</r:ID>
@@ -50,6 +54,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone--09:30-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e184</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone--09:30-Category</r:ID>
@@ -62,6 +67,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone--09:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e207</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone--09:00-Category</r:ID>
@@ -74,6 +80,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone--08:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e229</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone--08:00-Category</r:ID>
@@ -86,6 +93,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone--07:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e251</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone--07:00-Category</r:ID>
@@ -98,6 +106,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone--06:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e273</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone--06:00-Category</r:ID>
@@ -110,6 +119,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone--05:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e295</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone--05:00-Category</r:ID>
@@ -122,6 +132,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone--04:30-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e317</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone--04:30-Category</r:ID>
@@ -134,6 +145,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone--04:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e340</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone--04:00-Category</r:ID>
@@ -146,6 +158,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone--03:30-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e362</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone--03:30-Category</r:ID>
@@ -158,6 +171,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone--03:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e384</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone--03:00-Category</r:ID>
@@ -170,6 +184,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone--02:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e406</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone--02:00-Category</r:ID>
@@ -182,6 +197,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone--01:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e428</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone--01:00-Category</r:ID>
@@ -194,6 +210,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-00:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e450</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-00:00-Category</r:ID>
@@ -206,6 +223,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+01:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e473</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+01:00-Category</r:ID>
@@ -218,6 +236,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+02:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e495</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+02:00-Category</r:ID>
@@ -230,6 +249,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+03:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e517</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+03:00-Category</r:ID>
@@ -242,6 +262,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+03:30-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e539</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+03:30-Category</r:ID>
@@ -254,6 +275,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+04:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e561</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+04:00-Category</r:ID>
@@ -266,6 +288,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+04:30-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e583</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+04:30-Category</r:ID>
@@ -278,6 +301,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+05:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e606</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+05:00-Category</r:ID>
@@ -290,6 +314,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+05:30-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e628</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+05:30-Category</r:ID>
@@ -302,6 +327,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+05:45-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e650</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+05:45-Category</r:ID>
@@ -314,6 +340,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+06:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e672</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+06:00-Category</r:ID>
@@ -326,6 +353,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+06:30-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e694</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+06:30-Category</r:ID>
@@ -338,6 +366,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+07:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e716</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+07:00-Category</r:ID>
@@ -350,6 +379,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+08:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e739</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+08:00-Category</r:ID>
@@ -362,6 +392,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+09:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e761</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+09:00-Category</r:ID>
@@ -374,6 +405,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+09:30-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e783</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+09:30-Category</r:ID>
@@ -386,6 +418,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+10:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e805</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+10:00-Category</r:ID>
@@ -398,6 +431,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+10:30-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e827</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+10:30-Category</r:ID>
@@ -410,6 +444,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+11:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e849</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+11:00-Category</r:ID>
@@ -422,6 +457,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+11:30-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e872</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+11:30-Category</r:ID>
@@ -434,6 +470,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+12:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e894</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+12:00-Category</r:ID>
@@ -446,6 +483,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+12:45-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e916</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+12:45-Category</r:ID>
@@ -458,6 +496,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+13:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e938</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+13:00-Category</r:ID>
@@ -470,6 +509,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-+14:00-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e960</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-+14:00-Category</r:ID>
@@ -482,6 +522,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeZone-Other-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e982</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeZone-Other-Category</r:ID>
@@ -497,6 +538,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone--12:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e118</r:UserID>
          <l:CategoryName>-12:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC- 12:00</r:Content>
@@ -513,6 +555,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone--11:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e140</r:UserID>
          <l:CategoryName>-11:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC- 11:00</r:Content>
@@ -529,6 +572,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone--10:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e162</r:UserID>
          <l:CategoryName>-10:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC- 10:00</r:Content>
@@ -545,6 +589,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone--09:30-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e184</r:UserID>
          <l:CategoryName>-09:30</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC- 09:30</r:Content>
@@ -561,6 +606,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone--09:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e207</r:UserID>
          <l:CategoryName>-09:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC- 09:00</r:Content>
@@ -577,6 +623,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone--08:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e229</r:UserID>
          <l:CategoryName>-08:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC- 08:00</r:Content>
@@ -593,6 +640,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone--07:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e251</r:UserID>
          <l:CategoryName>-07:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC- 07:00</r:Content>
@@ -609,6 +657,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone--06:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e273</r:UserID>
          <l:CategoryName>-06:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC- 06:00</r:Content>
@@ -625,6 +674,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone--05:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e295</r:UserID>
          <l:CategoryName>-05:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC- 05:00</r:Content>
@@ -641,6 +691,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone--04:30-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e317</r:UserID>
          <l:CategoryName>-04:30</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC- 04:30</r:Content>
@@ -657,6 +708,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone--04:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e340</r:UserID>
          <l:CategoryName>-04:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC- 04:00</r:Content>
@@ -673,6 +725,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone--03:30-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e362</r:UserID>
          <l:CategoryName>-03:30</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC- 03:30</r:Content>
@@ -689,6 +742,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone--03:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e384</r:UserID>
          <l:CategoryName>-03:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC- 03:00</r:Content>
@@ -705,6 +759,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone--02:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e406</r:UserID>
          <l:CategoryName>-02:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC- 02:00</r:Content>
@@ -721,6 +776,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone--01:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e428</r:UserID>
          <l:CategoryName>-01:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC- 01:00</r:Content>
@@ -737,6 +793,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-00:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e450</r:UserID>
          <l:CategoryName>00:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC</r:Content>
@@ -753,6 +810,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+01:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e473</r:UserID>
          <l:CategoryName>+01:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 01:00</r:Content>
@@ -769,6 +827,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+02:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e495</r:UserID>
          <l:CategoryName>+02:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 02:00</r:Content>
@@ -785,6 +844,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+03:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e517</r:UserID>
          <l:CategoryName>+03:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 03:00</r:Content>
@@ -801,6 +861,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+03:30-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e539</r:UserID>
          <l:CategoryName>+03:30</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 03:30</r:Content>
@@ -817,6 +878,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+04:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e561</r:UserID>
          <l:CategoryName>+04:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 04:00</r:Content>
@@ -833,6 +895,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+04:30-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e583</r:UserID>
          <l:CategoryName>+04:30</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 04:30</r:Content>
@@ -849,6 +912,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+05:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e606</r:UserID>
          <l:CategoryName>+05:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 05:00</r:Content>
@@ -865,6 +929,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+05:30-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e628</r:UserID>
          <l:CategoryName>+05:30</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 05:30</r:Content>
@@ -881,6 +946,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+05:45-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e650</r:UserID>
          <l:CategoryName>+05:45</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 05:45</r:Content>
@@ -897,6 +963,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+06:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e672</r:UserID>
          <l:CategoryName>+06:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 06:00</r:Content>
@@ -913,6 +980,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+06:30-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e694</r:UserID>
          <l:CategoryName>+06:30</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 06:30</r:Content>
@@ -929,6 +997,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+07:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e716</r:UserID>
          <l:CategoryName>+07:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 07:00</r:Content>
@@ -945,6 +1014,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+08:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e739</r:UserID>
          <l:CategoryName>+08:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 08:00</r:Content>
@@ -961,6 +1031,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+09:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e761</r:UserID>
          <l:CategoryName>+09:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 09:00</r:Content>
@@ -977,6 +1048,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+09:30-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e783</r:UserID>
          <l:CategoryName>+09:30</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 09:30</r:Content>
@@ -993,6 +1065,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+10:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e805</r:UserID>
          <l:CategoryName>+10:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 10:00</r:Content>
@@ -1009,6 +1082,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+10:30-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e827</r:UserID>
          <l:CategoryName>+10:30</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 10:30</r:Content>
@@ -1025,6 +1099,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+11:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e849</r:UserID>
          <l:CategoryName>+11:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 11:00</r:Content>
@@ -1041,6 +1116,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+11:30-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e872</r:UserID>
          <l:CategoryName>+11:30</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 11:30</r:Content>
@@ -1057,6 +1133,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+12:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e894</r:UserID>
          <l:CategoryName>+12:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 12:00</r:Content>
@@ -1073,6 +1150,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+12:45-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e916</r:UserID>
          <l:CategoryName>+12:45</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 12:45</r:Content>
@@ -1089,6 +1167,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+13:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e938</r:UserID>
          <l:CategoryName>+13:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 13:00</r:Content>
@@ -1105,6 +1184,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-+14:00-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e960</r:UserID>
          <l:CategoryName>+14:00</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">UTC + 14:00</r:Content>
@@ -1121,6 +1201,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeZone-Other-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeZone/1.0.1/d126e982</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>

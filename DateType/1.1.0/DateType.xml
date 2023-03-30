@@ -8,12 +8,14 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DateType</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/</r:UserID>
          <r:Label/>
          <r:Description/>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DateType-DateTime-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e93</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DateType-DateTime-Category</r:ID>
@@ -26,6 +28,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DateType-Time-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e153</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DateType-Time-Category</r:ID>
@@ -38,6 +41,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DateType-Date-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e213</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DateType-Date-Category</r:ID>
@@ -50,6 +54,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DateType-GYearMonth-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e273</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DateType-GYearMonth-Category</r:ID>
@@ -62,6 +67,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DateType-GYear-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e334</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DateType-GYear-Category</r:ID>
@@ -74,6 +80,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DateType-GMonthDay-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e394</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DateType-GMonthDay-Category</r:ID>
@@ -86,6 +93,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DateType-GDay-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e454</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DateType-GDay-Category</r:ID>
@@ -98,6 +106,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DateType-GMonth-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e514</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DateType-GMonth-Category</r:ID>
@@ -110,6 +119,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DateType-Duration-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e574</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DateType-Duration-Category</r:ID>
@@ -122,6 +132,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DateType-Timespan-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e634</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DateType-Timespan-Category</r:ID>
@@ -134,6 +145,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DateType-Other-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e695</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DateType-Other-Category</r:ID>
@@ -149,6 +161,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DateType-DateTime-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e93</r:UserID>
          <l:CategoryName>DateTime</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">DateTime</r:Content>
@@ -179,6 +192,7 @@ etter den angitte tiden for å indikere forskyvning fra UTC tid. For eksempel, 1
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DateType-Time-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e153</r:UserID>
          <l:CategoryName>Time</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Time</r:Content>
@@ -207,6 +221,7 @@ etter den angitte tiden for å indikere forskyvning fra UTC tid. For eksempel, 1
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DateType-Date-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e213</r:UserID>
          <l:CategoryName>Date</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Date</r:Content>
@@ -235,6 +250,7 @@ etter den angitte tiden for å indikere forskyvning fra UTC tid. For eksempel, 1
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DateType-GYearMonth-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e273</r:UserID>
          <l:CategoryName>GYearMonth</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">YearMonth</r:Content>
@@ -263,6 +279,7 @@ etter den angitte tiden for å indikere forskyvning fra UTC tid. For eksempel, 1
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DateType-GYear-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e334</r:UserID>
          <l:CategoryName>GYear</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Year</r:Content>
@@ -291,6 +308,7 @@ etter den angitte tiden for å indikere forskyvning fra UTC tid. For eksempel, 1
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DateType-GMonthDay-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e394</r:UserID>
          <l:CategoryName>GMonthDay</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">MonthDay</r:Content>
@@ -319,6 +337,7 @@ etter den angitte tiden for å indikere forskyvning fra UTC tid. For eksempel, 1
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DateType-GDay-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e454</r:UserID>
          <l:CategoryName>GDay</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Day</r:Content>
@@ -347,6 +366,7 @@ etter den angitte tiden for å indikere forskyvning fra UTC tid. For eksempel, 1
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DateType-GMonth-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e514</r:UserID>
          <l:CategoryName>GMonth</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Month</r:Content>
@@ -375,6 +395,7 @@ etter den angitte tiden for å indikere forskyvning fra UTC tid. For eksempel, 1
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DateType-Duration-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e574</r:UserID>
          <l:CategoryName>Duration</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Duration</r:Content>
@@ -403,6 +424,7 @@ etter den angitte tiden for å indikere forskyvning fra UTC tid. For eksempel, 1
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DateType-Timespan-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e634</r:UserID>
          <l:CategoryName>Timespan</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Timespan</r:Content>
@@ -433,6 +455,7 @@ Eksempler: start/slutt 2018-02-22T13:00:00/2018-02-22T14:30:00; start/varighet 2
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DateType-Other-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d180e695</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>

@@ -8,12 +8,14 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/</r:UserID>
          <r:Label/>
          <r:Description/>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-Continuous-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e114</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-Continuous-Category</r:ID>
@@ -26,6 +28,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryMinute-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e136</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryMinute-Category</r:ID>
@@ -38,6 +41,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryHour-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e158</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryHour-Category</r:ID>
@@ -50,6 +54,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryTwoHours-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e180</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryTwoHours-Category</r:ID>
@@ -62,6 +67,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryThreeHours-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e203</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryThreeHours-Category</r:ID>
@@ -74,6 +80,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-TwiceADay-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e225</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-TwiceADay-Category</r:ID>
@@ -86,6 +93,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryDay-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e247</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryDay-Category</r:ID>
@@ -98,6 +106,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryBusinessDay-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e269</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryBusinessDay-Category</r:ID>
@@ -110,6 +119,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-OccasionalDaily-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e291</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-OccasionalDaily-Category</r:ID>
@@ -122,6 +132,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-ThreeTimesAWeek-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e313</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-ThreeTimesAWeek-Category</r:ID>
@@ -134,6 +145,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-TwiceAWeek-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e336</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-TwiceAWeek-Category</r:ID>
@@ -146,6 +158,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryWeek-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e358</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryWeek-Category</r:ID>
@@ -158,6 +171,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-OccasionalWeekly-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e380</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-OccasionalWeekly-Category</r:ID>
@@ -170,6 +184,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryTenDays-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e402</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryTenDays-Category</r:ID>
@@ -182,6 +197,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-ThreeTimesAMonth-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e424</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-ThreeTimesAMonth-Category</r:ID>
@@ -194,6 +210,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryTwoWeeks-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e446</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryTwoWeeks-Category</r:ID>
@@ -206,6 +223,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-TwiceAMonth-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e469</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-TwiceAMonth-Category</r:ID>
@@ -218,6 +236,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryThreeWeeks-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e491</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryThreeWeeks-Category</r:ID>
@@ -230,6 +249,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryFourWeeks-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e513</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryFourWeeks-Category</r:ID>
@@ -242,6 +262,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryMonth-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e535</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryMonth-Category</r:ID>
@@ -254,6 +275,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-OccasionalMonthly-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e557</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-OccasionalMonthly-Category</r:ID>
@@ -266,6 +288,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryTwoMonths-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e579</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryTwoMonths-Category</r:ID>
@@ -278,6 +301,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryThreeMonths-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e602</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryThreeMonths-Category</r:ID>
@@ -290,6 +314,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-ThreeTimesAYear-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e624</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-ThreeTimesAYear-Category</r:ID>
@@ -302,6 +327,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-TwiceAYear-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e646</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-TwiceAYear-Category</r:ID>
@@ -314,6 +340,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryYear-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e668</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryYear-Category</r:ID>
@@ -326,6 +353,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-OccasionalAnnual-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e690</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-OccasionalAnnual-Category</r:ID>
@@ -338,6 +366,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryTwoYears-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e712</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryTwoYears-Category</r:ID>
@@ -350,6 +379,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryThreeYears-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e735</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryThreeYears-Category</r:ID>
@@ -362,6 +392,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryFourYears-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e757</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryFourYears-Category</r:ID>
@@ -374,6 +405,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryFiveYears-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e779</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryFiveYears-Category</r:ID>
@@ -386,6 +418,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryTenYears-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e801</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryTenYears-Category</r:ID>
@@ -398,6 +431,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryTwentyYears-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e823</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryTwentyYears-Category</r:ID>
@@ -410,6 +444,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-EveryThirtyYears-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e845</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-EveryThirtyYears-Category</r:ID>
@@ -422,6 +457,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-Irregular-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e868</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-Irregular-Category</r:ID>
@@ -434,6 +470,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-Other-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e890</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-Other-Category</r:ID>
@@ -446,6 +483,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-Unspecified-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e912</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-Unspecified-Category</r:ID>
@@ -458,6 +496,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfFrequency-NotApplicable-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e934</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfFrequency-NotApplicable-Category</r:ID>
@@ -473,6 +512,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-Continuous-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e114</r:UserID>
          <l:CategoryName>Continuous</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Continuous</r:Content>
@@ -489,6 +529,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryMinute-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e136</r:UserID>
          <l:CategoryName>EveryMinute</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every minute</r:Content>
@@ -505,6 +546,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryHour-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e158</r:UserID>
          <l:CategoryName>EveryHour</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every hour</r:Content>
@@ -521,6 +563,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryTwoHours-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e180</r:UserID>
          <l:CategoryName>EveryTwoHours</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every two hours</r:Content>
@@ -537,6 +580,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryThreeHours-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e203</r:UserID>
          <l:CategoryName>EveryThreeHours</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every three hours</r:Content>
@@ -553,6 +597,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-TwiceADay-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e225</r:UserID>
          <l:CategoryName>TwiceADay</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Twice a day</r:Content>
@@ -569,6 +614,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryDay-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e247</r:UserID>
          <l:CategoryName>EveryDay</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every day</r:Content>
@@ -585,6 +631,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryBusinessDay-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e269</r:UserID>
          <l:CategoryName>EveryBusinessDay</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every business day</r:Content>
@@ -601,6 +648,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-OccasionalDaily-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e291</r:UserID>
          <l:CategoryName>OccasionalDaily</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Occasional daily</r:Content>
@@ -617,6 +665,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-ThreeTimesAWeek-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e313</r:UserID>
          <l:CategoryName>ThreeTimesAWeek</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Three times a week</r:Content>
@@ -633,6 +682,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-TwiceAWeek-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e336</r:UserID>
          <l:CategoryName>TwiceAWeek</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Twice a week</r:Content>
@@ -649,6 +699,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryWeek-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e358</r:UserID>
          <l:CategoryName>EveryWeek</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every week</r:Content>
@@ -665,6 +716,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-OccasionalWeekly-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e380</r:UserID>
          <l:CategoryName>OccasionalWeekly</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Occasional weekly</r:Content>
@@ -681,6 +733,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryTenDays-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e402</r:UserID>
          <l:CategoryName>EveryTenDays</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every ten days</r:Content>
@@ -697,6 +750,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-ThreeTimesAMonth-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e424</r:UserID>
          <l:CategoryName>ThreeTimesAMonth</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Three times a month</r:Content>
@@ -713,6 +767,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryTwoWeeks-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e446</r:UserID>
          <l:CategoryName>EveryTwoWeeks</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every two weeks</r:Content>
@@ -729,6 +784,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-TwiceAMonth-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e469</r:UserID>
          <l:CategoryName>TwiceAMonth</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Twice a month</r:Content>
@@ -745,6 +801,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryThreeWeeks-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e491</r:UserID>
          <l:CategoryName>EveryThreeWeeks</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every three weeks</r:Content>
@@ -761,6 +818,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryFourWeeks-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e513</r:UserID>
          <l:CategoryName>EveryFourWeeks</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every four weeks</r:Content>
@@ -777,6 +835,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryMonth-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e535</r:UserID>
          <l:CategoryName>EveryMonth</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every month</r:Content>
@@ -793,6 +852,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-OccasionalMonthly-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e557</r:UserID>
          <l:CategoryName>OccasionalMonthly</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Occasional monthly</r:Content>
@@ -809,6 +869,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryTwoMonths-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e579</r:UserID>
          <l:CategoryName>EveryTwoMonths</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every two months</r:Content>
@@ -825,6 +886,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryThreeMonths-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e602</r:UserID>
          <l:CategoryName>EveryThreeMonths</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every three months</r:Content>
@@ -841,6 +903,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-ThreeTimesAYear-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e624</r:UserID>
          <l:CategoryName>ThreeTimesAYear</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Three times a year</r:Content>
@@ -857,6 +920,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-TwiceAYear-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e646</r:UserID>
          <l:CategoryName>TwiceAYear</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Twice a year</r:Content>
@@ -873,6 +937,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryYear-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e668</r:UserID>
          <l:CategoryName>EveryYear</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every year</r:Content>
@@ -889,6 +954,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-OccasionalAnnual-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e690</r:UserID>
          <l:CategoryName>OccasionalAnnual</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Occasional annual</r:Content>
@@ -905,6 +971,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryTwoYears-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e712</r:UserID>
          <l:CategoryName>EveryTwoYears</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every two years</r:Content>
@@ -921,6 +988,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryThreeYears-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e735</r:UserID>
          <l:CategoryName>EveryThreeYears</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every three years</r:Content>
@@ -937,6 +1005,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryFourYears-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e757</r:UserID>
          <l:CategoryName>EveryFourYears</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every four years</r:Content>
@@ -953,6 +1022,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryFiveYears-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e779</r:UserID>
          <l:CategoryName>EveryFiveYears</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every five years</r:Content>
@@ -969,6 +1039,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryTenYears-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e801</r:UserID>
          <l:CategoryName>EveryTenYears</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every ten years</r:Content>
@@ -985,6 +1056,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryTwentyYears-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e823</r:UserID>
          <l:CategoryName>EveryTwentyYears</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every twenty years</r:Content>
@@ -1001,6 +1073,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-EveryThirtyYears-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e845</r:UserID>
          <l:CategoryName>EveryThirtyYears</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Every thirty years</r:Content>
@@ -1017,6 +1090,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-Irregular-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e868</r:UserID>
          <l:CategoryName>Irregular</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Irregular</r:Content>
@@ -1033,6 +1107,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-Other-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e890</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>
@@ -1049,6 +1124,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-Unspecified-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e912</r:UserID>
          <l:CategoryName>Unspecified</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Unspecified</r:Content>
@@ -1065,6 +1141,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfFrequency-NotApplicable-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/d76e934</r:UserID>
          <l:CategoryName>NotApplicable</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Not applicable</r:Content>

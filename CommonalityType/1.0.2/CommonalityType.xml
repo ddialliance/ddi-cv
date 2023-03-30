@@ -8,12 +8,14 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>CommonalityType</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/</r:UserID>
          <r:Label/>
          <r:Description/>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>CommonalityType-Identical-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/d37e88</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>CommonalityType-Identical-Category</r:ID>
@@ -26,6 +28,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>CommonalityType-Some-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/d37e160</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>CommonalityType-Some-Category</r:ID>
@@ -38,6 +41,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>CommonalityType-None-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/d37e232</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>CommonalityType-None-Category</r:ID>
@@ -53,6 +57,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>CommonalityType-Identical-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/d37e88</r:UserID>
          <l:CategoryName>Identical</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Identical</r:Content>
@@ -85,6 +90,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>CommonalityType-Some-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/d37e160</r:UserID>
          <l:CategoryName>Some</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Some</r:Content>
@@ -117,6 +123,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>CommonalityType-None-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/d37e232</r:UserID>
          <l:CategoryName>None</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">None</r:Content>

@@ -8,12 +8,14 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfInstrument</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/</r:UserID>
          <r:Label/>
          <r:Description/>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfInstrument-Questionnaire-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e186</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfInstrument-Questionnaire-Category</r:ID>
@@ -26,6 +28,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfInstrument-Questionnaire.Structured-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e352</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfInstrument-Questionnaire.Structured-Category</r:ID>
@@ -38,6 +41,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfInstrument-Questionnaire.Semistructured-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e511</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfInstrument-Questionnaire.Semistructured-Category</r:ID>
@@ -50,6 +54,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfInstrument-Questionnaire.Unstructured-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e670</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfInstrument-Questionnaire.Unstructured-Category</r:ID>
@@ -62,6 +67,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfInstrument-InterviewSchemeAndThemes-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e830</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfInstrument-InterviewSchemeAndThemes-Category</r:ID>
@@ -74,6 +80,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfInstrument-DataCollectionGuidelines-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e989</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfInstrument-DataCollectionGuidelines-Category</r:ID>
@@ -86,6 +93,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfInstrument-DataCollectionGuidelines.ObservationGuide-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e1157</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfInstrument-DataCollectionGuidelines.ObservationGuide-Category</r:ID>
@@ -98,6 +106,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfInstrument-DataCollectionGuidelines.DiscussionGuide-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e1316</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfInstrument-DataCollectionGuidelines.DiscussionGuide-Category</r:ID>
@@ -110,6 +119,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfInstrument-DataCollectionGuidelines.SelfAdministeredWritingsGuide-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e1475</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfInstrument-DataCollectionGuidelines.SelfAdministeredWritingsGuide-Category</r:ID>
@@ -122,6 +132,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfInstrument-DataCollectionGuidelines.SecondaryDataCollectionGuide-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e1634</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfInstrument-DataCollectionGuidelines.SecondaryDataCollectionGuide-Category</r:ID>
@@ -134,6 +145,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfInstrument-ParticipantTasks-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e1794</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfInstrument-ParticipantTasks-Category</r:ID>
@@ -146,6 +158,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfInstrument-TechnicalInstruments-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e1953</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfInstrument-TechnicalInstruments-Category</r:ID>
@@ -158,6 +171,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfInstrument-ProgrammingScript-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e2112</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfInstrument-ProgrammingScript-Category</r:ID>
@@ -170,6 +184,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfInstrument-Other-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e2271</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfInstrument-Other-Category</r:ID>
@@ -185,6 +200,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfInstrument-Questionnaire-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e186</r:UserID>
          <l:CategoryName>Questionnaire</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Questionnaire</r:Content>
@@ -245,6 +261,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfInstrument-Questionnaire.Structured-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e352</r:UserID>
          <l:CategoryName>Questionnaire.Structured</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Structured questionnaire</r:Content>
@@ -305,6 +322,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfInstrument-Questionnaire.Semistructured-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e511</r:UserID>
          <l:CategoryName>Questionnaire.Semistructured</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Semi-structured questionnaire</r:Content>
@@ -365,6 +383,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfInstrument-Questionnaire.Unstructured-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e670</r:UserID>
          <l:CategoryName>Questionnaire.Unstructured</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Unstructured questionnaire</r:Content>
@@ -425,6 +444,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfInstrument-InterviewSchemeAndThemes-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e830</r:UserID>
          <l:CategoryName>InterviewSchemeAndThemes</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Interview scheme and/or themes</r:Content>
@@ -485,6 +505,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfInstrument-DataCollectionGuidelines-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e989</r:UserID>
          <l:CategoryName>DataCollectionGuidelines</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Data collection guidelines</r:Content>
@@ -545,6 +566,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfInstrument-DataCollectionGuidelines.ObservationGuide-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e1157</r:UserID>
          <l:CategoryName>DataCollectionGuidelines.ObservationGuide</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Data collection guidelines: Observation guide</r:Content>
@@ -605,6 +627,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfInstrument-DataCollectionGuidelines.DiscussionGuide-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e1316</r:UserID>
          <l:CategoryName>DataCollectionGuidelines.DiscussionGuide</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Data collection guidelines: Discussion guide</r:Content>
@@ -665,6 +688,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfInstrument-DataCollectionGuidelines.SelfAdministeredWritingsGuide-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e1475</r:UserID>
          <l:CategoryName>DataCollectionGuidelines.SelfAdministeredWritingsGuide</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Data collection guidelines: Self-administered writings guide</r:Content>
@@ -725,6 +749,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfInstrument-DataCollectionGuidelines.SecondaryDataCollectionGuide-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e1634</r:UserID>
          <l:CategoryName>DataCollectionGuidelines.SecondaryDataCollectionGuide</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Data collection guidelines: Secondary data collection guide</r:Content>
@@ -785,6 +810,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfInstrument-ParticipantTasks-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e1794</r:UserID>
          <l:CategoryName>ParticipantTasks</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Participant tasks</r:Content>
@@ -845,6 +871,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfInstrument-TechnicalInstruments-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e1953</r:UserID>
          <l:CategoryName>TechnicalInstruments</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Technical instrument(s)</r:Content>
@@ -905,6 +932,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfInstrument-ProgrammingScript-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e2112</r:UserID>
          <l:CategoryName>ProgrammingScript</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Programming script</r:Content>
@@ -965,6 +993,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfInstrument-Other-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfInstrument/1.1.2/d12e2271</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>

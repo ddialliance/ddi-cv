@@ -8,12 +8,14 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/</r:UserID>
          <r:Label/>
          <r:Description/>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-ArithmeticMean-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e241</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-ArithmeticMean-Category</r:ID>
@@ -26,6 +28,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-GeometricMean-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e375</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-GeometricMean-Category</r:ID>
@@ -38,6 +41,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-HarmonicMean-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e509</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-HarmonicMean-Category</r:ID>
@@ -50,6 +54,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-TrimmedMean-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e643</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-TrimmedMean-Category</r:ID>
@@ -62,6 +67,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-StandardErrorOfMean-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e778</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-StandardErrorOfMean-Category</r:ID>
@@ -74,6 +80,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-Mode-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e912</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-Mode-Category</r:ID>
@@ -86,6 +93,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-Median-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e1046</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-Median-Category</r:ID>
@@ -98,6 +106,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-ValidCases-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e1180</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-ValidCases-Category</r:ID>
@@ -110,6 +119,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-InvalidCases-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e1314</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-InvalidCases-Category</r:ID>
@@ -122,6 +132,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-Minimum-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e1448</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-Minimum-Category</r:ID>
@@ -134,6 +145,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-Maximum-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e1583</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-Maximum-Category</r:ID>
@@ -146,6 +158,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-Range-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e1717</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-Range-Category</r:ID>
@@ -158,6 +171,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-Sum-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e1851</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-Sum-Category</r:ID>
@@ -170,6 +184,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-Variance-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e1985</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-Variance-Category</r:ID>
@@ -182,6 +197,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-StandardDeviation-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e2119</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-StandardDeviation-Category</r:ID>
@@ -194,6 +210,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-CoefficientOfVariation-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e2253</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-CoefficientOfVariation-Category</r:ID>
@@ -206,6 +223,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-AverageAbsoluteDeviation-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e2388</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-AverageAbsoluteDeviation-Category</r:ID>
@@ -218,6 +236,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-MedianAbsoluteDeviation-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e2522</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-MedianAbsoluteDeviation-Category</r:ID>
@@ -230,6 +249,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-FirstQuartile-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e2656</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-FirstQuartile-Category</r:ID>
@@ -242,6 +262,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-SecondQuartile-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e2790</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-SecondQuartile-Category</r:ID>
@@ -254,6 +275,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-ThirdQuartile-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e2924</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-ThirdQuartile-Category</r:ID>
@@ -266,6 +288,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-InterquartileRange-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e3058</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-InterquartileRange-Category</r:ID>
@@ -278,6 +301,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-FirstQuintile-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e3193</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-FirstQuintile-Category</r:ID>
@@ -290,6 +314,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-SecondQuintile-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e3327</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-SecondQuintile-Category</r:ID>
@@ -302,6 +327,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-ThirdQuintile-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e3461</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-ThirdQuintile-Category</r:ID>
@@ -314,6 +340,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-FourthQuintile-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e3595</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-FourthQuintile-Category</r:ID>
@@ -326,6 +353,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-InterquintileRange-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e3729</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-InterquintileRange-Category</r:ID>
@@ -338,6 +366,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-FirstDecile-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e3863</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-FirstDecile-Category</r:ID>
@@ -350,6 +379,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-SecondDecile-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e3998</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-SecondDecile-Category</r:ID>
@@ -362,6 +392,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-ThirdDecile-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e4132</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-ThirdDecile-Category</r:ID>
@@ -374,6 +405,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-FourthDecile-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e4266</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-FourthDecile-Category</r:ID>
@@ -386,6 +418,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-FifthDecile-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e4400</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-FifthDecile-Category</r:ID>
@@ -398,6 +431,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-SixthDecile-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e4534</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-SixthDecile-Category</r:ID>
@@ -410,6 +444,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-SeventhDecile-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e4668</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-SeventhDecile-Category</r:ID>
@@ -422,6 +457,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-EighthDecile-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e4803</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-EighthDecile-Category</r:ID>
@@ -434,6 +470,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-NinthDecile-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e4937</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-NinthDecile-Category</r:ID>
@@ -446,6 +483,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-InterdecileRange-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e5071</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-InterdecileRange-Category</r:ID>
@@ -458,6 +496,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-OtherPercentile-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e5205</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-OtherPercentile-Category</r:ID>
@@ -470,6 +509,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-Beta1-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e5339</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-Beta1-Category</r:ID>
@@ -482,6 +522,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-Beta2-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e5473</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-Beta2-Category</r:ID>
@@ -494,6 +535,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-ShapiroWilk-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e5608</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-ShapiroWilk-Category</r:ID>
@@ -506,6 +548,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-PercentageOfValidCases-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e5742</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-PercentageOfValidCases-Category</r:ID>
@@ -518,6 +561,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-PercentageOfInvalidCases-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e5876</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-PercentageOfInvalidCases-Category</r:ID>
@@ -530,6 +574,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>SummaryStatisticType-Other-Code</r:ID>
             <r:Version>2.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e6010</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>SummaryStatisticType-Other-Category</r:ID>
@@ -545,6 +590,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-ArithmeticMean-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e241</r:UserID>
          <l:CategoryName>ArithmeticMean</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Arithmetic mean</r:Content>
@@ -597,6 +643,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-GeometricMean-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e375</r:UserID>
          <l:CategoryName>GeometricMean</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Geometric mean</r:Content>
@@ -649,6 +696,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-HarmonicMean-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e509</r:UserID>
          <l:CategoryName>HarmonicMean</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Harmonic mean</r:Content>
@@ -701,6 +749,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-TrimmedMean-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e643</r:UserID>
          <l:CategoryName>TrimmedMean</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Trimmed mean</r:Content>
@@ -753,6 +802,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-StandardErrorOfMean-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e778</r:UserID>
          <l:CategoryName>StandardErrorOfMean</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Standard error of the mean</r:Content>
@@ -805,6 +855,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-Mode-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e912</r:UserID>
          <l:CategoryName>Mode</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Mode</r:Content>
@@ -857,6 +908,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-Median-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e1046</r:UserID>
          <l:CategoryName>Median</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Median</r:Content>
@@ -909,6 +961,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-ValidCases-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e1180</r:UserID>
          <l:CategoryName>ValidCases</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Valid cases</r:Content>
@@ -961,6 +1014,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-InvalidCases-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e1314</r:UserID>
          <l:CategoryName>InvalidCases</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Invalid cases</r:Content>
@@ -1013,6 +1067,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-Minimum-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e1448</r:UserID>
          <l:CategoryName>Minimum</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Minimum</r:Content>
@@ -1065,6 +1120,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-Maximum-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e1583</r:UserID>
          <l:CategoryName>Maximum</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Maximum</r:Content>
@@ -1117,6 +1173,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-Range-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e1717</r:UserID>
          <l:CategoryName>Range</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Range</r:Content>
@@ -1169,6 +1226,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-Sum-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e1851</r:UserID>
          <l:CategoryName>Sum</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Sum</r:Content>
@@ -1221,6 +1279,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-Variance-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e1985</r:UserID>
          <l:CategoryName>Variance</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Variance</r:Content>
@@ -1273,6 +1332,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-StandardDeviation-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e2119</r:UserID>
          <l:CategoryName>StandardDeviation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Standard deviation</r:Content>
@@ -1325,6 +1385,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-CoefficientOfVariation-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e2253</r:UserID>
          <l:CategoryName>CoefficientOfVariation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Coefficient of variation</r:Content>
@@ -1377,6 +1438,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-AverageAbsoluteDeviation-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e2388</r:UserID>
          <l:CategoryName>AverageAbsoluteDeviation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Average absolute deviation</r:Content>
@@ -1429,6 +1491,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-MedianAbsoluteDeviation-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e2522</r:UserID>
          <l:CategoryName>MedianAbsoluteDeviation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Median absolute deviation</r:Content>
@@ -1481,6 +1544,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-FirstQuartile-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e2656</r:UserID>
          <l:CategoryName>FirstQuartile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">First quartile</r:Content>
@@ -1533,6 +1597,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-SecondQuartile-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e2790</r:UserID>
          <l:CategoryName>SecondQuartile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Second quartile</r:Content>
@@ -1585,6 +1650,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-ThirdQuartile-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e2924</r:UserID>
          <l:CategoryName>ThirdQuartile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Third quartile</r:Content>
@@ -1637,6 +1703,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-InterquartileRange-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e3058</r:UserID>
          <l:CategoryName>InterquartileRange</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Interquartile range</r:Content>
@@ -1689,6 +1756,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-FirstQuintile-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e3193</r:UserID>
          <l:CategoryName>FirstQuintile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">First quintile</r:Content>
@@ -1741,6 +1809,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-SecondQuintile-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e3327</r:UserID>
          <l:CategoryName>SecondQuintile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Second quintile</r:Content>
@@ -1793,6 +1862,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-ThirdQuintile-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e3461</r:UserID>
          <l:CategoryName>ThirdQuintile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Third quintile</r:Content>
@@ -1845,6 +1915,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-FourthQuintile-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e3595</r:UserID>
          <l:CategoryName>FourthQuintile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Fourth quintile</r:Content>
@@ -1897,6 +1968,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-InterquintileRange-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e3729</r:UserID>
          <l:CategoryName>InterquintileRange</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Interquintile range</r:Content>
@@ -1949,6 +2021,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-FirstDecile-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e3863</r:UserID>
          <l:CategoryName>FirstDecile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">First decile</r:Content>
@@ -2001,6 +2074,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-SecondDecile-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e3998</r:UserID>
          <l:CategoryName>SecondDecile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Second decile</r:Content>
@@ -2053,6 +2127,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-ThirdDecile-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e4132</r:UserID>
          <l:CategoryName>ThirdDecile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Third decile</r:Content>
@@ -2105,6 +2180,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-FourthDecile-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e4266</r:UserID>
          <l:CategoryName>FourthDecile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Fourth decile</r:Content>
@@ -2157,6 +2233,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-FifthDecile-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e4400</r:UserID>
          <l:CategoryName>FifthDecile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Fifth decile</r:Content>
@@ -2209,6 +2286,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-SixthDecile-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e4534</r:UserID>
          <l:CategoryName>SixthDecile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Sixth decile</r:Content>
@@ -2261,6 +2339,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-SeventhDecile-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e4668</r:UserID>
          <l:CategoryName>SeventhDecile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Seventh decile</r:Content>
@@ -2313,6 +2392,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-EighthDecile-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e4803</r:UserID>
          <l:CategoryName>EighthDecile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Eighth decile</r:Content>
@@ -2365,6 +2445,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-NinthDecile-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e4937</r:UserID>
          <l:CategoryName>NinthDecile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Ninth decile</r:Content>
@@ -2417,6 +2498,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-InterdecileRange-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e5071</r:UserID>
          <l:CategoryName>InterdecileRange</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Interdecile range</r:Content>
@@ -2469,6 +2551,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-OtherPercentile-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e5205</r:UserID>
          <l:CategoryName>OtherPercentile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other percentile</r:Content>
@@ -2521,6 +2604,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-Beta1-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e5339</r:UserID>
          <l:CategoryName>Beta1</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Skewness</r:Content>
@@ -2573,6 +2657,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-Beta2-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e5473</r:UserID>
          <l:CategoryName>Beta2</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Kurtosis</r:Content>
@@ -2625,6 +2710,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-ShapiroWilk-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e5608</r:UserID>
          <l:CategoryName>ShapiroWilk</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Shapiro-Wilk</r:Content>
@@ -2677,6 +2763,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-PercentageOfValidCases-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e5742</r:UserID>
          <l:CategoryName>PercentageOfValidCases</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Percentage of valid cases</r:Content>
@@ -2729,6 +2816,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-PercentageOfInvalidCases-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e5876</r:UserID>
          <l:CategoryName>PercentageOfInvalidCases</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Percentage of invalid cases</r:Content>
@@ -2781,6 +2869,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>SummaryStatisticType-Other-Category</r:ID>
          <r:Version>2.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/d83e6010</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>

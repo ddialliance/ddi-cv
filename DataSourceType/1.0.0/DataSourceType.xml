@@ -8,12 +8,14 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/</r:UserID>
          <r:Label/>
          <r:Description/>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-RegistersRecordsAccounts-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e192</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-RegistersRecordsAccounts-Category</r:ID>
@@ -26,6 +28,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-RegistersRecordsAccounts.Administrative-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e368</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-RegistersRecordsAccounts.Administrative-Category</r:ID>
@@ -38,6 +41,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-RegistersRecordsAccounts.Historical-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e527</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-RegistersRecordsAccounts.Historical-Category</r:ID>
@@ -50,6 +54,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-RegistersRecordsAccounts.Legal-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e686</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-RegistersRecordsAccounts.Legal-Category</r:ID>
@@ -62,6 +67,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-RegistersRecordsAccounts.MedicalClinical-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e846</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-RegistersRecordsAccounts.MedicalClinical-Category</r:ID>
@@ -74,6 +80,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-RegistersRecordsAccounts.AcademicAptitude-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e1005</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-RegistersRecordsAccounts.AcademicAptitude-Category</r:ID>
@@ -86,6 +93,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-RegistersRecordsAccounts.EconomicFinancial-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e1164</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-RegistersRecordsAccounts.EconomicFinancial-Category</r:ID>
@@ -98,6 +106,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-RegistersRecordsAccounts.Personal-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e1323</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-RegistersRecordsAccounts.Personal-Category</r:ID>
@@ -110,6 +119,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-RegistersRecordsAccounts.VotingResults-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e1482</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-RegistersRecordsAccounts.VotingResults-Category</r:ID>
@@ -122,6 +132,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-EventsInteractions-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e1641</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-EventsInteractions-Category</r:ID>
@@ -134,6 +145,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-Processes-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e1801</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-Processes-Category</r:ID>
@@ -146,6 +158,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-Processes.Workflows-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e1962</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-Processes.Workflows-Category</r:ID>
@@ -158,6 +171,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-Communications-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e2121</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-Communications-Category</r:ID>
@@ -170,6 +184,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-Communications.Public-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e2284</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-Communications.Public-Category</r:ID>
@@ -182,6 +197,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-Communications.Interpersonal-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e2443</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-Communications.Interpersonal-Category</r:ID>
@@ -194,6 +210,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-ResearchData-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e2602</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-ResearchData-Category</r:ID>
@@ -206,6 +223,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-ResearchData.Published-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e2766</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-ResearchData.Published-Category</r:ID>
@@ -218,6 +236,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-ResearchData.Unpublished-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e2925</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-ResearchData.Unpublished-Category</r:ID>
@@ -230,6 +249,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-PopulationGroup-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e3084</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-PopulationGroup-Category</r:ID>
@@ -242,6 +262,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-GeographicArea-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e3243</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-GeographicArea-Category</r:ID>
@@ -254,6 +275,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-PhysicalObjects-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e3402</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-PhysicalObjects-Category</r:ID>
@@ -266,6 +288,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-BiologicalSamples-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e3561</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-BiologicalSamples-Category</r:ID>
@@ -278,6 +301,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>DataSourceType-Other-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e3721</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>DataSourceType-Other-Category</r:ID>
@@ -293,6 +317,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-RegistersRecordsAccounts-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e192</r:UserID>
          <l:CategoryName>RegistersRecordsAccounts</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Registers/Records/Accounts</r:Content>
@@ -353,6 +378,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-RegistersRecordsAccounts.Administrative-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e368</r:UserID>
          <l:CategoryName>RegistersRecordsAccounts.Administrative</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Registers/Records/Accounts: Administrative</r:Content>
@@ -413,6 +439,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-RegistersRecordsAccounts.Historical-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e527</r:UserID>
          <l:CategoryName>RegistersRecordsAccounts.Historical</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Registers/Records/Accounts: Historical</r:Content>
@@ -473,6 +500,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-RegistersRecordsAccounts.Legal-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e686</r:UserID>
          <l:CategoryName>RegistersRecordsAccounts.Legal</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Registers/Records/Accounts: Legal</r:Content>
@@ -533,6 +561,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-RegistersRecordsAccounts.MedicalClinical-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e846</r:UserID>
          <l:CategoryName>RegistersRecordsAccounts.MedicalClinical</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Registers/Records/Accounts: Medical/Clinical</r:Content>
@@ -593,6 +622,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-RegistersRecordsAccounts.AcademicAptitude-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e1005</r:UserID>
          <l:CategoryName>RegistersRecordsAccounts.AcademicAptitude</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Registers/Records/Accounts: Academic/Aptitude</r:Content>
@@ -653,6 +683,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-RegistersRecordsAccounts.EconomicFinancial-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e1164</r:UserID>
          <l:CategoryName>RegistersRecordsAccounts.EconomicFinancial</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Registers/Records/Accounts: Economic/Financial</r:Content>
@@ -713,6 +744,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-RegistersRecordsAccounts.Personal-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e1323</r:UserID>
          <l:CategoryName>RegistersRecordsAccounts.Personal</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Registers/Records/Accounts: Personal</r:Content>
@@ -773,6 +805,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-RegistersRecordsAccounts.VotingResults-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e1482</r:UserID>
          <l:CategoryName>RegistersRecordsAccounts.VotingResults</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Registers/Records/Accounts: Voting results</r:Content>
@@ -833,6 +866,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-EventsInteractions-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e1641</r:UserID>
          <l:CategoryName>EventsInteractions</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Events/Interactions</r:Content>
@@ -893,6 +927,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-Processes-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e1801</r:UserID>
          <l:CategoryName>Processes</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Processes</r:Content>
@@ -953,6 +988,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-Processes.Workflows-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e1962</r:UserID>
          <l:CategoryName>Processes.Workflows</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Processes: Workflow(s)</r:Content>
@@ -1013,6 +1049,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-Communications-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e2121</r:UserID>
          <l:CategoryName>Communications</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Communications</r:Content>
@@ -1073,6 +1110,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-Communications.Public-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e2284</r:UserID>
          <l:CategoryName>Communications.Public</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Communications: Public</r:Content>
@@ -1133,6 +1171,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-Communications.Interpersonal-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e2443</r:UserID>
          <l:CategoryName>Communications.Interpersonal</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Communications: Interpersonal</r:Content>
@@ -1193,6 +1232,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-ResearchData-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e2602</r:UserID>
          <l:CategoryName>ResearchData</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Research data</r:Content>
@@ -1253,6 +1293,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-ResearchData.Published-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e2766</r:UserID>
          <l:CategoryName>ResearchData.Published</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Research data: Published</r:Content>
@@ -1313,6 +1354,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-ResearchData.Unpublished-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e2925</r:UserID>
          <l:CategoryName>ResearchData.Unpublished</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Research data: Unpublished</r:Content>
@@ -1373,6 +1415,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-PopulationGroup-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e3084</r:UserID>
          <l:CategoryName>PopulationGroup</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Population group</r:Content>
@@ -1433,6 +1476,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-GeographicArea-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e3243</r:UserID>
          <l:CategoryName>GeographicArea</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Geographic area</r:Content>
@@ -1493,6 +1537,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-PhysicalObjects-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e3402</r:UserID>
          <l:CategoryName>PhysicalObjects</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Physical objects</r:Content>
@@ -1553,6 +1598,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-BiologicalSamples-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e3561</r:UserID>
          <l:CategoryName>BiologicalSamples</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Biological samples</r:Content>
@@ -1613,6 +1659,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>DataSourceType-Other-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataSourceType/1.0.2/d144e3721</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>

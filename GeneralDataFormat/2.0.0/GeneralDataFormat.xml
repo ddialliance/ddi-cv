@@ -8,12 +8,14 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>GeneralDataFormat</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/</r:UserID>
          <r:Label/>
          <r:Description/>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>GeneralDataFormat-Numeric-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e205</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>GeneralDataFormat-Numeric-Category</r:ID>
@@ -26,6 +28,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>GeneralDataFormat-Text-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e377</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>GeneralDataFormat-Text-Category</r:ID>
@@ -38,6 +41,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>GeneralDataFormat-StillImage-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e549</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>GeneralDataFormat-StillImage-Category</r:ID>
@@ -50,6 +54,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>GeneralDataFormat-Geospatial-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e721</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>GeneralDataFormat-Geospatial-Category</r:ID>
@@ -62,6 +67,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>GeneralDataFormat-Audio-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e894</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>GeneralDataFormat-Audio-Category</r:ID>
@@ -74,6 +80,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>GeneralDataFormat-Video-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e1066</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>GeneralDataFormat-Video-Category</r:ID>
@@ -86,6 +93,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>GeneralDataFormat-Software-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e1238</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>GeneralDataFormat-Software-Category</r:ID>
@@ -98,6 +106,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>GeneralDataFormat-InteractiveResource-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e1410</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>GeneralDataFormat-InteractiveResource-Category</r:ID>
@@ -110,6 +119,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>GeneralDataFormat-ThreeD-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e1582</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>GeneralDataFormat-ThreeD-Category</r:ID>
@@ -122,6 +132,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>GeneralDataFormat-Other-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e1754</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>GeneralDataFormat-Other-Category</r:ID>
@@ -137,6 +148,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>GeneralDataFormat-Numeric-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e205</r:UserID>
          <l:CategoryName>Numeric</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Numeric</r:Content>
@@ -201,6 +213,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>GeneralDataFormat-Text-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e377</r:UserID>
          <l:CategoryName>Text</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Text</r:Content>
@@ -265,6 +278,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>GeneralDataFormat-StillImage-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e549</r:UserID>
          <l:CategoryName>StillImage</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Still image</r:Content>
@@ -329,6 +343,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>GeneralDataFormat-Geospatial-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e721</r:UserID>
          <l:CategoryName>Geospatial</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Geospatial</r:Content>
@@ -393,6 +408,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>GeneralDataFormat-Audio-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e894</r:UserID>
          <l:CategoryName>Audio</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Audio</r:Content>
@@ -457,6 +473,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>GeneralDataFormat-Video-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e1066</r:UserID>
          <l:CategoryName>Video</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Video</r:Content>
@@ -521,6 +538,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>GeneralDataFormat-Software-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e1238</r:UserID>
          <l:CategoryName>Software</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Software</r:Content>
@@ -585,6 +603,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>GeneralDataFormat-InteractiveResource-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e1410</r:UserID>
          <l:CategoryName>InteractiveResource</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Interactive resource</r:Content>
@@ -649,6 +668,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>GeneralDataFormat-ThreeD-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e1582</r:UserID>
          <l:CategoryName>ThreeD</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">3D</r:Content>
@@ -713,6 +733,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>GeneralDataFormat-Other-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/d4e1754</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>

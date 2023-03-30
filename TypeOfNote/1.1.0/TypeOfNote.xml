@@ -8,12 +8,14 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfNote</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfNote/1.1.1/</r:UserID>
          <r:Label/>
          <r:Description/>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfNote-Processing-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfNote/1.1.1/d208e38</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfNote-Processing-Category</r:ID>
@@ -26,6 +28,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfNote-Addendum-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfNote/1.1.1/d208e53</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfNote-Addendum-Category</r:ID>
@@ -38,6 +41,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfNote-System-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfNote/1.1.1/d208e68</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfNote-System-Category</r:ID>
@@ -50,6 +54,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfNote-Observation-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfNote/1.1.1/d208e83</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfNote-Observation-Category</r:ID>
@@ -62,6 +67,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfNote-Comment-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfNote/1.1.1/d208e99</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfNote-Comment-Category</r:ID>
@@ -74,6 +80,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfNote-Other-Code</r:ID>
             <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfNote/1.1.1/d208e114</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfNote-Other-Category</r:ID>
@@ -89,6 +96,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfNote-Processing-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfNote/1.1.1/d208e38</r:UserID>
          <l:CategoryName>Processing</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Processing note</r:Content>
@@ -105,6 +113,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfNote-Addendum-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfNote/1.1.1/d208e53</r:UserID>
          <l:CategoryName>Addendum</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Addendum</r:Content>
@@ -121,6 +130,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfNote-System-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfNote/1.1.1/d208e68</r:UserID>
          <l:CategoryName>System</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">System note</r:Content>
@@ -137,6 +147,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfNote-Observation-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfNote/1.1.1/d208e83</r:UserID>
          <l:CategoryName>Observation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Observation</r:Content>
@@ -153,6 +164,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfNote-Comment-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfNote/1.1.1/d208e99</r:UserID>
          <l:CategoryName>Comment</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Comment</r:Content>
@@ -169,6 +181,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfNote-Other-Category</r:ID>
          <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfNote/1.1.1/d208e114</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>

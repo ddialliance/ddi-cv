@@ -8,12 +8,14 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeMethod</r:ID>
          <r:Version>1.2.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/</r:UserID>
          <r:Label/>
          <r:Description/>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeMethod-Longitudinal-Code</r:ID>
             <r:Version>1.2.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e207</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeMethod-Longitudinal-Category</r:ID>
@@ -26,6 +28,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeMethod-Longitudinal.CohortEventBased-Code</r:ID>
             <r:Version>1.2.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e398</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeMethod-Longitudinal.CohortEventBased-Category</r:ID>
@@ -38,6 +41,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeMethod-Longitudinal.TrendRepeatedCrossSection-Code</r:ID>
             <r:Version>1.2.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e582</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeMethod-Longitudinal.TrendRepeatedCrossSection-Category</r:ID>
@@ -50,6 +54,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeMethod-Longitudinal.Panel-Code</r:ID>
             <r:Version>1.2.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e766</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeMethod-Longitudinal.Panel-Category</r:ID>
@@ -62,6 +67,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeMethod-Longitudinal.Panel.Continuous-Code</r:ID>
             <r:Version>1.2.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e956</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeMethod-Longitudinal.Panel.Continuous-Category</r:ID>
@@ -74,6 +80,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeMethod-Longitudinal.Panel.Interval-Code</r:ID>
             <r:Version>1.2.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1140</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeMethod-Longitudinal.Panel.Interval-Category</r:ID>
@@ -86,6 +93,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeMethod-TimeSeries-Code</r:ID>
             <r:Version>1.2.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1324</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeMethod-TimeSeries-Category</r:ID>
@@ -98,6 +106,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeMethod-TimeSeries.Continuous-Code</r:ID>
             <r:Version>1.2.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1513</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeMethod-TimeSeries.Continuous-Category</r:ID>
@@ -110,6 +119,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeMethod-TimeSeries.Discrete-Code</r:ID>
             <r:Version>1.2.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1697</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeMethod-TimeSeries.Discrete-Category</r:ID>
@@ -122,6 +132,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeMethod-CrossSection-Code</r:ID>
             <r:Version>1.2.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1881</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeMethod-CrossSection-Category</r:ID>
@@ -134,6 +145,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeMethod-CrossSectionAdHocFollowUp-Code</r:ID>
             <r:Version>1.2.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e2066</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeMethod-CrossSectionAdHocFollowUp-Category</r:ID>
@@ -146,6 +158,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TimeMethod-Other-Code</r:ID>
             <r:Version>1.2.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e2250</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TimeMethod-Other-Category</r:ID>
@@ -161,6 +174,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeMethod-Longitudinal-Category</r:ID>
          <r:Version>1.2.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e207</r:UserID>
          <l:CategoryName>Longitudinal</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Longitudinal</r:Content>
@@ -229,6 +243,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeMethod-Longitudinal.CohortEventBased-Category</r:ID>
          <r:Version>1.2.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e398</r:UserID>
          <l:CategoryName>Longitudinal.CohortEventBased</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Longitudinal: Cohort/Event-based</r:Content>
@@ -297,6 +312,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeMethod-Longitudinal.TrendRepeatedCrossSection-Category</r:ID>
          <r:Version>1.2.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e582</r:UserID>
          <l:CategoryName>Longitudinal.TrendRepeatedCrossSection</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Longitudinal: Trend/Repeated cross-section</r:Content>
@@ -365,6 +381,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeMethod-Longitudinal.Panel-Category</r:ID>
          <r:Version>1.2.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e766</r:UserID>
          <l:CategoryName>Longitudinal.Panel</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Longitudinal: Panel</r:Content>
@@ -433,6 +450,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeMethod-Longitudinal.Panel.Continuous-Category</r:ID>
          <r:Version>1.2.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e956</r:UserID>
          <l:CategoryName>Longitudinal.Panel.Continuous</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Longitudinal: Panel: Continuous</r:Content>
@@ -501,6 +519,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeMethod-Longitudinal.Panel.Interval-Category</r:ID>
          <r:Version>1.2.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1140</r:UserID>
          <l:CategoryName>Longitudinal.Panel.Interval</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Longitudinal: Panel: Interval</r:Content>
@@ -569,6 +588,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeMethod-TimeSeries-Category</r:ID>
          <r:Version>1.2.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1324</r:UserID>
          <l:CategoryName>TimeSeries</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Time series</r:Content>
@@ -637,6 +657,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeMethod-TimeSeries.Continuous-Category</r:ID>
          <r:Version>1.2.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1513</r:UserID>
          <l:CategoryName>TimeSeries.Continuous</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Time series: Continuous</r:Content>
@@ -705,6 +726,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeMethod-TimeSeries.Discrete-Category</r:ID>
          <r:Version>1.2.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1697</r:UserID>
          <l:CategoryName>TimeSeries.Discrete</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Time series: Discrete</r:Content>
@@ -773,6 +795,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeMethod-CrossSection-Category</r:ID>
          <r:Version>1.2.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1881</r:UserID>
          <l:CategoryName>CrossSection</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Cross-section</r:Content>
@@ -841,6 +864,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeMethod-CrossSectionAdHocFollowUp-Category</r:ID>
          <r:Version>1.2.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e2066</r:UserID>
          <l:CategoryName>CrossSectionAdHocFollowUp</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Cross-section ad-hoc follow-up</r:Content>
@@ -909,6 +933,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeMethod-Other-Category</r:ID>
          <r:Version>1.2.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e2250</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>

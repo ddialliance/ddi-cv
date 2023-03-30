@@ -8,12 +8,14 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/</r:UserID>
          <r:Label/>
          <r:Description/>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AnalysisUnit-Individual-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e116</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AnalysisUnit-Individual-Category</r:ID>
@@ -26,6 +28,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AnalysisUnit-OrganizationOrInstitution-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e195</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AnalysisUnit-OrganizationOrInstitution-Category</r:ID>
@@ -38,6 +41,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AnalysisUnit-Family-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e274</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AnalysisUnit-Family-Category</r:ID>
@@ -50,6 +54,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AnalysisUnit-Family.HouseholdFamily-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e355</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AnalysisUnit-Family.HouseholdFamily-Category</r:ID>
@@ -62,6 +67,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AnalysisUnit-Household-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e435</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AnalysisUnit-Household-Category</r:ID>
@@ -74,6 +80,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AnalysisUnit-HousingUnit-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e514</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AnalysisUnit-HousingUnit-Category</r:ID>
@@ -86,6 +93,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AnalysisUnit-EventOrProcessOrActivity-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e593</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AnalysisUnit-EventOrProcessOrActivity-Category</r:ID>
@@ -98,6 +106,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AnalysisUnit-GeographicUnit-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e672</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AnalysisUnit-GeographicUnit-Category</r:ID>
@@ -110,6 +119,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AnalysisUnit-PoliticalAdministrativeArea-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e751</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AnalysisUnit-PoliticalAdministrativeArea-Category</r:ID>
@@ -122,6 +132,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AnalysisUnit-TimeUnit-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e830</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AnalysisUnit-TimeUnit-Category</r:ID>
@@ -134,6 +145,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AnalysisUnit-MediaUnit-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e910</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AnalysisUnit-MediaUnit-Category</r:ID>
@@ -146,6 +158,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AnalysisUnit-MediaUnit.Sound-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e997</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AnalysisUnit-MediaUnit.Sound-Category</r:ID>
@@ -158,6 +171,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AnalysisUnit-MediaUnit.StillImage-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e1076</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AnalysisUnit-MediaUnit.StillImage-Category</r:ID>
@@ -170,6 +184,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AnalysisUnit-MediaUnit.Text-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e1155</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AnalysisUnit-MediaUnit.Text-Category</r:ID>
@@ -182,6 +197,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AnalysisUnit-MediaUnit.Video-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e1234</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AnalysisUnit-MediaUnit.Video-Category</r:ID>
@@ -194,6 +210,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AnalysisUnit-Group-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e1313</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AnalysisUnit-Group-Category</r:ID>
@@ -206,6 +223,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AnalysisUnit-Object-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e1393</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AnalysisUnit-Object-Category</r:ID>
@@ -218,6 +236,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AnalysisUnit-Other-Code</r:ID>
             <r:Version>2.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e1472</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AnalysisUnit-Other-Category</r:ID>
@@ -233,6 +252,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit-Individual-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e116</r:UserID>
          <l:CategoryName>Individual</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Individual</r:Content>
@@ -267,6 +287,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit-OrganizationOrInstitution-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e195</r:UserID>
          <l:CategoryName>OrganizationOrInstitution</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Organization/Institution</r:Content>
@@ -301,6 +322,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit-Family-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e274</r:UserID>
          <l:CategoryName>Family</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Family</r:Content>
@@ -335,6 +357,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit-Family.HouseholdFamily-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e355</r:UserID>
          <l:CategoryName>Family.HouseholdFamily</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Family: Household family</r:Content>
@@ -369,6 +392,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit-Household-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e435</r:UserID>
          <l:CategoryName>Household</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Household</r:Content>
@@ -403,6 +427,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit-HousingUnit-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e514</r:UserID>
          <l:CategoryName>HousingUnit</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Housing unit</r:Content>
@@ -437,6 +462,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit-EventOrProcessOrActivity-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e593</r:UserID>
          <l:CategoryName>EventOrProcessOrActivity</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Event/Process/Activity</r:Content>
@@ -471,6 +497,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit-GeographicUnit-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e672</r:UserID>
          <l:CategoryName>GeographicUnit</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Geographic unit</r:Content>
@@ -505,6 +532,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit-PoliticalAdministrativeArea-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e751</r:UserID>
          <l:CategoryName>PoliticalAdministrativeArea</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Political-administrative area</r:Content>
@@ -539,6 +567,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit-TimeUnit-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e830</r:UserID>
          <l:CategoryName>TimeUnit</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Time unit</r:Content>
@@ -573,6 +602,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit-MediaUnit-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e910</r:UserID>
          <l:CategoryName>MediaUnit</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Media unit</r:Content>
@@ -607,6 +637,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit-MediaUnit.Sound-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e997</r:UserID>
          <l:CategoryName>MediaUnit.Sound</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Media unit: Sound</r:Content>
@@ -641,6 +672,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit-MediaUnit.StillImage-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e1076</r:UserID>
          <l:CategoryName>MediaUnit.StillImage</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Media unit: Still image</r:Content>
@@ -675,6 +707,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit-MediaUnit.Text-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e1155</r:UserID>
          <l:CategoryName>MediaUnit.Text</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Media unit: Text</r:Content>
@@ -709,6 +742,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit-MediaUnit.Video-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e1234</r:UserID>
          <l:CategoryName>MediaUnit.Video</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Media unit: Video</r:Content>
@@ -743,6 +777,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit-Group-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e1313</r:UserID>
          <l:CategoryName>Group</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Group</r:Content>
@@ -777,6 +812,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit-Object-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e1393</r:UserID>
          <l:CategoryName>Object</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Object</r:Content>
@@ -811,6 +847,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AnalysisUnit-Other-Category</r:ID>
          <r:Version>2.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.0/d151e1472</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>

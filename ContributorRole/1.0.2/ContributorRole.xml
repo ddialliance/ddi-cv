@@ -8,12 +8,14 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/</r:UserID>
          <r:Label/>
          <r:Description/>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-ProjectOrStudyDesign-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e164</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-ProjectOrStudyDesign-Category</r:ID>
@@ -26,6 +28,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-ProjectOrStudyDesign.Conceptualization-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e249</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-ProjectOrStudyDesign.Conceptualization-Category</r:ID>
@@ -38,6 +41,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-ProjectOrStudyDesign.InstrumentDesign-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e321</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-ProjectOrStudyDesign.InstrumentDesign-Category</r:ID>
@@ -50,6 +54,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-ProjectOrStudyDesign.MethodologyDevelopment-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e393</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-ProjectOrStudyDesign.MethodologyDevelopment-Category</r:ID>
@@ -62,6 +67,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-ProjectOrStudyDesign.WeightsDesign-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e466</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-ProjectOrStudyDesign.WeightsDesign-Category</r:ID>
@@ -74,6 +80,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-ProjectOrStudyDesign.StandardsDevelopment-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e538</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-ProjectOrStudyDesign.StandardsDevelopment-Category</r:ID>
@@ -86,6 +93,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-ProjectOrStudyDesign.DataModeling-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e610</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-ProjectOrStudyDesign.DataModeling-Category</r:ID>
@@ -98,6 +106,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-ProjectOrStudyDesignSamplingDesign-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e682</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-ProjectOrStudyDesignSamplingDesign-Category</r:ID>
@@ -110,6 +119,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-DataManagement-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e754</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-DataManagement-Category</r:ID>
@@ -122,6 +132,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-EthicsReview-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e826</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-EthicsReview-Category</r:ID>
@@ -134,6 +145,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-DataCollection-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e899</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-DataCollection-Category</r:ID>
@@ -146,6 +158,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-SampleSelection-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e971</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-SampleSelection-Category</r:ID>
@@ -158,6 +171,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-DataEntry-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1043</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-DataEntry-Category</r:ID>
@@ -170,6 +184,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-DataProcessing-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1115</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-DataProcessing-Category</r:ID>
@@ -182,6 +197,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-DataProcessing.DisclosureControl-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1196</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-DataProcessing.DisclosureControl-Category</r:ID>
@@ -194,6 +210,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-DataProcessing.DataAggregation-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1268</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-DataProcessing.DataAggregation-Category</r:ID>
@@ -206,6 +223,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-DataProcessing.DataIntegration-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1341</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-DataProcessing.DataIntegration-Category</r:ID>
@@ -218,6 +236,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-DataProcessing.DataValidation-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1413</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-DataProcessing.DataValidation-Category</r:ID>
@@ -230,6 +249,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-DataAcquisition-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1485</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-DataAcquisition-Category</r:ID>
@@ -242,6 +262,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-MetadataProduction-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1557</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-MetadataProduction-Category</r:ID>
@@ -254,6 +275,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-DataDistribution-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1629</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-DataDistribution-Category</r:ID>
@@ -266,6 +288,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-DataHosting-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1701</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-DataHosting-Category</r:ID>
@@ -278,6 +301,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-LongTermPreservationOrArchiving-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1774</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-LongTermPreservationOrArchiving-Category</r:ID>
@@ -290,6 +314,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-Consulting-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1846</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-Consulting-Category</r:ID>
@@ -302,6 +327,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-Contact-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1918</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-Contact-Category</r:ID>
@@ -314,6 +340,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-DataAnalysis-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1990</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-DataAnalysis-Category</r:ID>
@@ -326,6 +353,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-Editing-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2062</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-Editing-Category</r:ID>
@@ -338,6 +366,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-EquipmentDevelopment-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2134</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-EquipmentDevelopment-Category</r:ID>
@@ -350,6 +379,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-Evaluation-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2207</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-Evaluation-Category</r:ID>
@@ -362,6 +392,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-FundingProvision-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2279</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-FundingProvision-Category</r:ID>
@@ -374,6 +405,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-FundingOrSponsorshipAcquisition-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2351</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-FundingOrSponsorshipAcquisition-Category</r:ID>
@@ -386,6 +418,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-Sponsorship-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2423</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-Sponsorship-Category</r:ID>
@@ -398,6 +431,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-GraphicDesign-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2495</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-GraphicDesign-Category</r:ID>
@@ -410,6 +444,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-ProjectOperations-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2567</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-ProjectOperations-Category</r:ID>
@@ -422,6 +457,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-ProjectOperations.ProjectLeader-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2647</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-ProjectOperations.ProjectLeader-Category</r:ID>
@@ -434,6 +470,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-ProjectOperations.ProjectManager-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2719</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-ProjectOperations.ProjectManager-Category</r:ID>
@@ -446,6 +483,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-ProjectOperations.ProjectMember-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2791</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-ProjectOperations.ProjectMember-Category</r:ID>
@@ -458,6 +496,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-Promotion-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2863</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-Promotion-Category</r:ID>
@@ -470,6 +509,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-RegistrationAuthority-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2935</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-RegistrationAuthority-Category</r:ID>
@@ -482,6 +522,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-Researcher-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3007</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-Researcher-Category</r:ID>
@@ -494,6 +535,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-ResearchGroup-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3080</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-ResearchGroup-Category</r:ID>
@@ -506,6 +548,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-RightsHolding-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3152</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-RightsHolding-Category</r:ID>
@@ -518,6 +561,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-RightsManagement-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3224</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-RightsManagement-Category</r:ID>
@@ -530,6 +574,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-SoftwareDevelopment-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3296</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-SoftwareDevelopment-Category</r:ID>
@@ -542,6 +587,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-Supervision-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3368</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-Supervision-Category</r:ID>
@@ -554,6 +600,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-Training-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3440</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-Training-Category</r:ID>
@@ -566,6 +613,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-Translation-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3513</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-Translation-Category</r:ID>
@@ -578,6 +626,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-UserSupport-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3585</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-UserSupport-Category</r:ID>
@@ -590,6 +639,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-Visualization-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3657</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-Visualization-Category</r:ID>
@@ -602,6 +652,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-WebsiteDevelopment-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3729</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-WebsiteDevelopment-Category</r:ID>
@@ -614,6 +665,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ContributorRole-Other-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3801</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ContributorRole-Other-Category</r:ID>
@@ -629,6 +681,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-ProjectOrStudyDesign-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e164</r:UserID>
          <l:CategoryName>ProjectOrStudyDesign</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Project/Study design</r:Content>
@@ -661,6 +714,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-ProjectOrStudyDesign.Conceptualization-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e249</r:UserID>
          <l:CategoryName>ProjectOrStudyDesign.Conceptualization</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Project/Study design: Conceptualization</r:Content>
@@ -693,6 +747,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-ProjectOrStudyDesign.InstrumentDesign-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e321</r:UserID>
          <l:CategoryName>ProjectOrStudyDesign.InstrumentDesign</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Project/Study design: Instrument design</r:Content>
@@ -725,6 +780,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-ProjectOrStudyDesign.MethodologyDevelopment-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e393</r:UserID>
          <l:CategoryName>ProjectOrStudyDesign.MethodologyDevelopment</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Project/Study design: Methodology development</r:Content>
@@ -757,6 +813,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-ProjectOrStudyDesign.WeightsDesign-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e466</r:UserID>
          <l:CategoryName>ProjectOrStudyDesign.WeightsDesign</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Project/Study design: Weights design</r:Content>
@@ -789,6 +846,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-ProjectOrStudyDesign.StandardsDevelopment-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e538</r:UserID>
          <l:CategoryName>ProjectOrStudyDesign.StandardsDevelopment</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Project/Study design: Standards development</r:Content>
@@ -821,6 +879,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-ProjectOrStudyDesign.DataModeling-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e610</r:UserID>
          <l:CategoryName>ProjectOrStudyDesign.DataModeling</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Project/Study design: Data modeling</r:Content>
@@ -853,6 +912,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-ProjectOrStudyDesignSamplingDesign-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e682</r:UserID>
          <l:CategoryName>ProjectOrStudyDesignSamplingDesign</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Project/Study design: Sampling design</r:Content>
@@ -885,6 +945,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-DataManagement-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e754</r:UserID>
          <l:CategoryName>DataManagement</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Data management</r:Content>
@@ -917,6 +978,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-EthicsReview-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e826</r:UserID>
          <l:CategoryName>EthicsReview</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Ethics review</r:Content>
@@ -949,6 +1011,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-DataCollection-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e899</r:UserID>
          <l:CategoryName>DataCollection</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Data collection</r:Content>
@@ -981,6 +1044,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-SampleSelection-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e971</r:UserID>
          <l:CategoryName>SampleSelection</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Sample selection</r:Content>
@@ -1013,6 +1077,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-DataEntry-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1043</r:UserID>
          <l:CategoryName>DataEntry</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Data entry</r:Content>
@@ -1045,6 +1110,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-DataProcessing-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1115</r:UserID>
          <l:CategoryName>DataProcessing</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Data processing</r:Content>
@@ -1077,6 +1143,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-DataProcessing.DisclosureControl-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1196</r:UserID>
          <l:CategoryName>DataProcessing.DisclosureControl</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Data processing: Disclosure control</r:Content>
@@ -1109,6 +1176,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-DataProcessing.DataAggregation-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1268</r:UserID>
          <l:CategoryName>DataProcessing.DataAggregation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Data processing: Data aggregation</r:Content>
@@ -1141,6 +1209,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-DataProcessing.DataIntegration-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1341</r:UserID>
          <l:CategoryName>DataProcessing.DataIntegration</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Data processing: Data integration</r:Content>
@@ -1173,6 +1242,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-DataProcessing.DataValidation-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1413</r:UserID>
          <l:CategoryName>DataProcessing.DataValidation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Data processing: Data validation</r:Content>
@@ -1205,6 +1275,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-DataAcquisition-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1485</r:UserID>
          <l:CategoryName>DataAcquisition</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Data acquisition</r:Content>
@@ -1237,6 +1308,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-MetadataProduction-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1557</r:UserID>
          <l:CategoryName>MetadataProduction</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Metadata production</r:Content>
@@ -1269,6 +1341,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-DataDistribution-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1629</r:UserID>
          <l:CategoryName>DataDistribution</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Data distribution</r:Content>
@@ -1301,6 +1374,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-DataHosting-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1701</r:UserID>
          <l:CategoryName>DataHosting</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Data hosting</r:Content>
@@ -1333,6 +1407,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-LongTermPreservationOrArchiving-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1774</r:UserID>
          <l:CategoryName>LongTermPreservationOrArchiving</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Long-term preservation/archiving</r:Content>
@@ -1365,6 +1440,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-Consulting-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1846</r:UserID>
          <l:CategoryName>Consulting</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Consulting</r:Content>
@@ -1397,6 +1473,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-Contact-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1918</r:UserID>
          <l:CategoryName>Contact</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Contact</r:Content>
@@ -1429,6 +1506,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-DataAnalysis-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e1990</r:UserID>
          <l:CategoryName>DataAnalysis</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Data analysis</r:Content>
@@ -1461,6 +1539,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-Editing-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2062</r:UserID>
          <l:CategoryName>Editing</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Editing</r:Content>
@@ -1493,6 +1572,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-EquipmentDevelopment-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2134</r:UserID>
          <l:CategoryName>EquipmentDevelopment</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Equipment development</r:Content>
@@ -1525,6 +1605,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-Evaluation-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2207</r:UserID>
          <l:CategoryName>Evaluation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Evaluation</r:Content>
@@ -1557,6 +1638,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-FundingProvision-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2279</r:UserID>
          <l:CategoryName>FundingProvision</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Funding provision</r:Content>
@@ -1589,6 +1671,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-FundingOrSponsorshipAcquisition-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2351</r:UserID>
          <l:CategoryName>FundingOrSponsorshipAcquisition</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Funding/sponsorship acquisition</r:Content>
@@ -1621,6 +1704,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-Sponsorship-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2423</r:UserID>
          <l:CategoryName>Sponsorship</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Sponsorship</r:Content>
@@ -1653,6 +1737,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-GraphicDesign-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2495</r:UserID>
          <l:CategoryName>GraphicDesign</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Graphic design</r:Content>
@@ -1685,6 +1770,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-ProjectOperations-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2567</r:UserID>
          <l:CategoryName>ProjectOperations</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Project operations</r:Content>
@@ -1717,6 +1803,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-ProjectOperations.ProjectLeader-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2647</r:UserID>
          <l:CategoryName>ProjectOperations.ProjectLeader</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Project operations: Project leader</r:Content>
@@ -1749,6 +1836,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-ProjectOperations.ProjectManager-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2719</r:UserID>
          <l:CategoryName>ProjectOperations.ProjectManager</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Project operations: Project manager</r:Content>
@@ -1781,6 +1869,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-ProjectOperations.ProjectMember-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2791</r:UserID>
          <l:CategoryName>ProjectOperations.ProjectMember</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Project operations: Project member</r:Content>
@@ -1813,6 +1902,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-Promotion-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2863</r:UserID>
          <l:CategoryName>Promotion</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Promotion</r:Content>
@@ -1845,6 +1935,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-RegistrationAuthority-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e2935</r:UserID>
          <l:CategoryName>RegistrationAuthority</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Registration authority</r:Content>
@@ -1877,6 +1968,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-Researcher-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3007</r:UserID>
          <l:CategoryName>Researcher</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Researcher</r:Content>
@@ -1909,6 +2001,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-ResearchGroup-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3080</r:UserID>
          <l:CategoryName>ResearchGroup</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Research group</r:Content>
@@ -1941,6 +2034,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-RightsHolding-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3152</r:UserID>
          <l:CategoryName>RightsHolding</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Rights holding</r:Content>
@@ -1973,6 +2067,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-RightsManagement-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3224</r:UserID>
          <l:CategoryName>RightsManagement</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Rights management</r:Content>
@@ -2005,6 +2100,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-SoftwareDevelopment-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3296</r:UserID>
          <l:CategoryName>SoftwareDevelopment</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Software development</r:Content>
@@ -2037,6 +2133,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-Supervision-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3368</r:UserID>
          <l:CategoryName>Supervision</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Supervision</r:Content>
@@ -2069,6 +2166,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-Training-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3440</r:UserID>
          <l:CategoryName>Training</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Training</r:Content>
@@ -2101,6 +2199,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-Translation-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3513</r:UserID>
          <l:CategoryName>Translation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Translation</r:Content>
@@ -2133,6 +2232,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-UserSupport-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3585</r:UserID>
          <l:CategoryName>UserSupport</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">User support</r:Content>
@@ -2165,6 +2265,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-Visualization-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3657</r:UserID>
          <l:CategoryName>Visualization</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Visualization</r:Content>
@@ -2197,6 +2298,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-WebsiteDevelopment-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3729</r:UserID>
          <l:CategoryName>WebsiteDevelopment</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Website development</r:Content>
@@ -2229,6 +2331,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ContributorRole-Other-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/d166e3801</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>

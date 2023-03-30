@@ -8,12 +8,14 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>LanguageProficiency</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/</r:UserID>
          <r:Label/>
          <r:Description/>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>LanguageProficiency-Native-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e53</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>LanguageProficiency-Native-Category</r:ID>
@@ -26,6 +28,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>LanguageProficiency-Native.Fluent-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e94</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>LanguageProficiency-Native.Fluent-Category</r:ID>
@@ -38,6 +41,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>LanguageProficiency-Native.Good-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e128</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>LanguageProficiency-Native.Good-Category</r:ID>
@@ -50,6 +54,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>LanguageProficiency-Native.Basic-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e162</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>LanguageProficiency-Native.Basic-Category</r:ID>
@@ -62,6 +67,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>LanguageProficiency-NonNative-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e197</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>LanguageProficiency-NonNative-Category</r:ID>
@@ -74,6 +80,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>LanguageProficiency-NonNative.Fluent-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e238</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>LanguageProficiency-NonNative.Fluent-Category</r:ID>
@@ -86,6 +93,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>LanguageProficiency-NonNative.Good-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e272</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>LanguageProficiency-NonNative.Good-Category</r:ID>
@@ -98,6 +106,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>LanguageProficiency-NonNative.Basic-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e306</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>LanguageProficiency-NonNative.Basic-Category</r:ID>
@@ -110,6 +119,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>LanguageProficiency-NativeStatusUnspecified-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e340</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>LanguageProficiency-NativeStatusUnspecified-Category</r:ID>
@@ -122,6 +132,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>LanguageProficiency-NativeStatusUnspecified.Fluent-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e381</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>LanguageProficiency-NativeStatusUnspecified.Fluent-Category</r:ID>
@@ -134,6 +145,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>LanguageProficiency-NativeStatusUnspecified.Good-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e416</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>LanguageProficiency-NativeStatusUnspecified.Good-Category</r:ID>
@@ -146,6 +158,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>LanguageProficiency-NativeStatusUnspecified.Basic-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e450</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>LanguageProficiency-NativeStatusUnspecified.Basic-Category</r:ID>
@@ -158,6 +171,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>LanguageProficiency-Other-Code</r:ID>
             <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e484</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>LanguageProficiency-Other-Category</r:ID>
@@ -173,6 +187,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>LanguageProficiency-Native-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e53</r:UserID>
          <l:CategoryName>Native</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Native</r:Content>
@@ -193,6 +208,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>LanguageProficiency-Native.Fluent-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e94</r:UserID>
          <l:CategoryName>Native.Fluent</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Native: Fluent</r:Content>
@@ -213,6 +229,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>LanguageProficiency-Native.Good-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e128</r:UserID>
          <l:CategoryName>Native.Good</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Native: Good</r:Content>
@@ -233,6 +250,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>LanguageProficiency-Native.Basic-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e162</r:UserID>
          <l:CategoryName>Native.Basic</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Native: Basic</r:Content>
@@ -253,6 +271,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>LanguageProficiency-NonNative-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e197</r:UserID>
          <l:CategoryName>NonNative</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Non-native</r:Content>
@@ -273,6 +292,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>LanguageProficiency-NonNative.Fluent-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e238</r:UserID>
          <l:CategoryName>NonNative.Fluent</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Non-native: Fluent</r:Content>
@@ -293,6 +313,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>LanguageProficiency-NonNative.Good-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e272</r:UserID>
          <l:CategoryName>NonNative.Good</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Non-native: Good</r:Content>
@@ -313,6 +334,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>LanguageProficiency-NonNative.Basic-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e306</r:UserID>
          <l:CategoryName>NonNative.Basic</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Non-native: Basic</r:Content>
@@ -333,6 +355,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>LanguageProficiency-NativeStatusUnspecified-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e340</r:UserID>
          <l:CategoryName>NativeStatusUnspecified</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Unspecified native status</r:Content>
@@ -353,6 +376,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>LanguageProficiency-NativeStatusUnspecified.Fluent-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e381</r:UserID>
          <l:CategoryName>NativeStatusUnspecified.Fluent</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Unspecified native status: Fluent</r:Content>
@@ -373,6 +397,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>LanguageProficiency-NativeStatusUnspecified.Good-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e416</r:UserID>
          <l:CategoryName>NativeStatusUnspecified.Good</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Unspecified native status: Good</r:Content>
@@ -393,6 +418,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>LanguageProficiency-NativeStatusUnspecified.Basic-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e450</r:UserID>
          <l:CategoryName>NativeStatusUnspecified.Basic</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Unspecified native status: Basic</r:Content>
@@ -413,6 +439,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>LanguageProficiency-Other-Category</r:ID>
          <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e484</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>
