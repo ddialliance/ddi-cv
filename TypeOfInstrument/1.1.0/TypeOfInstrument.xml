@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ddi:FragmentInstance xmlns:ddi="ddi:instance:3_2"
+                       xmlns:ddi-cv="urn:ddi-cv"
+                       xmlns:l="ddi:logicalproduct:3_2"
+                       xmlns:r="ddi:reusable:3_2">
+   <ddi:Fragment>
+      <l:CodeList>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfInstrument</r:ID>
+         <r:Version>1.1.0</r:Version>
+         <r:Label/>
+         <r:Description/>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfInstrument-Questionnaire-Code</r:ID>
+            <r:Version>1.1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfInstrument-Questionnaire-Category</r:ID>
+               <r:Version>1.1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Questionnaire</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfInstrument-Questionnaire.Structured-Code</r:ID>
+            <r:Version>1.1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfInstrument-Questionnaire.Structured-Category</r:ID>
+               <r:Version>1.1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Questionnaire.Structured</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfInstrument-Questionnaire.Semistructured-Code</r:ID>
+            <r:Version>1.1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfInstrument-Questionnaire.Semistructured-Category</r:ID>
+               <r:Version>1.1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Questionnaire.Semistructured</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfInstrument-Questionnaire.Unstructured-Code</r:ID>
+            <r:Version>1.1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfInstrument-Questionnaire.Unstructured-Category</r:ID>
+               <r:Version>1.1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Questionnaire.Unstructured</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfInstrument-InterviewSchemeAndThemes-Code</r:ID>
+            <r:Version>1.1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfInstrument-InterviewSchemeAndThemes-Category</r:ID>
+               <r:Version>1.1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>InterviewSchemeAndThemes</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfInstrument-DataCollectionGuidelines-Code</r:ID>
+            <r:Version>1.1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfInstrument-DataCollectionGuidelines-Category</r:ID>
+               <r:Version>1.1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataCollectionGuidelines</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfInstrument-DataCollectionGuidelines.ObservationGuide-Code</r:ID>
+            <r:Version>1.1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfInstrument-DataCollectionGuidelines.ObservationGuide-Category</r:ID>
+               <r:Version>1.1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataCollectionGuidelines.ObservationGuide</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfInstrument-DataCollectionGuidelines.DiscussionGuide-Code</r:ID>
+            <r:Version>1.1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfInstrument-DataCollectionGuidelines.DiscussionGuide-Category</r:ID>
+               <r:Version>1.1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataCollectionGuidelines.DiscussionGuide</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfInstrument-DataCollectionGuidelines.SelfAdministeredWritingsGuide-Code</r:ID>
+            <r:Version>1.1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfInstrument-DataCollectionGuidelines.SelfAdministeredWritingsGuide-Category</r:ID>
+               <r:Version>1.1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataCollectionGuidelines.SelfAdministeredWritingsGuide</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfInstrument-DataCollectionGuidelines.SecondaryDataCollectionGuide-Code</r:ID>
+            <r:Version>1.1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfInstrument-DataCollectionGuidelines.SecondaryDataCollectionGuide-Category</r:ID>
+               <r:Version>1.1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataCollectionGuidelines.SecondaryDataCollectionGuide</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfInstrument-ParticipantTasks-Code</r:ID>
+            <r:Version>1.1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfInstrument-ParticipantTasks-Category</r:ID>
+               <r:Version>1.1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ParticipantTasks</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfInstrument-TechnicalInstruments-Code</r:ID>
+            <r:Version>1.1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfInstrument-TechnicalInstruments-Category</r:ID>
+               <r:Version>1.1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>TechnicalInstruments</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfInstrument-ProgrammingScript-Code</r:ID>
+            <r:Version>1.1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfInstrument-ProgrammingScript-Category</r:ID>
+               <r:Version>1.1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ProgrammingScript</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfInstrument-Other-Code</r:ID>
+            <r:Version>1.1.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfInstrument-Other-Category</r:ID>
+               <r:Version>1.1.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Other</r:Value>
+         </l:Code>
+      </l:CodeList>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfInstrument-Questionnaire-Category</r:ID>
+         <r:Version>1.1.0</r:Version>
+         <l:CategoryName>Questionnaire</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Questionnaire</r:Content>
+            <r:Content xml:lang="en">Questionnaire</r:Content>
+            <r:Content xml:lang="da">Spørgeskema</r:Content>
+            <r:Content xml:lang="da">Spørgeskema</r:Content>
+            <r:Content xml:lang="fi">Lomake</r:Content>
+            <r:Content xml:lang="fi">Lomake</r:Content>
+            <r:Content xml:lang="fr">Questionnaire</r:Content>
+            <r:Content xml:lang="fr">Questionnaire</r:Content>
+            <r:Content xml:lang="it">Questionario</r:Content>
+            <r:Content xml:lang="it">Questionario</r:Content>
+            <r:Content xml:lang="lt">Klausimynas</r:Content>
+            <r:Content xml:lang="lt">Klausimynas</r:Content>
+            <r:Content xml:lang="nl">Vragenlijst</r:Content>
+            <r:Content xml:lang="nl">Vragenlijst</r:Content>
+            <r:Content xml:lang="no">Spørreskjema</r:Content>
+            <r:Content xml:lang="no">Spørreskjema</r:Content>
+            <r:Content xml:lang="pt">Questionário</r:Content>
+            <r:Content xml:lang="pt">Questionário</r:Content>
+            <r:Content xml:lang="sl">Vprašalnik</r:Content>
+            <r:Content xml:lang="sl">Vprašalnik</r:Content>
+            <r:Content xml:lang="sr">Upitnik</r:Content>
+            <r:Content xml:lang="sr">Upitnik</r:Content>
+            <r:Content xml:lang="sv">Frågeformulär</r:Content>
+            <r:Content xml:lang="sv">Frågeformulär</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Set of pre-determined questions presented to study participants.</r:Content>
+            <r:Content xml:lang="en">Set of pre-determined questions presented to study participants.</r:Content>
+            <r:Content xml:lang="da">Sæt af forudbestemte spørgsmål præsenteret for undersøgelsesdeltagerne.</r:Content>
+            <r:Content xml:lang="da">Sæt af forudbestemte spørgsmål præsenteret for undersøgelsesdeltagerne.</r:Content>
+            <r:Content xml:lang="fi">Kysely- tai ilmoituslomake. Kysymykset ovat ennalta määriteltyjä.</r:Content>
+            <r:Content xml:lang="fi">Kysely- tai ilmoituslomake. Kysymykset ovat ennalta määriteltyjä.</r:Content>
+            <r:Content xml:lang="fr">Ensemble de questions prédéterminées présentées aux participants de l'étude</r:Content>
+            <r:Content xml:lang="fr">Ensemble de questions prédéterminées présentées aux participants de l'étude</r:Content>
+            <r:Content xml:lang="it">Insieme di domande pre-determinate presentate ai partecipanti allo studio.</r:Content>
+            <r:Content xml:lang="it">Insieme di domande pre-determinate presentate ai partecipanti allo studio.</r:Content>
+            <r:Content xml:lang="lt">Iš anksto parengtų klausimų, pateikiamų tyrimo dalyviams, rinkinys.</r:Content>
+            <r:Content xml:lang="lt">Iš anksto parengtų klausimų, pateikiamų tyrimo dalyviams, rinkinys.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Oppsett med forhåndsbestemte spørsmål som blir presentert for studiedeltakerne.</r:Content>
+            <r:Content xml:lang="no">Oppsett med forhåndsbestemte spørsmål som blir presentert for studiedeltakerne.</r:Content>
+            <r:Content xml:lang="pt">Conjunto de questões pré-determinadas apresentadas aos participantes do estudo.</r:Content>
+            <r:Content xml:lang="pt">Conjunto de questões pré-determinadas apresentadas aos participantes do estudo.</r:Content>
+            <r:Content xml:lang="sl">Nabor vnaprej določenih vprašanj, predstavljenih udeležencem raziskave.</r:Content>
+            <r:Content xml:lang="sl">Nabor vnaprej določenih vprašanj, predstavljenih udeležencem raziskave.</r:Content>
+            <r:Content xml:lang="sr">Skup unapred utvrđenih pitanja koja su predstavljena učesnicima studije.</r:Content>
+            <r:Content xml:lang="sr">Skup unapred utvrđenih pitanja koja su predstavljena učesnicima studije.</r:Content>
+            <r:Content xml:lang="sv">En uppsättning förutbestämda frågor som ställs till deltagare i studien.</r:Content>
+            <r:Content xml:lang="sv">En uppsättning förutbestämda frågor som ställs till deltagare i studien.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfInstrument-Questionnaire.Structured-Category</r:ID>
+         <r:Version>1.1.0</r:Version>
+         <l:CategoryName>Questionnaire.Structured</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Structured questionnaire</r:Content>
+            <r:Content xml:lang="en">Structured questionnaire</r:Content>
+            <r:Content xml:lang="da">Struktureret spørgeskema</r:Content>
+            <r:Content xml:lang="da">Struktureret spørgeskema</r:Content>
+            <r:Content xml:lang="fi">Strukturoitu lomake</r:Content>
+            <r:Content xml:lang="fi">Strukturoitu lomake</r:Content>
+            <r:Content xml:lang="fr">Questionnaire structuré</r:Content>
+            <r:Content xml:lang="fr">Questionnaire structuré</r:Content>
+            <r:Content xml:lang="it">Questionario strutturato</r:Content>
+            <r:Content xml:lang="it">Questionario strutturato</r:Content>
+            <r:Content xml:lang="lt">Struktūruotas klausimynas</r:Content>
+            <r:Content xml:lang="lt">Struktūruotas klausimynas</r:Content>
+            <r:Content xml:lang="nl">Gestructureerde vragenlijst</r:Content>
+            <r:Content xml:lang="nl">Gestructureerde vragenlijst</r:Content>
+            <r:Content xml:lang="no">Strukturert spørreskjema</r:Content>
+            <r:Content xml:lang="no">Strukturert spørreskjema</r:Content>
+            <r:Content xml:lang="pt">Questionário estruturado</r:Content>
+            <r:Content xml:lang="pt">Questionário estruturado</r:Content>
+            <r:Content xml:lang="sl">Strukturiran vprašalnik</r:Content>
+            <r:Content xml:lang="sl">Strukturiran vprašalnik</r:Content>
+            <r:Content xml:lang="sr">Strukturirana anketa</r:Content>
+            <r:Content xml:lang="sr">Strukturirana anketa</r:Content>
+            <r:Content xml:lang="sv">Strukturerat frågeformulär</r:Content>
+            <r:Content xml:lang="sv">Strukturerat frågeformulär</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Set of pre-determined questions, a great majority of which are closed-ended, although there may be a small proportion of open-ended questions.</r:Content>
+            <r:Content xml:lang="en">Set of pre-determined questions, a great majority of which are closed-ended, although there may be a small proportion of open-ended questions.</r:Content>
+            <r:Content xml:lang="da">Sæt af forudbestemte spørgsmål, hvoraf en størstedel er lukkede, selvom der kan være en mindre del af åbne spørgsmål.</r:Content>
+            <r:Content xml:lang="da">Sæt af forudbestemte spørgsmål, hvoraf en størstedel er lukkede, selvom der kan være en mindre del af åbne spørgsmål.</r:Content>
+            <r:Content xml:lang="fi">Kysely- tai ilmoituslomake. Kysymykset ovat ennalta määriteltyjä. Kysymyksiin on useimmiten laadittu valmiit vastausvaihtoehdot, joskin mukana saattaa olla pieni määrä avokysymyksiä.</r:Content>
+            <r:Content xml:lang="fi">Kysely- tai ilmoituslomake. Kysymykset ovat ennalta määriteltyjä. Kysymyksiin on useimmiten laadittu valmiit vastausvaihtoehdot, joskin mukana saattaa olla pieni määrä avokysymyksiä.</r:Content>
+            <r:Content xml:lang="fr">Ensemble de questions prédéterminées, une grande majorité d'entre elles sont fermées, bien qu'il y ait peut-être une petite proportion de questions ouvertes.</r:Content>
+            <r:Content xml:lang="fr">Ensemble de questions prédéterminées, une grande majorité d'entre elles sont fermées, bien qu'il y ait peut-être une petite proportion de questions ouvertes.</r:Content>
+            <r:Content xml:lang="it">Insieme di domande pre-determinate, la maggior parte delle quali prevede risposte chiuse, sebbene possa esserci una piccola percentuale di domande a risposta aperta.</r:Content>
+            <r:Content xml:lang="it">Insieme di domande pre-determinate, la maggior parte delle quali prevede risposte chiuse, sebbene possa esserci una piccola percentuale di domande a risposta aperta.</r:Content>
+            <r:Content xml:lang="lt">Iš anksto parengtų klausimų rinkinys, kuriame dauguma klausimų yra uždari, bet gali būti ir nedidelė dalis atvirų klausimų.</r:Content>
+            <r:Content xml:lang="lt">Iš anksto parengtų klausimų rinkinys, kuriame dauguma klausimų yra uždari, bet gali būti ir nedidelė dalis atvirų klausimų.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Oppsett med forhåndsbestemte spørsmål hvor de fleste er lukkede. Det kan forekomme en liten andel åpne spørsmål.</r:Content>
+            <r:Content xml:lang="no">Oppsett med forhåndsbestemte spørsmål hvor de fleste er lukkede. Det kan forekomme en liten andel åpne spørsmål.</r:Content>
+            <r:Content xml:lang="pt">Conjunto de questões pré-determinadas, das quais a grande maioria são fechadas, embora possa haver uma pequena proporção de questões abertas.</r:Content>
+            <r:Content xml:lang="pt">Conjunto de questões pré-determinadas, das quais a grande maioria são fechadas, embora possa haver uma pequena proporção de questões abertas.</r:Content>
+            <r:Content xml:lang="sl">Nabor vnaprej določenih vprašanj, izmed katerih je velika večina vprašanj zaprtega tipa, čeprav je lahko majhen delež vprašanj tudi odprtega tipa.</r:Content>
+            <r:Content xml:lang="sl">Nabor vnaprej določenih vprašanj, izmed katerih je velika večina vprašanj zaprtega tipa, čeprav je lahko majhen delež vprašanj tudi odprtega tipa.</r:Content>
+            <r:Content xml:lang="sr">Skup unapred utvrđenih pitanja, od kojih je velika većina zatvorenih, mada može postojati i mali procenat otvorenih pitanja.</r:Content>
+            <r:Content xml:lang="sr">Skup unapred utvrđenih pitanja, od kojih je velika većina zatvorenih, mada može postojati i mali procenat otvorenih pitanja.</r:Content>
+            <r:Content xml:lang="sv">En uppsättning förutbestämda frågor, av vilka en stor majoritet är slutna, även om det kan finnas en liten andel öppna frågor.</r:Content>
+            <r:Content xml:lang="sv">En uppsättning förutbestämda frågor, av vilka en stor majoritet är slutna, även om det kan finnas en liten andel öppna frågor.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfInstrument-Questionnaire.Semistructured-Category</r:ID>
+         <r:Version>1.1.0</r:Version>
+         <l:CategoryName>Questionnaire.Semistructured</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Semi-structured questionnaire</r:Content>
+            <r:Content xml:lang="en">Semi-structured questionnaire</r:Content>
+            <r:Content xml:lang="da">Semistruktueret spørgeskema</r:Content>
+            <r:Content xml:lang="da">Semistruktueret spørgeskema</r:Content>
+            <r:Content xml:lang="fi">Puolistrukturoitu lomake</r:Content>
+            <r:Content xml:lang="fi">Puolistrukturoitu lomake</r:Content>
+            <r:Content xml:lang="fr">Questionnaire semi-structuré</r:Content>
+            <r:Content xml:lang="fr">Questionnaire semi-structuré</r:Content>
+            <r:Content xml:lang="it">Questionario semi-strutturato</r:Content>
+            <r:Content xml:lang="it">Questionario semi-strutturato</r:Content>
+            <r:Content xml:lang="lt">Pusiau struktūruotas klausimynas</r:Content>
+            <r:Content xml:lang="lt">Pusiau struktūruotas klausimynas</r:Content>
+            <r:Content xml:lang="nl">Semi-gestructureerde vragenlijst</r:Content>
+            <r:Content xml:lang="nl">Semi-gestructureerde vragenlijst</r:Content>
+            <r:Content xml:lang="no">Semistrukturert spørreskjema</r:Content>
+            <r:Content xml:lang="no">Semistrukturert spørreskjema</r:Content>
+            <r:Content xml:lang="pt">Questionário semiestruturado</r:Content>
+            <r:Content xml:lang="pt">Questionário semiestruturado</r:Content>
+            <r:Content xml:lang="sl">Polstrukturiran vprašalnik</r:Content>
+            <r:Content xml:lang="sl">Polstrukturiran vprašalnik</r:Content>
+            <r:Content xml:lang="sr">Polustrukturirana anketa</r:Content>
+            <r:Content xml:lang="sr">Polustrukturirana anketa</r:Content>
+            <r:Content xml:lang="sv">Semistrukturerat frågeformulär</r:Content>
+            <r:Content xml:lang="sv">Semistrukturerat frågeformulär</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Set of pre-determined questions, a significant proportion of which are open-ended (roughly one third to two thirds), and the rest are closed-ended.</r:Content>
+            <r:Content xml:lang="en">Set of pre-determined questions, a significant proportion of which are open-ended (roughly one third to two thirds), and the rest are closed-ended.</r:Content>
+            <r:Content xml:lang="da">Sæt af forudbestemte spørgsmål, hvoraf en væsentlig del er åbne (rundt regnet en til to tredjedele), og resten er lukkede.</r:Content>
+            <r:Content xml:lang="da">Sæt af forudbestemte spørgsmål, hvoraf en væsentlig del er åbne (rundt regnet en til to tredjedele), og resten er lukkede.</r:Content>
+            <r:Content xml:lang="fi">Kysely- tai ilmoituslomake. Kysymykset ovat ennalta määriteltyjä. Avokysymysten osuus on merkittävä ja vaihtelee suunnilleen kolmasosasta kahteen kolmasosaan. Lopuissa kysymyksissä on valmiit vastausvaihtoehdot.</r:Content>
+            <r:Content xml:lang="fi">Kysely- tai ilmoituslomake. Kysymykset ovat ennalta määriteltyjä. Avokysymysten osuus on merkittävä ja vaihtelee suunnilleen kolmasosasta kahteen kolmasosaan. Lopuissa kysymyksissä on valmiit vastausvaihtoehdot.</r:Content>
+            <r:Content xml:lang="fr">Ensemble de questions prédéterminées, une proportion significative d'entre elles sont ouvertes (environ un tiers à deux tiers), et les restantes sont fermées.</r:Content>
+            <r:Content xml:lang="fr">Ensemble de questions prédéterminées, une proportion significative d'entre elles sont ouvertes (environ un tiers à deux tiers), et les restantes sont fermées.</r:Content>
+            <r:Content xml:lang="it">Insieme di domande pre-determinate, di cui una parte significativa presenta risposta aperte (indicativamente tra un terzo e due terzi del totale), e le restanti sono chiuse.</r:Content>
+            <r:Content xml:lang="it">Insieme di domande pre-determinate, di cui una parte significativa presenta risposta aperte (indicativamente tra un terzo e due terzi del totale), e le restanti sono chiuse.</r:Content>
+            <r:Content xml:lang="lt">Iš anksto parengtų klausimų rinkinys, kuriame didelė dalis (maždaug nuo vieno iki dviejų trečdalių) klausimų yra atviri, o kiti – uždari.</r:Content>
+            <r:Content xml:lang="lt">Iš anksto parengtų klausimų rinkinys, kuriame didelė dalis (maždaug nuo vieno iki dviejų trečdalių) klausimų yra atviri, o kiti – uždari.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Oppsett med forhåndsbestemte spørsmål hvor en betydelig andel er åpne (ca. én til to tredjedeler), og resten er lukket.</r:Content>
+            <r:Content xml:lang="no">Oppsett med forhåndsbestemte spørsmål hvor en betydelig andel er åpne (ca. én til to tredjedeler), og resten er lukket.</r:Content>
+            <r:Content xml:lang="pt">Conjunto de questões pré-determinadas, das quais uma parte significativa são abertas (cerca de um terço a dois terços), sendo as restantes fechadas.</r:Content>
+            <r:Content xml:lang="pt">Conjunto de questões pré-determinadas, das quais uma parte significativa são abertas (cerca de um terço a dois terços), sendo as restantes fechadas.</r:Content>
+            <r:Content xml:lang="sl">Nabor vnaprej določenih vprašanj, izmed katerih je pomemben delež vprašanj odprtega tipa (približno ena do dve tretjini), preostali del pa zaprtega tipa.</r:Content>
+            <r:Content xml:lang="sl">Nabor vnaprej določenih vprašanj, izmed katerih je pomemben delež vprašanj odprtega tipa (približno ena do dve tretjini), preostali del pa zaprtega tipa.</r:Content>
+            <r:Content xml:lang="sr">Skup unapred utvrđenih pitanja, čiji je značajan deo otvoren (otprilike jedna trećina do dve trećine), a ostala su zatvorena.</r:Content>
+            <r:Content xml:lang="sr">Skup unapred utvrđenih pitanja, čiji je značajan deo otvoren (otprilike jedna trećina do dve trećine), a ostala su zatvorena.</r:Content>
+            <r:Content xml:lang="sv">En uppsättning förutbestämda frågor, av vilka en signifikant majoritet är öppna (cirka en till två tredjedelar), och resten är slutna.</r:Content>
+            <r:Content xml:lang="sv">En uppsättning förutbestämda frågor, av vilka en signifikant majoritet är öppna (cirka en till två tredjedelar), och resten är slutna.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfInstrument-Questionnaire.Unstructured-Category</r:ID>
+         <r:Version>1.1.0</r:Version>
+         <l:CategoryName>Questionnaire.Unstructured</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Unstructured questionnaire</r:Content>
+            <r:Content xml:lang="en">Unstructured questionnaire</r:Content>
+            <r:Content xml:lang="da">Ustruktureret spørgeskema</r:Content>
+            <r:Content xml:lang="da">Ustruktureret spørgeskema</r:Content>
+            <r:Content xml:lang="fi">Strukturoimaton lomake</r:Content>
+            <r:Content xml:lang="fi">Strukturoimaton lomake</r:Content>
+            <r:Content xml:lang="fr">Questionnaire non structuré</r:Content>
+            <r:Content xml:lang="fr">Questionnaire non structuré</r:Content>
+            <r:Content xml:lang="it">Questionario non strutturato</r:Content>
+            <r:Content xml:lang="it">Questionario non strutturato</r:Content>
+            <r:Content xml:lang="lt">Nestruktūruotas klausimynas</r:Content>
+            <r:Content xml:lang="lt">Nestruktūruotas klausimynas</r:Content>
+            <r:Content xml:lang="nl">Ongestructureerde vragenlijst</r:Content>
+            <r:Content xml:lang="nl">Ongestructureerde vragenlijst</r:Content>
+            <r:Content xml:lang="no">Ustrukturert spørreskjema</r:Content>
+            <r:Content xml:lang="no">Ustrukturert spørreskjema</r:Content>
+            <r:Content xml:lang="pt">Questionário aberto/não estruturado</r:Content>
+            <r:Content xml:lang="pt">Questionário aberto/não estruturado</r:Content>
+            <r:Content xml:lang="sl">Nestrukturiran vprašalnik</r:Content>
+            <r:Content xml:lang="sl">Nestrukturiran vprašalnik</r:Content>
+            <r:Content xml:lang="sr">Nestrukturirana anketa</r:Content>
+            <r:Content xml:lang="sr">Nestrukturirana anketa</r:Content>
+            <r:Content xml:lang="sv">Ostrukturerat frågeformulär</r:Content>
+            <r:Content xml:lang="sv">Ostrukturerat frågeformulär</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Set of pre-determined questions, a great majority of which are open-ended, although there may be a small proportion of close-ended questions.</r:Content>
+            <r:Content xml:lang="en">Set of pre-determined questions, a great majority of which are open-ended, although there may be a small proportion of close-ended questions.</r:Content>
+            <r:Content xml:lang="da">Sæt af forudbestemte spørgsmål, hvoraf en størstedel er åbne, selvom der kan være en mindre del af lukkede spørgsmål.</r:Content>
+            <r:Content xml:lang="da">Sæt af forudbestemte spørgsmål, hvoraf en størstedel er åbne, selvom der kan være en mindre del af lukkede spørgsmål.</r:Content>
+            <r:Content xml:lang="fi">Kysely- tai ilmoituslomake. Kysymykset ovat ennalta määriteltyjä. Ne ovat useimmiten avokysymyksiä, vaikkakin mukana saattaa olla pieni määrä kysymyksiä, joissa on valmiit vastausvaihtoehdot.</r:Content>
+            <r:Content xml:lang="fi">Kysely- tai ilmoituslomake. Kysymykset ovat ennalta määriteltyjä. Ne ovat useimmiten avokysymyksiä, vaikkakin mukana saattaa olla pieni määrä kysymyksiä, joissa on valmiit vastausvaihtoehdot.</r:Content>
+            <r:Content xml:lang="fr">Ensemble de questions prédéterminées, une grande majorité d'entre elles sont ouvertes, bien qu'il y ait peut-être une petite proportion de questions fermées.</r:Content>
+            <r:Content xml:lang="fr">Ensemble de questions prédéterminées, une grande majorité d'entre elles sont ouvertes, bien qu'il y ait peut-être une petite proportion de questions fermées.</r:Content>
+            <r:Content xml:lang="it">Insieme di domande pre-determinate, la maggior parte delle quali prevede risposte aperte, sebbene possa esserci una piccola percentuale di domande a risposta chiusa.</r:Content>
+            <r:Content xml:lang="it">Insieme di domande pre-determinate, la maggior parte delle quali prevede risposte aperte, sebbene possa esserci una piccola percentuale di domande a risposta chiusa.</r:Content>
+            <r:Content xml:lang="lt">Iš anksto parengtų klausimų rinkinys, kuriame dauguma klausimų yra atviri, bet gali būti ir nedidelė dalis uždarų klausimų.</r:Content>
+            <r:Content xml:lang="lt">Iš anksto parengtų klausimų rinkinys, kuriame dauguma klausimų yra atviri, bet gali būti ir nedidelė dalis uždarų klausimų.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Oppsett med forhåndsbestemte spørsmål hvor de fleste er åpne. Det kan forekomme en liten andel lukkede spørsmål.</r:Content>
+            <r:Content xml:lang="no">Oppsett med forhåndsbestemte spørsmål hvor de fleste er åpne. Det kan forekomme en liten andel lukkede spørsmål.</r:Content>
+            <r:Content xml:lang="pt">Conjunto de questões pré-determinadas, das quais a grande maioria são abertas, embora possa haver uma pequena proporção de questões fechadas.</r:Content>
+            <r:Content xml:lang="pt">Conjunto de questões pré-determinadas, das quais a grande maioria são abertas, embora possa haver uma pequena proporção de questões fechadas.</r:Content>
+            <r:Content xml:lang="sl">Nabor vnaprej določenih vprašanj, izmed katerih je velika večina vprašanj odprtega tipa, čeprav je lahko majhen delež vprašanj tudi zaprtega tipa.</r:Content>
+            <r:Content xml:lang="sl">Nabor vnaprej določenih vprašanj, izmed katerih je velika večina vprašanj odprtega tipa, čeprav je lahko majhen delež vprašanj tudi zaprtega tipa.</r:Content>
+            <r:Content xml:lang="sr">Skup unapred utvrđenih pitanja, od kojih je velika većina otvorena, mada može postojati mali deo bliskih pitanja.</r:Content>
+            <r:Content xml:lang="sr">Skup unapred utvrđenih pitanja, od kojih je velika većina otvorena, mada može postojati mali deo bliskih pitanja.</r:Content>
+            <r:Content xml:lang="sv">En uppsättning förutbestämda frågor, av vilka en stor majoritet är öppna, även om det kan finnas en liten andel slutna frågor.</r:Content>
+            <r:Content xml:lang="sv">En uppsättning förutbestämda frågor, av vilka en stor majoritet är öppna, även om det kan finnas en liten andel slutna frågor.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfInstrument-InterviewSchemeAndThemes-Category</r:ID>
+         <r:Version>1.1.0</r:Version>
+         <l:CategoryName>InterviewSchemeAndThemes</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Interview scheme and/or themes</r:Content>
+            <r:Content xml:lang="en">Interview scheme and/or themes</r:Content>
+            <r:Content xml:lang="da">Interviewskema og/eller temaer</r:Content>
+            <r:Content xml:lang="da">Interviewskema og/eller temaer</r:Content>
+            <r:Content xml:lang="fi">Haastatteluteemat tai haastattelurunko</r:Content>
+            <r:Content xml:lang="fi">Haastatteluteemat tai haastattelurunko</r:Content>
+            <r:Content xml:lang="fr">Schéma et / ou thèmes d'entretien</r:Content>
+            <r:Content xml:lang="fr">Schéma et / ou thèmes d'entretien</r:Content>
+            <r:Content xml:lang="it">Traccia e/o temi di intervista</r:Content>
+            <r:Content xml:lang="it">Traccia e/o temi di intervista</r:Content>
+            <r:Content xml:lang="lt">Interviu planas ir (arba) temos</r:Content>
+            <r:Content xml:lang="lt">Interviu planas ir (arba) temos</r:Content>
+            <r:Content xml:lang="nl">Interviewschema en/of thema's</r:Content>
+            <r:Content xml:lang="nl">Interviewschema en/of thema's</r:Content>
+            <r:Content xml:lang="no">Intervjuskjema og/eller tema</r:Content>
+            <r:Content xml:lang="no">Intervjuskjema og/eller tema</r:Content>
+            <r:Content xml:lang="pt">Esquema/temas de entrevista</r:Content>
+            <r:Content xml:lang="pt">Esquema/temas de entrevista</r:Content>
+            <r:Content xml:lang="sl">Načrt intervjuja in/ali teme</r:Content>
+            <r:Content xml:lang="sl">Načrt intervjuja in/ali teme</r:Content>
+            <r:Content xml:lang="sr">Okvir intervjua i/ili teme</r:Content>
+            <r:Content xml:lang="sr">Okvir intervjua i/ili teme</r:Content>
+            <r:Content xml:lang="sv">Intervjuschema och/eller teman</r:Content>
+            <r:Content xml:lang="sv">Intervjuschema och/eller teman</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Themes, topics, and/or questions used in an interview. Can vary between loosely defined themes to more exactly formulated questions. There is more flexibility than in an unstructured questionnaire regarding which questions are asked of each participant and how they are conveyed.</r:Content>
+            <r:Content xml:lang="en">Themes, topics, and/or questions used in an interview. Can vary between loosely defined themes to more exactly formulated questions. There is more flexibility than in an unstructured questionnaire regarding which questions are asked of each participant and how they are conveyed.</r:Content>
+            <r:Content xml:lang="da">Temaer, emner, og/eller spørgsmål anvendt i et interview. Kan variere mellem løst definerede temaer til mere præcist formulerede spørgsmål. Der er mere fleksibilitet end i et ustruktureret spørgeskema i forhold til, hvilke spørgsmål deltageren stilles, og hvordan de stilles.</r:Content>
+            <r:Content xml:lang="da">Temaer, emner, og/eller spørgsmål anvendt i et interview. Kan variere mellem løst definerede temaer til mere præcist formulerede spørgsmål. Der er mere fleksibilitet end i et ustruktureret spørgeskema i forhold til, hvilke spørgsmål deltageren stilles, og hvordan de stilles.</r:Content>
+            <r:Content xml:lang="fi">Haastattelututkimuksessa käytetyt haastatteluteemat tai -kysymykset. Vaihtelevat väljästi muotoilluista teemoista melko tarkasti muotoiltuihin kysymyksiin. Jälkimmäisessä tapauksessa ero strukturoimattomaan lomakkeeseen on siinä, että kaikille osanottajille ei esitetä kaikkia kysymyksiä tai kysymysten muotoilu on vapaampaa.</r:Content>
+            <r:Content xml:lang="fi">Haastattelututkimuksessa käytetyt haastatteluteemat tai -kysymykset. Vaihtelevat väljästi muotoilluista teemoista melko tarkasti muotoiltuihin kysymyksiin. Jälkimmäisessä tapauksessa ero strukturoimattomaan lomakkeeseen on siinä, että kaikille osanottajille ei esitetä kaikkia kysymyksiä tai kysymysten muotoilu on vapaampaa.</r:Content>
+            <r:Content xml:lang="fr">Thèmes, sujets, et / ou questions utilisés dans un entretien. Peut varier entre des thèmes vaguement définis et des questions formulées plus précisément. Il y a plus de souplesse que dans un questionnaire non structuré en ce qui concerne les questions qui sont posées à chaque participant et la manière dont elles sont transmises.</r:Content>
+            <r:Content xml:lang="fr">Thèmes, sujets, et / ou questions utilisés dans un entretien. Peut varier entre des thèmes vaguement définis et des questions formulées plus précisément. Il y a plus de souplesse que dans un questionnaire non structuré en ce qui concerne les questions qui sont posées à chaque participant et la manière dont elles sont transmises.</r:Content>
+            <r:Content xml:lang="it">Temi, argomenti e/o domande utilizzate in un'intervista. Può variare tra temi definiti in modo ampio e domande formulate in modo più preciso. Rispetto a un questionario non strutturato c'è una maggiore flessibilità riguardo a quali domande vengono effettivamente poste a ciascun partecipante e come esse vengono poste.</r:Content>
+            <r:Content xml:lang="it">Temi, argomenti e/o domande utilizzate in un'intervista. Può variare tra temi definiti in modo ampio e domande formulate in modo più preciso. Rispetto a un questionario non strutturato c'è una maggiore flessibilità riguardo a quali domande vengono effettivamente poste a ciascun partecipante e come esse vengono poste.</r:Content>
+            <r:Content xml:lang="lt">Temos ir (arba) klausimai, naudojami interviu metu. Gali apimti ir laisvai apibrėžtas temas ir tiksliau suformuluotus klausimus. Lyginant su nestruktūruotu klausimynu, čia daugiau lankstumo pateikiant klausimus ar juos užduodant skirtingiems dalyviams.</r:Content>
+            <r:Content xml:lang="lt">Temos ir (arba) klausimai, naudojami interviu metu. Gali apimti ir laisvai apibrėžtas temas ir tiksliau suformuluotus klausimus. Lyginant su nestruktūruotu klausimynu, čia daugiau lankstumo pateikiant klausimus ar juos užduodant skirtingiems dalyviams.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Tema, emner og/eller spørsmål brukt i et intervju. Kan variere mellom løst definerte tema til mer nøyaktig formulerte spørsmål. Mer fleksibilitet enn i ustrukturerte spørreskjema når det kommer til hvilke spørsmål som blir stilt hver deltaker og hvordan de blir stilt.</r:Content>
+            <r:Content xml:lang="no">Tema, emner og/eller spørsmål brukt i et intervju. Kan variere mellom løst definerte tema til mer nøyaktig formulerte spørsmål. Mer fleksibilitet enn i ustrukturerte spørreskjema når det kommer til hvilke spørsmål som blir stilt hver deltaker og hvordan de blir stilt.</r:Content>
+            <r:Content xml:lang="pt">Temas, tópicos e/ou questões usados numa entrevista. Pode variar entre temas vagamente definidos para questões mais especificamente formuladas. Há mais flexibilidade do que num questionário não estruturado relativamente a que questões são colocadas a cada participante e como elas são abordadas.</r:Content>
+            <r:Content xml:lang="pt">Temas, tópicos e/ou questões usados numa entrevista. Pode variar entre temas vagamente definidos para questões mais especificamente formuladas. Há mais flexibilidade do que num questionário não estruturado relativamente a que questões são colocadas a cada participante e como elas são abordadas.</r:Content>
+            <r:Content xml:lang="sl">Teme in/ali vprašanja, uporabljena v intervjuju. Lahko se razteza od široko opredeljenih tem do natančneje oblikovanih vprašanj. V primerjavi z nestrukturiranim vprašalnikom je več prožnosti glede vprašanj, ki jih postavimo udeležencem, in načina, kako jih posredujemo.</r:Content>
+            <r:Content xml:lang="sl">Teme in/ali vprašanja, uporabljena v intervjuju. Lahko se razteza od široko opredeljenih tem do natančneje oblikovanih vprašanj. V primerjavi z nestrukturiranim vprašalnikom je več prožnosti glede vprašanj, ki jih postavimo udeležencem, in načina, kako jih posredujemo.</r:Content>
+            <r:Content xml:lang="sr">Teme i/ili pitanja koja se koriste u intervjuu. Mogu varirati između okvirno definisanih tema do precizno formulisanih pitanja. Postoji veća fleksibilnost nego u nestrukturiranom upitniku u vezi sa tim koja se pitanja postavljaju svakom učesniku i kako se prenose.</r:Content>
+            <r:Content xml:lang="sr">Teme i/ili pitanja koja se koriste u intervjuu. Mogu varirati između okvirno definisanih tema do precizno formulisanih pitanja. Postoji veća fleksibilnost nego u nestrukturiranom upitniku u vezi sa tim koja se pitanja postavljaju svakom učesniku i kako se prenose.</r:Content>
+            <r:Content xml:lang="sv">Teman, ämnen och/eller frågor som används i en intervju. Kan variera mellan löst definierade teman och mer exakt formulerade frågor. Det finns mer flexibilitet än i ett ostrukturerat frågeformulär angående vilka frågor som ställs till varje deltagare och hur de förmedlas.</r:Content>
+            <r:Content xml:lang="sv">Teman, ämnen och/eller frågor som används i en intervju. Kan variera mellan löst definierade teman och mer exakt formulerade frågor. Det finns mer flexibilitet än i ett ostrukturerat frågeformulär angående vilka frågor som ställs till varje deltagare och hur de förmedlas.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfInstrument-DataCollectionGuidelines-Category</r:ID>
+         <r:Version>1.1.0</r:Version>
+         <l:CategoryName>DataCollectionGuidelines</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data collection guidelines</r:Content>
+            <r:Content xml:lang="en">Data collection guidelines</r:Content>
+            <r:Content xml:lang="da">Retningslinjer for dataindsamling</r:Content>
+            <r:Content xml:lang="da">Retningslinjer for dataindsamling</r:Content>
+            <r:Content xml:lang="fi">Aineistonkeruuohjeistus</r:Content>
+            <r:Content xml:lang="fi">Aineistonkeruuohjeistus</r:Content>
+            <r:Content xml:lang="fr">Consignes de collecte de données</r:Content>
+            <r:Content xml:lang="fr">Consignes de collecte de données</r:Content>
+            <r:Content xml:lang="it">Linee guida per la raccolta dei dati</r:Content>
+            <r:Content xml:lang="it">Linee guida per la raccolta dei dati</r:Content>
+            <r:Content xml:lang="lt">Duomenų rinkimo gairės</r:Content>
+            <r:Content xml:lang="lt">Duomenų rinkimo gairės</r:Content>
+            <r:Content xml:lang="nl">Richtlijnen voor gegevensverzameling</r:Content>
+            <r:Content xml:lang="nl">Richtlijnen voor gegevensverzameling</r:Content>
+            <r:Content xml:lang="no">Retningslinjer for datainnsamling</r:Content>
+            <r:Content xml:lang="no">Retningslinjer for datainnsamling</r:Content>
+            <r:Content xml:lang="pt">Orientações para a recolha de dados</r:Content>
+            <r:Content xml:lang="pt">Orientações para a recolha de dados</r:Content>
+            <r:Content xml:lang="sl">Smernice za zbiranje podatkov</r:Content>
+            <r:Content xml:lang="sl">Smernice za zbiranje podatkov</r:Content>
+            <r:Content xml:lang="sr">Smernice za prikupljanje podataka</r:Content>
+            <r:Content xml:lang="sr">Smernice za prikupljanje podataka</r:Content>
+            <r:Content xml:lang="sv">Datainsamlingsguide</r:Content>
+            <r:Content xml:lang="sv">Datainsamlingsguide</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Directions or instructions regarding the methods and procedures to be used for collecting the data. Use a more specific term if possible.</r:Content>
+            <r:Content xml:lang="en">Directions or instructions regarding the methods and procedures to be used for collecting the data. Use a more specific term if possible.</r:Content>
+            <r:Content xml:lang="da">Retningslinjer eller instruktioner vedrørende metoder og procedurer, der bør anvendes til indsamling af dataene. Anvend et mere specifikt begreb, hvis muligt.</r:Content>
+            <r:Content xml:lang="da">Retningslinjer eller instruktioner vedrørende metoder og procedurer, der bør anvendes til indsamling af dataene. Anvend et mere specifikt begreb, hvis muligt.</r:Content>
+            <r:Content xml:lang="fi">Suunnitelma tai ohjeet, jotka määrittelevät aineistonkeruun menetelmät ja prosessit. Käytä tarkempaa termiä mikäli mahdollista.</r:Content>
+            <r:Content xml:lang="fi">Suunnitelma tai ohjeet, jotka määrittelevät aineistonkeruun menetelmät ja prosessit. Käytä tarkempaa termiä mikäli mahdollista.</r:Content>
+            <r:Content xml:lang="fr">Directions ou instructions concernant les méthodes et les procédures à utiliser pour collecter les données. Utilisez un terme plus précis si possible.</r:Content>
+            <r:Content xml:lang="fr">Directions ou instructions concernant les méthodes et les procédures à utiliser pour collecter les données. Utilisez un terme plus précis si possible.</r:Content>
+            <r:Content xml:lang="it">Indicazioni o istruzioni relative ai metodi e alle procedure da utilizzare per la raccolta dei dati. Utilizzare un termine più specifico, se possibile.</r:Content>
+            <r:Content xml:lang="it">Indicazioni o istruzioni relative ai metodi e alle procedure da utilizzare per la raccolta dei dati. Utilizzare un termine più specifico, se possibile.</r:Content>
+            <r:Content xml:lang="lt">Duomenų rinkimo metodų ir procedūrų taikymo nurodymai ar instrukcijos. Jei įmanoma, naudoti konkretesnį terminą.</r:Content>
+            <r:Content xml:lang="lt">Duomenų rinkimo metodų ir procedūrų taikymo nurodymai ar instrukcijos. Jei įmanoma, naudoti konkretesnį terminą.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Retningslinjer og framgangsmåter som skal brukes for å samle inn dataene. Bruk et smalere begrep om mulig.</r:Content>
+            <r:Content xml:lang="no">Retningslinjer og framgangsmåter som skal brukes for å samle inn dataene. Bruk et smalere begrep om mulig.</r:Content>
+            <r:Content xml:lang="pt">Orientações ou instruções sobre os métodos e procedimentos a utilizar para recolher os dados. Se possível, usar um termo mais específico.</r:Content>
+            <r:Content xml:lang="pt">Orientações ou instruções sobre os métodos e procedimentos a utilizar para recolher os dados. Se possível, usar um termo mais específico.</r:Content>
+            <r:Content xml:lang="sl">Smernice in navodila, ki opredeljujejo vsebino zajema podatkov. Če je mogoče, uporabite ožji izraz.</r:Content>
+            <r:Content xml:lang="sl">Smernice in navodila, ki opredeljujejo vsebino zajema podatkov. Če je mogoče, uporabite ožji izraz.</r:Content>
+            <r:Content xml:lang="sr">Uputstva ili smernice u vezi sa metodama i postupcima koji će se koristiti za prikupljanje podataka. Koristite precizniji izraz ako je moguće.</r:Content>
+            <r:Content xml:lang="sr">Uputstva ili smernice u vezi sa metodama i postupcima koji će se koristiti za prikupljanje podataka. Koristite precizniji izraz ako je moguće.</r:Content>
+            <r:Content xml:lang="sv">Guide och anvisningar som definierar innehållet i datainsamlingen. Använd en smalare term om möjligt.</r:Content>
+            <r:Content xml:lang="sv">Guide och anvisningar som definierar innehållet i datainsamlingen. Använd en smalare term om möjligt.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfInstrument-DataCollectionGuidelines.ObservationGuide-Category</r:ID>
+         <r:Version>1.1.0</r:Version>
+         <l:CategoryName>DataCollectionGuidelines.ObservationGuide</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data collection guidelines: Observation guide</r:Content>
+            <r:Content xml:lang="en">Data collection guidelines: Observation guide</r:Content>
+            <r:Content xml:lang="da">Retningslinjer for dataindsamling: Observationsguide</r:Content>
+            <r:Content xml:lang="da">Retningslinjer for dataindsamling: Observationsguide</r:Content>
+            <r:Content xml:lang="fi">Aineistonkeruuohjeistus: havainnointiohje tai -suunnitelma</r:Content>
+            <r:Content xml:lang="fi">Aineistonkeruuohjeistus: havainnointiohje tai -suunnitelma</r:Content>
+            <r:Content xml:lang="fr">Consignes de collecte de données : guide d'observation</r:Content>
+            <r:Content xml:lang="fr">Consignes de collecte de données : guide d'observation</r:Content>
+            <r:Content xml:lang="it">Linee guida per la raccolta dei dati: traccia di osservazione</r:Content>
+            <r:Content xml:lang="it">Linee guida per la raccolta dei dati: traccia di osservazione</r:Content>
+            <r:Content xml:lang="lt">Duomenų rinkimo gairės: stebėjimo vadovas</r:Content>
+            <r:Content xml:lang="lt">Duomenų rinkimo gairės: stebėjimo vadovas</r:Content>
+            <r:Content xml:lang="nl">Richtlijnen voor gegevensverzameling: Observatie handleiding</r:Content>
+            <r:Content xml:lang="nl">Richtlijnen voor gegevensverzameling: Observatie handleiding</r:Content>
+            <r:Content xml:lang="no">Retningslinjer for datainnsamling: Observasjonsguide</r:Content>
+            <r:Content xml:lang="no">Retningslinjer for datainnsamling: Observasjonsguide</r:Content>
+            <r:Content xml:lang="pt">Orientações para a recolha de dados: Grelha de observação</r:Content>
+            <r:Content xml:lang="pt">Orientações para a recolha de dados: Grelha de observação</r:Content>
+            <r:Content xml:lang="sl">Smernice za zbiranje podatkov: vodnik za opazovanje</r:Content>
+            <r:Content xml:lang="sl">Smernice za zbiranje podatkov: vodnik za opazovanje</r:Content>
+            <r:Content xml:lang="sr">Smernice za prikupljanje podataka: Uputstvo za posmatranje</r:Content>
+            <r:Content xml:lang="sr">Smernice za prikupljanje podataka: Uputstvo za posmatranje</r:Content>
+            <r:Content xml:lang="sv">Datainsamlingsguide: Observationsguide</r:Content>
+            <r:Content xml:lang="sv">Datainsamlingsguide: Observationsguide</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Guidelines regarding what will be observed. Depending on the study design, an observation guide can be more or less structured, ranging from exact specifications and scales to loosely formulated ideas.</r:Content>
+            <r:Content xml:lang="en">Guidelines regarding what will be observed. Depending on the study design, an observation guide can be more or less structured, ranging from exact specifications and scales to loosely formulated ideas.</r:Content>
+            <r:Content xml:lang="da">Retningslinjer for, hvad der vil blive observeret. Afhængigt af undersøgelsesdesign kan en observationsvejledning være mere eller mindre struktureret, rangerende fra nøjagtige specifikationer og skaleringer til løst formulerede idéer.</r:Content>
+            <r:Content xml:lang="da">Retningslinjer for, hvad der vil blive observeret. Afhængigt af undersøgelsesdesign kan en observationsvejledning være mere eller mindre struktureret, rangerende fra nøjagtige specifikationer og skaleringer til løst formulerede idéer.</r:Content>
+            <r:Content xml:lang="fi">Havainnointitutkimuksessa käytetty suunnitelma siitä, mitä havainnoidaan. Tutkimusasetelmasta riippuen havainnointisuunnitelma voi olla enemmän tai vähemmän strukturoitu, vaihdellen tarkoista määrittelyistä ja asteikoista väljästi muotoiltuihin ideoihin.</r:Content>
+            <r:Content xml:lang="fi">Havainnointitutkimuksessa käytetty suunnitelma siitä, mitä havainnoidaan. Tutkimusasetelmasta riippuen havainnointisuunnitelma voi olla enemmän tai vähemmän strukturoitu, vaihdellen tarkoista määrittelyistä ja asteikoista väljästi muotoiltuihin ideoihin.</r:Content>
+            <r:Content xml:lang="fr">Consignes concernant ce qui devra être observé. En fonction de la conception de l'étude, un guide d'observation peut être plus ou moins structuré, allant de spécifications et d'échelle à des idées vagues formulées.</r:Content>
+            <r:Content xml:lang="fr">Consignes concernant ce qui devra être observé. En fonction de la conception de l'étude, un guide d'observation peut être plus ou moins structuré, allant de spécifications et d'échelle à des idées vagues formulées.</r:Content>
+            <r:Content xml:lang="it">Linee guida riguardanti ciò che verrà osservato. A seconda della disegno della ricerca, una guida all'osservazione può essere più o meno strutturata, variando da indicazioni e scale precise a idee formulate in modo generale.</r:Content>
+            <r:Content xml:lang="it">Linee guida riguardanti ciò che verrà osservato. A seconda della disegno della ricerca, una guida all'osservazione può essere più o meno strutturata, variando da indicazioni e scale precise a idee formulate in modo generale.</r:Content>
+            <r:Content xml:lang="lt">Gairės apibrėžiančios, kas bus stebima. Priklausomai nuo tyrimo plano, stebėjimo vadovas gali būti daugiau ar mažiau struktūruotas. Gairės gali pateikti tikslias taisykles ir skales, arba tik laisvai suformuluotas idėjas.</r:Content>
+            <r:Content xml:lang="lt">Gairės apibrėžiančios, kas bus stebima. Priklausomai nuo tyrimo plano, stebėjimo vadovas gali būti daugiau ar mažiau struktūruotas. Gairės gali pateikti tikslias taisykles ir skales, arba tik laisvai suformuluotas idėjas.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Retningslinjer til det som skal observeres. En observasjonsguide kan være mer eller mindre strukturert avhengig av studiedesignet. Den kan variere fra eksakte spesifikasjoner og skalaer til løst formulerte ideer.</r:Content>
+            <r:Content xml:lang="no">Retningslinjer til det som skal observeres. En observasjonsguide kan være mer eller mindre strukturert avhengig av studiedesignet. Den kan variere fra eksakte spesifikasjoner og skalaer til løst formulerte ideer.</r:Content>
+            <r:Content xml:lang="pt">Orientações ou instruções sobre o que será observado. Dependendo da concepção do estudo, uma grelha de observação pode ser mais ou menos estruturada, variando de especificações exatas e escalas a ideias formuladas de uma forma vaga.</r:Content>
+            <r:Content xml:lang="pt">Orientações ou instruções sobre o que será observado. Dependendo da concepção do estudo, uma grelha de observação pode ser mais ou menos estruturada, variando de especificações exatas e escalas a ideias formuladas de uma forma vaga.</r:Content>
+            <r:Content xml:lang="sl">Smernice za opazovanje. Glede na načrt raziskave je vodnik za opazovanje lahko bolj ali manj strukturiran, od natančnih določitev in lestvic do ohlapno oblikovanih idej.</r:Content>
+            <r:Content xml:lang="sl">Smernice za opazovanje. Glede na načrt raziskave je vodnik za opazovanje lahko bolj ali manj strukturiran, od natančnih določitev in lestvic do ohlapno oblikovanih idej.</r:Content>
+            <r:Content xml:lang="sr">Smernice o tome šta će se posmatrati. U zavisnosti od dizajna studije, uputstvo za posmatranje može biti manje ili više struktuirano, u rasponu od tačnih specifikacija i skala, do slabo formulisanih ideja.</r:Content>
+            <r:Content xml:lang="sr">Smernice o tome šta će se posmatrati. U zavisnosti od dizajna studije, uputstvo za posmatranje može biti manje ili više struktuirano, u rasponu od tačnih specifikacija i skala, do slabo formulisanih ideja.</r:Content>
+            <r:Content xml:lang="sv">Guide till det som ska observeras. Beroende på studiedesign kan en observationsguide vara mer eller mindre strukturerad, allt från exakta specifikationer och skalor till löst formulerade idéer.</r:Content>
+            <r:Content xml:lang="sv">Guide till det som ska observeras. Beroende på studiedesign kan en observationsguide vara mer eller mindre strukturerad, allt från exakta specifikationer och skalor till löst formulerade idéer.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfInstrument-DataCollectionGuidelines.DiscussionGuide-Category</r:ID>
+         <r:Version>1.1.0</r:Version>
+         <l:CategoryName>DataCollectionGuidelines.DiscussionGuide</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data collection guidelines: Discussion guide</r:Content>
+            <r:Content xml:lang="en">Data collection guidelines: Discussion guide</r:Content>
+            <r:Content xml:lang="da">Retningslinjer for dataindsamling: Diskussionsguide</r:Content>
+            <r:Content xml:lang="da">Retningslinjer for dataindsamling: Diskussionsguide</r:Content>
+            <r:Content xml:lang="fi">Aineistonkeruuohjeistus: keskusteluohje</r:Content>
+            <r:Content xml:lang="fi">Aineistonkeruuohjeistus: keskusteluohje</r:Content>
+            <r:Content xml:lang="fr">Consignes de collecte de données : guide de discussion</r:Content>
+            <r:Content xml:lang="fr">Consignes de collecte de données : guide de discussion</r:Content>
+            <r:Content xml:lang="it">Linee guida per la raccolta dei dati: traccia di discussione</r:Content>
+            <r:Content xml:lang="it">Linee guida per la raccolta dei dati: traccia di discussione</r:Content>
+            <r:Content xml:lang="lt">Duomenų rinkimo gairės: diskusijų vadovas</r:Content>
+            <r:Content xml:lang="lt">Duomenų rinkimo gairės: diskusijų vadovas</r:Content>
+            <r:Content xml:lang="nl">Richtlijnen voor gegevensverzameling: Discussie handleiding</r:Content>
+            <r:Content xml:lang="nl">Richtlijnen voor gegevensverzameling: Discussie handleiding</r:Content>
+            <r:Content xml:lang="no">Retningslinjer for datainnsamling: Diskusjonsguide</r:Content>
+            <r:Content xml:lang="no">Retningslinjer for datainnsamling: Diskusjonsguide</r:Content>
+            <r:Content xml:lang="pt">Orientações para a recolha de dados: Guião de debate</r:Content>
+            <r:Content xml:lang="pt">Orientações para a recolha de dados: Guião de debate</r:Content>
+            <r:Content xml:lang="sl">Smernice za zbiranje podatkov: vodnik za razpravo</r:Content>
+            <r:Content xml:lang="sl">Smernice za zbiranje podatkov: vodnik za razpravo</r:Content>
+            <r:Content xml:lang="sr">Smernice za prikupljanje podataka: Uputstvo za razgovor (diskusiju)</r:Content>
+            <r:Content xml:lang="sr">Smernice za prikupljanje podataka: Uputstvo za razgovor (diskusiju)</r:Content>
+            <r:Content xml:lang="sv">Datainsamlingsguide: Diskussionsguide</r:Content>
+            <r:Content xml:lang="sv">Datainsamlingsguide: Diskussionsguide</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Guidelines for a group discussion. Depending on the study design, a discussion guide can be more or less structured, ranging from exactly formulated questions to general ideas on what to discuss. For example, a list of topics to be discussed in a focus group, or themes formulated by a researcher to direct a blog discussion, etc.</r:Content>
+            <r:Content xml:lang="en">Guidelines for a group discussion. Depending on the study design, a discussion guide can be more or less structured, ranging from exactly formulated questions to general ideas on what to discuss. For example, a list of topics to be discussed in a focus group, or themes formulated by a researcher to direct a blog discussion, etc.</r:Content>
+            <r:Content xml:lang="da">Retningslinjer for en gruppediskussion. Afhængigt af undersøgelsesdesignet kan en diskussion være mere eller mindre struktureret, rangererende fra præcist formulerede spørgsmål til generelle idéer om, hvad man skal diskutere. For eksempel en liste over emner, der skal diskuteres i en fokusgruppe eller temaer formuleret af en forsker, der skal lede en blogdiskussion mm.</r:Content>
+            <r:Content xml:lang="da">Retningslinjer for en gruppediskussion. Afhængigt af undersøgelsesdesignet kan en diskussion være mere eller mindre struktureret, rangererende fra præcist formulerede spørgsmål til generelle idéer om, hvad man skal diskutere. For eksempel en liste over emner, der skal diskuteres i en fokusgruppe eller temaer formuleret af en forsker, der skal lede en blogdiskussion mm.</r:Content>
+            <r:Content xml:lang="fi">Ryhmäkeskusteluun annetut ohjeet. Tutkimusasetelmasta riippuen saattavat olla enemmän tai vähemmän strukturoituja, vaihdellen väljästi muotoilluista keskusteluteemoista tarkasti muotoiltuihin kysymyksiin. Esimerkkejä: Lista keskustelun teemoista, tutkijan esille ottamat tarkat aiheet ja muu ohjaus blogikeskusteluun jne.</r:Content>
+            <r:Content xml:lang="fi">Ryhmäkeskusteluun annetut ohjeet. Tutkimusasetelmasta riippuen saattavat olla enemmän tai vähemmän strukturoituja, vaihdellen väljästi muotoilluista keskusteluteemoista tarkasti muotoiltuihin kysymyksiin. Esimerkkejä: Lista keskustelun teemoista, tutkijan esille ottamat tarkat aiheet ja muu ohjaus blogikeskusteluun jne.</r:Content>
+            <r:Content xml:lang="fr">Consignes pour un groupe de discussion. En fonction de la conception de l'étude, un guide de discussion peut être plus ou moins structuré, allant de questions formulées précisément à des idées générales sur quoi discuter. Par exemple, une liste de sujets à discutés dans un focus group, ou des thèmes formulés par un chercheur pour diriger une discussion sur un blog, etc.</r:Content>
+            <r:Content xml:lang="fr">Consignes pour un groupe de discussion. En fonction de la conception de l'étude, un guide de discussion peut être plus ou moins structuré, allant de questions formulées précisément à des idées générales sur quoi discuter. Par exemple, une liste de sujets à discutés dans un focus group, ou des thèmes formulés par un chercheur pour diriger une discussion sur un blog, etc.</r:Content>
+            <r:Content xml:lang="it">Linee guida per una discussione di gruppo. A seconda del progetto del disegno della ricerca, una guida alla discussione può essere più o meno strutturata, variando tra domande formulate con precisione a idee generali sui temi da sottoporre alla discussione. Ad esempio, un elenco di argomenti da discutere in un focus group o temi formulati da un ricercatore per indirizzare una discussione su un blog, ecc.</r:Content>
+            <r:Content xml:lang="it">Linee guida per una discussione di gruppo. A seconda del progetto del disegno della ricerca, una guida alla discussione può essere più o meno strutturata, variando tra domande formulate con precisione a idee generali sui temi da sottoporre alla discussione. Ad esempio, un elenco di argomenti da discutere in un focus group o temi formulati da un ricercatore per indirizzare una discussione su un blog, ecc.</r:Content>
+            <r:Content xml:lang="lt">Grupinės diskusijos gairės. Priklausomai nuo tyrimo plano, diskusijų vadovas gali būti daugiau ar mažiau struktūruotas (pateikti tiksliai suformuluotus klausimus ar tik bendras diskusijos idėjas). Pavyzdžiui, temų sąrašas tikslinei grupės diskusijai, arba tematikos, kurias tyrėjas suformuluoja norėdamas kryptingai valdyti diskusiją tinklaraštyje ir kt.</r:Content>
+            <r:Content xml:lang="lt">Grupinės diskusijos gairės. Priklausomai nuo tyrimo plano, diskusijų vadovas gali būti daugiau ar mažiau struktūruotas (pateikti tiksliai suformuluotus klausimus ar tik bendras diskusijos idėjas). Pavyzdžiui, temų sąrašas tikslinei grupės diskusijai, arba tematikos, kurias tyrėjas suformuluoja norėdamas kryptingai valdyti diskusiją tinklaraštyje ir kt.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Retningslinjer for en gruppediskusjon. En diskusjonsguide kan være mer eller mindre strukturert avhengig av studiedesignet. Den kan variere mellom nøyaktig formulerte spørsmål og løst formulerte ideer om hva en ønsker å diskutere. For eksempel en liste med tema å diskutere i en fokusgruppe, eller tema formulert av forsker for å lede en bloggdiskusjon, etc.</r:Content>
+            <r:Content xml:lang="no">Retningslinjer for en gruppediskusjon. En diskusjonsguide kan være mer eller mindre strukturert avhengig av studiedesignet. Den kan variere mellom nøyaktig formulerte spørsmål og løst formulerte ideer om hva en ønsker å diskutere. For eksempel en liste med tema å diskutere i en fokusgruppe, eller tema formulert av forsker for å lede en bloggdiskusjon, etc.</r:Content>
+            <r:Content xml:lang="pt">Orientações ou instruções para uma discussão de grupo. Dependendo da concepção do estudo, um guião de discussão pode ser mais ou menos estruturado, variando de questões especificamente formuladas a ideias gerais sobre o que discutir/debater. Por exemplo, uma lista de tópicos a serem discutidos num grupo de foco, ou temas formulados por um investigador para orientar uma discussão num blog, etc.</r:Content>
+            <r:Content xml:lang="pt">Orientações ou instruções para uma discussão de grupo. Dependendo da concepção do estudo, um guião de discussão pode ser mais ou menos estruturado, variando de questões especificamente formuladas a ideias gerais sobre o que discutir/debater. Por exemplo, uma lista de tópicos a serem discutidos num grupo de foco, ou temas formulados por um investigador para orientar uma discussão num blog, etc.</r:Content>
+            <r:Content xml:lang="sl">Smernice za skupinsko razpravo. Glede na načrt raziskave je lahko vodnik za razpravo bolj ali manj strukturiran, od natančno oblikovanih vprašanj do splošnih idej o predmetu razprave. Na primer, seznam tem, o katerih bo razpravljala fokusna skupina, ali teme, ki jih oblikuje raziskovalec za usmerjanje razprave na spletnem blogu, itd.</r:Content>
+            <r:Content xml:lang="sl">Smernice za skupinsko razpravo. Glede na načrt raziskave je lahko vodnik za razpravo bolj ali manj strukturiran, od natančno oblikovanih vprašanj do splošnih idej o predmetu razprave. Na primer, seznam tem, o katerih bo razpravljala fokusna skupina, ali teme, ki jih oblikuje raziskovalec za usmerjanje razprave na spletnem blogu, itd.</r:Content>
+            <r:Content xml:lang="sr">Smernice za grupnu diskusiju. Zavisno od dizajna studije, vodič za diskusiju može biti manje ili više strukturiran, u rasponu od tačno formulisanih pitanja do opštih ideja o tome o čemu treba razgovarati. Na primer, spisak tema o kojima će se razgovarati u fokus grupi ili teme koje je formulisao istraživač kako bi usmeravao raspravu na blogu, itd.</r:Content>
+            <r:Content xml:lang="sr">Smernice za grupnu diskusiju. Zavisno od dizajna studije, vodič za diskusiju može biti manje ili više strukturiran, u rasponu od tačno formulisanih pitanja do opštih ideja o tome o čemu treba razgovarati. Na primer, spisak tema o kojima će se razgovarati u fokus grupi ili teme koje je formulisao istraživač kako bi usmeravao raspravu na blogu, itd.</r:Content>
+            <r:Content xml:lang="sv">Guide för en gruppdiskussion. Beroende på studiedesign kan en diskussionsguide vara mer eller mindre strukturerad, allt från exakt formulerade frågor till allmänna idéer om vad man ska diskutera. Till exempel en lista över ämnen som ska diskuteras i en fokusgrupp eller teman formulerade av en forskare för att styra en bloggdiskussion osv.</r:Content>
+            <r:Content xml:lang="sv">Guide för en gruppdiskussion. Beroende på studiedesign kan en diskussionsguide vara mer eller mindre strukturerad, allt från exakt formulerade frågor till allmänna idéer om vad man ska diskutera. Till exempel en lista över ämnen som ska diskuteras i en fokusgrupp eller teman formulerade av en forskare för att styra en bloggdiskussion osv.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfInstrument-DataCollectionGuidelines.SelfAdministeredWritingsGuide-Category</r:ID>
+         <r:Version>1.1.0</r:Version>
+         <l:CategoryName>DataCollectionGuidelines.SelfAdministeredWritingsGuide</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data collection guidelines: Self-administered writings guide</r:Content>
+            <r:Content xml:lang="en">Data collection guidelines: Self-administered writings guide</r:Content>
+            <r:Content xml:lang="da">Retningslinjer for dataindsamling: Selvadministreret skriveguide</r:Content>
+            <r:Content xml:lang="da">Retningslinjer for dataindsamling: Selvadministreret skriveguide</r:Content>
+            <r:Content xml:lang="fi">Aineistonkeruuohjeistus: kirjoitusohje</r:Content>
+            <r:Content xml:lang="fi">Aineistonkeruuohjeistus: kirjoitusohje</r:Content>
+            <r:Content xml:lang="fr">Consignes de collecte de données : guide des écrits auto-administrés</r:Content>
+            <r:Content xml:lang="fr">Consignes de collecte de données : guide des écrits auto-administrés</r:Content>
+            <r:Content xml:lang="it">Linee guida per la raccolta dei dati: scritti autocompilati</r:Content>
+            <r:Content xml:lang="it">Linee guida per la raccolta dei dati: scritti autocompilati</r:Content>
+            <r:Content xml:lang="lt">Duomenų rinkimo gairės: savarankiškai rašomų tekstų vadovas</r:Content>
+            <r:Content xml:lang="lt">Duomenų rinkimo gairės: savarankiškai rašomų tekstų vadovas</r:Content>
+            <r:Content xml:lang="nl">Richtlijnen voor gegevensverzameling: Instructie voor zelf invullen</r:Content>
+            <r:Content xml:lang="nl">Richtlijnen voor gegevensverzameling: Instructie voor zelf invullen</r:Content>
+            <r:Content xml:lang="no">Retningslinjer for datainnsamling: Selvadministrert skriveguide</r:Content>
+            <r:Content xml:lang="no">Retningslinjer for datainnsamling: Selvadministrert skriveguide</r:Content>
+            <r:Content xml:lang="pt">Orientações para a recolha de dados: Guião para registos  de autopreenchimento</r:Content>
+            <r:Content xml:lang="pt">Orientações para a recolha de dados: Guião para registos  de autopreenchimento</r:Content>
+            <r:Content xml:lang="sl">Smernice za zbiranje podatkov: vodnik za samoizpolnjevanje</r:Content>
+            <r:Content xml:lang="sl">Smernice za zbiranje podatkov: vodnik za samoizpolnjevanje</r:Content>
+            <r:Content xml:lang="sr">Smernice za prikupljanje podataka: Vodič za samostalno upravljanje zapisima</r:Content>
+            <r:Content xml:lang="sr">Smernice za prikupljanje podataka: Vodič za samostalno upravljanje zapisima</r:Content>
+            <r:Content xml:lang="sv">Datainsamlingsguide: Guide för självadministrerade skriftliga uppgifter</r:Content>
+            <r:Content xml:lang="sv">Datainsamlingsguide: Guide för självadministrerade skriftliga uppgifter</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Guidelines regarding the desired, or expected content of self-written personal accounts or narratives from potential participants. The instructions can be supplied as part of the writing invitation or separately. For example, an invitation asking people suffering from a specific disease or disability to describe how it affects their feelings, social relations, and everyday life; or a writing invitation asking people to keep a diary of books read during a period of six months and the thoughts provoked by the books.</r:Content>
+            <r:Content xml:lang="en">Guidelines regarding the desired, or expected content of self-written personal accounts or narratives from potential participants. The instructions can be supplied as part of the writing invitation or separately. For example, an invitation asking people suffering from a specific disease or disability to describe how it affects their feelings, social relations, and everyday life; or a writing invitation asking people to keep a diary of books read during a period of six months and the thoughts provoked by the books.</r:Content>
+            <r:Content xml:lang="da">Retningslinjer vedrørende det ønskede eller forventede indhold af selvskrevne, personlige beretninger eller fortællinger fra potentielle deltagere. Instruktionerne kan leveres som del af den skriftlige invitation eller separat. For eksempel en invitation, der beder folk, som lider af en specifik sygdom eller handicap om at beskrive, hvordan det påvirker deres følelser, sociale relationer og hverdagsliv; eller en skriftlig invitation, der beder folk om at holde en dagbog om bøger læst over seks måneder og de tanker, som bøger fremkalder.</r:Content>
+            <r:Content xml:lang="da">Retningslinjer vedrørende det ønskede eller forventede indhold af selvskrevne, personlige beretninger eller fortællinger fra potentielle deltagere. Instruktionerne kan leveres som del af den skriftlige invitation eller separat. For eksempel en invitation, der beder folk, som lider af en specifik sygdom eller handicap om at beskrive, hvordan det påvirker deres følelser, sociale relationer og hverdagsliv; eller en skriftlig invitation, der beder folk om at holde en dagbog om bøger læst over seks måneder og de tanker, som bøger fremkalder.</r:Content>
+            <r:Content xml:lang="fi">Kirjoitusaineistojen keräämistä varten annetut kirjoitusohjeet joko kirjoituskutsun osana tai erillisenä. Esimerkkejä: Kirjoituskutsussa pyydetään tietyn sairauden tai vamman omaavia ihmisiä  kuvailemaan kuinka se vaikuttaa heidän tunteisiinsa, ihmissuhteisiinsa ja jokapäiväiseen elämäänsä; ohjeistus lukupäiväkirjalle, johon osanottaja kirjaa lukemansa kirjat ja niiden herättämät ajatukset.</r:Content>
+            <r:Content xml:lang="fi">Kirjoitusaineistojen keräämistä varten annetut kirjoitusohjeet joko kirjoituskutsun osana tai erillisenä. Esimerkkejä: Kirjoituskutsussa pyydetään tietyn sairauden tai vamman omaavia ihmisiä  kuvailemaan kuinka se vaikuttaa heidän tunteisiinsa, ihmissuhteisiinsa ja jokapäiväiseen elämäänsä; ohjeistus lukupäiväkirjalle, johon osanottaja kirjaa lukemansa kirjat ja niiden herättämät ajatukset.</r:Content>
+            <r:Content xml:lang="fr">Consignes concernant le contenu attendu ou désiré des écrits personnels ou narratifs de participants potentiels. Les instructions peuvent être fournies dans le cadre de l'invitation écrite ou séparément. Par exemple, une invitation demandant aux personnes souffrant d'une maladie ou un handicap spécifique de décrire comment cela affecte leurs sentiments, leurs relations sociales et la vie quotidienne ; ou une invitation écrite demandant aux personnes de tenir un journal des livres lus pendant une période de six mois et les pensées provoquées par les livres.</r:Content>
+            <r:Content xml:lang="fr">Consignes concernant le contenu attendu ou désiré des écrits personnels ou narratifs de participants potentiels. Les instructions peuvent être fournies dans le cadre de l'invitation écrite ou séparément. Par exemple, une invitation demandant aux personnes souffrant d'une maladie ou un handicap spécifique de décrire comment cela affecte leurs sentiments, leurs relations sociales et la vie quotidienne ; ou une invitation écrite demandant aux personnes de tenir un journal des livres lus pendant une période de six mois et les pensées provoquées par les livres.</r:Content>
+            <r:Content xml:lang="it">Linee guida relative al contenuto desiderato o atteso di documenti o narrazioni personali dei potenziali partecipanti allo studio. Le istruzioni possono essere fornite come parte dell'invito a partecipare oppure separatamente. Ad esempio, un invito che chiede alle persone che soffrono di una specifica malattia o disabilità di descrivere come essa influisca sui loro sentimenti, sulle relazioni sociali e sulla vita quotidiana; oppure un invito a tenere un diario dei libri letti durante un periodo di sei mesi con la richiesta di riportare i pensieri suscitati dai libri.</r:Content>
+            <r:Content xml:lang="it">Linee guida relative al contenuto desiderato o atteso di documenti o narrazioni personali dei potenziali partecipanti allo studio. Le istruzioni possono essere fornite come parte dell'invito a partecipare oppure separatamente. Ad esempio, un invito che chiede alle persone che soffrono di una specifica malattia o disabilità di descrivere come essa influisca sui loro sentimenti, sulle relazioni sociali e sulla vita quotidiana; oppure un invito a tenere un diario dei libri letti durante un periodo di sei mesi con la richiesta di riportare i pensieri suscitati dai libri.</r:Content>
+            <r:Content xml:lang="lt">Potencialių dalyvių savarankiškai rašomų asmeninių pasakojimų ar naratyvų turinio kūrimo gairės. Instrukcijos gali būti pateiktos kartu su kvietimu rašyti arba atskirai. Pavyzdžiui, kvietimas, kuriame žmonių, kenčiančių nuo konkrečios ligos ar negalios, prašoma aprašyti, kaip tai veikia jų jausmus, socialinius ryšius ir kasdienį gyvenimą; arba kvietimas, kuriame žmonių prašoma šešis mėnesius rašyti perskaitytų knygų dienoraštį ir kilusias mintis.</r:Content>
+            <r:Content xml:lang="lt">Potencialių dalyvių savarankiškai rašomų asmeninių pasakojimų ar naratyvų turinio kūrimo gairės. Instrukcijos gali būti pateiktos kartu su kvietimu rašyti arba atskirai. Pavyzdžiui, kvietimas, kuriame žmonių, kenčiančių nuo konkrečios ligos ar negalios, prašoma aprašyti, kaip tai veikia jų jausmus, socialinius ryšius ir kasdienį gyvenimą; arba kvietimas, kuriame žmonių prašoma šešis mėnesius rašyti perskaitytų knygų dienoraštį ir kilusias mintis.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Retningslinjer angående ønsket eller forventet innhold i selvskrevne personlige fortellinger fra potensielle deltakere. Instruksjonene kan bli utdelt som del av invitasjonen til å skrive, eller den kan gis ut separat. For eksempel en invitasjon som ber folk med livstruende sykdommer beskrive hvordan sykdommen påvirker deres følelser, sosiale relasjoner og hverdagsliv; eller en skriveinvitasjon som ber folk føre en dagbok over hvilke bøker de leser over en seksmånedersperiode og hvilke tanker bøkene vekker.</r:Content>
+            <r:Content xml:lang="no">Retningslinjer angående ønsket eller forventet innhold i selvskrevne personlige fortellinger fra potensielle deltakere. Instruksjonene kan bli utdelt som del av invitasjonen til å skrive, eller den kan gis ut separat. For eksempel en invitasjon som ber folk med livstruende sykdommer beskrive hvordan sykdommen påvirker deres følelser, sosiale relasjoner og hverdagsliv; eller en skriveinvitasjon som ber folk føre en dagbok over hvilke bøker de leser over en seksmånedersperiode og hvilke tanker bøkene vekker.</r:Content>
+            <r:Content xml:lang="pt">Orientações ou instruções sobre o conteúdo esperado ou desejado de relatos ou narrativas pessoais de potenciais participantes. As instruções podem ser fornecidas como parte do guião ou separadamente. Por exemplo, um convite pedindo/solicitando às pessoas que sofrem de uma doença específica ou incapacidade/limitação para descrever como isso afeta os sentimentos, as relações sociais e a vida quotidiana; ou um convite por escrito pedindo às pessoas para manterem um diário dos livros lidos durante um período de seis meses e dos pensamentos por eles suscitados.</r:Content>
+            <r:Content xml:lang="pt">Orientações ou instruções sobre o conteúdo esperado ou desejado de relatos ou narrativas pessoais de potenciais participantes. As instruções podem ser fornecidas como parte do guião ou separadamente. Por exemplo, um convite pedindo/solicitando às pessoas que sofrem de uma doença específica ou incapacidade/limitação para descrever como isso afeta os sentimentos, as relações sociais e a vida quotidiana; ou um convite por escrito pedindo às pessoas para manterem um diário dos livros lidos durante um período de seis meses e dos pensamentos por eles suscitados.</r:Content>
+            <r:Content xml:lang="sl">Smernice o želeni ali pričakovani vsebini samoizpolnjenih osebnih dnevnikov ali pripovedi potencialnih udeležencev. Navodila so lahko na voljo kot del napisanega vabila ali ločeno. Na primer, obvestilo o literarnem natečaju, ki vabi ljudi z življenjsko nevarno boleznijo, da opišejo, kako bolezen vpliva na njihove občutke, medsebojne odnose in vsakdanje življenje; ali pisno vabilo posameznikom, naj vodijo dnevnik prebranih knjig v šestih mesecih in si zapisujejo misli, ki se jim porajajo ob branju.</r:Content>
+            <r:Content xml:lang="sl">Smernice o želeni ali pričakovani vsebini samoizpolnjenih osebnih dnevnikov ali pripovedi potencialnih udeležencev. Navodila so lahko na voljo kot del napisanega vabila ali ločeno. Na primer, obvestilo o literarnem natečaju, ki vabi ljudi z življenjsko nevarno boleznijo, da opišejo, kako bolezen vpliva na njihove občutke, medsebojne odnose in vsakdanje življenje; ali pisno vabilo posameznikom, naj vodijo dnevnik prebranih knjig v šestih mesecih in si zapisujejo misli, ki se jim porajajo ob branju.</r:Content>
+            <r:Content xml:lang="sr">Smernice o željenom ili očekivanom sadržaju samostalno sastavljenih ličnih zapisa ili svedočanstvima potencijalnih učesnika. Uputstva se mogu biti deo pismenog poziva ili odvojena. Na primer, poziv koji traži od ljudi koji pate od određene bolesti ili invaliditeta da opišu kako to utiče na njihova osećanja, društvene odnose i svakodnevni život; ili poziv za pisanje kojim se traži da ljudi vode dnevnik čitanja knjiga tokom perioda od šest meseci i misli koje izazivaju knjige.</r:Content>
+            <r:Content xml:lang="sr">Smernice o željenom ili očekivanom sadržaju samostalno sastavljenih ličnih zapisa ili svedočanstvima potencijalnih učesnika. Uputstva se mogu biti deo pismenog poziva ili odvojena. Na primer, poziv koji traži od ljudi koji pate od određene bolesti ili invaliditeta da opišu kako to utiče na njihova osećanja, društvene odnose i svakodnevni život; ili poziv za pisanje kojim se traži da ljudi vode dnevnik čitanja knjiga tokom perioda od šest meseci i misli koje izazivaju knjige.</r:Content>
+            <r:Content xml:lang="sv">Guide för önskat eller förväntat innehåll i självskrivna personliga redogörelser eller berättelser från potentiella deltagare. Anvisningarna kan levereras separat eller som en del av inbjudan att delta i skrivandet. Till exempel en inbjudan till människor med en viss sjukdom eller funktionsnedsättning om att beskriva hur det påverkar deras känslor, sociala relationer och vardagsliv. Eller en skrivinbjudan som ber människor att föra dagbok om vilka böcker de läser under en period av sex månader och de tankar som väcks av böckerna.</r:Content>
+            <r:Content xml:lang="sv">Guide för önskat eller förväntat innehåll i självskrivna personliga redogörelser eller berättelser från potentiella deltagare. Anvisningarna kan levereras separat eller som en del av inbjudan att delta i skrivandet. Till exempel en inbjudan till människor med en viss sjukdom eller funktionsnedsättning om att beskriva hur det påverkar deras känslor, sociala relationer och vardagsliv. Eller en skrivinbjudan som ber människor att föra dagbok om vilka böcker de läser under en period av sex månader och de tankar som väcks av böckerna.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfInstrument-DataCollectionGuidelines.SecondaryDataCollectionGuide-Category</r:ID>
+         <r:Version>1.1.0</r:Version>
+         <l:CategoryName>DataCollectionGuidelines.SecondaryDataCollectionGuide</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data collection guidelines: Secondary data collection guide</r:Content>
+            <r:Content xml:lang="en">Data collection guidelines: Secondary data collection guide</r:Content>
+            <r:Content xml:lang="da">Retningslinjer for dataindsamling: Guide for indsamling af sekundærdata</r:Content>
+            <r:Content xml:lang="da">Retningslinjer for dataindsamling: Guide for indsamling af sekundærdata</r:Content>
+            <r:Content xml:lang="fi">Aineistonkeruuohjeistus: poimintaohje tai -suunnitelma</r:Content>
+            <r:Content xml:lang="fi">Aineistonkeruuohjeistus: poimintaohje tai -suunnitelma</r:Content>
+            <r:Content xml:lang="fr">Consignes de collecte de données : Guide de collecte de données secondaires</r:Content>
+            <r:Content xml:lang="fr">Consignes de collecte de données : Guide de collecte de données secondaires</r:Content>
+            <r:Content xml:lang="it">Linee guida per la raccolta dei dati: dati secondari</r:Content>
+            <r:Content xml:lang="it">Linee guida per la raccolta dei dati: dati secondari</r:Content>
+            <r:Content xml:lang="lt">Duomenų rinkimo gairės: antrinių duomenų rinkimo vadovas</r:Content>
+            <r:Content xml:lang="lt">Duomenų rinkimo gairės: antrinių duomenų rinkimo vadovas</r:Content>
+            <r:Content xml:lang="nl">Richtlijnen voor gegevensverzameling: Handleiding voor de verzameling van secundaire gegevens</r:Content>
+            <r:Content xml:lang="nl">Richtlijnen voor gegevensverzameling: Handleiding voor de verzameling van secundaire gegevens</r:Content>
+            <r:Content xml:lang="no">Retningslinjer for datainnsamling: Guide for andregangsinnsamling av data</r:Content>
+            <r:Content xml:lang="no">Retningslinjer for datainnsamling: Guide for andregangsinnsamling av data</r:Content>
+            <r:Content xml:lang="pt">Orientações para a recolha de dados: Guião para recolha de dados secundários</r:Content>
+            <r:Content xml:lang="pt">Orientações para a recolha de dados: Guião para recolha de dados secundários</r:Content>
+            <r:Content xml:lang="sl">Smernice za zbiranje podatkov: vodnik za zbiranje sekundarnih podatkov</r:Content>
+            <r:Content xml:lang="sl">Smernice za zbiranje podatkov: vodnik za zbiranje sekundarnih podatkov</r:Content>
+            <r:Content xml:lang="sr">Smernice za prikupljanje podataka: Vodič za prikupljanje sekundarnih podataka</r:Content>
+            <r:Content xml:lang="sr">Smernice za prikupljanje podataka: Vodič za prikupljanje sekundarnih podataka</r:Content>
+            <r:Content xml:lang="sv">Datainsamlingsguide: Guide för insamling av sekundärdata</r:Content>
+            <r:Content xml:lang="sv">Datainsamlingsguide: Guide för insamling av sekundärdata</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Guidelines specifying what data are to be collected from previously existing sources originally created for other purposes. For example, directions on how to select and code data from qualitative sources to create a quantitative dataset.</r:Content>
+            <r:Content xml:lang="en">Guidelines specifying what data are to be collected from previously existing sources originally created for other purposes. For example, directions on how to select and code data from qualitative sources to create a quantitative dataset.</r:Content>
+            <r:Content xml:lang="da">Retningslinjer, der angiver, hvilke data, som skal indsamles fra tidligere eksisterende kilder oprindeligt skabt til andre formål. For eksempel vejledning til, hvordan man vælger og koder data fra kvalitative kilder for at oprette et kvantitativt datasæt.</r:Content>
+            <r:Content xml:lang="da">Retningslinjer, der angiver, hvilke data, som skal indsamles fra tidligere eksisterende kilder oprindeligt skabt til andre formål. For eksempel vejledning til, hvordan man vælger og koder data fra kvalitative kilder for at oprette et kvantitativt datasæt.</r:Content>
+            <r:Content xml:lang="fi">Keruuohje tai -suunnitelma siitä, miten tutkimusaineisto muodostetaan jo aiemmin olemassa olevasta, muuta tarkoitusta varten tehdystä lähdemateriaalista. Esimerkiksi ohje sanomalehtimateriaalin poimimiseksi tutkimukseen tai poiminta- ja käsittelyohjeet jos jostain kvalitatiivisesta lähdemateriaalista muodostetaan numeerinen aineisto.</r:Content>
+            <r:Content xml:lang="fi">Keruuohje tai -suunnitelma siitä, miten tutkimusaineisto muodostetaan jo aiemmin olemassa olevasta, muuta tarkoitusta varten tehdystä lähdemateriaalista. Esimerkiksi ohje sanomalehtimateriaalin poimimiseksi tutkimukseen tai poiminta- ja käsittelyohjeet jos jostain kvalitatiivisesta lähdemateriaalista muodostetaan numeerinen aineisto.</r:Content>
+            <r:Content xml:lang="fr">Consignes spécifiant quelles données sont collectées à partir de sources existantes précédemment créées pour d'autres fins. Par exemple, des directives sur comment sélectionner et coder des données à partir de sources qualitatives pour créer un ensemble de données quantitatives.</r:Content>
+            <r:Content xml:lang="fr">Consignes spécifiant quelles données sont collectées à partir de sources existantes précédemment créées pour d'autres fins. Par exemple, des directives sur comment sélectionner et coder des données à partir de sources qualitatives pour créer un ensemble de données quantitatives.</r:Content>
+            <r:Content xml:lang="it">Linee guida che specificano quali dati devono essere raccolti da fonti precedentemente esistenti ma create originariamente per altri scopi. Ad esempio, indicazioni su come selezionare e codificare i dati da fonti qualitative per creare un dataset quantitativo.</r:Content>
+            <r:Content xml:lang="it">Linee guida che specificano quali dati devono essere raccolti da fonti precedentemente esistenti ma create originariamente per altri scopi. Ad esempio, indicazioni su come selezionare e codificare i dati da fonti qualitative per creare un dataset quantitativo.</r:Content>
+            <r:Content xml:lang="lt">Gairės nurodančios, kokie duomenys turi būti renkami iš egzistuojančių šaltinių, sukurtų kitiems tikslams. Pavyzdžiui, nurodymai, kaip atrinkti ir koduoti duomenis iš kokybinių šaltinių, norint sukurti kiekybinių duomenų rinkinį.</r:Content>
+            <r:Content xml:lang="lt">Gairės nurodančios, kokie duomenys turi būti renkami iš egzistuojančių šaltinių, sukurtų kitiems tikslams. Pavyzdžiui, nurodymai, kaip atrinkti ir koduoti duomenis iš kokybinių šaltinių, norint sukurti kiekybinių duomenų rinkinį.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Retningslinjer som spesifiserer hvilke opplysninger som skal hentes fra eksisterende datakilder som opprinnelig ble samlet for andre formål. For eksempel retningslinjer for hvordan opplysninger fra kvalitative kilder skal velges og kodes for å utarbeide kvantitative datasett.</r:Content>
+            <r:Content xml:lang="no">Retningslinjer som spesifiserer hvilke opplysninger som skal hentes fra eksisterende datakilder som opprinnelig ble samlet for andre formål. For eksempel retningslinjer for hvordan opplysninger fra kvalitative kilder skal velges og kodes for å utarbeide kvantitative datasett.</r:Content>
+            <r:Content xml:lang="pt">Orientações ou instruções que especificam que dados devem ser recolhidos de fontes anteriormente existentes criadas originalmente para outros fins. Por exemplo, instruções sobre como selecionar e codificar dados de fontes qualitativas para criar um conjunto de dados quantitativos.</r:Content>
+            <r:Content xml:lang="pt">Orientações ou instruções que especificam que dados devem ser recolhidos de fontes anteriormente existentes criadas originalmente para outros fins. Por exemplo, instruções sobre como selecionar e codificar dados de fontes qualitativas para criar um conjunto de dados quantitativos.</r:Content>
+            <r:Content xml:lang="sl">Smernice, ki določajo, katere podatke je potrebno zbrati iz že obstoječih virov, ki so bili prvotno ustvarjeni za druge namene. Na primer navodila za izbiranje in kodiranje podatkov iz kakovostnih virov z namenom oblikovanja kvantitativnega nabora podatkov.</r:Content>
+            <r:Content xml:lang="sl">Smernice, ki določajo, katere podatke je potrebno zbrati iz že obstoječih virov, ki so bili prvotno ustvarjeni za druge namene. Na primer navodila za izbiranje in kodiranje podatkov iz kakovostnih virov z namenom oblikovanja kvantitativnega nabora podatkov.</r:Content>
+            <r:Content xml:lang="sr">Smernice koje određuju koji se podaci prikupljaju iz prethodno postojećih izvora prvobitno kreiranih u druge svrhe. Na primer, uputstva o tome kako da odaberete i kodirate podatke iz kvalitativnih izvora kako biste stvorili kvantitativni skup podataka.</r:Content>
+            <r:Content xml:lang="sr">Smernice koje određuju koji se podaci prikupljaju iz prethodno postojećih izvora prvobitno kreiranih u druge svrhe. Na primer, uputstva o tome kako da odaberete i kodirate podatke iz kvalitativnih izvora kako biste stvorili kvantitativni skup podataka.</r:Content>
+            <r:Content xml:lang="sv">Guide som anger vilka data som ska samlas in från befintliga källor som ursprungligen skapats för andra ändamål. Till exempel anvisningar om hur man väljer och kodar data från kvalitativa källor för att skapa ett kvantitativt dataset.</r:Content>
+            <r:Content xml:lang="sv">Guide som anger vilka data som ska samlas in från befintliga källor som ursprungligen skapats för andra ändamål. Till exempel anvisningar om hur man väljer och kodar data från kvalitativa källor för att skapa ett kvantitativt dataset.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfInstrument-ParticipantTasks-Category</r:ID>
+         <r:Version>1.1.0</r:Version>
+         <l:CategoryName>ParticipantTasks</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Participant tasks</r:Content>
+            <r:Content xml:lang="en">Participant tasks</r:Content>
+            <r:Content xml:lang="da">Deltageropgaver</r:Content>
+            <r:Content xml:lang="da">Deltageropgaver</r:Content>
+            <r:Content xml:lang="fi">Osallistujatehtävä</r:Content>
+            <r:Content xml:lang="fi">Osallistujatehtävä</r:Content>
+            <r:Content xml:lang="fr">Tâches des participants</r:Content>
+            <r:Content xml:lang="fr">Tâches des participants</r:Content>
+            <r:Content xml:lang="it">Compiti del partecipante</r:Content>
+            <r:Content xml:lang="it">Compiti del partecipante</r:Content>
+            <r:Content xml:lang="lt">Užduotys dalyviams</r:Content>
+            <r:Content xml:lang="lt">Užduotys dalyviams</r:Content>
+            <r:Content xml:lang="nl">Taken voor de deelnemers</r:Content>
+            <r:Content xml:lang="nl">Taken voor de deelnemers</r:Content>
+            <r:Content xml:lang="no">Deltakeroppgaver</r:Content>
+            <r:Content xml:lang="no">Deltakeroppgaver</r:Content>
+            <r:Content xml:lang="pt">Tarefas para os participantes</r:Content>
+            <r:Content xml:lang="pt">Tarefas para os participantes</r:Content>
+            <r:Content xml:lang="sl">Naloge udeležencev</r:Content>
+            <r:Content xml:lang="sl">Naloge udeležencev</r:Content>
+            <r:Content xml:lang="sr">Zadaci učesnika</r:Content>
+            <r:Content xml:lang="sr">Zadaci učesnika</r:Content>
+            <r:Content xml:lang="sv">Uppgifter för deltagarna</r:Content>
+            <r:Content xml:lang="sv">Uppgifter för deltagarna</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">A description of tasks that participants are asked to carry out as a part of the data collection process. For example, marking places on a map, taking photographs, telling a fairy tale, etc.</r:Content>
+            <r:Content xml:lang="en">A description of tasks that participants are asked to carry out as a part of the data collection process. For example, marking places on a map, taking photographs, telling a fairy tale, etc.</r:Content>
+            <r:Content xml:lang="da">En beskrivelse af opgaver, som deltagerne bliver bedt om at udføre som en del af dataindsamlingsprocessen. For eksempel markering af steder på et kort, tage fotografier, fortælle et eventyr mm.</r:Content>
+            <r:Content xml:lang="da">En beskrivelse af opgaver, som deltagerne bliver bedt om at udføre som en del af dataindsamlingsprocessen. For eksempel markering af steder på et kort, tage fotografier, fortælle et eventyr mm.</r:Content>
+            <r:Content xml:lang="fi">Osanottajille annettu tehtävänanto, joka on osa aineistonkeruuprosessia. Esimerkiksi: Lempipaikkojen merkitseminen virtuaalikarttaan, valokuvien ottaminen, vitsien tai satujen kertominen.</r:Content>
+            <r:Content xml:lang="fi">Osanottajille annettu tehtävänanto, joka on osa aineistonkeruuprosessia. Esimerkiksi: Lempipaikkojen merkitseminen virtuaalikarttaan, valokuvien ottaminen, vitsien tai satujen kertominen.</r:Content>
+            <r:Content xml:lang="fr">Une description de tâches que les participants sont invités à effectuer dans le cadre du processus de collecte des données. Par exemple, marquer des endroits sur une carte, prendre des photographies, raconter un conte de fées, etc.</r:Content>
+            <r:Content xml:lang="fr">Une description de tâches que les participants sont invités à effectuer dans le cadre du processus de collecte des données. Par exemple, marquer des endroits sur une carte, prendre des photographies, raconter un conte de fées, etc.</r:Content>
+            <r:Content xml:lang="it">Una descrizione delle attività che i partecipanti sono invitati a svolgere come parte del processo di raccolta dei dati. Ad esempio, segnare i luoghi su una mappa, scattare fotografie, raccontare una fiaba, ecc.</r:Content>
+            <r:Content xml:lang="it">Una descrizione delle attività che i partecipanti sono invitati a svolgere come parte del processo di raccolta dei dati. Ad esempio, segnare i luoghi su una mappa, scattare fotografie, raccontare una fiaba, ecc.</r:Content>
+            <r:Content xml:lang="lt">Užduočių, kurias dalyvių prašoma atlikti renkant duomenis, aprašas. Pavyzdžiui, pažymėti vietas žemėlapyje, fotografuoti, pasekti pasaką ir kt.</r:Content>
+            <r:Content xml:lang="lt">Užduočių, kurias dalyvių prašoma atlikti renkant duomenis, aprašas. Pavyzdžiui, pažymėti vietas žemėlapyje, fotografuoti, pasekti pasaką ir kt.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">En beskrivelse av oppgavene deltakere blir bedt om å utføre som del av datainnsamlingsprosessen. For eksempel markere steder på et kart, ta bilder, fortelle et eventyr, etc.</r:Content>
+            <r:Content xml:lang="no">En beskrivelse av oppgavene deltakere blir bedt om å utføre som del av datainnsamlingsprosessen. For eksempel markere steder på et kart, ta bilder, fortelle et eventyr, etc.</r:Content>
+            <r:Content xml:lang="pt">Descrição das tarefas que os participantes são convidados a realizar como parte do processo de recolha de dados. Por exemplo, marcar lugares num mapa, tirar fotografias, contar uma história infantil, etc.</r:Content>
+            <r:Content xml:lang="pt">Descrição das tarefas que os participantes são convidados a realizar como parte do processo de recolha de dados. Por exemplo, marcar lugares num mapa, tirar fotografias, contar uma história infantil, etc.</r:Content>
+            <r:Content xml:lang="sl">Opis nalog, ki jih morajo udeleženci opraviti kot del postopka zbiranja podatkov. Na primer, označevanje mest na zemljevidu, fotografiranje, pripovedovanje pravljice itd.</r:Content>
+            <r:Content xml:lang="sl">Opis nalog, ki jih morajo udeleženci opraviti kot del postopka zbiranja podatkov. Na primer, označevanje mest na zemljevidu, fotografiranje, pripovedovanje pravljice itd.</r:Content>
+            <r:Content xml:lang="sr">Opis zadataka koji se od učesnika traže da izvrše kao deo procesa prikupljanja podataka. Na primer, obeležavanje mesta na mapi, fotografisanje, pričanje bajke itd.</r:Content>
+            <r:Content xml:lang="sr">Opis zadataka koji se od učesnika traže da izvrše kao deo procesa prikupljanja podataka. Na primer, obeležavanje mesta na mapi, fotografisanje, pričanje bajke itd.</r:Content>
+            <r:Content xml:lang="sv">En beskrivning av uppgifter som deltagare ombeds att utföra som en del av datainsamlingsprocessen. Till exempel att markera platser på en karta, fotografera, berätta en saga osv.</r:Content>
+            <r:Content xml:lang="sv">En beskrivning av uppgifter som deltagare ombeds att utföra som en del av datainsamlingsprocessen. Till exempel att markera platser på en karta, fotografera, berätta en saga osv.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfInstrument-TechnicalInstruments-Category</r:ID>
+         <r:Version>1.1.0</r:Version>
+         <l:CategoryName>TechnicalInstruments</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Technical instrument(s)</r:Content>
+            <r:Content xml:lang="en">Technical instrument(s)</r:Content>
+            <r:Content xml:lang="da">Teknisk(e) instrument(er)</r:Content>
+            <r:Content xml:lang="da">Teknisk(e) instrument(er)</r:Content>
+            <r:Content xml:lang="fi">Tekniset keruuvälineet</r:Content>
+            <r:Content xml:lang="fi">Tekniset keruuvälineet</r:Content>
+            <r:Content xml:lang="fr">Instrument(s) technique(s)</r:Content>
+            <r:Content xml:lang="fr">Instrument(s) technique(s)</r:Content>
+            <r:Content xml:lang="it">Strumenti tecnici</r:Content>
+            <r:Content xml:lang="it">Strumenti tecnici</r:Content>
+            <r:Content xml:lang="lt">Techninis (-iai) instrumentas (-ai)</r:Content>
+            <r:Content xml:lang="lt">Techninis (-iai) instrumentas (-ai)</r:Content>
+            <r:Content xml:lang="nl">Technische hulpmiddelen</r:Content>
+            <r:Content xml:lang="nl">Technische hulpmiddelen</r:Content>
+            <r:Content xml:lang="no">Tekniske instrument(er)</r:Content>
+            <r:Content xml:lang="no">Tekniske instrument(er)</r:Content>
+            <r:Content xml:lang="pt">Instrumento(s) técnico(s)</r:Content>
+            <r:Content xml:lang="pt">Instrumento(s) técnico(s)</r:Content>
+            <r:Content xml:lang="sl">Tehnični inštrument(i)</r:Content>
+            <r:Content xml:lang="sl">Tehnični inštrument(i)</r:Content>
+            <r:Content xml:lang="sr">Tehnički instrument(i)</r:Content>
+            <r:Content xml:lang="sr">Tehnički instrument(i)</r:Content>
+            <r:Content xml:lang="sv">Tekniskt/-a instrument</r:Content>
+            <r:Content xml:lang="sv">Tekniskt/-a instrument</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Instruments used to collect objective data like measurements, images, etc. For example, chronometers, scales, speedometers, blood pressure monitors, thermometers, x-ray machines, etc.</r:Content>
+            <r:Content xml:lang="en">Instruments used to collect objective data like measurements, images, etc. For example, chronometers, scales, speedometers, blood pressure monitors, thermometers, x-ray machines, etc.</r:Content>
+            <r:Content xml:lang="da">Instrumenter anvendt til at indsamle objektive data såsom målinger, billeder mm. For eksempel kronometer, vægte, hastighedsmålere, blodtryksmålere, termometre, røntgenapparater mm.</r:Content>
+            <r:Content xml:lang="da">Instrumenter anvendt til at indsamle objektive data såsom målinger, billeder mm. For eksempel kronometer, vægte, hastighedsmålere, blodtryksmålere, termometre, røntgenapparater mm.</r:Content>
+            <r:Content xml:lang="fi">Objektiivisten havaintojen keräämiseen käytetyt välineet. Esimerkiksi verenpainemittarit, röntgenkuvat, ajanmittaus, nopeus- ja lämpötilamittarit jne.</r:Content>
+            <r:Content xml:lang="fi">Objektiivisten havaintojen keräämiseen käytetyt välineet. Esimerkiksi verenpainemittarit, röntgenkuvat, ajanmittaus, nopeus- ja lämpötilamittarit jne.</r:Content>
+            <r:Content xml:lang="fr">Instruments utilisé pour collecter des données objectives comme des mesures, des images, etc. Par exemple, chronomètres, balances, compteurs de vitesse, tensiomètres, thermomètres, appareils à rayons X, etc.</r:Content>
+            <r:Content xml:lang="fr">Instruments utilisé pour collecter des données objectives comme des mesures, des images, etc. Par exemple, chronomètres, balances, compteurs de vitesse, tensiomètres, thermomètres, appareils à rayons X, etc.</r:Content>
+            <r:Content xml:lang="it">Strumenti utilizzati per raccogliere dati oggettivi come misurazioni, immagini, ecc. Ad esempio, cronometri, scale, tachimetri, misuratori della pressione sanguigna, termometri, macchine a raggi X, ecc.</r:Content>
+            <r:Content xml:lang="it">Strumenti utilizzati per raccogliere dati oggettivi come misurazioni, immagini, ecc. Ad esempio, cronometri, scale, tachimetri, misuratori della pressione sanguigna, termometri, macchine a raggi X, ecc.</r:Content>
+            <r:Content xml:lang="lt">Instrumentai naudojami objektyviems duomenims (tokiems kaip išmatavimai, nuotraukos ir kt.) rinkti. Pavyzdžiui, chronometrai, svarstyklės, spidometrai, kraujospūdžio matuokliai, termometrai, rentgeno aparatai ir kt.</r:Content>
+            <r:Content xml:lang="lt">Instrumentai naudojami objektyviems duomenims (tokiems kaip išmatavimai, nuotraukos ir kt.) rinkti. Pavyzdžiui, chronometrai, svarstyklės, spidometrai, kraujospūdžio matuokliai, termometrai, rentgeno aparatai ir kt.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Instrumenter brukt for å samle inn objektive data, slik som mål, bilder, etc. For eksempel kronometre, vekter, speedometre, blodtrykksmonitorer, termometere, røntgenmaskiner, etc.</r:Content>
+            <r:Content xml:lang="no">Instrumenter brukt for å samle inn objektive data, slik som mål, bilder, etc. For eksempel kronometre, vekter, speedometre, blodtrykksmonitorer, termometere, røntgenmaskiner, etc.</r:Content>
+            <r:Content xml:lang="pt">Instrumentos usados para recolher dados objetivos, como medições, imagens, etc. Por exemplo, cronómetros, balanças, velocímetros, monitores de pressão arterial, termómetros, máquinas de raio-x, etc.</r:Content>
+            <r:Content xml:lang="pt">Instrumentos usados para recolher dados objetivos, como medições, imagens, etc. Por exemplo, cronómetros, balanças, velocímetros, monitores de pressão arterial, termómetros, máquinas de raio-x, etc.</r:Content>
+            <r:Content xml:lang="sl">Pripomočki, ki se uporabljajo za zbiranje objektivnih podatkov, kot so meritve, slike itd. Na primer kronometri, lestvice, merilniki hitrosti, naprave za merjenje krvnega tlaka, termometri, rentgen itd.</r:Content>
+            <r:Content xml:lang="sl">Pripomočki, ki se uporabljajo za zbiranje objektivnih podatkov, kot so meritve, slike itd. Na primer kronometri, lestvice, merilniki hitrosti, naprave za merjenje krvnega tlaka, termometri, rentgen itd.</r:Content>
+            <r:Content xml:lang="sr">Instrumenti koji se koriste za prikupljanje objektivnih podataka kao što su merenja, slike, itd. Na primer, hronometri, vage, brzinomeri, merači krvnog pritiska, termometri, rendgenski aparati, itd.</r:Content>
+            <r:Content xml:lang="sr">Instrumenti koji se koriste za prikupljanje objektivnih podataka kao što su merenja, slike, itd. Na primer, hronometri, vage, brzinomeri, merači krvnog pritiska, termometri, rendgenski aparati, itd.</r:Content>
+            <r:Content xml:lang="sv">Instrument som används för att samla in objektiva data som mätningar, bilder osv. Till exempel kronometrar, vågar, hastighetsmätare, blodtrycksmätare, termometrar, röntgenapparater osv.</r:Content>
+            <r:Content xml:lang="sv">Instrument som används för att samla in objektiva data som mätningar, bilder osv. Till exempel kronometrar, vågar, hastighetsmätare, blodtrycksmätare, termometrar, röntgenapparater osv.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfInstrument-ProgrammingScript-Category</r:ID>
+         <r:Version>1.1.0</r:Version>
+         <l:CategoryName>ProgrammingScript</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Programming script</r:Content>
+            <r:Content xml:lang="en">Programming script</r:Content>
+            <r:Content xml:lang="da">Programmeringsscript</r:Content>
+            <r:Content xml:lang="da">Programmeringsscript</r:Content>
+            <r:Content xml:lang="fi">Ohjelmointikoodi</r:Content>
+            <r:Content xml:lang="fi">Ohjelmointikoodi</r:Content>
+            <r:Content xml:lang="fr">Script de programmation</r:Content>
+            <r:Content xml:lang="fr">Script de programmation</r:Content>
+            <r:Content xml:lang="it">Script di programmazione</r:Content>
+            <r:Content xml:lang="it">Script di programmazione</r:Content>
+            <r:Content xml:lang="lt">Programavimo skriptas</r:Content>
+            <r:Content xml:lang="lt">Programavimo skriptas</r:Content>
+            <r:Content xml:lang="nl">Programmeerscript</r:Content>
+            <r:Content xml:lang="nl">Programmeerscript</r:Content>
+            <r:Content xml:lang="no">Programmeringsskript</r:Content>
+            <r:Content xml:lang="no">Programmeringsskript</r:Content>
+            <r:Content xml:lang="pt">Script/Esquema de programação</r:Content>
+            <r:Content xml:lang="pt">Script/Esquema de programação</r:Content>
+            <r:Content xml:lang="sl">Programska koda</r:Content>
+            <r:Content xml:lang="sl">Programska koda</r:Content>
+            <r:Content xml:lang="sr">Programska skripta</r:Content>
+            <r:Content xml:lang="sr">Programska skripta</r:Content>
+            <r:Content xml:lang="sv">Skript</r:Content>
+            <r:Content xml:lang="sv">Skript</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Programming script written in a data query language that is used to extract specific data, for instance from online social networks.</r:Content>
+            <r:Content xml:lang="en">Programming script written in a data query language that is used to extract specific data, for instance from online social networks.</r:Content>
+            <r:Content xml:lang="da">Programmeringsscript skrevet på et programmeringssprog, der anvendes til at udtrække specifikke data, eksempelvis fra online sociale netværk.</r:Content>
+            <r:Content xml:lang="da">Programmeringsscript skrevet på et programmeringssprog, der anvendes til at udtrække specifikke data, eksempelvis fra online sociale netværk.</r:Content>
+            <r:Content xml:lang="fi">Halutun kaltaista dataa on poimittu ohjelmallisesti, esimerkiksi sosiaalisesta mediasta tai muista verkkolähteistä.</r:Content>
+            <r:Content xml:lang="fi">Halutun kaltaista dataa on poimittu ohjelmallisesti, esimerkiksi sosiaalisesta mediasta tai muista verkkolähteistä.</r:Content>
+            <r:Content xml:lang="fr">Script de programmation écrit dans un langage de requête de données qui est utilisé pour extraire des données spécifiques, par exemple des réseaux sociaux en ligne.</r:Content>
+            <r:Content xml:lang="fr">Script de programmation écrit dans un langage de requête de données qui est utilisé pour extraire des données spécifiques, par exemple des réseaux sociaux en ligne.</r:Content>
+            <r:Content xml:lang="it">Script di programmazione sviluppato in un linguaggio di interrogazione dei dati che viene utilizzato per estrarre dati specifici, ad esempio dai social network online.</r:Content>
+            <r:Content xml:lang="it">Script di programmazione sviluppato in un linguaggio di interrogazione dei dati che viene utilizzato per estrarre dati specifici, ad esempio dai social network online.</r:Content>
+            <r:Content xml:lang="lt">Programavimo skriptas, parašytas duomenų užklausos kalba, ir naudojamas konkrečių duomenų gavybai, pavyzdžiui, iš internetinių socialinių tinklų.</r:Content>
+            <r:Content xml:lang="lt">Programavimo skriptas, parašytas duomenų užklausos kalba, ir naudojamas konkrečių duomenų gavybai, pavyzdžiui, iš internetinių socialinių tinklų.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Programmeringsskript som er skrevet i et skriptprogrammeringsspråk som blir brukt til å trekke ut bestemte opplysninger, for eksempel fra sosiale nettverk på internett.</r:Content>
+            <r:Content xml:lang="no">Programmeringsskript som er skrevet i et skriptprogrammeringsspråk som blir brukt til å trekke ut bestemte opplysninger, for eksempel fra sosiale nettverk på internett.</r:Content>
+            <r:Content xml:lang="pt">Script de programação escrito numa linguagem de pesquisa de dados, que é usado para extrair dados específicos, nomeadamente de redes sociais online.</r:Content>
+            <r:Content xml:lang="pt">Script de programação escrito numa linguagem de pesquisa de dados, que é usado para extrair dados específicos, nomeadamente de redes sociais online.</r:Content>
+            <r:Content xml:lang="sl">Koda za programiranje, napisana v jeziku poizvedbe, ki se uporablja za pridobivanje določenih podatkov, na primer iz spletnih socialnih omrežij.</r:Content>
+            <r:Content xml:lang="sl">Koda za programiranje, napisana v jeziku poizvedbe, ki se uporablja za pridobivanje določenih podatkov, na primer iz spletnih socialnih omrežij.</r:Content>
+            <r:Content xml:lang="sr">Programska skripta napisana na Data Query jeziku (DQL) koja se koriste za izvlačenje određenih podataka, na primer, iz društvenih mreža.</r:Content>
+            <r:Content xml:lang="sr">Programska skripta napisana na Data Query jeziku (DQL) koja se koriste za izvlačenje određenih podataka, na primer, iz društvenih mreža.</r:Content>
+            <r:Content xml:lang="sv">Ett skript som är skrivet i ett förfrågningsspråk (data query language) och som används för att extrahera specifika data, t.ex. från sociala nätverk på nätet.</r:Content>
+            <r:Content xml:lang="sv">Ett skript som är skrivet i ett förfrågningsspråk (data query language) och som används för att extrahera specifika data, t.ex. från sociala nätverk på nätet.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfInstrument-Other-Category</r:ID>
+         <r:Version>1.1.0</r:Version>
+         <l:CategoryName>Other</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Other</r:Content>
+            <r:Content xml:lang="en">Other</r:Content>
+            <r:Content xml:lang="da">Andet</r:Content>
+            <r:Content xml:lang="da">Andet</r:Content>
+            <r:Content xml:lang="fi">Muu keruuväline</r:Content>
+            <r:Content xml:lang="fi">Muu keruuväline</r:Content>
+            <r:Content xml:lang="fr">Autre</r:Content>
+            <r:Content xml:lang="fr">Autre</r:Content>
+            <r:Content xml:lang="it">Altro</r:Content>
+            <r:Content xml:lang="it">Altro</r:Content>
+            <r:Content xml:lang="lt">Kita </r:Content>
+            <r:Content xml:lang="lt">Kita </r:Content>
+            <r:Content xml:lang="nl">Anders</r:Content>
+            <r:Content xml:lang="nl">Anders</r:Content>
+            <r:Content xml:lang="no">Annet</r:Content>
+            <r:Content xml:lang="no">Annet</r:Content>
+            <r:Content xml:lang="pt">Outro</r:Content>
+            <r:Content xml:lang="pt">Outro</r:Content>
+            <r:Content xml:lang="sl">Drugo</r:Content>
+            <r:Content xml:lang="sl">Drugo</r:Content>
+            <r:Content xml:lang="sr">Ostalo</r:Content>
+            <r:Content xml:lang="sr">Ostalo</r:Content>
+            <r:Content xml:lang="sv">Övrigt</r:Content>
+            <r:Content xml:lang="sv">Övrigt</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Use when the type of instrument is known, but not found in the list.</r:Content>
+            <r:Content xml:lang="en">Use when the type of instrument is known, but not found in the list.</r:Content>
+            <r:Content xml:lang="da">Anvend, når typen af instrument er kendt, men ikke findes i listen.</r:Content>
+            <r:Content xml:lang="da">Anvend, når typen af instrument er kendt, men ikke findes i listen.</r:Content>
+            <r:Content xml:lang="fi">Käytetään jos keruuväline on tiedossa mutta ei listassa.</r:Content>
+            <r:Content xml:lang="fi">Käytetään jos keruuväline on tiedossa mutta ei listassa.</r:Content>
+            <r:Content xml:lang="fr">Utilisez quand le type d'instrument est connu, mais pas présent dans la liste.</r:Content>
+            <r:Content xml:lang="fr">Utilisez quand le type d'instrument est connu, mais pas présent dans la liste.</r:Content>
+            <r:Content xml:lang="it">Utilizzare quando il tipo di strumento è conosciuto, ma non è presente nell'elenco.</r:Content>
+            <r:Content xml:lang="it">Utilizzare quando il tipo di strumento è conosciuto, ma non è presente nell'elenco.</r:Content>
+            <r:Content xml:lang="lt">Naudoti, kai instrumento tipas yra žinomas, bet jo sąraše nėra.</r:Content>
+            <r:Content xml:lang="lt">Naudoti, kai instrumento tipas yra žinomas, bet jo sąraše nėra.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Bruk når instrumenttypen er kjent, men ikke finnes i listen.</r:Content>
+            <r:Content xml:lang="no">Bruk når instrumenttypen er kjent, men ikke finnes i listen.</r:Content>
+            <r:Content xml:lang="pt">Usar se o tipo de instrumento for conhecido, mas não se encontrar na lista.</r:Content>
+            <r:Content xml:lang="pt">Usar se o tipo de instrumento for conhecido, mas não se encontrar na lista.</r:Content>
+            <r:Content xml:lang="sl">Uporabite, ko je vrsta uporabljenega instrumenta znana, a je ne najdete na seznamu.</r:Content>
+            <r:Content xml:lang="sl">Uporabite, ko je vrsta uporabljenega instrumenta znana, a je ne najdete na seznamu.</r:Content>
+            <r:Content xml:lang="sr">Koristiti kada je vrsta instrumenta poznata, ali se ne nalazi na listi.</r:Content>
+            <r:Content xml:lang="sr">Koristiti kada je vrsta instrumenta poznata, ali se ne nalazi na listi.</r:Content>
+            <r:Content xml:lang="sv">Använd när typ av instrument är känt men saknas i listan.</r:Content>
+            <r:Content xml:lang="sv">Använd när typ av instrument är känt men saknas i listan.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+</ddi:FragmentInstance>

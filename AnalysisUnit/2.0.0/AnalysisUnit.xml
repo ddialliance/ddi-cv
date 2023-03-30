@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ddi:FragmentInstance xmlns:ddi="ddi:instance:3_2"
+                       xmlns:ddi-cv="urn:ddi-cv"
+                       xmlns:l="ddi:logicalproduct:3_2"
+                       xmlns:r="ddi:reusable:3_2">
+   <ddi:Fragment>
+      <l:CodeList>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <r:Label/>
+         <r:Description/>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AnalysisUnit-Individual-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AnalysisUnit-Individual-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Individual</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AnalysisUnit-OrganizationOrInstitution-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AnalysisUnit-OrganizationOrInstitution-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>OrganizationOrInstitution</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AnalysisUnit-Family-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AnalysisUnit-Family-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Family</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AnalysisUnit-Family.HouseholdFamily-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AnalysisUnit-Family.HouseholdFamily-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Family.HouseholdFamily</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AnalysisUnit-Household-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AnalysisUnit-Household-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Household</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AnalysisUnit-HousingUnit-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AnalysisUnit-HousingUnit-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>HousingUnit</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AnalysisUnit-EventOrProcessOrActivity-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AnalysisUnit-EventOrProcessOrActivity-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EventOrProcessOrActivity</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AnalysisUnit-GeographicUnit-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AnalysisUnit-GeographicUnit-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>GeographicUnit</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AnalysisUnit-PoliticalAdministrativeArea-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AnalysisUnit-PoliticalAdministrativeArea-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>PoliticalAdministrativeArea</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AnalysisUnit-TimeUnit-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AnalysisUnit-TimeUnit-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>TimeUnit</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AnalysisUnit-MediaUnit-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AnalysisUnit-MediaUnit-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>MediaUnit</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AnalysisUnit-MediaUnit.Sound-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AnalysisUnit-MediaUnit.Sound-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>MediaUnit.Sound</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AnalysisUnit-MediaUnit.StillImage-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AnalysisUnit-MediaUnit.StillImage-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>MediaUnit.StillImage</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AnalysisUnit-MediaUnit.Text-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AnalysisUnit-MediaUnit.Text-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>MediaUnit.Text</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AnalysisUnit-MediaUnit.Video-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AnalysisUnit-MediaUnit.Video-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>MediaUnit.Video</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AnalysisUnit-Group-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AnalysisUnit-Group-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Group</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AnalysisUnit-Object-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AnalysisUnit-Object-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Object</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AnalysisUnit-Other-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AnalysisUnit-Other-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Other</r:Value>
+         </l:Code>
+      </l:CodeList>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit-Individual-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>Individual</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Individual</r:Content>
+            <r:Content xml:lang="da">Individ</r:Content>
+            <r:Content xml:lang="fi">Henkilö</r:Content>
+            <r:Content xml:lang="fi">Henkilö</r:Content>
+            <r:Content xml:lang="fr">Individu</r:Content>
+            <r:Content xml:lang="fr">Individu</r:Content>
+            <r:Content xml:lang="it">Individuo</r:Content>
+            <r:Content xml:lang="no">Individ</r:Content>
+            <r:Content xml:lang="pt">Indivíduo</r:Content>
+            <r:Content xml:lang="sr">Pojedinac</r:Content>
+            <r:Content xml:lang="sv">Individ</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Any individual person.</r:Content>
+            <r:Content xml:lang="da">Enhver individuel person.</r:Content>
+            <r:Content xml:lang="fi">Tutkimuksen tarkastelukohteena ovat yksittäiset henkilöt</r:Content>
+            <r:Content xml:lang="fi">Tutkimuksen tarkastelukohteena ovat yksittäiset henkilöt</r:Content>
+            <r:Content xml:lang="fr">Toute personne individuelle.</r:Content>
+            <r:Content xml:lang="fr">Toute personne individuelle.</r:Content>
+            <r:Content xml:lang="it">Qualsiasi persona.</r:Content>
+            <r:Content xml:lang="no">Enhver individuell person.</r:Content>
+            <r:Content xml:lang="pt">Qualquer sujeito individual.</r:Content>
+            <r:Content xml:lang="sr">Bilo koja osoba.</r:Content>
+            <r:Content xml:lang="sv">En enskild person.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit-OrganizationOrInstitution-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>OrganizationOrInstitution</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Organization/Institution</r:Content>
+            <r:Content xml:lang="da">Organisation/Institution</r:Content>
+            <r:Content xml:lang="fi">Organisaatio</r:Content>
+            <r:Content xml:lang="fi">Organisaatio</r:Content>
+            <r:Content xml:lang="fr">Organisation / Institution</r:Content>
+            <r:Content xml:lang="fr">Organisation / Institution</r:Content>
+            <r:Content xml:lang="it">Organizzazione/Istituzione</r:Content>
+            <r:Content xml:lang="no">Organisasjon/Institusjon</r:Content>
+            <r:Content xml:lang="pt">Organização/Instituição</r:Content>
+            <r:Content xml:lang="sr">Organizacija/Institucija</r:Content>
+            <r:Content xml:lang="sv">Organisation/institution</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Any kind of formal administrative and functional structure - includes associations, institutions, agencies, businesses, political parties, schools, etc. The data are collected about the organizations or institutions, even if the questions are answered by individuals. For example, data on the environmental policies of businesses, data on enrollment or graduation rates at national universities, etc.</r:Content>
+            <r:Content xml:lang="da">Enhver form for formel administrativ eller funktionel struktur - inkluderer foreninger, institutioner, agenturer, virksomheder, politiske partier, skoler mm. Dataene er indsamlet om organisationerne eller institutionerne, selv hvis spørgsmålene er besvaret af enkeltpersoner. Fx data om virksomheders miljøpolitikker, data om indskrivning eller graduering ved nationale universiteter etc.</r:Content>
+            <r:Content xml:lang="fi">Mikä tahansa hallinnollinen tai toiminnallinen organisaatio, esimerkiksi järjestö, koulu, instituutti, toimisto, yritys, poliittinen puolue, jne. Kysymykset kohdistuvat itse organisaatioon vaikka vastaajina ovatkin yksittäiset henkilöt. Esimerkiksi tutkittaessa yritysten ympäristöpolitiikkaa tai korkeakouluista valmistuneiden määriä suhteessa opiskelijoihin jne.</r:Content>
+            <r:Content xml:lang="fi">Mikä tahansa hallinnollinen tai toiminnallinen organisaatio, esimerkiksi järjestö, koulu, instituutti, toimisto, yritys, poliittinen puolue, jne. Kysymykset kohdistuvat itse organisaatioon vaikka vastaajina ovatkin yksittäiset henkilöt. Esimerkiksi tutkittaessa yritysten ympäristöpolitiikkaa tai korkeakouluista valmistuneiden määriä suhteessa opiskelijoihin jne.</r:Content>
+            <r:Content xml:lang="fr">Tout type de structure administrative ou fonctionnelle - incluant les associations, les institutions, les agences, les entreprises, les partis politiques, les écoles, etc. Les données sont collectées à propos des organisations ou institutions, même si les questions ont reçu une réponse par des individus. Par exemple, des données sur les politiques environnementales des entreprises, des données sur le taux d'inscription ou d'obtention de diplômes dans les universités nationales, etc.</r:Content>
+            <r:Content xml:lang="fr">Tout type de structure administrative ou fonctionnelle - incluant les associations, les institutions, les agences, les entreprises, les partis politiques, les écoles, etc. Les données sont collectées à propos des organisations ou institutions, même si les questions ont reçu une réponse par des individus. Par exemple, des données sur les politiques environnementales des entreprises, des données sur le taux d'inscription ou d'obtention de diplômes dans les universités nationales, etc.</r:Content>
+            <r:Content xml:lang="it">Qualsiasi tipo di struttura amministrativa e funzionale formale - incluse associazioni, istituzioni, agenzie, imprese, partiti politici, scuole, ecc. I dati raccolti si riferiscono alle organizzazioni o alle istituzioni, anche se le risposte alle domande sono fornite da singoli individui. Ad esempio, dati sulle politiche ambientali delle imprese, dati sui tassi di iscrizione o di laurea presso le università nazionali, ecc.</r:Content>
+            <r:Content xml:lang="no">Former for formelle administrative og funksjonelle strukturerer - inkluderer foreninger, institusjoner, foretak, bedrifter, politiske partier, skoler etc. Data er samlet om organisasjoner eller institusjoner selv om spørsmålene er besvart av individer. For eksempel data om virksomheters miljøpolitikk, data om opptak eller avgangsgrader ved nasjonale universitet, etc.</r:Content>
+            <r:Content xml:lang="pt">Qualquer tipo de estrutura funcional e administrativa formal. Inclui associações, instituições, agências, empresas, partidos políticos, escolas, etc. Os dados são recolhidos sobre as organizações e as instituições, mesmo que as questões sejam respondidas por indivíduos. Por exemplo, dados sobre políticas ambientais nas empresas, dados sobre taxas de sucesso nas universidades nacionais, etc.</r:Content>
+            <r:Content xml:lang="sr">Bilo koja formalna administrativna i funkcionalna struktura - uključuje udruženja, institucije, agencije, preduzeća, političke stranke, škole, itd. Podaci se&amp;nbsp; prikupljaju o organizacijama ili institucijama, čak i ukoliko odgovore na pitanja daju pojedinci. Na primer, podaci o ekološkoj politici preduzeća, podaci o stopama upisa ili diplomiranja na nacionalnim univerzitetima, itd.</r:Content>
+            <r:Content xml:lang="sv">Någon typ av formell administrativ och funktionell struktur. Inkluderar föreningar, institutioner, företag, myndigheter, politiska partier, skolor, m.m. Data om organisationerna eller institutionerna samlas in, även om frågorna besvaras av enskilda personer. Till exempel data om företags miljöpolicyer, data om antagningar eller examensfrekvens vid nationella universitet m.m.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit-Family-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>Family</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Family</r:Content>
+            <r:Content xml:lang="da">Familie</r:Content>
+            <r:Content xml:lang="fi">Perhe</r:Content>
+            <r:Content xml:lang="fi">Perhe</r:Content>
+            <r:Content xml:lang="fr">Famille</r:Content>
+            <r:Content xml:lang="fr">Famille</r:Content>
+            <r:Content xml:lang="it">Famiglia</r:Content>
+            <r:Content xml:lang="no">Familie</r:Content>
+            <r:Content xml:lang="pt">Família</r:Content>
+            <r:Content xml:lang="sr">Porodica</r:Content>
+            <r:Content xml:lang="sv">Familj</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Two or more people related by blood, marriage (including step-relations), co-habitation or registered partnership, adoption or fostering, and who may or may not live together. For example, data on what kind of public services the family uses or would require; or how often family members are in contact with each other.</r:Content>
+            <r:Content xml:lang="da">To eller flere mennesker beslægtet ved blod, ægteskab (herunder stedrelationer), samlever eller registreret partnerskab, adoption eller pleje, og hvem som måske eller måske ikke lever sammen. Fx data om, hvilke offentlige tjenester familien bruger eller vil kræve; eller hvor ofte familiemedlemmer er i kontakt med hinanden.</r:Content>
+            <r:Content xml:lang="fi">Kaksi tai useampia henkilöitä, jotka liittyvät toisiinsa sukulaisuuden, avo- tai avioliiton (laskien mukaan esim. sisar- ja velipuolet), rekisteröidyn parisuhteen, adoption tai sijaisvanhemmuuden kautta, riippumatta siitä, asuvatko he yhdessä vai eivät. Esimerkiksi tutkittaessa mitä julkisia palveluja perhe käyttää; tai kuinka usein perheenjäsenet ovat yhteydessä toisiinsa.</r:Content>
+            <r:Content xml:lang="fi">Kaksi tai useampia henkilöitä, jotka liittyvät toisiinsa sukulaisuuden, avo- tai avioliiton (laskien mukaan esim. sisar- ja velipuolet), rekisteröidyn parisuhteen, adoption tai sijaisvanhemmuuden kautta, riippumatta siitä, asuvatko he yhdessä vai eivät. Esimerkiksi tutkittaessa mitä julkisia palveluja perhe käyttää; tai kuinka usein perheenjäsenet ovat yhteydessä toisiinsa.</r:Content>
+            <r:Content xml:lang="fr">Deux personnes ou plus liées par le sang, le mariage (incluant les relations par alliance), la cohabitation ou un partenariat enregistré, l'adoption ou le placement familial et qui peuvent ou non vivre ensemble. Par exemple, des données sur quel type de services publics la famille utilise ou demanderait ; ou à quelle fréquence des membres de la famille sont en contact les uns avec les autres.</r:Content>
+            <r:Content xml:lang="fr">Deux personnes ou plus liées par le sang, le mariage (incluant les relations par alliance), la cohabitation ou un partenariat enregistré, l'adoption ou le placement familial et qui peuvent ou non vivre ensemble. Par exemple, des données sur quel type de services publics la famille utilise ou demanderait ; ou à quelle fréquence des membres de la famille sont en contact les uns avec les autres.</r:Content>
+            <r:Content xml:lang="it">Due o più persone legate da vincolo di sangue, matrimonio (compresi i rapporti allargati), coabitazione o convivenza di fatto, adozione o affidamento che possono o meno vivere insieme. Ad esempio, dati sul tipo di servizi pubblici di cui la famiglia usufruisce o di cui avrebbe bisogno; oppure dati sulla frequenza con cui i membri della famiglia sono in contatto tra loro.</r:Content>
+            <r:Content xml:lang="no">To eller flere mennesker som er i slekt med blod, ekteskap (inkludert ste-relasjoner), samboerskap eller registrerte partnere, adopsjon eller fosterbarn som enten lever eller ikke lever sammen. For eksempel, data om hvilke typer offentlige tjenster familien bruker eller har behov for; eller hvor ofte familiemedlemmene er i kontakt med hverandre.</r:Content>
+            <r:Content xml:lang="pt">Duas ou mais pessoas relacionadas por sangue, casamento (incluindo relações de famílias recompostas), coabitação ou parentalidade registada, adopção ou guarda de crianças, e que podem ou não viver juntas. Por exemplo, dados sobre que tipo de serviços públicos as famílias usam ou poderiam requerer; ou sobre quão frequentemente os membros duma família estão em contacto uns com os outros.</r:Content>
+            <r:Content xml:lang="sr">Dvoje ili više ljudi povezanih krvnim srodstvom, brakom (uključujući i očuha, maćehu i njihovu decu), vanbranbračnom zajednicom ili registrovanim partnerstvom, usvajanjem ili hraniteljstvom, a koji mogu ili ne moraju da žive zajedno. Na primer, podaci o tome koje vrste javnih usluga porodica koristi ili bi zahtevala ili koliko često su članovi porodice u međusobnom kontaktu.</r:Content>
+            <r:Content xml:lang="sv">Två eller fler personer som är släkt genom blodsband, äktenskap (inklusive styvsyskon, -föräldrar, -barn m.m.), samboskap eller registrerat partnerskap, adoption eller fosterfamiljeskap, men som inte nödvändigtvis bor tillsammans. Till exempel data om vilka offentliga tjänster familjen använder eller skulle vara i behov av, eller hur ofta familjemedlemmar har kontakt med varandra.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit-Family.HouseholdFamily-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>Family.HouseholdFamily</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Family: Household family</r:Content>
+            <r:Content xml:lang="da">Familie: Husstandsfamilie</r:Content>
+            <r:Content xml:lang="fi">Perhe: perhekotitalous</r:Content>
+            <r:Content xml:lang="fi">Perhe: perhekotitalous</r:Content>
+            <r:Content xml:lang="fr">Famille : ménage</r:Content>
+            <r:Content xml:lang="fr">Famille : ménage</r:Content>
+            <r:Content xml:lang="it">Famiglia: Famiglia convivente</r:Content>
+            <r:Content xml:lang="no">Familie: familiehusholdning</r:Content>
+            <r:Content xml:lang="pt">Família: Agregado familiar</r:Content>
+            <r:Content xml:lang="sr">Porodica: Porodično domaćinstvo</r:Content>
+            <r:Content xml:lang="sv">Familj: Familjehushåll</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">A more specific term that refers only to people who are related through family ties (see definition for 'Family') and live in the same household at a point in time. If not known whether the analysis unit is 'Family' or 'Household family', use 'Family'.</r:Content>
+            <r:Content xml:lang="da">Et mere specifikt begreb, der alene refererer til mennesker, der er beslægtede gennem familiebånd (se definition for ’Familie’) og bor i samme husstand på et givent tidspunkt. Hvis det er usikkert, hvorvidt analyseenheden er 'Familie' eller 'Familie: Husstandsfamilie' brug da 'Familie'.</r:Content>
+            <r:Content xml:lang="fi">Spesifimpi termi, joka viittaa kotitalouteen, jossa tietyllä hetkellä yhdessä asuvat henkilöt myös kuuluvat perheeseen (katso määritelmä termille 'Perhe'). Jos ei tiedossa, onko kyseessä 'Perhe' vai 'Perhekotitalous', käytä 'Perhe'.</r:Content>
+            <r:Content xml:lang="fi">Spesifimpi termi, joka viittaa kotitalouteen, jossa tietyllä hetkellä yhdessä asuvat henkilöt myös kuuluvat perheeseen (katso määritelmä termille 'Perhe'). Jos ei tiedossa, onko kyseessä 'Perhe' vai 'Perhekotitalous', käytä 'Perhe'.</r:Content>
+            <r:Content xml:lang="fr">Un terme plus spécifique, se réfère aux personnes qui sont liées par des liens familiaux (voir la définition pour 'Famille') et qui vivent dans le même ménage à un moment donné. Si vous ne savez pas si l'unité d'analyse est 'Famille' ou 'Famille : ménage', utilisez 'Famille'.</r:Content>
+            <r:Content xml:lang="fr">Un terme plus spécifique, se réfère aux personnes qui sont liées par des liens familiaux (voir la définition pour 'Famille') et qui vivent dans le même ménage à un moment donné. Si vous ne savez pas si l'unité d'analyse est 'Famille' ou 'Famille : ménage', utilisez 'Famille'.</r:Content>
+            <r:Content xml:lang="it">Un termine più specifico che si riferisce solo a persone che sono legate da vincoli familiari (si veda la definizione di "Famiglia") e che vivono nella stessa abitazione in un determinato momento. Se non è possibile distinguere tra "Famiglia" e "Famiglia convivente" come unità di analisi, utilizzare "Famiglia"</r:Content>
+            <r:Content xml:lang="no">Et mer spesifikt begrep som kun referer til personer som er beslektet gjennom familierelasjoner (se definisjonen for 'Familie') og som bor i den samme husholdningen på et gitt tidspunkt. Om det ikke er kjent om analyseenheten er 'Familie' eller 'Familiehusholdning' skal begrepet 'Familie' benyttes.</r:Content>
+            <r:Content xml:lang="pt">Termo mais específico que se refere apenas a pessoas que estão relacionadas através de ligações familiares (ver definição de 'Família') e que moram no mesmo domicílio em determinado momento. Se não souber se a unidade de análise é 'Família' ou 'Agregado familiar', usar 'Família'.</r:Content>
+            <r:Content xml:lang="sr">Precizniji izraz koji se odnosi samo na ljude koji su povezani porodičnim vezama (vidi definiciju 'Porodica') i žive u istom domaćinstvu, u određenom trenutku. Ako nije poznato da li je jedinica za analizu 'Porodica' ili 'Porodično domaćinstavo', koristite 'Porodica'.</r:Content>
+            <r:Content xml:lang="sv">En mer specifik term än "Familj". Betecknar endast människor som är släkt genom familjeband (se definitionen för "Familj") och som bor tillsammans i samma hushåll vid en given tidpunkt. Om det inte är känt huruvida analysenheten är "Familj" eller "Familjehushåll" ska "Familj" användas.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit-Household-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>Household</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Household</r:Content>
+            <r:Content xml:lang="da">Husstand</r:Content>
+            <r:Content xml:lang="fi">Kotitalous</r:Content>
+            <r:Content xml:lang="fi">Kotitalous</r:Content>
+            <r:Content xml:lang="fr">Ménage</r:Content>
+            <r:Content xml:lang="fr">Ménage</r:Content>
+            <r:Content xml:lang="it">Conviventi</r:Content>
+            <r:Content xml:lang="no">Husholdning</r:Content>
+            <r:Content xml:lang="pt">Agregado doméstico</r:Content>
+            <r:Content xml:lang="sr">Domaćinstvo</r:Content>
+            <r:Content xml:lang="sv">Hushåll</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">A person or a group of persons who share the same dwelling unit and common living arrangements. These common living arrangements may include pooling some, or all, of their income and wealth, and consuming certain types of goods and services collectively, mainly housing and food (Eurostat).</r:Content>
+            <r:Content xml:lang="da">En person eller gruppe af personer, der deler den samme bopæl og deler almindelig livsindretninger. Disse former for livsindretninger kan omfatte deling eller delvis deling af indkomst og velstand, og forbrug af nogle typer af varer og serviceydelser kollektivt, primært mad og bopæl (Eurostat).</r:Content>
+            <r:Content xml:lang="fi">Kotitalouden muodostaa yksi henkilö tai ryhmä henkilöitä, jotka asuvat yhdessä ja joilla on kokonaan tai osittain yhteinen ruokatalous tai jotka muuten käyttävät tulojaan ja varallisuuttaan ainakin osittain yhdessä.</r:Content>
+            <r:Content xml:lang="fi">Kotitalouden muodostaa yksi henkilö tai ryhmä henkilöitä, jotka asuvat yhdessä ja joilla on kokonaan tai osittain yhteinen ruokatalous tai jotka muuten käyttävät tulojaan ja varallisuuttaan ainakin osittain yhdessä.</r:Content>
+            <r:Content xml:lang="fr">Une personne ou un groupe de personnes qui partagent la même unité d'habitation et les mêmes conditions de vie. Ces conditions de vie peuvent inclure la mise en commun d'une partie, ou de la totalité, des revenus et des richesses, et la consommation de certains types de biens et de services, principalement le logement et la nourriture (Eurostat).</r:Content>
+            <r:Content xml:lang="fr">Une personne ou un groupe de personnes qui partagent la même unité d'habitation et les mêmes conditions de vie. Ces conditions de vie peuvent inclure la mise en commun d'une partie, ou de la totalité, des revenus et des richesses, et la consommation de certains types de biens et de services, principalement le logement et la nourriture (Eurostat).</r:Content>
+            <r:Content xml:lang="it">Una persona o un gruppo di persone che condividono la stessa unità abitativa e le stesse modalità di vita comuni. Queste modalità di vita comuni possono includere la condivisione di alcuni oppure di tutti i redditi e ricchezze, e il consumo collettivo di determinati tipi di beni e servizi, principalmente alloggi e cibo (Eurostat)</r:Content>
+            <r:Content xml:lang="no">En person eller en gruppe av personer som har samme boligenhet og leveforhold. Disse felles leveforholdene kan inkludere at deler av, eller alt av inntekt og eiendom er felles, og at visse type varer og tjenester konsumeres i fellesskap, hovedsakelig bosted og mat (Eurostat).</r:Content>
+            <r:Content xml:lang="pt">Uma pessoa ou um grupo de pessoas que compartilham a mesma unidade de habitação e vida em comum. Esta última pode incluir a agregação de alguns ou de todos os rendimentos e riqueza e o consumo colectivo de certos tipos de bens e serviços, principalmente alojamento e alimentação (Eurostat).</r:Content>
+            <r:Content xml:lang="sr">Osoba ili grupa osoba koje dele istu stambenu jedinicu i imaju zajedničke aranžmane. Ovi aranžmani mogu uključivati udruživanje nekih ili svih pojedinačnih prihoda i imovine i zajedničku potrošnju određenih vrsta roba i usluga, uglavnom stanovanje i hranu (Eurostat).</r:Content>
+            <r:Content xml:lang="sv">En person eller grupp som har gemensam bostadsenhet och levnadsförhållanden. Dessa delade levnadsförhållanden kan inkludera att viss eller all inkomst och egendom är gemensam, och att vissa sorters varor och tjänster konsumeras gemensamt, företrädelsevis bostad och mat (Eurostat).</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit-HousingUnit-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>HousingUnit</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Housing unit</r:Content>
+            <r:Content xml:lang="da">Boligenhed</r:Content>
+            <r:Content xml:lang="fi">Asuntokunta</r:Content>
+            <r:Content xml:lang="fi">Asuntokunta</r:Content>
+            <r:Content xml:lang="fr">Logement</r:Content>
+            <r:Content xml:lang="fr">Logement</r:Content>
+            <r:Content xml:lang="it">Unità abitativa</r:Content>
+            <r:Content xml:lang="no">Boenhet</r:Content>
+            <r:Content xml:lang="pt">Unidade residencial</r:Content>
+            <r:Content xml:lang="sr">Stambena jedinica</r:Content>
+            <r:Content xml:lang="sv">Bostadsenhet</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">U.S. Census: A housing unit is a house, an apartment, a mobile home, a group of rooms, or a single room that is occupied (or if vacant, is intended for occupancy) as separate living quarters. Separate living quarters are those in which the occupants live and eat separately from any other persons in the building and which have direct access from the outside of the building or through a common hall.</r:Content>
+            <r:Content xml:lang="da">USA’s folketælling: En boligenhed er et hus, en lejlighed, et mobilhjem, en gruppe af værelser eller et enkelt værelse, der er beboet (eller hvis ikke beboet, tiltænkt beboelse) som en separat bolig. Separate boliger er boliger, hvor beboerne lever og spiser hver for sig og har direkte adgang til området fra bygningens yderside eller gennem en fælles indgang.</r:Content>
+            <r:Content xml:lang="fi">Asuntokunta voi sijaita talossa, huoneistossa, asuntovaunussa, tai asunnon tietyssä huoneessa tai huoneissa. Asuntokunnnan asuintilassa elävillä henkilöillä on oma erillinen ruokataloutensa ja järjestelynsä. Yhdessä asunnossa voi olla useampia asuntokuntia. Esimerkiksi soluasunnoissa asuvilla opiskelijoilla voi kullakin olla oma ruoka- ja asuntokuntansa. Termi käytössä etenkin Yhdysvalloissa.</r:Content>
+            <r:Content xml:lang="fi">Asuntokunta voi sijaita talossa, huoneistossa, asuntovaunussa, tai asunnon tietyssä huoneessa tai huoneissa. Asuntokunnnan asuintilassa elävillä henkilöillä on oma erillinen ruokataloutensa ja järjestelynsä. Yhdessä asunnossa voi olla useampia asuntokuntia. Esimerkiksi soluasunnoissa asuvilla opiskelijoilla voi kullakin olla oma ruoka- ja asuntokuntansa. Termi käytössä etenkin Yhdysvalloissa.</r:Content>
+            <r:Content xml:lang="fr">Recensement US : une unité d'habitation est une maison, un appartement, un mobile home, un groupe de pièces, ou une pièce unique qui est occupée (ou si vacant, est destinée à l'occupation) comme lieu de vie séparé. Les lieux de vie séparés sont ceux dans lesquels les occupants vivent et mangent séparément de toute autre personne dans le bâtiment et qui ont un accès direct depuis l'extérieur du bâtiment ou par un hall commun.</r:Content>
+            <r:Content xml:lang="fr">Recensement US : une unité d'habitation est une maison, un appartement, un mobile home, un groupe de pièces, ou une pièce unique qui est occupée (ou si vacant, est destinée à l'occupation) comme lieu de vie séparé. Les lieux de vie séparés sont ceux dans lesquels les occupants vivent et mangent séparément de toute autre personne dans le bâtiment et qui ont un accès direct depuis l'extérieur du bâtiment ou par un hall commun.</r:Content>
+            <r:Content xml:lang="it">Un'unità abitativa è una casa, un appartamento, una casa mobile, un gruppo di stanze o una stanza singola occupata (oppure, se non occupata, destinata ad ospitare) come abitazione separata. Le abitazioni separate sono quelli in cui gli occupanti vivono e mangiano separatamente da qualsiasi altra persona presente nell'edificio, e che hanno un accesso diretto dall'esterno dell'edificio oppure attraverso un ingresso comune.</r:Content>
+            <r:Content xml:lang="no">USAs folketelling: En boenhet er et hus, en leilighet, et mobilt hjem (campingvogn), eller ett eller flere rom som er bebodd (eventuelt ledig, men som er ment å være bebodd), som adskilte enheter. Med adskilte enheter menes det at personer bor og spiser uavhengig av andre personer i samme boenhet, og som har direkte tilgang til enheten utenfra, eller gjennom en felles inngang.</r:Content>
+            <r:Content xml:lang="pt">Censo dos EUA: Uma unidade residencial é uma casa, um apartamento, uma casa móvel, um grupo de quartos ou um quarto individual que é ocupado (ou, se for vago, destinado a ocupação) enquanto alojamentos/aposentos separados. Alojamentos separados são aqueles em que os ocupantes vivem e comem separadamente de quaisquer outras pessoas no edifício e que têm acesso direto a partir do exterior do edifício ou através de um hall comum.</r:Content>
+            <r:Content xml:lang="sr">Stambena jedinica je kuća, stan, pokretna kuća, grupa soba ili pojedinačna soba koja je zauzeta (ili ako je upražnjena, namenjena za stanovanje) kao odvojeni stambeni prostor. Odvojeni stambeni prostori su oni u kojima stanari žive i jedu odvojeno od ostalih osoba u zgradi i koji imaju direktan pristup spolja ili kroz zajednički hodnik.</r:Content>
+            <r:Content xml:lang="sv">En bostadsenhet är ett hus, en lägenhet, en husvagn, eller ett eller flera rum som bebos (eller, om den är tom, är avsett att bebos) som avskild inkvartering. Med avskild inkvartering menas att de som är inkvarterade där bor och äter avskiljt från andra personer i byggnaden och kan komma in direkt utifrån eller via en gemensam entré (U.S. Census).</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit-EventOrProcessOrActivity-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>EventOrProcessOrActivity</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Event/Process/Activity</r:Content>
+            <r:Content xml:lang="da">Event/Proces/Aktivitet</r:Content>
+            <r:Content xml:lang="fi">Tapahtuma/prosessi/toiminta</r:Content>
+            <r:Content xml:lang="fi">Tapahtuma/prosessi/toiminta</r:Content>
+            <r:Content xml:lang="fr">Événement / Processus / Activité</r:Content>
+            <r:Content xml:lang="fr">Événement / Processus / Activité</r:Content>
+            <r:Content xml:lang="it">Evento/Processo/Attività</r:Content>
+            <r:Content xml:lang="no">Hendelse/prosess/aktivitet</r:Content>
+            <r:Content xml:lang="pt">Evento/Processo/Atividade</r:Content>
+            <r:Content xml:lang="sr">Događaj/Proces/Aktivnost</r:Content>
+            <r:Content xml:lang="sv">Händelse/process/aktivitet</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Any type of incident, occurrence, or activity. Events are usually one-time, individual occurrences, with a limited or short duration. Examples: criminal offenses, riots, meetings, elections, sports competitions, terrorist attacks, natural disasters like floods, etc. Processes typically take place over time, and may include multiple 'events' or gradual changes that ultimately lead, or are projected to lead, to a particular result. Examples: court trials, criminal investigations, political campaigns, medical treatments, education, athletes' training, etc. Use when the main focus is more on the event, process or activity itself. For example, a field observation study on slot machine gambling; or data collected on child abuse cases, such as the type and duration of abuse, the role of the persons involved, etc.</r:Content>
+            <r:Content xml:lang="da">Enhver form for hændelse, forekomst eller aktivitet. Events er normaltvist enkeltstående, individuelt forekommende, med en begrænset eller kort varighed. Eksempler: kriminelle handlinger, oprør, møder, valg, sportsbegivenheder, terrorangreb, naturkatastrofer såsom oversvømmelser mm. Processer sker typisk over tid og kan omfatte flere ’events’ eller gradvise ændringer, der i sidste ende fører, eller forventes at føre, til et bestemt resultat. Eksempler: Retssager, efterforskning af kriminelle handlinger, politiske kampagner, medicinske behandlinger, uddannelse, atleters træning etc. Brug, når hovedfokusset er mere på selve eventet, processen eller aktiviteten. Fx feltobservationsundersøgelse af spil på spillemaskiner; eller data indsamlet om tilfælde af børnemishandling, såsom typen og varigheden af mishandlingen, de involveredes rolle etc.</r:Content>
+            <r:Content xml:lang="fi">Tapahtuma, tapahtumasarja, toiminta tai prosessi. Tapahtumat ovat usein lyhytaikaisia ja kertaluonteisia, esimerkiksi mellakat, kokoukset, urheilukilpailut, terroristihyökkäykset ja luonnonkatastrofit. Prosessit ovat tyypillisesti pidempikestoisia, voivat sisältää useampia tapahtumia tai vähittäisiä muutoksia, jotka lopuksi johtavat tiettyyn tulokseen. Esimerkiksi oikeusjutut, rikostutkimukset, poliittiset kampanjat, kuntoutushoidot, koulutus. Tapahtuma/prosessi/toiminta -termiä käytetään silloin, kun tutkimuksessa keskitytään kyseiseen tapahtumaan, prosessiin tai toimintaan, ei henkilöihin sinänsä. Esimerkiksi havainnointitutkimus peliautomaattipelaamisesta; tutkimus lasten pahoinpitelytapauksista, niiden tyypistä ja kestosta, osallistuvien henkilöiden roolista niissä.</r:Content>
+            <r:Content xml:lang="fi">Tapahtuma, tapahtumasarja, toiminta tai prosessi. Tapahtumat ovat usein lyhytaikaisia ja kertaluonteisia, esimerkiksi mellakat, kokoukset, urheilukilpailut, terroristihyökkäykset ja luonnonkatastrofit. Prosessit ovat tyypillisesti pidempikestoisia, voivat sisältää useampia tapahtumia tai vähittäisiä muutoksia, jotka lopuksi johtavat tiettyyn tulokseen. Esimerkiksi oikeusjutut, rikostutkimukset, poliittiset kampanjat, kuntoutushoidot, koulutus. Tapahtuma/prosessi/toiminta -termiä käytetään silloin, kun tutkimuksessa keskitytään kyseiseen tapahtumaan, prosessiin tai toimintaan, ei henkilöihin sinänsä. Esimerkiksi havainnointitutkimus peliautomaattipelaamisesta; tutkimus lasten pahoinpitelytapauksista, niiden tyypistä ja kestosta, osallistuvien henkilöiden roolista niissä.</r:Content>
+            <r:Content xml:lang="fr">Tout type d'incident, d'événement ou d'activité. Les événements sont habituellement ponctuels, individuels, avec une durée limitée ou courte. Exemples : infractions criminelles, émeutes, réunions, élections, compétitions sportives, attaques terroristes, catastrophes naturelles comme des inondations, etc. Les processus se déroulement typiquement au fil du temps, et peuvent inclure de multiple 'événements' ou de changements graduels qui aboutissent, ou devraient aboutir, à un résultat particulier. Exemples : procès, enquêtes criminelles, campagnes politiques, traitements médicaux, éducation, entraînement d'athlètes, etc. Utilisez quand l'intérêt principal est plus porté sur l’événement, le processus ou l'activité lui-même. Par exemple, une observation sur le jeu aux machines à sous ; ou des données sur les cas de abus infantiles, comme le type et la durée de l'abus, le rôle des personnes impliquées, etc.</r:Content>
+            <r:Content xml:lang="fr">Tout type d'incident, d'événement ou d'activité. Les événements sont habituellement ponctuels, individuels, avec une durée limitée ou courte. Exemples : infractions criminelles, émeutes, réunions, élections, compétitions sportives, attaques terroristes, catastrophes naturelles comme des inondations, etc. Les processus se déroulement typiquement au fil du temps, et peuvent inclure de multiple 'événements' ou de changements graduels qui aboutissent, ou devraient aboutir, à un résultat particulier. Exemples : procès, enquêtes criminelles, campagnes politiques, traitements médicaux, éducation, entraînement d'athlètes, etc. Utilisez quand l'intérêt principal est plus porté sur l’événement, le processus ou l'activité lui-même. Par exemple, une observation sur le jeu aux machines à sous ; ou des données sur les cas de abus infantiles, comme le type et la durée de l'abus, le rôle des personnes impliquées, etc.</r:Content>
+            <r:Content xml:lang="it">Qualsiasi tipo di episodio, evento o attività. Gli eventi sono generalmente occorrenze singole, con una durata limitata oppure breve. Esempi: reati, rivolte, riunioni, elezioni, competizioni sportive, attacchi terroristici, calamità naturali come inondazioni, ecc. I processi generalmente durano nel tempo, e possono includere "eventi" multipli o cambiamenti graduali che alla fine conducono, oppure tendono a condurre, a un risultato particolare. Esempi: processi giudiziari, indagini penali, campagne politiche, trattamenti sanitari, istruzione, allenamenti sportivi, ecc. Utilizzare quando l'attenzione è riposta principalmente sull'evento, sul processo o sull'attività stessa. Ad esempio, uno studio che prevede un'osservazione sul campo relativa al gioco d'azzardo attraverso slot machine; oppure dati raccolti su casi di abuso su minori, come il tipo e la durata dell'abuso, il ruolo delle persone coinvolte, ecc.</r:Content>
+            <r:Content xml:lang="no">Enhver form for hendelse, begivenhet eller aktivitet. Hendelser er som oftest enkeltstående med begrenset eller kort varighet. For eksempel: kriminell handling, opptøyer, møter, valg, idrettsbegivenheter, terroristangrep, naturkatastrofer osv. Prosesser finner som regel sted over tid, og kan inkludere flere 'hendelser' eller gradvise endringer som etterhvert fører til, eller er anslått å føre til, et bestemt resultat. For eksempel: rettsaker, kriminaletterforskning, politiske kampanjer, medisinsk behandling, utdanning, idrettsutøveres treninger etc. Bruk når selve fokuset er mer på hendelsen, prosessen eller aktiviteten. For eksempel: feltobservasjonsstudie på spillemaskiner; eller data samlet inn om barnemishandlingssaker, med hensyn til type og varigheten til mishandlingen og rollen personer involvert har etc.</r:Content>
+            <r:Content xml:lang="pt">Qualquer tipo de incidente, ocorrência ou atividade. Os eventos são geralmente ocorrências únicas e isoladas, com duração limitada ou curta. Exemplos: infrações criminais, tumultos, reuniões, eleições, competições desportivas, ataques terroristas, desastres naturais como inundações, etc. Os processos geralmente ocorrem ao longo do tempo e podem incluir múltiplos 'eventos' ou mudanças graduais que conduzem ou podem conduzir a um resultado particular. Exemplos: julgamentos em tribunal, investigações criminais, campanhas políticas, tratamentos médicos, educação, formação de atletas, etc. Usar quando o principal foco é mais no evento, processo ou atividade. Por exemplo, um estudo de observação no terreno sobre máquinas automáticas de jogos; ou dados recolhidos sobre casos de abuso de crianças, como o tipo e a duração do abuso, o papel das pessoas envolvidas, etc.</r:Content>
+            <r:Content xml:lang="sr">Bilo koja vrsta slučaja, pojave, događaja ili aktivnosti. Događaji su obično jednokratne, pojedinačne pojave, sa ograničenim ili kratkim trajanjem. Primeri: krivična dela, neredi, sastanci, izbori, sportska takmičenja, teroristički napadi, prirodne katastrofe poput poplava, požara i sl. Procesi se obično dešavaju u&amp;nbsp; vremenu, a mogu uključivati više 'događaja' ili postepenih promena koje na kraju vode, ili se predviđa da će dovesti, do određenog rezultata. Primeri: suđenja, krivična istraga, politička istraga,&amp;nbsp; kampanje, medicinski tretmani, edukacija, trening sportista i sl. Koristite kada je glavni fokus više na događaju, procesu ili samoj aktivnost. Na primer, terenska opservaciona studija mašine za kockanje ili podaci prikupljeni o slučajevima zlostavljanja dece, kao što su vrsta i trajanje zlostavljanja, uloga uključenih osoba, itd.</r:Content>
+            <r:Content xml:lang="sv">Någon typ av företeelse, tilldragelse eller aktivitet. Händelser är vanligtvis enstaka företeelser med begränsad eller kort varaktighet. Exempel: brott, upplopp, möten, val, idrottstävlingar, terroristangrepp, naturkatastrofer som översvämningar o.dyl. Processer utspelar sig vanligtvis över tid och kan omfatta flera "händelser" eller gradvisa förändringar som slutligen resulterar i, eller kan tänkas resultera i, en visst utgång. Exempel: rättegångar, brottsutredningar, politiska kampanjer, medicinska behandlingar, utbildning, en idrottsutövares träning, m.m. Använd när fokus ligger på själva händelsen, processen eller aktiviteten. Till exempel en fältobservationsstudie om spel på spelautomater; eller data om fall av övergrepp på barn, som typ av och varaktighet för övergreppet, de inblandade personernas roller osv.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit-GeographicUnit-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>GeographicUnit</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Geographic unit</r:Content>
+            <r:Content xml:lang="da">Geografisk enhed</r:Content>
+            <r:Content xml:lang="fi">Maantieteellinen yksikkö</r:Content>
+            <r:Content xml:lang="fi">Maantieteellinen yksikkö</r:Content>
+            <r:Content xml:lang="fr">Unité géographique</r:Content>
+            <r:Content xml:lang="fr">Unité géographique</r:Content>
+            <r:Content xml:lang="it">Unità geografica</r:Content>
+            <r:Content xml:lang="no">Geografisk enhet</r:Content>
+            <r:Content xml:lang="pt">Unidade geográfica</r:Content>
+            <r:Content xml:lang="sr">Geografska jedinica</r:Content>
+            <r:Content xml:lang="sv">Geografisk enhet</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Any entity that can be spatially defined as a geographic area, with either natural (physical) or administrative boundaries. For example, data on home sales, landscaping changes, new constructions, or changes in the demographic composition of certain regions or districts.</r:Content>
+            <r:Content xml:lang="da">Enhver enhed, der rummeligt kan defineres som et geografisk område med enten naturlige (fysiske) eller administrative grænser. Fx data om salg af hjem, landskabsforandringer, nye konstruktioner, eller ændringer i den demografiske sammensætning af bestemte regioner eller distrikter.</r:Content>
+            <r:Content xml:lang="fi">Mikä tahansa maantieteellisesti määriteltävissä oleva alue, jolla on joko luontaiset fyysiset rajat tai hallinnolliset rajat. Esimerkiksi muutokset tiettyjen alueiden väestössä tai asuntojen myyntiluvut tai rakennusluvat tietyllä alueella.</r:Content>
+            <r:Content xml:lang="fi">Mikä tahansa maantieteellisesti määriteltävissä oleva alue, jolla on joko luontaiset fyysiset rajat tai hallinnolliset rajat. Esimerkiksi muutokset tiettyjen alueiden väestössä tai asuntojen myyntiluvut tai rakennusluvat tietyllä alueella.</r:Content>
+            <r:Content xml:lang="fr">Toute entité qui peut être définie spatialement comme une zone géographique, avec soit des limites naturelles (physiques) ou des frontières administratives. Par exemple, des données sur les ventes de maisons, les changements de paysage, les nouvelles constructions, ou les changements dans la composition démographique de certaines régions ou districts.</r:Content>
+            <r:Content xml:lang="fr">Toute entité qui peut être définie spatialement comme une zone géographique, avec soit des limites naturelles (physiques) ou des frontières administratives. Par exemple, des données sur les ventes de maisons, les changements de paysage, les nouvelles constructions, ou les changements dans la composition démographique de certaines régions ou districts.</r:Content>
+            <r:Content xml:lang="it">Qualsiasi entità che possa essere definita nello spazio, come un'area geografica, con confini naturali (fisici) o amministrativi. Ad esempio, i dati sulle vendite di case, sui mutamenti del paesaggio, sulle nuove costruzioni o sui cambiamenti nella composizione demografica di alcune regioni o distretti territoriali.</r:Content>
+            <r:Content xml:lang="no">Enhver enhet som romlig kan defineres som et geografisk område, med enten naturlige (fysiske) eller administrative grenser. For eksempel: data om boligsalg, landskapsforandringer, nye konstruksjoner eller endringer i den demografiske sammensetningen i bestemte regioner eller distrikter.</r:Content>
+            <r:Content xml:lang="pt">Qualquer entidade que possa ser definida espacialmente como uma área geográfica, com limites naturais (físicos) ou administrativos. Por exemplo, dados sobre venda de casas, mudanças paisagísticas, novas construções, ou mudanças na composição demográfica de certas regiões ou distritos.</r:Content>
+            <r:Content xml:lang="sr">Bilo koji entitet koji se može prostorno definisati kao geografsko područje, bilo da je odvojeno prirodnim (fizičkim) ili administrativnim granicama. Na primer, podaci o prodaji nekretnina, promenama priorodnog okruženja, nove građevine ili promene u demografskom sastavu određenog regiona ili oblasti.</r:Content>
+            <r:Content xml:lang="sv">En enhet som kan definieras spatialt som ett geografiskt område med antingen naturliga (fysiska) eller administrativa gränser. Till exempel data om husförsäljning, landskapsförändringar, nybyggen eller förändringar av den demografiska sammansättningen i vissa regioner eller distrikt.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit-PoliticalAdministrativeArea-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>PoliticalAdministrativeArea</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Political-administrative area</r:Content>
+            <r:Content xml:lang="da">Politisk-administrativt område</r:Content>
+            <r:Content xml:lang="fi">Poliittis-hallinnollinen alue</r:Content>
+            <r:Content xml:lang="fi">Poliittis-hallinnollinen alue</r:Content>
+            <r:Content xml:lang="fr">Espace politico-administratif</r:Content>
+            <r:Content xml:lang="fr">Espace politico-administratif</r:Content>
+            <r:Content xml:lang="it">Area politico-amministrativa</r:Content>
+            <r:Content xml:lang="no">Politisk administrativt område</r:Content>
+            <r:Content xml:lang="pt">Área político-administrativa</r:Content>
+            <r:Content xml:lang="sr">Političko-administrativna oblast</r:Content>
+            <r:Content xml:lang="sv">Politiskt förvaltningsområde</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">A geographical area governed by a sovereign authority that has the power to take administrative or policy decisions for that area. This includes areas at the supranational (e.g., unions of states like the European Union),  national (e.g., individual states or countries), sub-national (e.g., administrative subdivisions like federal states, provinces, etc.), and local (e.g., municipalities) levels.</r:Content>
+            <r:Content xml:lang="da">Et geografisk område styret af en suveræn myndighed, der har beføjelsen til at træffe administrative eller politiske beslutninger for dette område. Dette inkluderer områder på det overnationale (fx sammenslutninger af stater som Den Europæiske Union), nationale (fx individuelle stater eller lande), subnationale (fx administrative underafdelinger af føderale stater, provinser etc.) og lokale (fx kommuner) niveauer.</r:Content>
+            <r:Content xml:lang="fi">Maantieteellinen alue, jota hallinnoivilla viranomaisilla tai päätäntäelimillä on oikeus tehdä aluetta koskevia hallinnollisia tai poliittisia päätöksiä. Sisältää ylikansalliset (esim. Euroopan unioni), kansalliset (esim. valtiot), maansisäiset (esim. maakunnat) ja paikalliset (esim. kunnat) alueet.</r:Content>
+            <r:Content xml:lang="fi">Maantieteellinen alue, jota hallinnoivilla viranomaisilla tai päätäntäelimillä on oikeus tehdä aluetta koskevia hallinnollisia tai poliittisia päätöksiä. Sisältää ylikansalliset (esim. Euroopan unioni), kansalliset (esim. valtiot), maansisäiset (esim. maakunnat) ja paikalliset (esim. kunnat) alueet.</r:Content>
+            <r:Content xml:lang="fr">Un espace géographique gouverné par une autorité souveraine qui a le pouvoir de prendre des décisions administratives ou politiques pour cet espace. Cela inclut des espaces de niveau supranational (e. g. les unions d'États comme l'Union européenne), national (e. g. des États ou des pays individuels), sous-national (e. g. des subdivisions administratives comme des États fédéraux, des provinces, etc.), et local (e. g. des municipalités).</r:Content>
+            <r:Content xml:lang="fr">Un espace géographique gouverné par une autorité souveraine qui a le pouvoir de prendre des décisions administratives ou politiques pour cet espace. Cela inclut des espaces de niveau supranational (e. g. les unions d'États comme l'Union européenne), national (e. g. des États ou des pays individuels), sous-national (e. g. des subdivisions administratives comme des États fédéraux, des provinces, etc.), et local (e. g. des municipalités).</r:Content>
+            <r:Content xml:lang="it">Un'area geografica governata da un'autorità che ha il potere di prendere decisioni amministrative o politiche relative a quell'area. Comprende aree a livello sovranazionale (ad esempio unioni di stati come l'Unione Europea), nazionale (ad esempio singoli stati o paesi), subnazionale (ad esempio suddivisioni amministrative come stati federali, province, ecc.), e locale (ad esempio comuni).</r:Content>
+            <r:Content xml:lang="no">Et geografisk område styrt av en suveren myndighet som har makten til beslutte administrative eller politiske avgjørelser for det området. Dette inkluderer områder på overstatlig (f.eks sammenslutninger av stater som Den Europeiske Union), nasjonalt (f.eks individuelle stater eller land), subnasjonalt (f.eks administrative oppdelinger som føderale stater, provinser etc.) og lokalt (f.eks kommuner) nivå.</r:Content>
+            <r:Content xml:lang="pt">Uma área geográfica governada por autoridade soberana que tem o poder de tomar decisões políticas ou administrativas para aquela área. Isto inclui áreas ao nível supranacional (por exemplo, uniões de vários estados como a União Europeia), nacional (por exemplo, estados individuais ou países), subnacional (por exemplo, subdivisões administrativas como estados federais, províncias, etc.), e local (por exemplo, municípios).</r:Content>
+            <r:Content xml:lang="sr">Geografsko područje kojim upravlja suverena vlast koja ima moć moć donošenja administrativnih ili političkih odluka za tu oblast. To uključuje područja na nadnacionalnom nivou (npr. unije država kao što je Evropska unija), nacionalnom (pojedinačne države), podnacionalnom (npr. administrativne podele kao što su republike, pokrajine itd.) i lokalnom nivou (npr. opštine).</r:Content>
+            <r:Content xml:lang="sv">Ett geografiskt område som styrs av en bestämmande myndighet med makt att fatta administrativa eller politiska beslut för området. Detta inkluderar områden på överstatlig (t.ex. unioner av stater som EU), statlig (t.ex. delstater eller länder), subnationell/regional (t.ex. förvaltningsområden som federala delstater, provinser osv.) och lokal (t.ex. kommuner) nivå.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit-TimeUnit-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>TimeUnit</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Time unit</r:Content>
+            <r:Content xml:lang="da">Tidsenhed</r:Content>
+            <r:Content xml:lang="fi">Aikajakso</r:Content>
+            <r:Content xml:lang="fi">Aikajakso</r:Content>
+            <r:Content xml:lang="fr">Unité de temps</r:Content>
+            <r:Content xml:lang="fr">Unité de temps</r:Content>
+            <r:Content xml:lang="it">Unità temporale</r:Content>
+            <r:Content xml:lang="no">Tidsenhet</r:Content>
+            <r:Content xml:lang="pt">Unidade de tempo</r:Content>
+            <r:Content xml:lang="sr">Vremenska jedinica</r:Content>
+            <r:Content xml:lang="sv">Tidsenhet</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Any period of time: year, week, month, day, or bimonthly or quarterly periods, etc.</r:Content>
+            <r:Content xml:lang="da">Enhver periode af tid: År, uge, måned, dag, hver anden måned, kvartaler mm.</r:Content>
+            <r:Content xml:lang="fi">Minkä mittainen aikajakso tahansa: sekunti, tunti, vuorokausi, viikko, kuukausi, vuosi yms.</r:Content>
+            <r:Content xml:lang="fi">Minkä mittainen aikajakso tahansa: sekunti, tunti, vuorokausi, viikko, kuukausi, vuosi yms.</r:Content>
+            <r:Content xml:lang="fr">Toute période de temps : année, semaine, mois, jour, ou périodes bimensuelles ou trimestrielles, etc.</r:Content>
+            <r:Content xml:lang="fr">Toute période de temps : année, semaine, mois, jour, ou périodes bimensuelles ou trimestrielles, etc.</r:Content>
+            <r:Content xml:lang="it">Qualsiasi periodo di tempo: anno, settimana, mese, giorno, bimestre, trimestre, ecc.</r:Content>
+            <r:Content xml:lang="no">Tidsperiode: år, uke, måned, dag, annenhver måned eller kvartal etc.</r:Content>
+            <r:Content xml:lang="pt">Qualquer período de tempo: ano, semana, mês, dia, ou períodos bimestrais ou trimestrais, etc.</r:Content>
+            <r:Content xml:lang="sr">Bilo koji vremenski period: godina, nedelja, mesec, dan ili dvomesečno,&amp;nbsp; tromesečno, kvartalno, itd.</r:Content>
+            <r:Content xml:lang="sv">En tidsperiod: år, månad, vecka, dag, kvartal, tvåmånaders period, e.dyl.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit-MediaUnit-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>MediaUnit</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Media unit</r:Content>
+            <r:Content xml:lang="da">Medieenhed</r:Content>
+            <r:Content xml:lang="fi">Mediatyyppi (teksti, ääni, still-kuva, liikkuva kuva)</r:Content>
+            <r:Content xml:lang="fi">Mediatyyppi (teksti, ääni, still-kuva, liikkuva kuva)</r:Content>
+            <r:Content xml:lang="fr">Média</r:Content>
+            <r:Content xml:lang="fr">Média</r:Content>
+            <r:Content xml:lang="it">Unità di supporto</r:Content>
+            <r:Content xml:lang="no">Medieenhet</r:Content>
+            <r:Content xml:lang="pt">Unidade de Media</r:Content>
+            <r:Content xml:lang="sr">Medijski zapis</r:Content>
+            <r:Content xml:lang="sv">Mediaenhet</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Includes text, still image, video and sound.</r:Content>
+            <r:Content xml:lang="da">Inkluderer tekst, stillbilleder, video og lyd.</r:Content>
+            <r:Content xml:lang="fi">Sisältää teksti-, kuva- ja äänimuodossa olevan viestinnän.</r:Content>
+            <r:Content xml:lang="fi">Sisältää teksti-, kuva- ja äänimuodossa olevan viestinnän.</r:Content>
+            <r:Content xml:lang="fr">Inclut le texte, l'image fixe, la vidéo et le son.</r:Content>
+            <r:Content xml:lang="fr">Inclut le texte, l'image fixe, la vidéo et le son.</r:Content>
+            <r:Content xml:lang="it">Include testi, immagini, video e suoni.</r:Content>
+            <r:Content xml:lang="no">Inkluderer tekst, stillbilder, video og lyd.</r:Content>
+            <r:Content xml:lang="pt">Inclui texto, imagem, vídeo e som.</r:Content>
+            <r:Content xml:lang="sr">Uključuje tekst, nepokretne slike, video zapise i zvučne zapise.</r:Content>
+            <r:Content xml:lang="sv">Inkluderar text, stillbilder, video och ljud.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit-MediaUnit.Sound-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>MediaUnit.Sound</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Media unit: Sound</r:Content>
+            <r:Content xml:lang="da">Medieenhed: Lyd</r:Content>
+            <r:Content xml:lang="fi">Mediatyyppi: ääni</r:Content>
+            <r:Content xml:lang="fi">Mediatyyppi: ääni</r:Content>
+            <r:Content xml:lang="fr">Média : son</r:Content>
+            <r:Content xml:lang="fr">Média : son</r:Content>
+            <r:Content xml:lang="it">Unità di supporto: suono</r:Content>
+            <r:Content xml:lang="no">Medieenhet: Lyd</r:Content>
+            <r:Content xml:lang="pt">Unidade de Media: Som</r:Content>
+            <r:Content xml:lang="sr">Medijski zapis: Zvuk</r:Content>
+            <r:Content xml:lang="sv">Mediaenhet: Ljud</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Recorded sound, including voice, music, etc.</r:Content>
+            <r:Content xml:lang="da">Optaget lyd, inklusiv stemme, musik etc.</r:Content>
+            <r:Content xml:lang="fi">Taltioitu ääni, esimerkiksi puhe, musiikki jne.</r:Content>
+            <r:Content xml:lang="fi">Taltioitu ääni, esimerkiksi puhe, musiikki jne.</r:Content>
+            <r:Content xml:lang="fr">Son enregistré, incluant la voix, la musique, etc.</r:Content>
+            <r:Content xml:lang="fr">Son enregistré, incluant la voix, la musique, etc.</r:Content>
+            <r:Content xml:lang="it">Suoni registrati, inclusa la voce, la musica, ecc.</r:Content>
+            <r:Content xml:lang="no">Lydopptak, inkludert stemme, musikk, etc.</r:Content>
+            <r:Content xml:lang="pt">Som gravado, incluindo voz, música, etc.</r:Content>
+            <r:Content xml:lang="sr">Zvučni zapis, uključujući zvuk, muziku i sl.</r:Content>
+            <r:Content xml:lang="sv">Inspelat ljud, som röst, musik m.m.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit-MediaUnit.StillImage-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>MediaUnit.StillImage</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Media unit: Still image</r:Content>
+            <r:Content xml:lang="da">Medieenhed: Stillbillede</r:Content>
+            <r:Content xml:lang="fi">Mediatyyppi: still-kuva</r:Content>
+            <r:Content xml:lang="fi">Mediatyyppi: still-kuva</r:Content>
+            <r:Content xml:lang="fr">Média : image fixe</r:Content>
+            <r:Content xml:lang="fr">Média : image fixe</r:Content>
+            <r:Content xml:lang="it">Unità di supporto: immagine</r:Content>
+            <r:Content xml:lang="no">Medieenhet: Stillbilde</r:Content>
+            <r:Content xml:lang="pt">Unidade de Media: Imagem</r:Content>
+            <r:Content xml:lang="sr">Medijski zapis: Nepokretna slika</r:Content>
+            <r:Content xml:lang="sv">Mediaenhet: Stillbild</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Static images, such as graphs, drawings, photographs, diagnostic/medical images like X-rays and other types of imaging tests, etc.</r:Content>
+            <r:Content xml:lang="da">Statistiske billeder, såsom grafer, tegninger, fotografier, diagnostiske/medicinske billeder som røntgen og andre typer af billeddannelsestests etc.</r:Content>
+            <r:Content xml:lang="fi">Still-kuvat kuten esimerkiksi graafit, piirrokset, valokuvat, röntgenkuvat tai muut lääketieteelliset still-kuvat.</r:Content>
+            <r:Content xml:lang="fi">Still-kuvat kuten esimerkiksi graafit, piirrokset, valokuvat, röntgenkuvat tai muut lääketieteelliset still-kuvat.</r:Content>
+            <r:Content xml:lang="fr">Image statique, tel que des graphiques, des dessins, des photographies, des images de diagnostic / médicales comme des rayons X et tous autres types de tests d'imageries, etc.</r:Content>
+            <r:Content xml:lang="fr">Image statique, tel que des graphiques, des dessins, des photographies, des images de diagnostic / médicales comme des rayons X et tous autres types de tests d'imageries, etc.</r:Content>
+            <r:Content xml:lang="it">Immagini statiche, come grafici, disegni, fotografie, immagini diagnostiche/mediche come radiografie e altri tipi di esami per immagini, ecc.</r:Content>
+            <r:Content xml:lang="no">Statiske bilder som grafer, tegninger, fotografier, diagnostiske/medisinske bilder som røntgen og andre bildetester, etc.</r:Content>
+            <r:Content xml:lang="pt">Imagens estáticas, como gráficos, desenhos, fotografias, imagens médicas/de diagnóstico como raio-x e outros tipos de testes de imagem, etc.</r:Content>
+            <r:Content xml:lang="sr">Nepokretne slike, kao što su grafici, crteži, fotografije, dijagnostičke/medicinske slike kao što su rentgenski snimci i sl.</r:Content>
+            <r:Content xml:lang="sv">Statiska bilder, som diagram, ritningar, fotografier, diagnostiska/medicinska bilder som röntgenbilder eller andra typer av bilddiagnostiska undersökningar&amp;nbsp;osv.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit-MediaUnit.Text-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>MediaUnit.Text</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Media unit: Text</r:Content>
+            <r:Content xml:lang="da">Medieenhed: Tekst</r:Content>
+            <r:Content xml:lang="fi">Mediatyyppi: teksti</r:Content>
+            <r:Content xml:lang="fi">Mediatyyppi: teksti</r:Content>
+            <r:Content xml:lang="fr">Média : texte</r:Content>
+            <r:Content xml:lang="fr">Média : texte</r:Content>
+            <r:Content xml:lang="it">Unità di supporto: testo</r:Content>
+            <r:Content xml:lang="no">Medieenhet: Tekst</r:Content>
+            <r:Content xml:lang="pt">Unidade de Media: Texto</r:Content>
+            <r:Content xml:lang="sr">Medijski zapis: Tekst</r:Content>
+            <r:Content xml:lang="sv">Mediaenhet: Text</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Any written piece/entity, such as books, articles, tweets, blogs, etc. For example, a study on hate speech in tweets, or a study of the way newspapers present certain political/social issues over time, like women's or minorities' rights, etc.</r:Content>
+            <r:Content xml:lang="da">Ethvert skriftligt stykke/enhed, såsom bøger, artikler, tweets, blogs etc. Fx en undersøgelse af hadudtalelser i tweets eller en undersøgelse af den måde, aviser præsenterer bestemte politiske/sociale spørgsmål over tid, som kvinders eller mindretals rettigheder etc.</r:Content>
+            <r:Content xml:lang="fi">Kirja, artikkeli, tweet, blogikirjoitus tai mikä tahansa muu tekstiyksikkö. Esimerkiksi tutkittaessa miten sanomalehdet ovat käsitelleet tiettyä aihetta ajan saatossa tai tutkittaessa vihapuhetta blogikirjoituksissa.</r:Content>
+            <r:Content xml:lang="fi">Kirja, artikkeli, tweet, blogikirjoitus tai mikä tahansa muu tekstiyksikkö. Esimerkiksi tutkittaessa miten sanomalehdet ovat käsitelleet tiettyä aihetta ajan saatossa tai tutkittaessa vihapuhetta blogikirjoituksissa.</r:Content>
+            <r:Content xml:lang="fr">Toutes pièce / entité écrite, telles que des livres, des articles, des tweets, des blogs, etc. Par exemple, une étude sur le discours de haine dans des tweets, ou une étude sur la manière dont les journaux présentent certaines questions politiques / sociales au fil du temps, comme les droits des femmes ou des minorités, etc.</r:Content>
+            <r:Content xml:lang="fr">Toutes pièce / entité écrite, telles que des livres, des articles, des tweets, des blogs, etc. Par exemple, une étude sur le discours de haine dans des tweets, ou une étude sur la manière dont les journaux présentent certaines questions politiques / sociales au fil du temps, comme les droits des femmes ou des minorités, etc.</r:Content>
+            <r:Content xml:lang="it">Qualsiasi entità scritta, come libri, articoli, tweet, blog, ecc. Ad esempio, uno studio sugli hate speech nei tweet, oppure uno studio sul modo in cui i giornali presentano nel tempo alcuni temi politici/sociali, come i diritti delle donne o delle minoranze, ecc.</r:Content>
+            <r:Content xml:lang="no">Alle skrevne tekster/enheter som bøker, artikler, tweets, blogger, etc. For eksempel: en studie om hatefulle ytringer i tweets, en studie om måten nyhetsaviser fremstiller enkelte politiske/sosiale problemer over tid, som kvinners eller minoriteters rettigheter.</r:Content>
+            <r:Content xml:lang="pt">Qualquer entidade/peça escrita, como livros, artigos, tweets, blogues, etc. Por exemplo, um estudo sobre discurso de ódio nos tweets, ou um estudo sobre a forma como os jornais apresentam certos fenómenos políticos/sociais ao longo do tempo, como os direitos das mulheres ou de outras minorias, etc.</r:Content>
+            <r:Content xml:lang="sr">Bilo koje pisano delo, kao što su knjige, članci, tvitovi, blogovi, itd. Na primer, studija o govoru mržnje u tvitovima ili studija načina na koji novine predstavljaju određena politička / društvena pitanja tokom vremena, kao što su prava žena ili manjina, itd.</r:Content>
+            <r:Content xml:lang="sv">Alla skrivna texter, som böcker, artiklar, tweets, bloggar m.m. Till exempel en studie om hets mot folkgrupp i tweets, eller en studie om hur tidningar beskriver olika politiska/sociala ämnen över tid, som kvinnors eller minoriteters rättigheter osv.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit-MediaUnit.Video-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>MediaUnit.Video</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Media unit: Video</r:Content>
+            <r:Content xml:lang="da">Medieenhed: Video</r:Content>
+            <r:Content xml:lang="fi">Mediatyyppi: liikkuva kuva</r:Content>
+            <r:Content xml:lang="fi">Mediatyyppi: liikkuva kuva</r:Content>
+            <r:Content xml:lang="fr">Média : vidéo</r:Content>
+            <r:Content xml:lang="fr">Média : vidéo</r:Content>
+            <r:Content xml:lang="it">Unità di supporto: video</r:Content>
+            <r:Content xml:lang="no">Medieenhet: video</r:Content>
+            <r:Content xml:lang="pt">Unidade de Media: Vídeo</r:Content>
+            <r:Content xml:lang="sr">Medijski zapis: Video</r:Content>
+            <r:Content xml:lang="sv">Mediaenhet: Video</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Moving images. May include films, animation, digital recordings, visual output from simulations, recorded television programs, diagnostic/medical videos like ultrasound scans, etc. May be mute or may include synchronized sound.</r:Content>
+            <r:Content xml:lang="da">Bevægende billeder. Kan indeholde film, animation, digitale optagelser, visuelt output fra simuleringer, indspillede tv-programmer, diagnostiske/medicinske videoer som ultralydsscanninger etc. Kan være lydløs eller kan indeholde synkroniseret lyd.</r:Content>
+            <r:Content xml:lang="fi">Liikkuva kuva äänellä tai ilman. Esimerkiksi elokuvat, animaatiot, digitaaliset taltiot, simulaatioiden liikkuvat kuvat, taltioidut televisio-ohjelmat ja ultraäänikuvat.</r:Content>
+            <r:Content xml:lang="fi">Liikkuva kuva äänellä tai ilman. Esimerkiksi elokuvat, animaatiot, digitaaliset taltiot, simulaatioiden liikkuvat kuvat, taltioidut televisio-ohjelmat ja ultraäänikuvat.</r:Content>
+            <r:Content xml:lang="fr">Images en mouvement. Peut inclure des films, de l'animation, des enregistrements digitaux, des visualisations de simulations, des émissions de télévision enregistrées, des videos de diagnostic / médicales comme des échographies, etc. Peut être muet ou peut inclure du son synchronisé.</r:Content>
+            <r:Content xml:lang="fr">Images en mouvement. Peut inclure des films, de l'animation, des enregistrements digitaux, des visualisations de simulations, des émissions de télévision enregistrées, des videos de diagnostic / médicales comme des échographies, etc. Peut être muet ou peut inclure du son synchronisé.</r:Content>
+            <r:Content xml:lang="it">Immagini in movimento. Può includere film, animazioni, registrazioni digitali, output visivi prodotti da simulazioni, programmi televisivi registrati, video medico/diagnostici come ecografie, ecc. Può essere muto o può includere il suono sincronizzato.</r:Content>
+            <r:Content xml:lang="no">Bevegelige bilder. Kan inkludere filmer, animasjoner, digitale opptak, visuell produksjon fra simuleringer, innspilte fjernsynsprogram, diagnostiske/medisinske videor som ultralyd skanninger, etc. Kan være uten lyd eller med synkronisert lyd.</r:Content>
+            <r:Content xml:lang="pt">Imagens em movimento. Pode incluir filmes, animação, gravações digitais, output visual de simulações, programas televisivos gravados, vídeos médicos/de diagnóstico como ultrasons, etc. Podem ser silenciosos ou podem incluir som sincronizado.</r:Content>
+            <r:Content xml:lang="sr">Pokretne slike. Može da uključuje filmove, animacije, digitalne snimke, vizuelni autput simulacija, snimljenih televizijskih programa, dijagnostički / medicinski video snimak poput ultrazvučnog skeniranja, itd. Može, ali ne mora da uključuje sinhronizovani zvuk.</r:Content>
+            <r:Content xml:lang="sv">Rörliga bilder. Det kan inkludera filmer, animationer, digitala inspelningar, visuella utdata från simuleringar, inspelade tv-program, diagnostiska/medicinska videor som ultraljudsundersökningar osv. De kan vara utan ljud eller med synkroniserat ljud.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit-Group-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>Group</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Group</r:Content>
+            <r:Content xml:lang="da">Gruppe</r:Content>
+            <r:Content xml:lang="fi">Ryhmä</r:Content>
+            <r:Content xml:lang="fi">Ryhmä</r:Content>
+            <r:Content xml:lang="fr">Groupe</r:Content>
+            <r:Content xml:lang="fr">Groupe</r:Content>
+            <r:Content xml:lang="it">Gruppo</r:Content>
+            <r:Content xml:lang="no">Gruppe</r:Content>
+            <r:Content xml:lang="pt">Grupo</r:Content>
+            <r:Content xml:lang="sr">Grupa</r:Content>
+            <r:Content xml:lang="sv">Grupp</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Two or more individuals assembled together or having some unifying relationship or characteristic. In surveys, the questions are mainly focused on the group and the attitudes/experiences of the group, rather than on those of the individual respondents. If questions cover both the group and the individual, use  both as analysis units.</r:Content>
+            <r:Content xml:lang="da">To eller flere individer samlet sammen eller, eller som har et forenende forhold eller karakteristik. I undersøgelser er spørgsmålene hovedsageligt fokuseret på gruppen og holdningerne/oplevelserne i gruppen snarere end de individuelle respondenters. Hvis spørgsmål dækker både gruppen og den individuelle, brug begge som analyseenheder.</r:Content>
+            <r:Content xml:lang="fi">Kaksi tai useampia henkilöitä, jotka ovat joko kokoontuneet yhteen tai joita yhdistää jokin muu tekijä. Mikäli kyselytutkimus, kysymykset koskevat pääasiassa itse ryhmää, ryhmän kokemuksia ja asenteita ryhmää kohtaan, ei henkilöä itseään. Mikäli kysymykset koskevat sekä ryhmää että henkilöä, käytä havaintoyksikkönä molempia.</r:Content>
+            <r:Content xml:lang="fi">Kaksi tai useampia henkilöitä, jotka ovat joko kokoontuneet yhteen tai joita yhdistää jokin muu tekijä. Mikäli kyselytutkimus, kysymykset koskevat pääasiassa itse ryhmää, ryhmän kokemuksia ja asenteita ryhmää kohtaan, ei henkilöä itseään. Mikäli kysymykset koskevat sekä ryhmää että henkilöä, käytä havaintoyksikkönä molempia.</r:Content>
+            <r:Content xml:lang="fr">Deux ou plus individus réunis ou ayant une relation ou une caractéristique unificatrice. Dans les enquêtes, les questions sont principalement axées sur le groupe et les attitudes / expériences du groupe, plutôt que sur celles des répondants individuels. Si des questions couvrent à la fois le groupe et l'individu, utilisez les deux comme unité d'analyse.</r:Content>
+            <r:Content xml:lang="fr">Deux ou plus individus réunis ou ayant une relation ou une caractéristique unificatrice. Dans les enquêtes, les questions sont principalement axées sur le groupe et les attitudes / expériences du groupe, plutôt que sur celles des répondants individuels. Si des questions couvrent à la fois le groupe et l'individu, utilisez les deux comme unité d'analyse.</r:Content>
+            <r:Content xml:lang="it">Due o più individui riuniti oppure che possiedono una qualsiasi relazione o caratteristica unificante. Nelle indagini le domande si concentrano principalmente sul gruppo e sugli atteggiamenti/esperienze del gruppo, piuttosto che su quelle dei singoli intervistati. Se le domande riguardano sia il gruppo che l'individuo, utilizzare entrambi come unità di analisi.</r:Content>
+            <r:Content xml:lang="no">To eller flere personer som samles eller som har et forhold som forener dem. I spørreundersøkelser er spørsmålene hovedsaklig rettet mot gruppen og holdningen/opplevelsene til gruppen i steden for de individuelle respondentene. Hvis spørsmål angår både gruppen og individene, bruk begge som analyseenhet.</r:Content>
+            <r:Content xml:lang="pt">Dois ou mais indivíduos que se assemelham ou que têm uma relação ou característica unificadora. Nos inquéritos, as questões são principalmente focadas no grupo e nas atitudes e experiências do grupo, e não tanto nos indivíduos entrevistados. Se as questões abrangem o indivíduo e o grupo, usar ambos como unidades de análise.</r:Content>
+            <r:Content xml:lang="sr">Dvoje ili više pojedinaca koji su okupljeni ili objedinjeni nekim odnosom ili karakteristikom(ama). U anketama, pitanja su uglavnom usmereni na grupu i stavove / iskustva grupe, a ne pojedinačnih ispitanika. Ako pitanja pokrivaju i grupu i pojedince, koristite oba kao jedinice za analizu.</r:Content>
+            <r:Content xml:lang="sv">Två eller fler personer som samlats eller som har någon form av relation eller egenskap som förenar dem. I surveyundersökningar fokuserar frågorna framför allt på gruppen och gruppens attityder/erfarenheter, snarare än på de enskilda respondenterna. Om frågorna gäller både gruppen och individen, använd båda som analysenheter.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit-Object-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>Object</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Object</r:Content>
+            <r:Content xml:lang="da">Objekt</r:Content>
+            <r:Content xml:lang="fi">Eloton objekti/esine</r:Content>
+            <r:Content xml:lang="fi">Eloton objekti/esine</r:Content>
+            <r:Content xml:lang="fr">Objet</r:Content>
+            <r:Content xml:lang="fr">Objet</r:Content>
+            <r:Content xml:lang="it">Oggetto</r:Content>
+            <r:Content xml:lang="no">Objekt</r:Content>
+            <r:Content xml:lang="pt">Objeto</r:Content>
+            <r:Content xml:lang="sr">Predmet</r:Content>
+            <r:Content xml:lang="sv">Föremål</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Anything material, but inanimate, that has an independent existence and may be perceived by the senses. Examples: objects of art (paintings, sculptures, etc.) or weapons, or vehicles, etc.</r:Content>
+            <r:Content xml:lang="da">Ethvert livløst materiale, der har en uafhængig eksistens, og som kan opfattes af sanserne. Eksempler: kunstobjekter (malerier, skulpturer etc.) eller våben eller køretøjer etc.</r:Content>
+            <r:Content xml:lang="fi">Mikä tahansa konkreettinen, eloton esine/kohde, joka voidaan aistein havaita. Esimerkiksi taideteokset (veistokset, maalaukset), aseet, ajoneuvot jne.</r:Content>
+            <r:Content xml:lang="fi">Mikä tahansa konkreettinen, eloton esine/kohde, joka voidaan aistein havaita. Esimerkiksi taideteokset (veistokset, maalaukset), aseet, ajoneuvot jne.</r:Content>
+            <r:Content xml:lang="fr">Tout ce qui est matériel, mais inanimé, qui a une existence indépendante et peut être perçu par les sens. Exemples : objets d'art (peintures, sculptures, etc.) ou armes, ou véhicules, etc.</r:Content>
+            <r:Content xml:lang="fr">Tout ce qui est matériel, mais inanimé, qui a une existence indépendante et peut être perçu par les sens. Exemples : objets d'art (peintures, sculptures, etc.) ou armes, ou véhicules, etc.</r:Content>
+            <r:Content xml:lang="it">Tutto ciò che è materiale, inanimato, che ha un'esistenza indipendente e che può essere percepito attraverso i sensi. Esempi: oggetti d'arte (dipinti, sculture, ecc.), armi, veicoli, ecc.</r:Content>
+            <r:Content xml:lang="no">Noe fysisk, men ikke levende som eksisterer som en uavhengig enhet og som kan oppfattes av sansene. For eksempel: kunst (malerier, skulpturer osv.), våpen, kjøretøy etc.</r:Content>
+            <r:Content xml:lang="pt">Qualquer coisa material, mas inanimada, que tenha uma existência independente e possa ser percebida pelos sentidos. Exemplos: objetos de arte (pinturas, esculturas, etc.) ou armas, ou veículos, etc.</r:Content>
+            <r:Content xml:lang="sr">Bilo šta materijalno, deo nežive prirode, pri čemu eguistira nezavisno i može biti opaženo čulima. Primeri: predmeti umetnosti (slike, skulpture, itd.) ili oružje ili vozila, zgrade itd.</r:Content>
+            <r:Content xml:lang="sv">Något fysiskt men icke levande som existerar som en oberoende enhet och kan uppfattas av sinnena. Exempel: konstföremål (tavlor, skulpturer, o.dyl.), vapen, fordon m.m.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AnalysisUnit-Other-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>Other</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Other</r:Content>
+            <r:Content xml:lang="da">Andet</r:Content>
+            <r:Content xml:lang="fi">Muu havainto/aineistoyksikkötyyppi</r:Content>
+            <r:Content xml:lang="fi">Muu havainto/aineistoyksikkötyyppi</r:Content>
+            <r:Content xml:lang="fr">Autre</r:Content>
+            <r:Content xml:lang="fr">Autre</r:Content>
+            <r:Content xml:lang="it">Altro</r:Content>
+            <r:Content xml:lang="no">Annet</r:Content>
+            <r:Content xml:lang="pt">Outro </r:Content>
+            <r:Content xml:lang="sr">Ostalo</r:Content>
+            <r:Content xml:lang="sv">Övrigt</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Use if the unit of analysis is known, but not found in the list.</r:Content>
+            <r:Content xml:lang="da">Brug denne, hvis analyseenheden er kendt, men ikke fremgår af listen.</r:Content>
+            <r:Content xml:lang="fi">Käytä mikäli havaintoyksikkö on tiedossa, mutta ei löydy sanastosta.</r:Content>
+            <r:Content xml:lang="fi">Käytä mikäli havaintoyksikkö on tiedossa, mutta ei löydy sanastosta.</r:Content>
+            <r:Content xml:lang="fr">Utilisez si l'unité d'analyse est connue, mais pas présente dans la liste.</r:Content>
+            <r:Content xml:lang="fr">Utilisez si l'unité d'analyse est connue, mais pas présente dans la liste.</r:Content>
+            <r:Content xml:lang="it">Utilizzare se l'unità di analisi è nota, ma non riconducibile a nessun termine presente nell'elenco.</r:Content>
+            <r:Content xml:lang="no">Benytt hvis analyseenheten er kjent, men ikke finnes i listen.</r:Content>
+            <r:Content xml:lang="pt">Usar se a unidade de análise for conhecida, mas não se encontrar na lista.</r:Content>
+            <r:Content xml:lang="sr">Koristite ako je jedinica analize poznata, ali nije na listi.</r:Content>
+            <r:Content xml:lang="sv">Använd om analysenheten är känd men saknas i listan.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+</ddi:FragmentInstance>

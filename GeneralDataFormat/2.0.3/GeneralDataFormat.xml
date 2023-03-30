@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ddi:FragmentInstance xmlns:ddi="ddi:instance:3_2"
+                       xmlns:ddi-cv="urn:ddi-cv"
+                       xmlns:l="ddi:logicalproduct:3_2"
+                       xmlns:r="ddi:reusable:3_2">
+   <ddi:Fragment>
+      <l:CodeList>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>GeneralDataFormat</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <r:Label/>
+         <r:Description/>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>GeneralDataFormat-Numeric-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>GeneralDataFormat-Numeric-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Numeric</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>GeneralDataFormat-Text-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>GeneralDataFormat-Text-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Text</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>GeneralDataFormat-StillImage-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>GeneralDataFormat-StillImage-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>StillImage</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>GeneralDataFormat-Geospatial-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>GeneralDataFormat-Geospatial-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Geospatial</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>GeneralDataFormat-Audio-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>GeneralDataFormat-Audio-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Audio</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>GeneralDataFormat-Video-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>GeneralDataFormat-Video-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Video</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>GeneralDataFormat-Software-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>GeneralDataFormat-Software-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Software</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>GeneralDataFormat-InteractiveResource-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>GeneralDataFormat-InteractiveResource-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>InteractiveResource</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>GeneralDataFormat-ThreeD-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>GeneralDataFormat-ThreeD-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ThreeD</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>GeneralDataFormat-Other-Code</r:ID>
+            <r:Version>2.0.0</r:Version>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>GeneralDataFormat-Other-Category</r:ID>
+               <r:Version>2.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Other</r:Value>
+         </l:Code>
+      </l:CodeList>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>GeneralDataFormat-Numeric-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>Numeric</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Numeric</r:Content>
+            <r:Content xml:lang="en">Numeric</r:Content>
+            <r:Content xml:lang="da">Numerisk</r:Content>
+            <r:Content xml:lang="da">Numerisk</r:Content>
+            <r:Content xml:lang="da">Numerisk</r:Content>
+            <r:Content xml:lang="de">Numerisch</r:Content>
+            <r:Content xml:lang="de">Numerisch</r:Content>
+            <r:Content xml:lang="fi">Numeerinen</r:Content>
+            <r:Content xml:lang="fi">Numeerinen</r:Content>
+            <r:Content xml:lang="fr">Nombre</r:Content>
+            <r:Content xml:lang="fr">Nombre</r:Content>
+            <r:Content xml:lang="it">Numerico</r:Content>
+            <r:Content xml:lang="it">Numerico</r:Content>
+            <r:Content xml:lang="nl">Numeriek</r:Content>
+            <r:Content xml:lang="nl">Numeriek</r:Content>
+            <r:Content xml:lang="no">Numeriske</r:Content>
+            <r:Content xml:lang="no">Numeriske</r:Content>
+            <r:Content xml:lang="pt">Numérico</r:Content>
+            <r:Content xml:lang="pt">Numérico</r:Content>
+            <r:Content xml:lang="sl">Številski</r:Content>
+            <r:Content xml:lang="sl">Številski</r:Content>
+            <r:Content xml:lang="sl">Številski</r:Content>
+            <r:Content xml:lang="sr">Numerički</r:Content>
+            <r:Content xml:lang="sr">Numerički</r:Content>
+            <r:Content xml:lang="sv">Numeriska</r:Content>
+            <r:Content xml:lang="sv">Numeriska</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Data consisting largely of values expressed as digits from 0 to 9 and, optionally, signs for negative values, decimal points, or letters only when intended to represent numbers (for example, A-F or a-f in hexadecimal).</r:Content>
+            <r:Content xml:lang="en">Data consisting largely of values expressed as digits from 0 to 9 and, optionally, signs for negative values, decimal points, or letters only when intended to represent numbers (for example, A-F or a-f in hexadecimal).</r:Content>
+            <r:Content xml:lang="da">Data bestående i størstedelen af værdier udtrykt som cifre fra 0 til 9 og, eventuelt, tegn for negative værdier, decimaler, eller bogstaver, når de kun har til formål at repræsentere tal (for eksempel, A-F eller a-f i hexadecimal).</r:Content>
+            <r:Content xml:lang="da">Data bestående i størstedelen af værdier udtrykt som cifre fra 0 til 9 og, eventuelt, tegn for negative værdier, decimaler, eller bogstaver, når de kun har til formål at repræsentere tal (for eksempel, A-F eller a-f i hexadecimal).</r:Content>
+            <r:Content xml:lang="da">Data bestående i størstedelen af værdier udtrykt som cifre fra 0 til 9 og, eventuelt, tegn for negative værdier, decimaler, eller bogstaver, når de kun har til formål at repræsentere tal (for eksempel, A-F eller a-f i hexadecimal).</r:Content>
+            <r:Content xml:lang="de">Daten, die weitestgehend aus Werten bestehen, die durchZiffern von 0 bis 9 ausgedrückt werden und gegebenenfalls Zeichen für negative Werte, Dezimalkommata oder Buchstaben, mit denen beabsichtigt wird, Zahlen zu repräsentieren (z. B. A-F oder a-f in Hexadezimal).</r:Content>
+            <r:Content xml:lang="de">Daten, die weitestgehend aus Werten bestehen, die durchZiffern von 0 bis 9 ausgedrückt werden und gegebenenfalls Zeichen für negative Werte, Dezimalkommata oder Buchstaben, mit denen beabsichtigt wird, Zahlen zu repräsentieren (z. B. A-F oder a-f in Hexadezimal).</r:Content>
+            <r:Content xml:lang="fi">Data koostuu enimmäkseen numeroilla 0-9 ilmaistuista arvoista ja mahdollisesti myös negatiivisten arvojen merkeistä tai desimaalierottimista. Datassa voi myös olla kirjaimia silloin, kun kirjainmerkit edustavat numerointia (esim. A-F tai a-f heksadesimaalijärjestelmässä).</r:Content>
+            <r:Content xml:lang="fi">Data koostuu enimmäkseen numeroilla 0-9 ilmaistuista arvoista ja mahdollisesti myös negatiivisten arvojen merkeistä tai desimaalierottimista. Datassa voi myös olla kirjaimia silloin, kun kirjainmerkit edustavat numerointia (esim. A-F tai a-f heksadesimaalijärjestelmässä).</r:Content>
+            <r:Content xml:lang="fr">Données constituées largement de valeurs exprimées sous forme de chiffres de 0 à 9 et, facultativement, de signes pour des valeurs négatives, de points décimaux, ou de lettres seulement lorsqu'elles représentent des nombres (par exemple, A-F ou a-f en hexadécimal)</r:Content>
+            <r:Content xml:lang="fr">Données constituées largement de valeurs exprimées sous forme de chiffres de 0 à 9 et, facultativement, de signes pour des valeurs négatives, de points décimaux, ou de lettres seulement lorsqu'elles représentent des nombres (par exemple, A-F ou a-f en hexadécimal)</r:Content>
+            <r:Content xml:lang="it">I dati sono in gran parte rappresentati da valori espressi come cifre comprese tra 0 a 9 e, eventualmente, da segni per i valori negativi, da punti per i valori decimali o da lettere solo se destinati a rappresentare numeri (ad esempio, A-F o a-f nel sistema esadecimale).</r:Content>
+            <r:Content xml:lang="it">I dati sono in gran parte rappresentati da valori espressi come cifre comprese tra 0 a 9 e, eventualmente, da segni per i valori negativi, da punti per i valori decimali o da lettere solo se destinati a rappresentare numeri (ad esempio, A-F o a-f nel sistema esadecimale).</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Data som hovedsakelig består av verdier uttrykt som siffer fra 0 til 9, og eventuelt tegn for negative verdier, desimaltegn, eller bokstaver når de representerer tall (for eksempel A-F eller a-f i heksadesimaler).</r:Content>
+            <r:Content xml:lang="no">Data som hovedsakelig består av verdier uttrykt som siffer fra 0 til 9, og eventuelt tegn for negative verdier, desimaltegn, eller bokstaver når de representerer tall (for eksempel A-F eller a-f i heksadesimaler).</r:Content>
+            <r:Content xml:lang="pt">Dados que consistem, geralmente, em valores expressos em dígitos de 0 a 9 e, opcionalmente, sinais para valores negativos, pontos decimais ou letras, apenas quando destinados a representar números (por exemplo, A-F ou a-f em hexadecimal).</r:Content>
+            <r:Content xml:lang="pt">Dados que consistem, geralmente, em valores expressos em dígitos de 0 a 9 e, opcionalmente, sinais para valores negativos, pontos decimais ou letras, apenas quando destinados a representar números (por exemplo, A-F ou a-f em hexadecimal).</r:Content>
+            <r:Content xml:lang="sl">Podatki, ki so večinoma sestavljeni iz vrednosti, izraženih kot števke od 0 in 9, lahko tudi kot znaki za negativne vrednosti, decimalna ločila ali črke, ki so namenjene predstavitvi števil (na primer A-F ali a-f v šestnajstiškem zapisu).</r:Content>
+            <r:Content xml:lang="sl">Podatki, ki so večinoma sestavljeni iz vrednosti, izraženih kot števke od 0 in 9, lahko tudi kot znaki za negativne vrednosti, decimalna ločila ali črke, ki so namenjene predstavitvi števil (na primer A-F ali a-f v šestnajstiškem zapisu).</r:Content>
+            <r:Content xml:lang="sl">Podatki, ki so večinoma sestavljeni iz vrednosti, izraženih kot števke od 0 in 9, lahko tudi kot znaki za negativne vrednosti, decimalna ločila ali črke, ki so namenjene predstavitvi števil (na primer A-F ali a-f v šestnajstiškem zapisu).</r:Content>
+            <r:Content xml:lang="sr">Podaci koji se uglavnom sastoje od vrednosti izraženih kao cifre od 0 do 9 i opciono znakova za negativne vrednosti, decimalne tačke ili slova, samo kada su namenjeni predstavljanju brojeva (na primer, A-F ili a-f u heksadecimalnoj vrednosti).</r:Content>
+            <r:Content xml:lang="sr">Podaci koji se uglavnom sastoje od vrednosti izraženih kao cifre od 0 do 9 i opciono znakova za negativne vrednosti, decimalne tačke ili slova, samo kada su namenjeni predstavljanju brojeva (na primer, A-F ili a-f u heksadecimalnoj vrednosti).</r:Content>
+            <r:Content xml:lang="sv">Data som främst består av värden som uttrycks med siffrorna 0 till 9 och eventuellt tecken för negativa värden, decimalkomman, och bokstäver endast då de är avsedda att representera siffror (t.ex. A-F eller a-f för hexadecimala tal).</r:Content>
+            <r:Content xml:lang="sv">Data som främst består av värden som uttrycks med siffrorna 0 till 9 och eventuellt tecken för negativa värden, decimalkomman, och bokstäver endast då de är avsedda att representera siffror (t.ex. A-F eller a-f för hexadecimala tal).</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>GeneralDataFormat-Text-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>Text</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Text</r:Content>
+            <r:Content xml:lang="en">Text</r:Content>
+            <r:Content xml:lang="da">Tekst</r:Content>
+            <r:Content xml:lang="da">Tekst</r:Content>
+            <r:Content xml:lang="da">Tekst</r:Content>
+            <r:Content xml:lang="de">Text</r:Content>
+            <r:Content xml:lang="de">Text</r:Content>
+            <r:Content xml:lang="fi">Teksti</r:Content>
+            <r:Content xml:lang="fi">Teksti</r:Content>
+            <r:Content xml:lang="fr">Texte</r:Content>
+            <r:Content xml:lang="fr">Texte</r:Content>
+            <r:Content xml:lang="it">Testuale</r:Content>
+            <r:Content xml:lang="it">Testuale</r:Content>
+            <r:Content xml:lang="nl">Tekst</r:Content>
+            <r:Content xml:lang="nl">Tekst</r:Content>
+            <r:Content xml:lang="no">Tekst</r:Content>
+            <r:Content xml:lang="no">Tekst</r:Content>
+            <r:Content xml:lang="pt">Texto</r:Content>
+            <r:Content xml:lang="pt">Texto</r:Content>
+            <r:Content xml:lang="sl">Besedilni</r:Content>
+            <r:Content xml:lang="sl">Besedilni</r:Content>
+            <r:Content xml:lang="sl">Besedilni</r:Content>
+            <r:Content xml:lang="sr">Tekstualni</r:Content>
+            <r:Content xml:lang="sr">Tekstualni</r:Content>
+            <r:Content xml:lang="sv">Text</r:Content>
+            <r:Content xml:lang="sv">Text</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Data consisting largely of text, including letters, numbers, and special characters or symbols used in writing for punctuation, abbreviation, etc. For example, interview transcriptions, narratives or essays written by study participants, newspaper articles, etc.</r:Content>
+            <r:Content xml:lang="en">Data consisting largely of text, including letters, numbers, and special characters or symbols used in writing for punctuation, abbreviation, etc. For example, interview transcriptions, narratives or essays written by study participants, newspaper articles, etc.</r:Content>
+            <r:Content xml:lang="da">Data bestående i størstedelen af tekst, inklusiv bogstaver, tal, og specialtegn eller -symboler anvendt i skrift til tegnsætning, forkortelser mm. For eksempel, transskribering af interviews, beretninger eller essays skrevet af studiedeltagere, avisartikler mm.</r:Content>
+            <r:Content xml:lang="da">Data bestående i størstedelen af tekst, inklusiv bogstaver, tal, og specialtegn eller -symboler anvendt i skrift til tegnsætning, forkortelser mm. For eksempel, transskribering af interviews, beretninger eller essays skrevet af studiedeltagere, avisartikler mm.</r:Content>
+            <r:Content xml:lang="da">Data bestående i størstedelen af tekst, inklusiv bogstaver, tal, og specialtegn eller -symboler anvendt i skrift til tegnsætning, forkortelser mm. For eksempel, transskribering af interviews, beretninger eller essays skrevet af studiedeltagere, avisartikler mm.</r:Content>
+            <r:Content xml:lang="de">Daten, die weitestgehend aus Text bestehen, einschließlich Buchstaben, Ziffern und Sonderzeichen oder Symbolen, die schriftlich für Interpunktion, Abkürzung usw. verwendet werden. Zum Beispiel Interviewtranskriptionen, Erzählungen oder Essays, die von Studienteilnehmern verfasst wurden, Zeitungsartikeln usw.</r:Content>
+            <r:Content xml:lang="de">Daten, die weitestgehend aus Text bestehen, einschließlich Buchstaben, Ziffern und Sonderzeichen oder Symbolen, die schriftlich für Interpunktion, Abkürzung usw. verwendet werden. Zum Beispiel Interviewtranskriptionen, Erzählungen oder Essays, die von Studienteilnehmern verfasst wurden, Zeitungsartikeln usw.</r:Content>
+            <r:Content xml:lang="fi">Data koostuu enimmäkseen tekstistä, mukaan lukien kirjainmerkit, numerot sekä erityismerkit tai symbolit, joita käytetään kirjoitetun tekstin välimerkkeinä, lyhenteissä jne. Esimerkiksi sanomalehtiartikkelit, haastatteluliteraatiot, tutkittavien kirjoittamat kertomukset tai esseet jne.</r:Content>
+            <r:Content xml:lang="fi">Data koostuu enimmäkseen tekstistä, mukaan lukien kirjainmerkit, numerot sekä erityismerkit tai symbolit, joita käytetään kirjoitetun tekstin välimerkkeinä, lyhenteissä jne. Esimerkiksi sanomalehtiartikkelit, haastatteluliteraatiot, tutkittavien kirjoittamat kertomukset tai esseet jne.</r:Content>
+            <r:Content xml:lang="fr">Données constituées largement de texte, incluant des lettres, des nombres, et des caractères spéciaux ou des symboles utilisés dans l'écriture de ponctuation, d'abréviation, etc. Par exemple, des transcriptions d'entretien, des récits ou des essais écrits par des participants à l'étude, des articles de journal, etc.</r:Content>
+            <r:Content xml:lang="fr">Données constituées largement de texte, incluant des lettres, des nombres, et des caractères spéciaux ou des symboles utilisés dans l'écriture de ponctuation, d'abréviation, etc. Par exemple, des transcriptions d'entretien, des récits ou des essais écrits par des participants à l'étude, des articles de journal, etc.</r:Content>
+            <r:Content xml:lang="it">I dati sono formati in gran parte da elementi testuali, compresi lettere, numeri, caratteri speciali o simboli utilizzati nella scrittura per la punteggiatura, abbreviazioni, ecc. Ad esempio, trascrizioni di interviste, racconti o saggi scritti dai partecipanti allo studio, articoli di giornale, ecc.</r:Content>
+            <r:Content xml:lang="it">I dati sono formati in gran parte da elementi testuali, compresi lettere, numeri, caratteri speciali o simboli utilizzati nella scrittura per la punteggiatura, abbreviazioni, ecc. Ad esempio, trascrizioni di interviste, racconti o saggi scritti dai partecipanti allo studio, articoli di giornale, ecc.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Data som hovedsakelig består av tekst, inkludert bokstaver, tall, og spesielle tegn eller symboler som brukes i skrift for tegnsetting, forkortelser etc. For eksempel intervjutranskripsjoner, fortellinger eller essay skrevet av studiedeltakere, avisartikler etc.</r:Content>
+            <r:Content xml:lang="no">Data som hovedsakelig består av tekst, inkludert bokstaver, tall, og spesielle tegn eller symboler som brukes i skrift for tegnsetting, forkortelser etc. For eksempel intervjutranskripsjoner, fortellinger eller essay skrevet av studiedeltakere, avisartikler etc.</r:Content>
+            <r:Content xml:lang="pt">Dados que consistem basicamente em textos, incluindo letras, números e caracteres especiais ou símbolos usados na escrita para pontuação, abreviatura, etc. Por exemplo, transcrições de entrevistas, narrativas ou ensaios escritos por participantes do estudo, artigos de jornais, etc.</r:Content>
+            <r:Content xml:lang="pt">Dados que consistem basicamente em textos, incluindo letras, números e caracteres especiais ou símbolos usados na escrita para pontuação, abreviatura, etc. Por exemplo, transcrições de entrevistas, narrativas ou ensaios escritos por participantes do estudo, artigos de jornais, etc.</r:Content>
+            <r:Content xml:lang="sl">Podatki, ki so večinoma sestavljeni iz besedila, vključno s črkami, številkami in posebnimi znaki ali simboli, ki se uporabljajo v pisni obliki za ločila, kratice, itd. Npr. transkripti intervjujev, pričevanja ali eseji, ki so jih napisali udeleženci raziskave, časopisni članki itd.</r:Content>
+            <r:Content xml:lang="sl">Podatki, ki so večinoma sestavljeni iz besedila, vključno s črkami, številkami in posebnimi znaki ali simboli, ki se uporabljajo v pisni obliki za ločila, kratice, itd. Npr. transkripti intervjujev, pričevanja ali eseji, ki so jih napisali udeleženci raziskave, časopisni članki itd.</r:Content>
+            <r:Content xml:lang="sl">Podatki, ki so večinoma sestavljeni iz besedila, vključno s črkami, številkami in posebnimi znaki ali simboli, ki se uporabljajo v pisni obliki za ločila, kratice, itd. Npr. transkripti intervjujev, pričevanja ali eseji, ki so jih napisali udeleženci raziskave, časopisni članki itd.</r:Content>
+            <r:Content xml:lang="sr">Podaci koji se uglavnom sastoje od teksta, uključujući slova, brojeve i posebne znakove ili simbole koji se koriste u pisanju kao interpunkcijski znaci, skraćenice, itd. Na primer, transkripti intervjua, svedočenja ili eseji koje su napisali učesnici studije, članci u novinama, itd.</r:Content>
+            <r:Content xml:lang="sr">Podaci koji se uglavnom sastoje od teksta, uključujući slova, brojeve i posebne znakove ili simbole koji se koriste u pisanju kao interpunkcijski znaci, skraćenice, itd. Na primer, transkripti intervjua, svedočenja ili eseji koje su napisali učesnici studije, članci u novinama, itd.</r:Content>
+            <r:Content xml:lang="sv">Data som främst består av text, inklusive bokstäver, siffror och specialtecken eller symboler som används i skrift för interpunktion, förkortningar m.m. Exempel: intervjutranskripter, berättelser eller uppsatser skrivna av studiedeltagarna, tidningsartiklar, m.m.</r:Content>
+            <r:Content xml:lang="sv">Data som främst består av text, inklusive bokstäver, siffror och specialtecken eller symboler som används i skrift för interpunktion, förkortningar m.m. Exempel: intervjutranskripter, berättelser eller uppsatser skrivna av studiedeltagarna, tidningsartiklar, m.m.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>GeneralDataFormat-StillImage-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>StillImage</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Still image</r:Content>
+            <r:Content xml:lang="en">Still image</r:Content>
+            <r:Content xml:lang="da">Stillbillede</r:Content>
+            <r:Content xml:lang="da">Stillbillede</r:Content>
+            <r:Content xml:lang="da">Stillbillede</r:Content>
+            <r:Content xml:lang="de">Unbewegtes Bild</r:Content>
+            <r:Content xml:lang="de">Unbewegtes Bild</r:Content>
+            <r:Content xml:lang="fi">Kuva</r:Content>
+            <r:Content xml:lang="fi">Kuva</r:Content>
+            <r:Content xml:lang="fr">Image fixe</r:Content>
+            <r:Content xml:lang="fr">Image fixe</r:Content>
+            <r:Content xml:lang="it">Immagine</r:Content>
+            <r:Content xml:lang="it">Immagine</r:Content>
+            <r:Content xml:lang="nl">Beeld</r:Content>
+            <r:Content xml:lang="nl">Beeld</r:Content>
+            <r:Content xml:lang="no">Stillbilde</r:Content>
+            <r:Content xml:lang="no">Stillbilde</r:Content>
+            <r:Content xml:lang="pt">Imagens</r:Content>
+            <r:Content xml:lang="pt">Imagens</r:Content>
+            <r:Content xml:lang="sl">Mirujoča slika</r:Content>
+            <r:Content xml:lang="sl">Mirujoča slika</r:Content>
+            <r:Content xml:lang="sl">Mirujoča slika</r:Content>
+            <r:Content xml:lang="sr">Nepokretna slika</r:Content>
+            <r:Content xml:lang="sr">Nepokretna slika</r:Content>
+            <r:Content xml:lang="sv">Stillbild</r:Content>
+            <r:Content xml:lang="sv">Stillbild</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Static images, such as graphs, drawings, photographs, diagnostic/medical images like X-rays, etc.</r:Content>
+            <r:Content xml:lang="en">Static images, such as graphs, drawings, photographs, diagnostic/medical images like X-rays, etc.</r:Content>
+            <r:Content xml:lang="da">Statiske billeder, såsom grafer, tegninger, fotografier, diagnostiske/medicinske billeder som røntgen mm.</r:Content>
+            <r:Content xml:lang="da">Statiske billeder, såsom grafer, tegninger, fotografier, diagnostiske/medicinske billeder som røntgen mm.</r:Content>
+            <r:Content xml:lang="da">Statiske billeder, såsom grafer, tegninger, fotografier, diagnostiske/medicinske billeder som røntgen mm.</r:Content>
+            <r:Content xml:lang="de">Statische Bilder wie Graphen, Zeichnungen, Fotografien, diagnostische/medizinische Bilder wie Röntgenbilder usw.</r:Content>
+            <r:Content xml:lang="de">Statische Bilder wie Graphen, Zeichnungen, Fotografien, diagnostische/medizinische Bilder wie Röntgenbilder usw.</r:Content>
+            <r:Content xml:lang="fi">Esimerkiksi graafit, piirrokset, valokuvat ja lääketieteellisen kuvantamisen tuotteet (esim. röntgen- tai ultraäänikuvat). Liikkuvan kuvan kohdalla käytä termiä 'Video'.</r:Content>
+            <r:Content xml:lang="fi">Esimerkiksi graafit, piirrokset, valokuvat ja lääketieteellisen kuvantamisen tuotteet (esim. röntgen- tai ultraäänikuvat). Liikkuvan kuvan kohdalla käytä termiä 'Video'.</r:Content>
+            <r:Content xml:lang="fr">Images statiques, telles que des graphiques, des dessins, des photographies, des images de diagnostique/médicales comme des radiographies, etc.</r:Content>
+            <r:Content xml:lang="fr">Images statiques, telles que des graphiques, des dessins, des photographies, des images de diagnostique/médicales comme des radiographies, etc.</r:Content>
+            <r:Content xml:lang="it">Immagini statiche, come grafici, disegni, fotografie, immagini diagnostiche come i raggi X, ecc.</r:Content>
+            <r:Content xml:lang="it">Immagini statiche, come grafici, disegni, fotografie, immagini diagnostiche come i raggi X, ecc.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Statiske bilder som f.eks grafer, tegninger, fotografier, diagnostiske/medisinske bilder (røntgenbilder etc.).</r:Content>
+            <r:Content xml:lang="no">Statiske bilder som f.eks grafer, tegninger, fotografier, diagnostiske/medisinske bilder (røntgenbilder etc.).</r:Content>
+            <r:Content xml:lang="pt">Imagens estáticas, como gráficos, desenhos, fotografias, imagens de diagnóstico/médicas como raios-x, etc.</r:Content>
+            <r:Content xml:lang="pt">Imagens estáticas, como gráficos, desenhos, fotografias, imagens de diagnóstico/médicas como raios-x, etc.</r:Content>
+            <r:Content xml:lang="sl">Statične slike, kot so grafi, risbe, fotografije, diagnostične/medicinske slike, kot na primer rentgenske slike itd.</r:Content>
+            <r:Content xml:lang="sl">Statične slike, kot so grafi, risbe, fotografije, diagnostične/medicinske slike, kot na primer rentgenske slike itd.</r:Content>
+            <r:Content xml:lang="sl">Statične slike, kot so grafi, risbe, fotografije, diagnostične/medicinske slike, kot na primer rentgenske slike itd.</r:Content>
+            <r:Content xml:lang="sr">Statične slike, poput grafikona, crteža, fotografija, dijagnostičkih / medicinskih slika, poput rendgenskih zraka, itd.</r:Content>
+            <r:Content xml:lang="sr">Statične slike, poput grafikona, crteža, fotografija, dijagnostičkih / medicinskih slika, poput rendgenskih zraka, itd.</r:Content>
+            <r:Content xml:lang="sv">Statiska bilder som t.ex. diagram, ritningar, fotografier, diagnostiska/medicinska bilder (röntgenbilder m.m.).</r:Content>
+            <r:Content xml:lang="sv">Statiska bilder som t.ex. diagram, ritningar, fotografier, diagnostiska/medicinska bilder (röntgenbilder m.m.).</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>GeneralDataFormat-Geospatial-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>Geospatial</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Geospatial</r:Content>
+            <r:Content xml:lang="en">Geospatial</r:Content>
+            <r:Content xml:lang="da">Geospatial</r:Content>
+            <r:Content xml:lang="da">Geospatial</r:Content>
+            <r:Content xml:lang="da">Geospatial</r:Content>
+            <r:Content xml:lang="de">Geodaten</r:Content>
+            <r:Content xml:lang="de">Geodaten</r:Content>
+            <r:Content xml:lang="fi">Paikkatieto</r:Content>
+            <r:Content xml:lang="fi">Paikkatieto</r:Content>
+            <r:Content xml:lang="fr">Données géospatiales</r:Content>
+            <r:Content xml:lang="fr">Données géospatiales</r:Content>
+            <r:Content xml:lang="it">Geospaziale</r:Content>
+            <r:Content xml:lang="it">Geospaziale</r:Content>
+            <r:Content xml:lang="nl">Geografisch-ruimtelijk</r:Content>
+            <r:Content xml:lang="nl">Geografisch-ruimtelijk</r:Content>
+            <r:Content xml:lang="no">Geospatiale</r:Content>
+            <r:Content xml:lang="no">Geospatiale</r:Content>
+            <r:Content xml:lang="pt">Geoespacial</r:Content>
+            <r:Content xml:lang="pt">Geoespacial</r:Content>
+            <r:Content xml:lang="sl">Geoprostorski</r:Content>
+            <r:Content xml:lang="sl">Geoprostorski</r:Content>
+            <r:Content xml:lang="sl">Geoprostorski</r:Content>
+            <r:Content xml:lang="sr">Geoprostorni</r:Content>
+            <r:Content xml:lang="sr">Geoprostorni</r:Content>
+            <r:Content xml:lang="sv">Geospatiala</r:Content>
+            <r:Content xml:lang="sv">Geospatiala</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Geospatial data are any type of data with spatial coordinates that allow them to be mapped to the Earth's surface. They can represent physical objects, discrete areas or continuous surfaces. Discrete geospatial data are usually represented using vector data consisting of points, lines and polygons, while continuous geospatial data are usually represented by raster data, consisting of a grid of cells that each has its own value. Any number of applications in a wide range of areas produce geospatial data, such as GIS, Remote Sensing equipment, GPS units, archaeological total stations, manual mapping and computer-aided design (CAD), in a number of formats, including images, vector, text, and tabular data. Vector-based geospatial data include tables listing archaeological sites along with their coordinates, text-based files (e.g. XML) containing coordinates and topology for historic road networks, voting figures for political parties by administrative area. Raster-based geospatial data include satellite images, aerial photographs, scanned maps, and digital maps of elevations, vegetation, land-use, sea surface temperatures, air pollution, soil-types, etc.</r:Content>
+            <r:Content xml:lang="en">Geospatial data are any type of data with spatial coordinates that allow them to be mapped to the Earth's surface. They can represent physical objects, discrete areas or continuous surfaces. Discrete geospatial data are usually represented using vector data consisting of points, lines and polygons, while continuous geospatial data are usually represented by raster data, consisting of a grid of cells that each has its own value. Any number of applications in a wide range of areas produce geospatial data, such as GIS, Remote Sensing equipment, GPS units, archaeological total stations, manual mapping and computer-aided design (CAD), in a number of formats, including images, vector, text, and tabular data. Vector-based geospatial data include tables listing archaeological sites along with their coordinates, text-based files (e.g. XML) containing coordinates and topology for historic road networks, voting figures for political parties by administrative area. Raster-based geospatial data include satellite images, aerial photographs, scanned maps, and digital maps of elevations, vegetation, land-use, sea surface temperatures, air pollution, soil-types, etc.</r:Content>
+            <r:Content xml:lang="da">Geospatial data er enhver type af data med rumlige koordinater, der tillader dem at blive kortlagt på jordens overflade. De kan repræsentere fysiske genstande, diskrete områder eller kontinuerlige overflader. Diskrete geospatiale data er som regel repræsenteret ved brug af vektordata bestående af punkter, linjer og polygoner, mens kontinuerlige geospatial data som regel er repræsenteret af rasterdatabestående af et net af celler, der hver har sin egen værdi. Ethvert antal af applikationer på en bred vifte af områder producerer geospatiale data, såsom GIS, fjernregistrering, GPS-enheder, arkæologiske totalstationer, manuel kortlægning og computer-aided design (CAD), i en række af formater, inklusiv billeder, vektor, tekst og tabeldata. Vektorbaserede geospatiale data inkluderer tabeller, der lister arkæologiske steder sammen med deres koordinater, tekstbaserede filer (f.eks. XML) indeholdende koordinater og topologi for historiske netværk af veje, tal for vælgeradfærd hos politiske partier efter administrative områder. Rasterbaserede geospatiale data inkluderer satellitbilleder, luftfotos, indscannede kort, og digitale kort over hævninger, vegetation, arealanvendelse, havoverfladetemperaturer, luftforurening, jordtyper mm.</r:Content>
+            <r:Content xml:lang="da">Geospatial data er enhver type af data med rumlige koordinater, der tillader dem at blive kortlagt på jordens overflade. De kan repræsentere fysiske genstande, diskrete områder eller kontinuerlige overflader. Diskrete geospatiale data er som regel repræsenteret ved brug af vektordata bestående af punkter, linjer og polygoner, mens kontinuerlige geospatial data som regel er repræsenteret af rasterdatabestående af et net af celler, der hver har sin egen værdi. Ethvert antal af applikationer på en bred vifte af områder producerer geospatiale data, såsom GIS, fjernregistrering, GPS-enheder, arkæologiske totalstationer, manuel kortlægning og computer-aided design (CAD), i en række af formater, inklusiv billeder, vektor, tekst og tabeldata. Vektorbaserede geospatiale data inkluderer tabeller, der lister arkæologiske steder sammen med deres koordinater, tekstbaserede filer (f.eks. XML) indeholdende koordinater og topologi for historiske netværk af veje, tal for vælgeradfærd hos politiske partier efter administrative områder. Rasterbaserede geospatiale data inkluderer satellitbilleder, luftfotos, indscannede kort, og digitale kort over hævninger, vegetation, arealanvendelse, havoverfladetemperaturer, luftforurening, jordtyper mm.</r:Content>
+            <r:Content xml:lang="da">Geospatial data er enhver type af data med rumlige koordinater, der tillader dem at blive kortlagt på jordens overflade. De kan repræsentere fysiske genstande, diskrete områder eller kontinuerlige overflader. Diskrete geospatiale data er som regel repræsenteret ved brug af vektordata bestående af punkter, linjer og polygoner, mens kontinuerlige geospatial data som regel er repræsenteret af rasterdatabestående af et net af celler, der hver har sin egen værdi. Ethvert antal af applikationer på en bred vifte af områder producerer geospatiale data, såsom GIS, fjernregistrering, GPS-enheder, arkæologiske totalstationer, manuel kortlægning og computer-aided design (CAD), i en række af formater, inklusiv billeder, vektor, tekst og tabeldata. Vektorbaserede geospatiale data inkluderer tabeller, der lister arkæologiske steder sammen med deres koordinater, tekstbaserede filer (f.eks. XML) indeholdende koordinater og topologi for historiske netværk af veje, tal for vælgeradfærd hos politiske partier efter administrative områder. Rasterbaserede geospatiale data inkluderer satellitbilleder, luftfotos, indscannede kort, og digitale kort over hævninger, vegetation, arealanvendelse, havoverfladetemperaturer, luftforurening, jordtyper mm.</r:Content>
+            <r:Content xml:lang="de">Geodaten sind jegliche Arten von Daten mit räumlichen Koordinaten, wodurchdieseauf der Erdoberfläche abgebildet werdenkönnen.Sie können physische Objekte, diskrete Flächen oder durchgehende Flächen darstellen. Diskrete Geodaten werden in der Regel unter Verwendung von Vektordaten aus Punkten, Linien und Polygonen dargestellt, während kontinuierliche Geodaten in der Regel durch Rasterdaten repräsentiert werden, bestehend aus einem Gitter von Zellen, die jeweils ihren eigenen Wert haben.Eine beliebige Anzahl von Anwendungenin einer Vielzahl von Bereichen produziert Geodaten, wie GIS, Fernerkundungsgeräte, GPS-Geräte, archäologische Totalstationen, manuelle Kartierung und computergestütztes Design (CAD) in einer Reihe von Formaten, einschließlich Bilder, Vektoren, Text und tabellarischen Daten. Vektor-basierte Geodaten enthalten Tabellen, die archäologische Stätten zusammen mit ihren Koordinaten verzeichnen, textbasierte Dateien (z. B. XML), die Koordinaten und Topologie für historische Straßennetze enthalten, Abstimmungszahlen für politische Parteien von Verwaltungsgebieten. Rasterbasierte Geodaten umfassen Satellitenbilder, Luftbilder, gescannte Karten und digitale Karten von Höhen, Vegetation, Landnutzung, Meeresoberflächentemperaturen, Luftverschmutzung, Bodenarten usw.</r:Content>
+            <r:Content xml:lang="de">Geodaten sind jegliche Arten von Daten mit räumlichen Koordinaten, wodurchdieseauf der Erdoberfläche abgebildet werdenkönnen.Sie können physische Objekte, diskrete Flächen oder durchgehende Flächen darstellen. Diskrete Geodaten werden in der Regel unter Verwendung von Vektordaten aus Punkten, Linien und Polygonen dargestellt, während kontinuierliche Geodaten in der Regel durch Rasterdaten repräsentiert werden, bestehend aus einem Gitter von Zellen, die jeweils ihren eigenen Wert haben.Eine beliebige Anzahl von Anwendungenin einer Vielzahl von Bereichen produziert Geodaten, wie GIS, Fernerkundungsgeräte, GPS-Geräte, archäologische Totalstationen, manuelle Kartierung und computergestütztes Design (CAD) in einer Reihe von Formaten, einschließlich Bilder, Vektoren, Text und tabellarischen Daten. Vektor-basierte Geodaten enthalten Tabellen, die archäologische Stätten zusammen mit ihren Koordinaten verzeichnen, textbasierte Dateien (z. B. XML), die Koordinaten und Topologie für historische Straßennetze enthalten, Abstimmungszahlen für politische Parteien von Verwaltungsgebieten. Rasterbasierte Geodaten umfassen Satellitenbilder, Luftbilder, gescannte Karten und digitale Karten von Höhen, Vegetation, Landnutzung, Meeresoberflächentemperaturen, Luftverschmutzung, Bodenarten usw.</r:Content>
+            <r:Content xml:lang="fi">Paikkatieto on mitä tahansa dataa, joka sisältää sijannin maapallolla määrittäviä koordinaatteja. Paikkatieto voi esittää diskreettejä tai jatkuvia kohteita tai fyysisiä objekteja. Se esitetään joko pisteistä, viivoista ja alueista muodostuvassa vektorimuodossa tai säännöllisistä ja tasasuuruisista ruuduista muodostuvassa rasterimuodossa. Paikkatietoa sen eri muodoissa (mm. kuvina, vektoreina, tekstinä, taulukkodatana) tuotetaan esimerkiksi paikkatietojärjestelmissä (GIS), kaukokartoitusvälineillä, GPS-laitteilla, takymetreillä tai manuaalisella kartoituksella. Paikkatietoa voidaan karttojen lisäksi käyttää myös moniin muihin tarkoituksiin, esimerkiksi yhteiskunnan ja ympäristön tutkimiseen. Kaikkea paikkatietoa voidaan esittää joko vektori- tai rasterimuotoisena, mutta vektorimuotoon laitetaan usein mittauksiin ja tilastoihin perustuvia paikkatiedoja kuten esimerkiksi arkeologisten kaivausten nimet ja koordinaatit listattuina taulukkomuotoon ja poliittisten puolueiden ääniosuudet alueittain esitettynä. Lähes aina rasterimuodossa esitettyä paikkatietoa ovat esimerkiksi satelliitti- ja ilmakuvat, skannatut kartat sekä digitaaliset korkeus-, kasvillisuus-, maankäyttö-, ilmansaaste- ja maaperäkartat jne.</r:Content>
+            <r:Content xml:lang="fi">Paikkatieto on mitä tahansa dataa, joka sisältää sijannin maapallolla määrittäviä koordinaatteja. Paikkatieto voi esittää diskreettejä tai jatkuvia kohteita tai fyysisiä objekteja. Se esitetään joko pisteistä, viivoista ja alueista muodostuvassa vektorimuodossa tai säännöllisistä ja tasasuuruisista ruuduista muodostuvassa rasterimuodossa. Paikkatietoa sen eri muodoissa (mm. kuvina, vektoreina, tekstinä, taulukkodatana) tuotetaan esimerkiksi paikkatietojärjestelmissä (GIS), kaukokartoitusvälineillä, GPS-laitteilla, takymetreillä tai manuaalisella kartoituksella. Paikkatietoa voidaan karttojen lisäksi käyttää myös moniin muihin tarkoituksiin, esimerkiksi yhteiskunnan ja ympäristön tutkimiseen. Kaikkea paikkatietoa voidaan esittää joko vektori- tai rasterimuotoisena, mutta vektorimuotoon laitetaan usein mittauksiin ja tilastoihin perustuvia paikkatiedoja kuten esimerkiksi arkeologisten kaivausten nimet ja koordinaatit listattuina taulukkomuotoon ja poliittisten puolueiden ääniosuudet alueittain esitettynä. Lähes aina rasterimuodossa esitettyä paikkatietoa ovat esimerkiksi satelliitti- ja ilmakuvat, skannatut kartat sekä digitaaliset korkeus-, kasvillisuus-, maankäyttö-, ilmansaaste- ja maaperäkartat jne.</r:Content>
+            <r:Content xml:lang="fr">Les données géospatiales sont tous types de données avec des coordonnées spatiales ce qui leur permet d'être cartographiées sur la surface de la Terre. Elles peuvent représenter des objets physiques, des petites zones ou des grandes étendues. Les données géospatiales discrètes sont habituellement représentées en utilisant des données vectorielles, constituées de points, lignes et polygones, tandis que les données géospatiales continues sont habituellement représentées en utilisant des données matricielles, constituées de grilles de cellules qui ont chacune leur propre valeur. Un grand nombre d'applications dans une grande variété de domaines produisent des données géospatiales, tels que des GIS, des équipements de télédétection, des unités GPS, des tachéomètres archéologiques, des cartographies manuelles et de la conception assistée par ordinateur (CAD), dans un certain nombre de formats, incluant images, vecteur, texte, et données tabulées. Les données géospatiales vectorielles comprennent des tableaux listant les sites archéologiques et leurs coordonnées, des fichiers textes (e. g. XML) contenant coordonnées et topologies des réseaux routiers historique, les chiffres des votes des partis politiques par région administrative. Les données géospatiales matricielles comprennent des images satellite, des photographies aériennes, des cartes numérisées, et des cartes numériques des élévations, de la végétation, de l'utilisation des terres, des températures de surface de la mer, de la pollution de l'air, des types de sols, etc.</r:Content>
+            <r:Content xml:lang="fr">Les données géospatiales sont tous types de données avec des coordonnées spatiales ce qui leur permet d'être cartographiées sur la surface de la Terre. Elles peuvent représenter des objets physiques, des petites zones ou des grandes étendues. Les données géospatiales discrètes sont habituellement représentées en utilisant des données vectorielles, constituées de points, lignes et polygones, tandis que les données géospatiales continues sont habituellement représentées en utilisant des données matricielles, constituées de grilles de cellules qui ont chacune leur propre valeur. Un grand nombre d'applications dans une grande variété de domaines produisent des données géospatiales, tels que des GIS, des équipements de télédétection, des unités GPS, des tachéomètres archéologiques, des cartographies manuelles et de la conception assistée par ordinateur (CAD), dans un certain nombre de formats, incluant images, vecteur, texte, et données tabulées. Les données géospatiales vectorielles comprennent des tableaux listant les sites archéologiques et leurs coordonnées, des fichiers textes (e. g. XML) contenant coordonnées et topologies des réseaux routiers historique, les chiffres des votes des partis politiques par région administrative. Les données géospatiales matricielles comprennent des images satellite, des photographies aériennes, des cartes numérisées, et des cartes numériques des élévations, de la végétation, de l'utilisation des terres, des températures de surface de la mer, de la pollution de l'air, des types de sols, etc.</r:Content>
+            <r:Content xml:lang="it">I dati geospaziali sono rappresentati da qualsiasi tipo di dato con coordinate spaziali che ne consentono una mappatura sulla superficie terrestre. Possono rappresentare oggetti fisici, aree delimitate o superfici continue. I dati geospaziali delimitati vengono solitamente rappresentati utilizzando dati vettoriali costituiti da punti, linee e poligoni, mentre i dati geospaziali continui sono solitamente rappresentati da dati raster, costituiti da una griglia di celle ognuna con il proprio valore. Diverse applicazioni in una vasta gamma di settori producono dati geospaziali - come GIS, apparecchiature di telerilevamento, unità GPS, stazioni totali per i rilievi archeologici, mappature manuali e progettazione assistita da computer (CAD) - in diversi formati, tra cui immagini, vettori, testi e dati tabellari. I dati geospaziali vettoriali includono tabelle che elencano i siti archeologici insieme alle loro coordinate, file testuali (ad esempio XML) contenenti le coordinate e la topologia per le reti stradali storiche, rappresentazioni del voto espresso per i partiti politici nelle area amministrative. I dati geospaziali basati su raster includono immagini satellitari, fotografie aeree, mappe scannerizzate e mappe digitali di elevazione, vegetazione, uso del suolo, temperature della superficie del mare, inquinamento atmosferico, tipi di suolo, ecc.</r:Content>
+            <r:Content xml:lang="it">I dati geospaziali sono rappresentati da qualsiasi tipo di dato con coordinate spaziali che ne consentono una mappatura sulla superficie terrestre. Possono rappresentare oggetti fisici, aree delimitate o superfici continue. I dati geospaziali delimitati vengono solitamente rappresentati utilizzando dati vettoriali costituiti da punti, linee e poligoni, mentre i dati geospaziali continui sono solitamente rappresentati da dati raster, costituiti da una griglia di celle ognuna con il proprio valore. Diverse applicazioni in una vasta gamma di settori producono dati geospaziali - come GIS, apparecchiature di telerilevamento, unità GPS, stazioni totali per i rilievi archeologici, mappature manuali e progettazione assistita da computer (CAD) - in diversi formati, tra cui immagini, vettori, testi e dati tabellari. I dati geospaziali vettoriali includono tabelle che elencano i siti archeologici insieme alle loro coordinate, file testuali (ad esempio XML) contenenti le coordinate e la topologia per le reti stradali storiche, rappresentazioni del voto espresso per i partiti politici nelle area amministrative. I dati geospaziali basati su raster includono immagini satellitari, fotografie aeree, mappe scannerizzate e mappe digitali di elevazione, vegetazione, uso del suolo, temperature della superficie del mare, inquinamento atmosferico, tipi di suolo, ecc.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Geospatiale data er alle former data med spatiale koordinater som tillater dem å bli kartlagt på jordens overflate. De kan representere fysiske objekter, diskrete områder eller kontinuerlige overflater. Diskrete geospatiale data er vanligvis representert ved bruk av vektordata bestående av punkt, linjer og polygoner, mens kontinuerlige geospatiale data vanligvis representeres av rasterdata, som består av et nett av celler der hver rute har sin egen verdi. Et stort antall applikasjoner på et bredt spekter av områder produserer geospatiale data, som for eksempel GIS, fjernregistrering, GPS-enheter, arkeologiske totalstasjoner, manuell karttegning og dataassistert konstruksjon (CAD), i et nummer format, inkludert bilder, vektor, tekst og tabelldata. Vektor-baserte geospatiale data inkluderer tabeller som lister arkeologiske utgravninger med deres koordinater, tekstbaserte filer (for eksempel XML) som inneholder koordinater og topologi for historisk veinett, stemmer for politiske partier ut fra administrative områder. Raster-baserte geospatiale data inkluderer satellittbilder, flyfoto, scannede kart, og digitale kart av høydeforskjeller, vegetasjon, bruk av landområde, havoverflatens temperatur, forurensning, jordtyper etc.</r:Content>
+            <r:Content xml:lang="no">Geospatiale data er alle former data med spatiale koordinater som tillater dem å bli kartlagt på jordens overflate. De kan representere fysiske objekter, diskrete områder eller kontinuerlige overflater. Diskrete geospatiale data er vanligvis representert ved bruk av vektordata bestående av punkt, linjer og polygoner, mens kontinuerlige geospatiale data vanligvis representeres av rasterdata, som består av et nett av celler der hver rute har sin egen verdi. Et stort antall applikasjoner på et bredt spekter av områder produserer geospatiale data, som for eksempel GIS, fjernregistrering, GPS-enheter, arkeologiske totalstasjoner, manuell karttegning og dataassistert konstruksjon (CAD), i et nummer format, inkludert bilder, vektor, tekst og tabelldata. Vektor-baserte geospatiale data inkluderer tabeller som lister arkeologiske utgravninger med deres koordinater, tekstbaserte filer (for eksempel XML) som inneholder koordinater og topologi for historisk veinett, stemmer for politiske partier ut fra administrative områder. Raster-baserte geospatiale data inkluderer satellittbilder, flyfoto, scannede kart, og digitale kart av høydeforskjeller, vegetasjon, bruk av landområde, havoverflatens temperatur, forurensning, jordtyper etc.</r:Content>
+            <r:Content xml:lang="pt">Dados geoespaciais são qualquer tipo de dados com coordenadas espaciais que permitem que eles sejam mapeados na superfície da Terra. Podem representar objetos físicos, áreas discretas ou superfícies contínuas. Dados geoespaciais discretos são geralmente representados usando dados vetoriais como pontos, linhas e polígonos, enquanto dados geoespaciais contínuos são geralmente representados por dados raster, que consistem numa matriz de células em que cada uma tem um valor próprio. Inúmeras aplicações numa grande variedade de áreas produzem dados geoespaciais, como o SIG - Sistema de Informação Geográfica (GIS - Geographic Information System), equipamentos de deteção remota, unidades de GPS, estações arqueológicas totais, mapeamento manual e desenho assistido por computador (DAC), ou CAD (do inglês: computer aided design), em vários formatos, incluindo imagens, vetores, texto e dados tabulares. Dados geoespaciais baseados em vetores incluem tabelas que listam os lugares arqueológicos juntamente com as suas coordenadas, arquivos baseados em texto (por exemplo, XML) contendo coordenadas e topologia para redes rodoviárias históricas, número de votos para partidos políticos por área administrativa. Os dados geoespaciais baseados em raster incluem imagens de satélite, fotografias aéreas, mapas digitalizados e mapas digitais de terreno, vegetação, uso da terra, temperaturas da superfície do mar, poluição do ar, tipos de solo, etc.</r:Content>
+            <r:Content xml:lang="pt">Dados geoespaciais são qualquer tipo de dados com coordenadas espaciais que permitem que eles sejam mapeados na superfície da Terra. Podem representar objetos físicos, áreas discretas ou superfícies contínuas. Dados geoespaciais discretos são geralmente representados usando dados vetoriais como pontos, linhas e polígonos, enquanto dados geoespaciais contínuos são geralmente representados por dados raster, que consistem numa matriz de células em que cada uma tem um valor próprio. Inúmeras aplicações numa grande variedade de áreas produzem dados geoespaciais, como o SIG - Sistema de Informação Geográfica (GIS - Geographic Information System), equipamentos de deteção remota, unidades de GPS, estações arqueológicas totais, mapeamento manual e desenho assistido por computador (DAC), ou CAD (do inglês: computer aided design), em vários formatos, incluindo imagens, vetores, texto e dados tabulares. Dados geoespaciais baseados em vetores incluem tabelas que listam os lugares arqueológicos juntamente com as suas coordenadas, arquivos baseados em texto (por exemplo, XML) contendo coordenadas e topologia para redes rodoviárias históricas, número de votos para partidos políticos por área administrativa. Os dados geoespaciais baseados em raster incluem imagens de satélite, fotografias aéreas, mapas digitalizados e mapas digitais de terreno, vegetação, uso da terra, temperaturas da superfície do mar, poluição do ar, tipos de solo, etc.</r:Content>
+            <r:Content xml:lang="sl">Geoprostorski podatki so vse vrste podatkov s prostorskimi koordinatami, ki omogočajo preslikavo na površino Zemlje. Predstavljajo lahko fizične objekte, diskretna območja ali zvezne površine. Diskretni geoprostorski podatki so ponavadi predstavljeni z uporabo vektorskih podatkov, sestavljenih iz točk, črt in večkotnikov, medtem ko se zvezni geoprostorski podatki navadno prikazujejo z rastrskimi podatki, ki jih sestavlja mreža celic, kjer ima vsaka svojo lastno vrednost. Geoprostorske podatke lahko pridobimo z različnimi aplikacijami, ki se uporabljajo na raznih področjih, kot so GIS, oprema za daljinsko zaznavanje, enote GPS, naprave za arheološke in geodetske meritve, ročno kartiranje in računalniško podprto oblikovanje (CAD) v številnih oblikah, vključno s slikami, vektorji , besedili in tabelarnimi podatki. Vektorski geoprostorski podatki vključujejo tabele s seznami arheoloških najdišč in njihovimi koordinatami, besedilne datoteke (npr. XML), ki vsebujejo koordinate in topologijo zgodovinskih cestnih omrežj, rezultate glasovanja za politične stranke po upravnih območjih. Geoprostorski podatki, ki temeljijo na rasterju, vključujejo satelitske slike, fotografije iz zraka, skenirane zemljevide in digitalne karte nadmorskih višin, rastja, rabe zemljišč, temperatur morskih površin, onesnaževanja zraka, tipov prsti itd.</r:Content>
+            <r:Content xml:lang="sl">Geoprostorski podatki so vse vrste podatkov s prostorskimi koordinatami, ki omogočajo preslikavo na površino Zemlje. Predstavljajo lahko fizične objekte, diskretna območja ali zvezne površine. Diskretni geoprostorski podatki so ponavadi predstavljeni z uporabo vektorskih podatkov, sestavljenih iz točk, črt in večkotnikov, medtem ko se zvezni geoprostorski podatki navadno prikazujejo z rastrskimi podatki, ki jih sestavlja mreža celic, kjer ima vsaka svojo lastno vrednost. Geoprostorske podatke lahko pridobimo z različnimi aplikacijami, ki se uporabljajo na raznih področjih, kot so GIS, oprema za daljinsko zaznavanje, enote GPS, naprave za arheološke in geodetske meritve, ročno kartiranje in računalniško podprto oblikovanje (CAD) v številnih oblikah, vključno s slikami, vektorji , besedili in tabelarnimi podatki. Vektorski geoprostorski podatki vključujejo tabele s seznami arheoloških najdišč in njihovimi koordinatami, besedilne datoteke (npr. XML), ki vsebujejo koordinate in topologijo zgodovinskih cestnih omrežj, rezultate glasovanja za politične stranke po upravnih območjih. Geoprostorski podatki, ki temeljijo na rasterju, vključujejo satelitske slike, fotografije iz zraka, skenirane zemljevide in digitalne karte nadmorskih višin, rastja, rabe zemljišč, temperatur morskih površin, onesnaževanja zraka, tipov prsti itd.</r:Content>
+            <r:Content xml:lang="sl">Geoprostorski podatki so vse vrste podatkov s prostorskimi koordinatami, ki omogočajo preslikavo na površino Zemlje. Predstavljajo lahko fizične objekte, diskretna območja ali zvezne površine. Diskretni geoprostorski podatki so ponavadi predstavljeni z uporabo vektorskih podatkov, sestavljenih iz točk, črt in večkotnikov, medtem ko se zvezni geoprostorski podatki navadno prikazujejo z rastrskimi podatki, ki jih sestavlja mreža celic, kjer ima vsaka svojo lastno vrednost. Geoprostorske podatke lahko pridobimo z različnimi aplikacijami, ki se uporabljajo na raznih področjih, kot so GIS, oprema za daljinsko zaznavanje, enote GPS, naprave za arheološke in geodetske meritve, ročno kartiranje in računalniško podprto oblikovanje (CAD) v številnih oblikah, vključno s slikami, vektorji , besedili in tabelarnimi podatki. Vektorski geoprostorski podatki vključujejo tabele s seznami arheoloških najdišč in njihovimi koordinatami, besedilne datoteke (npr. XML), ki vsebujejo koordinate in topologijo zgodovinskih cestnih omrežj, rezultate glasovanja za politične stranke po upravnih območjih. Geoprostorski podatki, ki temeljijo na rasterju, vključujejo satelitske slike, fotografije iz zraka, skenirane zemljevide in digitalne karte nadmorskih višin, rastja, rabe zemljišč, temperatur morskih površin, onesnaževanja zraka, tipov prsti itd.</r:Content>
+            <r:Content xml:lang="sr">Geoprostorni podaci su sve vrste podataka koji sadrže prostorne koordinate koje im omogućavaju da se preslikaju na Zemljinu površinu. Mogu da predstavljaju fizičke predmete, diskretna područja ili neprekidne površine. Diskretni geoprostorni podaci obično se prikazuju upotrebom vektorskih podataka koji se sastoje od tačaka, linija i poligona, dok su neprekidni geoprostorni podaci obično predstavljeni rasterskim podacima, koji se sastoje od mreže ćelija koje svaka ima svoju vrednost. Bilo koji broj aplikacija u širokom rasponu područja proizvodi geoprostorne podatke, kao što su GIS, oprema za daljinsko istraživanje, GPS jedinice, arheološke ukupne stanice, ručno mapiranje i kompjuterski dizajniran (CAD), u više formata, uključujući slike, vektore, tekst i tabelarne podatke. Vektorski geoprostorni podaci uključuju tabele sa popisom arheoloških nalazišta zajedno sa njihovim koordinatama, tekstualne datoteke (npr. XML) koje sadrže koordinate i topologiju istorijskih putnih mreža, rezultate glasanja za političke stranke prema administrativnom području. Geografski podaci zasnovani na rasterima uključuju satelitske snimke, fotografije iz vazduha, skenirane mape i digitalne mape nadmorske visine, vegetacije, upotrebe kopna, temperature morske površine, zagađenja vazduha, vrste tla, itd.</r:Content>
+            <r:Content xml:lang="sr">Geoprostorni podaci su sve vrste podataka koji sadrže prostorne koordinate koje im omogućavaju da se preslikaju na Zemljinu površinu. Mogu da predstavljaju fizičke predmete, diskretna područja ili neprekidne površine. Diskretni geoprostorni podaci obično se prikazuju upotrebom vektorskih podataka koji se sastoje od tačaka, linija i poligona, dok su neprekidni geoprostorni podaci obično predstavljeni rasterskim podacima, koji se sastoje od mreže ćelija koje svaka ima svoju vrednost. Bilo koji broj aplikacija u širokom rasponu područja proizvodi geoprostorne podatke, kao što su GIS, oprema za daljinsko istraživanje, GPS jedinice, arheološke ukupne stanice, ručno mapiranje i kompjuterski dizajniran (CAD), u više formata, uključujući slike, vektore, tekst i tabelarne podatke. Vektorski geoprostorni podaci uključuju tabele sa popisom arheoloških nalazišta zajedno sa njihovim koordinatama, tekstualne datoteke (npr. XML) koje sadrže koordinate i topologiju istorijskih putnih mreža, rezultate glasanja za političke stranke prema administrativnom području. Geografski podaci zasnovani na rasterima uključuju satelitske snimke, fotografije iz vazduha, skenirane mape i digitalne mape nadmorske visine, vegetacije, upotrebe kopna, temperature morske površine, zagađenja vazduha, vrste tla, itd.</r:Content>
+            <r:Content xml:lang="sv">Geospatiala data är alla sorters data med spatiella koordinater som tillåter dem att mappas på jordens yta. De kan representera fysiska föremål, diskreta områden eller kontinuerliga ytor. Diskreta geospatiala data representeras vanligtvis med vektordata som består av punkter, linjer och polygoner, medan kontinuerliga geospatiala data vanligen representeras med rasterdata som består av ett rutnät där varje ruta har sitt eget värde. Ett stort antal program inom ett brett spektrum av områden producerar geospatiala data, t.ex. GIS, fjärranalysutrustning, GPS-enheter, arkeologiska totalstationer, manuell kartritning och CAD (computer-aided design), i ett flertal format, inklusive bilder, vektorfiler, text och tabelldata. Vektorbaserade geospatiala data inkluderar tabeller över arkeologiska utgrävningar tillsammans med deras koordinater, text-baserade filer (t.ex. XML) med koordinater och topologi för historiska vägnät, och röstsiffror för politiska partier inom olika administrative områden. Rasterbaserade geospatiala data inkluderar satellitbilder, flygfoton, skannade kartor och digitala kartor över höjdskillnader, vegetation, användning av landområden, havsytans temperatur, luftföroreningar, jordtyper, m.m.</r:Content>
+            <r:Content xml:lang="sv">Geospatiala data är alla sorters data med spatiella koordinater som tillåter dem att mappas på jordens yta. De kan representera fysiska föremål, diskreta områden eller kontinuerliga ytor. Diskreta geospatiala data representeras vanligtvis med vektordata som består av punkter, linjer och polygoner, medan kontinuerliga geospatiala data vanligen representeras med rasterdata som består av ett rutnät där varje ruta har sitt eget värde. Ett stort antal program inom ett brett spektrum av områden producerar geospatiala data, t.ex. GIS, fjärranalysutrustning, GPS-enheter, arkeologiska totalstationer, manuell kartritning och CAD (computer-aided design), i ett flertal format, inklusive bilder, vektorfiler, text och tabelldata. Vektorbaserade geospatiala data inkluderar tabeller över arkeologiska utgrävningar tillsammans med deras koordinater, text-baserade filer (t.ex. XML) med koordinater och topologi för historiska vägnät, och röstsiffror för politiska partier inom olika administrative områden. Rasterbaserade geospatiala data inkluderar satellitbilder, flygfoton, skannade kartor och digitala kartor över höjdskillnader, vegetation, användning av landområden, havsytans temperatur, luftföroreningar, jordtyper, m.m.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>GeneralDataFormat-Audio-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>Audio</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Audio</r:Content>
+            <r:Content xml:lang="en">Audio</r:Content>
+            <r:Content xml:lang="da">Lyd</r:Content>
+            <r:Content xml:lang="da">Lyd</r:Content>
+            <r:Content xml:lang="da">Lyd</r:Content>
+            <r:Content xml:lang="de">Audio</r:Content>
+            <r:Content xml:lang="de">Audio</r:Content>
+            <r:Content xml:lang="fi">Audio</r:Content>
+            <r:Content xml:lang="fi">Audio</r:Content>
+            <r:Content xml:lang="fr">Audio</r:Content>
+            <r:Content xml:lang="fr">Audio</r:Content>
+            <r:Content xml:lang="it">Audio</r:Content>
+            <r:Content xml:lang="it">Audio</r:Content>
+            <r:Content xml:lang="nl">Audio</r:Content>
+            <r:Content xml:lang="nl">Audio</r:Content>
+            <r:Content xml:lang="no">Audio</r:Content>
+            <r:Content xml:lang="no">Audio</r:Content>
+            <r:Content xml:lang="pt">Áudio</r:Content>
+            <r:Content xml:lang="pt">Áudio</r:Content>
+            <r:Content xml:lang="sl">Avdio</r:Content>
+            <r:Content xml:lang="sl">Avdio</r:Content>
+            <r:Content xml:lang="sl">Avdio</r:Content>
+            <r:Content xml:lang="sr">Zvučni</r:Content>
+            <r:Content xml:lang="sr">Zvučni</r:Content>
+            <r:Content xml:lang="sv">Audio</r:Content>
+            <r:Content xml:lang="sv">Audio</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Recorded sound, including voice, music, etc.</r:Content>
+            <r:Content xml:lang="en">Recorded sound, including voice, music, etc.</r:Content>
+            <r:Content xml:lang="da">Optaget lyd, inklusiv stemme, musik mm.</r:Content>
+            <r:Content xml:lang="da">Optaget lyd, inklusiv stemme, musik mm.</r:Content>
+            <r:Content xml:lang="da">Optaget lyd, inklusiv stemme, musik mm.</r:Content>
+            <r:Content xml:lang="de">Aufgezeichneter Ton, inkl. Stimme, Musik, etc.</r:Content>
+            <r:Content xml:lang="de">Aufgezeichneter Ton, inkl. Stimme, Musik, etc.</r:Content>
+            <r:Content xml:lang="fi">Taltioitu ääni. Esimerkiksi puhe tai musiikki.</r:Content>
+            <r:Content xml:lang="fi">Taltioitu ääni. Esimerkiksi puhe tai musiikki.</r:Content>
+            <r:Content xml:lang="fr">Son enregistré, incluant voix, musique, etc.</r:Content>
+            <r:Content xml:lang="fr">Son enregistré, incluant voix, musique, etc.</r:Content>
+            <r:Content xml:lang="it">Registrazioni sonore, incluso voce, musica, ecc.</r:Content>
+            <r:Content xml:lang="it">Registrazioni sonore, incluso voce, musica, ecc.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Opptak av lyd, inkludert tale, musikk osv.</r:Content>
+            <r:Content xml:lang="no">Opptak av lyd, inkludert tale, musikk osv.</r:Content>
+            <r:Content xml:lang="pt">Som gravado, incluindo voz, música, etc.</r:Content>
+            <r:Content xml:lang="pt">Som gravado, incluindo voz, música, etc.</r:Content>
+            <r:Content xml:lang="sl">Posnet zvok, vključno z glasom, glasbo itd.</r:Content>
+            <r:Content xml:lang="sl">Posnet zvok, vključno z glasom, glasbo itd.</r:Content>
+            <r:Content xml:lang="sl">Posnet zvok, vključno z glasom, glasbo itd.</r:Content>
+            <r:Content xml:lang="sr">Snimljeni zvuk, uključujući glas, muziku i sl.</r:Content>
+            <r:Content xml:lang="sr">Snimljeni zvuk, uključujući glas, muziku i sl.</r:Content>
+            <r:Content xml:lang="sv">Inspelat ljud, inklusive tal, musik, m.m.</r:Content>
+            <r:Content xml:lang="sv">Inspelat ljud, inklusive tal, musik, m.m.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>GeneralDataFormat-Video-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>Video</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Video</r:Content>
+            <r:Content xml:lang="en">Video</r:Content>
+            <r:Content xml:lang="da">Video</r:Content>
+            <r:Content xml:lang="da">Video</r:Content>
+            <r:Content xml:lang="da">Video</r:Content>
+            <r:Content xml:lang="de">Video</r:Content>
+            <r:Content xml:lang="de">Video</r:Content>
+            <r:Content xml:lang="fi">Video</r:Content>
+            <r:Content xml:lang="fi">Video</r:Content>
+            <r:Content xml:lang="fr">Vidéo</r:Content>
+            <r:Content xml:lang="fr">Vidéo</r:Content>
+            <r:Content xml:lang="it">Video</r:Content>
+            <r:Content xml:lang="it">Video</r:Content>
+            <r:Content xml:lang="nl">Video</r:Content>
+            <r:Content xml:lang="nl">Video</r:Content>
+            <r:Content xml:lang="no">Video</r:Content>
+            <r:Content xml:lang="no">Video</r:Content>
+            <r:Content xml:lang="pt">Vídeo</r:Content>
+            <r:Content xml:lang="pt">Vídeo</r:Content>
+            <r:Content xml:lang="sl">Video</r:Content>
+            <r:Content xml:lang="sl">Video</r:Content>
+            <r:Content xml:lang="sl">Video</r:Content>
+            <r:Content xml:lang="sr">Video</r:Content>
+            <r:Content xml:lang="sr">Video</r:Content>
+            <r:Content xml:lang="sv">Video</r:Content>
+            <r:Content xml:lang="sv">Video</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Moving images. May include films, animation, digital recordings, visual output from simulations, recorded television programs, etc. May be mute or may include synchronized sound.</r:Content>
+            <r:Content xml:lang="en">Moving images. May include films, animation, digital recordings, visual output from simulations, recorded television programs, etc. May be mute or may include synchronized sound.</r:Content>
+            <r:Content xml:lang="da">Bevægelige billeder. Kan inkludere film, animation, digitale optagelser, visuelt output fra simulationer, optagede TV-programmer mm. Kan være på lydløs eller kan inkludere synkroniseret lyd.</r:Content>
+            <r:Content xml:lang="da">Bevægelige billeder. Kan inkludere film, animation, digitale optagelser, visuelt output fra simulationer, optagede TV-programmer mm. Kan være på lydløs eller kan inkludere synkroniseret lyd.</r:Content>
+            <r:Content xml:lang="da">Bevægelige billeder. Kan inkludere film, animation, digitale optagelser, visuelt output fra simulationer, optagede TV-programmer mm. Kan være på lydløs eller kan inkludere synkroniseret lyd.</r:Content>
+            <r:Content xml:lang="de">Bewegte Bilder. Das können Filme, Animationen, digitale Aufnahmen, visuelle Ausgabe von Simulationen, aufgezeichnete Fernsehprogramme, etc. sein. Sie können stumm sein oder synchroniserten Ton haben.</r:Content>
+            <r:Content xml:lang="de">Bewegte Bilder. Das können Filme, Animationen, digitale Aufnahmen, visuelle Ausgabe von Simulationen, aufgezeichnete Fernsehprogramme, etc. sein. Sie können stumm sein oder synchroniserten Ton haben.</r:Content>
+            <r:Content xml:lang="fi">Liikkuva kuva. Esimerkiksi elokuvat, animaatiot, digitaaliset tallenteet, visuaalisesti esitetyt simulaatioiden sisällöt, tallennetut televisio-ohjelmat. Voi olla äänetön tai sisältää ääntä.</r:Content>
+            <r:Content xml:lang="fi">Liikkuva kuva. Esimerkiksi elokuvat, animaatiot, digitaaliset tallenteet, visuaalisesti esitetyt simulaatioiden sisällöt, tallennetut televisio-ohjelmat. Voi olla äänetön tai sisältää ääntä.</r:Content>
+            <r:Content xml:lang="fr">Images en mouvement. Peut inclure des films, de l'animation, des enregistrements digitaux, des visualisations de simulations, des émissions de télévision enregistrées, etc. Peut être muet ou peut inclure du son synchronisé.</r:Content>
+            <r:Content xml:lang="fr">Images en mouvement. Peut inclure des films, de l'animation, des enregistrements digitaux, des visualisations de simulations, des émissions de télévision enregistrées, etc. Peut être muet ou peut inclure du son synchronisé.</r:Content>
+            <r:Content xml:lang="it">Immagini in movimento. Possono includere film, animazioni, registrazioni digitali, output visuali ottenuti da simulazioni, registrazioni di programmi televisivi, ecc. Possono essere muti (senza audio) oppure includere audio sincronizzato alle immagini.</r:Content>
+            <r:Content xml:lang="it">Immagini in movimento. Possono includere film, animazioni, registrazioni digitali, output visuali ottenuti da simulazioni, registrazioni di programmi televisivi, ecc. Possono essere muti (senza audio) oppure includere audio sincronizzato alle immagini.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Bevegelige bilder. Kan inkludere filmer, animasjon, digitale innspillinger, visuelle data fra simuleringer, opptak av tv-programmer etc. Kan være lydløse eller med synkronisert lyd.</r:Content>
+            <r:Content xml:lang="no">Bevegelige bilder. Kan inkludere filmer, animasjon, digitale innspillinger, visuelle data fra simuleringer, opptak av tv-programmer etc. Kan være lydløse eller med synkronisert lyd.</r:Content>
+            <r:Content xml:lang="pt">Imagens em movimento. Pode incluir filmes, animações, gravações digitais, produções visuais de simulações, programas de televisão gravados, etc. Pode ser mudo, ou pode incluir som sincronizado.</r:Content>
+            <r:Content xml:lang="pt">Imagens em movimento. Pode incluir filmes, animações, gravações digitais, produções visuais de simulações, programas de televisão gravados, etc. Pode ser mudo, ou pode incluir som sincronizado.</r:Content>
+            <r:Content xml:lang="sl">Gibljive slike. Lahko vključuje filme, animacije, digitalne posnetke, prikaze rezultatov simulacij, posnetke televizijskih programov ipd. Lahko so neme ali pa vključujejo zvočno sinhronizacijo.</r:Content>
+            <r:Content xml:lang="sl">Gibljive slike. Lahko vključuje filme, animacije, digitalne posnetke, prikaze rezultatov simulacij, posnetke televizijskih programov ipd. Lahko so neme ali pa vključujejo zvočno sinhronizacijo.</r:Content>
+            <r:Content xml:lang="sl">Gibljive slike. Lahko vključuje filme, animacije, digitalne posnetke, prikaze rezultatov simulacij, posnetke televizijskih programov ipd. Lahko so neme ali pa vključujejo zvočno sinhronizacijo.</r:Content>
+            <r:Content xml:lang="sr">Pokretne slike. Može da uključuje filmove, animacije, digitalne snimke, vizuelni izlaz simulacija, snimljenih televizijskih programa, itd. Može biti nemi ili može uključivati sinhronizovani zvuk.</r:Content>
+            <r:Content xml:lang="sr">Pokretne slike. Može da uključuje filmove, animacije, digitalne snimke, vizuelni izlaz simulacija, snimljenih televizijskih programa, itd. Može biti nemi ili može uključivati sinhronizovani zvuk.</r:Content>
+            <r:Content xml:lang="sv">Rörliga bilder. Kan inkludera film, animation, digitala inspelningar, visuella utdata från simulationer, inspelade TV-program, m.m. Kan vara ljudlösa eller med synkroniserat ljud.</r:Content>
+            <r:Content xml:lang="sv">Rörliga bilder. Kan inkludera film, animation, digitala inspelningar, visuella utdata från simulationer, inspelade TV-program, m.m. Kan vara ljudlösa eller med synkroniserat ljud.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>GeneralDataFormat-Software-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>Software</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Software</r:Content>
+            <r:Content xml:lang="en">Software</r:Content>
+            <r:Content xml:lang="da">Software</r:Content>
+            <r:Content xml:lang="da">Software</r:Content>
+            <r:Content xml:lang="da">Software</r:Content>
+            <r:Content xml:lang="de">Software</r:Content>
+            <r:Content xml:lang="de">Software</r:Content>
+            <r:Content xml:lang="fi">Ohjelmisto</r:Content>
+            <r:Content xml:lang="fi">Ohjelmisto</r:Content>
+            <r:Content xml:lang="fr">Logiciel</r:Content>
+            <r:Content xml:lang="fr">Logiciel</r:Content>
+            <r:Content xml:lang="it">Software</r:Content>
+            <r:Content xml:lang="it">Software</r:Content>
+            <r:Content xml:lang="nl">Software</r:Content>
+            <r:Content xml:lang="nl">Software</r:Content>
+            <r:Content xml:lang="no">Programvare</r:Content>
+            <r:Content xml:lang="no">Programvare</r:Content>
+            <r:Content xml:lang="pt"> Software</r:Content>
+            <r:Content xml:lang="pt"> Software</r:Content>
+            <r:Content xml:lang="sl">Programska oprema</r:Content>
+            <r:Content xml:lang="sl">Programska oprema</r:Content>
+            <r:Content xml:lang="sl">Programska oprema</r:Content>
+            <r:Content xml:lang="sr">Softver</r:Content>
+            <r:Content xml:lang="sr">Softver</r:Content>
+            <r:Content xml:lang="sv">Programvara</r:Content>
+            <r:Content xml:lang="sv">Programvara</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Computer program(s) in source code (human-readable) or compiled form.</r:Content>
+            <r:Content xml:lang="en">Computer program(s) in source code (human-readable) or compiled form.</r:Content>
+            <r:Content xml:lang="da">Computerprogram(mer) i kildekode (menneskelæsbar) eller kompileret form.</r:Content>
+            <r:Content xml:lang="da">Computerprogram(mer) i kildekode (menneskelæsbar) eller kompileret form.</r:Content>
+            <r:Content xml:lang="da">Computerprogram(mer) i kildekode (menneskelæsbar) eller kompileret form.</r:Content>
+            <r:Content xml:lang="de">Computerprogramm(e) im Quellcode (menschenlesbar) oder in kompilierter Form.</r:Content>
+            <r:Content xml:lang="de">Computerprogramm(e) im Quellcode (menschenlesbar) oder in kompilierter Form.</r:Content>
+            <r:Content xml:lang="fi">Tietokoneohjelma/ohjelmia konekielisenä tai lähdekoodina (ihmisen luettavissa).</r:Content>
+            <r:Content xml:lang="fi">Tietokoneohjelma/ohjelmia konekielisenä tai lähdekoodina (ihmisen luettavissa).</r:Content>
+            <r:Content xml:lang="fr">Programme(s) informatique(s) en code source (lisible par l'homme) ou en format compilé.</r:Content>
+            <r:Content xml:lang="fr">Programme(s) informatique(s) en code source (lisible par l'homme) ou en format compilé.</r:Content>
+            <r:Content xml:lang="it">Programmi per computer in codice sorgente (leggibile da esseri umani) o in forma compilata.</r:Content>
+            <r:Content xml:lang="it">Programmi per computer in codice sorgente (leggibile da esseri umani) o in forma compilata.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Dataprogram(-er) i kildekode (menneskelesbar) eller kompilert form.</r:Content>
+            <r:Content xml:lang="no">Dataprogram(-er) i kildekode (menneskelesbar) eller kompilert form.</r:Content>
+            <r:Content xml:lang="pt">Programa(s) de computador em código-fonte (legível por humanos) ou em forma codificada.</r:Content>
+            <r:Content xml:lang="pt">Programa(s) de computador em código-fonte (legível por humanos) ou em forma codificada.</r:Content>
+            <r:Content xml:lang="sl">Računalniški programi v izvorni kodi (človeško berljivi) ali v prevedeni obliki.</r:Content>
+            <r:Content xml:lang="sl">Računalniški programi v izvorni kodi (človeško berljivi) ali v prevedeni obliki.</r:Content>
+            <r:Content xml:lang="sl">Računalniški programi v izvorni kodi (človeško berljivi) ali v prevedeni obliki.</r:Content>
+            <r:Content xml:lang="sr">Računarski program(i) u izvornom kodu (koji može biti čitljiv ljudima) ili u mašinskom obliku.</r:Content>
+            <r:Content xml:lang="sr">Računarski program(i) u izvornom kodu (koji može biti čitljiv ljudima) ili u mašinskom obliku.</r:Content>
+            <r:Content xml:lang="sv">Datorprogram som källkod (människoläslig) eller i kompilerad form.</r:Content>
+            <r:Content xml:lang="sv">Datorprogram som källkod (människoläslig) eller i kompilerad form.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>GeneralDataFormat-InteractiveResource-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>InteractiveResource</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Interactive resource</r:Content>
+            <r:Content xml:lang="en">Interactive resource</r:Content>
+            <r:Content xml:lang="da">Interaktiv ressource</r:Content>
+            <r:Content xml:lang="da">Interaktiv ressource</r:Content>
+            <r:Content xml:lang="da">Interaktiv ressource</r:Content>
+            <r:Content xml:lang="de">Interaktive Ressource</r:Content>
+            <r:Content xml:lang="de">Interaktive Ressource</r:Content>
+            <r:Content xml:lang="fi">Vuorovaikutteinen</r:Content>
+            <r:Content xml:lang="fi">Vuorovaikutteinen</r:Content>
+            <r:Content xml:lang="fr">Ressource interactive</r:Content>
+            <r:Content xml:lang="fr">Ressource interactive</r:Content>
+            <r:Content xml:lang="it">Risorsa interattiva</r:Content>
+            <r:Content xml:lang="it">Risorsa interattiva</r:Content>
+            <r:Content xml:lang="nl">Interactieve bron</r:Content>
+            <r:Content xml:lang="nl">Interactieve bron</r:Content>
+            <r:Content xml:lang="no">Interaktiv ressurs</r:Content>
+            <r:Content xml:lang="no">Interaktiv ressurs</r:Content>
+            <r:Content xml:lang="pt">Recursos interativos</r:Content>
+            <r:Content xml:lang="pt">Recursos interativos</r:Content>
+            <r:Content xml:lang="sl">Interaktivni vir</r:Content>
+            <r:Content xml:lang="sl">Interaktivni vir</r:Content>
+            <r:Content xml:lang="sl">Interaktivni vir</r:Content>
+            <r:Content xml:lang="sr">Interaktivni resurs</r:Content>
+            <r:Content xml:lang="sr">Interaktivni resurs</r:Content>
+            <r:Content xml:lang="sv">Interaktiv resurs</r:Content>
+            <r:Content xml:lang="sv">Interaktiv resurs</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">A resource requiring interaction from the user to be understood, executed, or experienced. For example, training modules, query/response portals, files that require action from the user, etc.</r:Content>
+            <r:Content xml:lang="en">A resource requiring interaction from the user to be understood, executed, or experienced. For example, training modules, query/response portals, files that require action from the user, etc.</r:Content>
+            <r:Content xml:lang="da">En ressource, der kræver interaktion fra brugeren for at blive forstået, udført, eller oplevet. For eksempel træningsmoduler, portaler for spørgsmål og svar, filer, der kræver handling fra brugeren mm.</r:Content>
+            <r:Content xml:lang="da">En ressource, der kræver interaktion fra brugeren for at blive forstået, udført, eller oplevet. For eksempel træningsmoduler, portaler for spørgsmål og svar, filer, der kræver handling fra brugeren mm.</r:Content>
+            <r:Content xml:lang="da">En ressource, der kræver interaktion fra brugeren for at blive forstået, udført, eller oplevet. For eksempel træningsmoduler, portaler for spørgsmål og svar, filer, der kræver handling fra brugeren mm.</r:Content>
+            <r:Content xml:lang="de">Eine Ressource, die eine Interaktion vom Benutzer erfordert, um verstanden, ausgeführt oder erfahrenwerden zu können. Zum Beispiel Trainingsmodule, Abfrage- /Antwortportale, Dateien, die vom Benutzer eine Aktion erfordern, etc.</r:Content>
+            <r:Content xml:lang="de">Eine Ressource, die eine Interaktion vom Benutzer erfordert, um verstanden, ausgeführt oder erfahrenwerden zu können. Zum Beispiel Trainingsmodule, Abfrage- /Antwortportale, Dateien, die vom Benutzer eine Aktion erfordern, etc.</r:Content>
+            <r:Content xml:lang="fi">Sisältö, joka vaatii vuorovaikutteisuutta käyttäjältä ollakseen ymmärrettävissä, käytettävissä tai koettavissa. Esimerkiksi harjoitusmoduulit, kysely/vastausportaalit, käyttäjän toimintaa vaativat tiedostot jne.</r:Content>
+            <r:Content xml:lang="fi">Sisältö, joka vaatii vuorovaikutteisuutta käyttäjältä ollakseen ymmärrettävissä, käytettävissä tai koettavissa. Esimerkiksi harjoitusmoduulit, kysely/vastausportaalit, käyttäjän toimintaa vaativat tiedostot jne.</r:Content>
+            <r:Content xml:lang="fr">Une ressource nécessitant l'interaction de l'utilisateur pour être comprise, exécutée, ou expérimentée. Par exemple, des modules de formation, des portails de questions / réponses, des fichiers qui requièrent l'intervention de l'utilisateur, etc.</r:Content>
+            <r:Content xml:lang="fr">Une ressource nécessitant l'interaction de l'utilisateur pour être comprise, exécutée, ou expérimentée. Par exemple, des modules de formation, des portails de questions / réponses, des fichiers qui requièrent l'intervention de l'utilisateur, etc.</r:Content>
+            <r:Content xml:lang="it">Una risorsa che richiede l'interazione con l'utente per essere compresa, eseguita o sperimentata. Ad esempio, moduli per la formazione, portali che consentono interrogazioni, file che richiedono l'intervento dell'utente, ecc.</r:Content>
+            <r:Content xml:lang="it">Una risorsa che richiede l'interazione con l'utente per essere compresa, eseguita o sperimentata. Ad esempio, moduli per la formazione, portali che consentono interrogazioni, file che richiedono l'intervento dell'utente, ecc.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">En ressurs som krever interaksjon fra brukeren for å bli forstått, brukt eller erfart. For eksempel treningsmoduler, portaler for spørsmål og svar, filer som krever behandling fra brukeren osv.</r:Content>
+            <r:Content xml:lang="no">En ressurs som krever interaksjon fra brukeren for å bli forstått, brukt eller erfart. For eksempel treningsmoduler, portaler for spørsmål og svar, filer som krever behandling fra brukeren osv.</r:Content>
+            <r:Content xml:lang="pt">Um recurso que requer interação do utilizador para ser entendido, executado ou experimentado. Por exemplo, módulos de formação, portais de consulta/resposta, ficheiros que necessitam de alguma ação por parte do utilizador, etc.</r:Content>
+            <r:Content xml:lang="pt">Um recurso que requer interação do utilizador para ser entendido, executado ou experimentado. Por exemplo, módulos de formação, portais de consulta/resposta, ficheiros que necessitam de alguma ação por parte do utilizador, etc.</r:Content>
+            <r:Content xml:lang="sl">Vir, ki zahteva stik z uporabnikom, da ga razume, izvaja ali doživi. Na primer moduli za usposabljanje, portali za poizvedbo/odziv, datoteke, ki zahtevajo dejanje uporabnika itd.</r:Content>
+            <r:Content xml:lang="sl">Vir, ki zahteva stik z uporabnikom, da ga razume, izvaja ali doživi. Na primer moduli za usposabljanje, portali za poizvedbo/odziv, datoteke, ki zahtevajo dejanje uporabnika itd.</r:Content>
+            <r:Content xml:lang="sl">Vir, ki zahteva stik z uporabnikom, da ga razume, izvaja ali doživi. Na primer moduli za usposabljanje, portali za poizvedbo/odziv, datoteke, ki zahtevajo dejanje uporabnika itd.</r:Content>
+            <r:Content xml:lang="sr">Resurs koji zahteva interakciju od korisnika da bi se razumeo, izvršio ili doživeo. Na primer, moduli za obuku, portali za upite / odgovore, datoteke koje od korisnika zahtevaju akcije, itd.</r:Content>
+            <r:Content xml:lang="sr">Resurs koji zahteva interakciju od korisnika da bi se razumeo, izvršio ili doživeo. Na primer, moduli za obuku, portali za upite / odgovore, datoteke koje od korisnika zahtevaju akcije, itd.</r:Content>
+            <r:Content xml:lang="sv">En resurs som kräver interaktion från användaren för att förstås, köras eller upplevas. Exempel: träningsmoduler, portaler för frågor och svar, filer som kräver att användaren gör något med dem, m.m.</r:Content>
+            <r:Content xml:lang="sv">En resurs som kräver interaktion från användaren för att förstås, köras eller upplevas. Exempel: träningsmoduler, portaler för frågor och svar, filer som kräver att användaren gör något med dem, m.m.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>GeneralDataFormat-ThreeD-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>ThreeD</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">3D</r:Content>
+            <r:Content xml:lang="en">3D</r:Content>
+            <r:Content xml:lang="da">3D</r:Content>
+            <r:Content xml:lang="da">3D</r:Content>
+            <r:Content xml:lang="da">3D</r:Content>
+            <r:Content xml:lang="de">Dreidimensional</r:Content>
+            <r:Content xml:lang="de">Dreidimensional</r:Content>
+            <r:Content xml:lang="fi">3D</r:Content>
+            <r:Content xml:lang="fi">3D</r:Content>
+            <r:Content xml:lang="fr">Représentation 3D</r:Content>
+            <r:Content xml:lang="fr">Représentation 3D</r:Content>
+            <r:Content xml:lang="it">3D</r:Content>
+            <r:Content xml:lang="it">3D</r:Content>
+            <r:Content xml:lang="nl">Driedimensionaal</r:Content>
+            <r:Content xml:lang="nl">Driedimensionaal</r:Content>
+            <r:Content xml:lang="no">3D</r:Content>
+            <r:Content xml:lang="no">3D</r:Content>
+            <r:Content xml:lang="pt">3D</r:Content>
+            <r:Content xml:lang="pt">3D</r:Content>
+            <r:Content xml:lang="sl">3D</r:Content>
+            <r:Content xml:lang="sl">3D</r:Content>
+            <r:Content xml:lang="sl">3D</r:Content>
+            <r:Content xml:lang="sr">Trodimenzionalan</r:Content>
+            <r:Content xml:lang="sr">Trodimenzionalan</r:Content>
+            <r:Content xml:lang="sv">3D</r:Content>
+            <r:Content xml:lang="sv">3D</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Virtual three-dimensional representations of objects, architecture, places, etc.</r:Content>
+            <r:Content xml:lang="en">Virtual three-dimensional representations of objects, architecture, places, etc.</r:Content>
+            <r:Content xml:lang="da">Virtuelle tredimensionelle repræsentationer af objekter, arkitektur, steder mm.</r:Content>
+            <r:Content xml:lang="da">Virtuelle tredimensionelle repræsentationer af objekter, arkitektur, steder mm.</r:Content>
+            <r:Content xml:lang="da">Virtuelle tredimensionelle repræsentationer af objekter, arkitektur, steder mm.</r:Content>
+            <r:Content xml:lang="de">Virtuelle dreidimensionale Darstellungen von Objekten, Architektur, Orten usw.</r:Content>
+            <r:Content xml:lang="de">Virtuelle dreidimensionale Darstellungen von Objekten, Architektur, Orten usw.</r:Content>
+            <r:Content xml:lang="fi">Objektien, esineiden, arkkitehtuurin, paikkojen ym. virtuaaliset, kolmiulotteiset esitykset.</r:Content>
+            <r:Content xml:lang="fi">Objektien, esineiden, arkkitehtuurin, paikkojen ym. virtuaaliset, kolmiulotteiset esitykset.</r:Content>
+            <r:Content xml:lang="fr">Représentation virtuelle en trois dimensions d'objets, d'architectures, de lieux, etc.</r:Content>
+            <r:Content xml:lang="fr">Représentation virtuelle en trois dimensions d'objets, d'architectures, de lieux, etc.</r:Content>
+            <r:Content xml:lang="it">Rappresentazioni virtuali tridimensionali di oggetti, architetture, luoghi, ecc.</r:Content>
+            <r:Content xml:lang="it">Rappresentazioni virtuali tridimensionali di oggetti, architetture, luoghi, ecc.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Virtuelle tredimensjonale representasjoner av objekter, arkitektur, steder osv.</r:Content>
+            <r:Content xml:lang="no">Virtuelle tredimensjonale representasjoner av objekter, arkitektur, steder osv.</r:Content>
+            <r:Content xml:lang="pt">Representações tridimensionais virtuais de objetos, arquitetura, lugares, etc.</r:Content>
+            <r:Content xml:lang="pt">Representações tridimensionais virtuais de objetos, arquitetura, lugares, etc.</r:Content>
+            <r:Content xml:lang="sl">Virtualne tridimenzionalne predstavitve predmetov, arhitekture, krajev itd.</r:Content>
+            <r:Content xml:lang="sl">Virtualne tridimenzionalne predstavitve predmetov, arhitekture, krajev itd.</r:Content>
+            <r:Content xml:lang="sl">Virtualne tridimenzionalne predstavitve predmetov, arhitekture, krajev itd.</r:Content>
+            <r:Content xml:lang="sr">Virtuelne trodimenzionalne reprezentacije objekata, arhitekture, mesta, itd.</r:Content>
+            <r:Content xml:lang="sr">Virtuelne trodimenzionalne reprezentacije objekata, arhitekture, mesta, itd.</r:Content>
+            <r:Content xml:lang="sv">Virtuell, tredimensionell representation av föremål, arkitektur, platser, m.m.</r:Content>
+            <r:Content xml:lang="sv">Virtuell, tredimensionell representation av föremål, arkitektur, platser, m.m.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>GeneralDataFormat-Other-Category</r:ID>
+         <r:Version>2.0.0</r:Version>
+         <l:CategoryName>Other</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Other</r:Content>
+            <r:Content xml:lang="en">Other</r:Content>
+            <r:Content xml:lang="da">Andet</r:Content>
+            <r:Content xml:lang="da">Andet</r:Content>
+            <r:Content xml:lang="da">Andet</r:Content>
+            <r:Content xml:lang="de">Andere</r:Content>
+            <r:Content xml:lang="de">Andere</r:Content>
+            <r:Content xml:lang="fi">Muu aineistoformaatti</r:Content>
+            <r:Content xml:lang="fi">Muu aineistoformaatti</r:Content>
+            <r:Content xml:lang="fr">Autre</r:Content>
+            <r:Content xml:lang="fr">Autre</r:Content>
+            <r:Content xml:lang="it">Altro</r:Content>
+            <r:Content xml:lang="it">Altro</r:Content>
+            <r:Content xml:lang="nl">Anders</r:Content>
+            <r:Content xml:lang="nl">Anders</r:Content>
+            <r:Content xml:lang="no">Annet</r:Content>
+            <r:Content xml:lang="no">Annet</r:Content>
+            <r:Content xml:lang="pt">Outro</r:Content>
+            <r:Content xml:lang="pt">Outro</r:Content>
+            <r:Content xml:lang="sl">Drugo</r:Content>
+            <r:Content xml:lang="sl">Drugo</r:Content>
+            <r:Content xml:lang="sl">Drugo</r:Content>
+            <r:Content xml:lang="sr">Ostalo</r:Content>
+            <r:Content xml:lang="sr">Ostalo</r:Content>
+            <r:Content xml:lang="sv">Övrigt</r:Content>
+            <r:Content xml:lang="sv">Övrigt</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Use when the kind of data format is known, but not found in the list.</r:Content>
+            <r:Content xml:lang="en">Use when the kind of data format is known, but not found in the list.</r:Content>
+            <r:Content xml:lang="da">Anvend, når typen af dataformat er kendt, men ikke fundet i listen.</r:Content>
+            <r:Content xml:lang="da">Anvend, når typen af dataformat er kendt, men ikke fundet i listen.</r:Content>
+            <r:Content xml:lang="da">Anvend, når typen af dataformat er kendt, men ikke fundet i listen.</r:Content>
+            <r:Content xml:lang="de">Verwenden Sie diese Kategorie, wenn die Art des Datenformats bekannt, aber nicht in der Liste vertreten ist.</r:Content>
+            <r:Content xml:lang="de">Verwenden Sie diese Kategorie, wenn die Art des Datenformats bekannt, aber nicht in der Liste vertreten ist.</r:Content>
+            <r:Content xml:lang="fi">Käytä mikäli aineiston formaatti on tiedossa, mutta ei sanastossa.</r:Content>
+            <r:Content xml:lang="fi">Käytä mikäli aineiston formaatti on tiedossa, mutta ei sanastossa.</r:Content>
+            <r:Content xml:lang="fr">Utilisez quand le genre de format de données est connu, mais pas présent dans la liste.</r:Content>
+            <r:Content xml:lang="fr">Utilisez quand le genre de format de données est connu, mais pas présent dans la liste.</r:Content>
+            <r:Content xml:lang="it">Utilizzare quando il tipo di formato dei dati è conosciuto, ma non è presente nell'elenco.</r:Content>
+            <r:Content xml:lang="it">Utilizzare quando il tipo di formato dei dati è conosciuto, ma non è presente nell'elenco.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Brukes dersom typen dataformat er kjent, men ikke finnes i listen.</r:Content>
+            <r:Content xml:lang="no">Brukes dersom typen dataformat er kjent, men ikke finnes i listen.</r:Content>
+            <r:Content xml:lang="pt">Usar se o formato dos dados for conhecido, mas não se encontrar na lista.</r:Content>
+            <r:Content xml:lang="pt">Usar se o formato dos dados for conhecido, mas não se encontrar na lista.</r:Content>
+            <r:Content xml:lang="sl">Uporabite, ko je vrsta podatkov znana, vendar je ne najdete na seznamu.</r:Content>
+            <r:Content xml:lang="sl">Uporabite, ko je vrsta podatkov znana, vendar je ne najdete na seznamu.</r:Content>
+            <r:Content xml:lang="sl">Uporabite, ko je vrsta podatkov znana, vendar je ne najdete na seznamu.</r:Content>
+            <r:Content xml:lang="sr">Koristite kada je vrsta formata podataka poznata, ali nije na listi.</r:Content>
+            <r:Content xml:lang="sr">Koristite kada je vrsta formata podataka poznata, ali nije na listi.</r:Content>
+            <r:Content xml:lang="sv">Använd om typ av dataformat är känt men saknas i listan.</r:Content>
+            <r:Content xml:lang="sv">Använd om typ av dataformat är känt men saknas i listan.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+</ddi:FragmentInstance>

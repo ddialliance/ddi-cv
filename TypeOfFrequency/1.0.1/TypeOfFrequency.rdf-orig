@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+      <dcterms:isVersionOf rdf:resource="null/1.0"/>
+      <skos:notation>TypeOfFrequency</skos:notation>
+      <dcterms:title xml:lang="en">Type of Frequency</dcterms:title>
+      <dcterms:description xml:lang="en">Indicates the frequency of data collection events. 
+</dcterms:description>
+      <dcterms:title xml:lang="en">Type of Frequency</dcterms:title>
+      <dcterms:description xml:lang="en">Indicates the frequency of data collection events. 
+</dcterms:description>
+      <owl:versionInfo>1.0.0</owl:versionInfo>
+      <dcterms:license rdf:resource="Creative Commons Attribution 4.0 International"/>
+      <dcterms:rights>Copyright &#xa9;DDI Alliance 2023</dcterms:rights>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#Continuous"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryMinute"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryHour"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryTwoHours"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryThreeHours"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#TwiceADay"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryDay"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryBusinessDay"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#OccasionalDaily"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#ThreeTimesAWeek"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#TwiceAWeek"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryWeek"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#OccasionalWeekly"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryTenDays"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#ThreeTimesAMonth"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryTwoWeeks"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#TwiceAMonth"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryThreeWeeks"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryFourWeeks"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryMonth"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#OccasionalMonthly"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryTwoMonths"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryThreeMonths"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#ThreeTimesAYear"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#TwiceAYear"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryYear"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#OccasionalAnnual"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryTwoYears"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryThreeYears"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryFourYears"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryFiveYears"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryTenYears"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryTwentyYears"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryThirtyYears"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#Irregular"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#Other"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#Unspecified"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#NotApplicable"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#Continuous">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>Continuous</skos:notation>
+      <skos:prefLabel xml:lang="en">Continuous</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected continuously. No matching SDMX code.</skos:definition>
+      <skos:prefLabel xml:lang="en">Continuous</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected continuously. No matching SDMX code.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryMinute">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryMinute</skos:notation>
+      <skos:prefLabel xml:lang="en">Every minute</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every minute. May be used even if there are occasional gaps between collection events.  Maps to SDMX code &quot;N&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every minute</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every minute. May be used even if there are occasional gaps between collection events.  Maps to SDMX code &quot;N&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryHour">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryHour</skos:notation>
+      <skos:prefLabel xml:lang="en">Every hour</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every hour. Maps to SDMX code &quot;H&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every hour</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every hour. Maps to SDMX code &quot;H&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryTwoHours">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryTwoHours</skos:notation>
+      <skos:prefLabel xml:lang="en">Every two hours</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every two hours. Maps to SDMX code &quot;H2&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every two hours</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every two hours. Maps to SDMX code &quot;H2&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryThreeHours">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryThreeHours</skos:notation>
+      <skos:prefLabel xml:lang="en">Every three hours</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every three hours. Maps to SDMX code &quot;H3&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every three hours</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every three hours. Maps to SDMX code &quot;H3&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#TwiceADay">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>TwiceADay</skos:notation>
+      <skos:prefLabel xml:lang="en">Twice a day</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected twice a day. Maps to SDMX code &quot;D_2&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Twice a day</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected twice a day. Maps to SDMX code &quot;D_2&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryDay">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryDay</skos:notation>
+      <skos:prefLabel xml:lang="en">Every day</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every day of the calendar week. Maps to SDMX code &quot;D&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every day</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every day of the calendar week. Maps to SDMX code &quot;D&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryBusinessDay">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryBusinessDay</skos:notation>
+      <skos:prefLabel xml:lang="en">Every business day</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every business or trading day (e.g. from Monday to Friday). Maps to SDMX code &quot;B&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every business day</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every business or trading day (e.g. from Monday to Friday). Maps to SDMX code &quot;B&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#OccasionalDaily">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>OccasionalDaily</skos:notation>
+      <skos:prefLabel xml:lang="en">Occasional daily</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected daily but there is a planned, or unplanned gap between data collection periods. For instance, weather statistics on the depth of snow collected daily but only during winter months. No matching SDMX code.</skos:definition>
+      <skos:prefLabel xml:lang="en">Occasional daily</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected daily but there is a planned, or unplanned gap between data collection periods. For instance, weather statistics on the depth of snow collected daily but only during winter months. No matching SDMX code.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#ThreeTimesAWeek">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>ThreeTimesAWeek</skos:notation>
+      <skos:prefLabel xml:lang="en">Three times a week</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected three times a week. Maps to SDMX code &quot;W_3&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Three times a week</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected three times a week. Maps to SDMX code &quot;W_3&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#TwiceAWeek">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>TwiceAWeek</skos:notation>
+      <skos:prefLabel xml:lang="en">Twice a week</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected twice a week. Maps to SDMX code &quot;W_2&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Twice a week</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected twice a week. Maps to SDMX code &quot;W_2&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryWeek">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryWeek</skos:notation>
+      <skos:prefLabel xml:lang="en">Every week</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every week. Maps to SDMX code &quot;W&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every week</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every week. Maps to SDMX code &quot;W&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#OccasionalWeekly">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>OccasionalWeekly</skos:notation>
+      <skos:prefLabel xml:lang="en">Occasional weekly</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected weekly but there is a planned, or unplanned gap between data collection periods. For instance, time-use data that are collected weekly but only during certain periods of time. No matching SDMX code.</skos:definition>
+      <skos:prefLabel xml:lang="en">Occasional weekly</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected weekly but there is a planned, or unplanned gap between data collection periods. For instance, time-use data that are collected weekly but only during certain periods of time. No matching SDMX code.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryTenDays">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryTenDays</skos:notation>
+      <skos:prefLabel xml:lang="en">Every ten days</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every ten days. No matching SDMX code.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every ten days</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every ten days. No matching SDMX code.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#ThreeTimesAMonth">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>ThreeTimesAMonth</skos:notation>
+      <skos:prefLabel xml:lang="en">Three times a month</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected three times a month. Maps to SDMX code &quot;M_3&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Three times a month</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected three times a month. Maps to SDMX code &quot;M_3&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryTwoWeeks">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryTwoWeeks</skos:notation>
+      <skos:prefLabel xml:lang="en">Every two weeks</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every two weeks. Maps to SDMX code &quot;W2&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every two weeks</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every two weeks. Maps to SDMX code &quot;W2&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#TwiceAMonth">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>TwiceAMonth</skos:notation>
+      <skos:prefLabel xml:lang="en">Twice a month</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected twice a month. Maps to SDMX code &quot;M_2&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Twice a month</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected twice a month. Maps to SDMX code &quot;M_2&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryThreeWeeks">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryThreeWeeks</skos:notation>
+      <skos:prefLabel xml:lang="en">Every three weeks</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every three weeks. Maps to SDMX code &quot;W3&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every three weeks</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every three weeks. Maps to SDMX code &quot;W3&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryFourWeeks">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryFourWeeks</skos:notation>
+      <skos:prefLabel xml:lang="en">Every four weeks</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every four weeks. Maps to SDMX code &quot;W4&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every four weeks</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every four weeks. Maps to SDMX code &quot;W4&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryMonth">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryMonth</skos:notation>
+      <skos:prefLabel xml:lang="en">Every month</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every month. Maps to SDMX code &quot;M&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every month</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every month. Maps to SDMX code &quot;M&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#OccasionalMonthly">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>OccasionalMonthly</skos:notation>
+      <skos:prefLabel xml:lang="en">Occasional monthly</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected monthly but there is a planned, or unplanned gap between data collection periods. Intervals may span from one to several months. For example, data are collected monthly but only in spring, summer and fall (not in winter). Maps to SDMX code &quot;OM&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Occasional monthly</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected monthly but there is a planned, or unplanned gap between data collection periods. Intervals may span from one to several months. For example, data are collected monthly but only in spring, summer and fall (not in winter). Maps to SDMX code &quot;OM&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryTwoMonths">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryTwoMonths</skos:notation>
+      <skos:prefLabel xml:lang="en">Every two months</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every two months. Maps to SDMX code &quot;M2&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every two months</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every two months. Maps to SDMX code &quot;M2&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryThreeMonths">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryThreeMonths</skos:notation>
+      <skos:prefLabel xml:lang="en">Every three months</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every three months, or quarterly. Maps to SDMX code &quot;Q&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every three months</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every three months, or quarterly. Maps to SDMX code &quot;Q&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#ThreeTimesAYear">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>ThreeTimesAYear</skos:notation>
+      <skos:prefLabel xml:lang="en">Three times a year</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected three times a year. Maps to SDMX code &quot;A_3&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Three times a year</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected three times a year. Maps to SDMX code &quot;A_3&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#TwiceAYear">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>TwiceAYear</skos:notation>
+      <skos:prefLabel xml:lang="en">Twice a year</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected twice a year. No matching SDMX code.</skos:definition>
+      <skos:prefLabel xml:lang="en">Twice a year</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected twice a year. No matching SDMX code.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryYear">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryYear</skos:notation>
+      <skos:prefLabel xml:lang="en">Every year</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every year. Maps to SDMX code &quot;A&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every year</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every year. Maps to SDMX code &quot;A&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#OccasionalAnnual">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>OccasionalAnnual</skos:notation>
+      <skos:prefLabel xml:lang="en">Occasional annual</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected annually but there is a gap between data collection periods. For instance, an annual survey does not succeed in getting funding every year for data collection. Maps to SDMX code &quot;OA&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Occasional annual</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected annually but there is a gap between data collection periods. For instance, an annual survey does not succeed in getting funding every year for data collection. Maps to SDMX code &quot;OA&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryTwoYears">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryTwoYears</skos:notation>
+      <skos:prefLabel xml:lang="en">Every two years</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every two years. Maps to SDMX code &quot;A2&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every two years</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every two years. Maps to SDMX code &quot;A2&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryThreeYears">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryThreeYears</skos:notation>
+      <skos:prefLabel xml:lang="en">Every three years</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every three years. Maps to SDMX code &quot;A3&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every three years</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every three years. Maps to SDMX code &quot;A3&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryFourYears">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryFourYears</skos:notation>
+      <skos:prefLabel xml:lang="en">Every four years</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every four years. Maps to SDMX code &quot;A4&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every four years</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every four years. Maps to SDMX code &quot;A4&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryFiveYears">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryFiveYears</skos:notation>
+      <skos:prefLabel xml:lang="en">Every five years</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every five years. Maps to SDMX code &quot;A5&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every five years</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every five years. Maps to SDMX code &quot;A5&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryTenYears">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryTenYears</skos:notation>
+      <skos:prefLabel xml:lang="en">Every ten years</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every ten years. Maps to SDMX code &quot;A10&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every ten years</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every ten years. Maps to SDMX code &quot;A10&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryTwentyYears">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryTwentyYears</skos:notation>
+      <skos:prefLabel xml:lang="en">Every twenty years</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every twenty years. Maps to SDMX code &quot;A20&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every twenty years</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every twenty years. Maps to SDMX code &quot;A20&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#EveryThirtyYears">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>EveryThirtyYears</skos:notation>
+      <skos:prefLabel xml:lang="en">Every thirty years</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every thirty years. Maps to SDMX code &quot;A30&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Every thirty years</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected every thirty years. Maps to SDMX code &quot;A30&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#Irregular">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>Irregular</skos:notation>
+      <skos:prefLabel xml:lang="en">Irregular</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected at irregular points in time. For example, time series data that record every stock trade or random events. The interval between each collection event is unpredictable and can vary in length. Maps to SDMX code &quot;I&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Irregular</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected at irregular points in time. For example, time series data that record every stock trade or random events. The interval between each collection event is unpredictable and can vary in length. Maps to SDMX code &quot;I&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#Other">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>Other</skos:notation>
+      <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected multiple times with a frequency that is known but not included in the list. For instance, data collection takes place every 5 hours and 32 minutes. Maps to SDMX code &quot;_O&quot;. In DDI-Lifecycle elements that support CVs are of CodeValueType. If the &quot;Other&quot; value is entered in the element, the more specific value not found in the CV may be entered in the @otherValue attribute.</skos:definition>
+      <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected multiple times with a frequency that is known but not included in the list. For instance, data collection takes place every 5 hours and 32 minutes. Maps to SDMX code &quot;_O&quot;. In DDI-Lifecycle elements that support CVs are of CodeValueType. If the &quot;Other&quot; value is entered in the element, the more specific value not found in the CV may be entered in the @otherValue attribute.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#Unspecified">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>Unspecified</skos:notation>
+      <skos:prefLabel xml:lang="en">Unspecified</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected multiple times but the frequency is not specified or known. Maps to SDMX code &quot;_U&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Unspecified</skos:prefLabel>
+      <skos:definition xml:lang="en">Data are collected multiple times but the frequency is not specified or known. Maps to SDMX code &quot;_U&quot;.</skos:definition>
+   </rdf:Description>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/#NotApplicable">
+      <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.1/"/>
+      <skos:notation>NotApplicable</skos:notation>
+      <skos:prefLabel xml:lang="en">Not applicable</skos:prefLabel>
+      <skos:definition xml:lang="en">There is only one data collection event, no multiple occurrences. In those cases, this term can be used if the frequency element is mandatory in the metadata model. Maps to SDMX code &quot;_Z&quot;.</skos:definition>
+      <skos:prefLabel xml:lang="en">Not applicable</skos:prefLabel>
+      <skos:definition xml:lang="en">There is only one data collection event, no multiple occurrences. In those cases, this term can be used if the frequency element is mandatory in the metadata model. Maps to SDMX code &quot;_Z&quot;.</skos:definition>
+   </rdf:Description>
+</rdf:RDF>
