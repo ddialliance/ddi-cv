@@ -7,162 +7,190 @@
       <l:CodeList>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TimeMethod</r:ID>
-         <r:Version>1.2.0</r:Version>
+         <r:Version>1.2.3</r:Version>
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/</r:UserID>
-         <r:Label/>
-         <r:Description/>
+         <r:Label>
+            <r:Content xml:lang="en">Time Method</r:Content>
+            <r:Content xml:lang="da">Tidsmetode</r:Content>
+            <r:Content xml:lang="de">Erhebungsdesign</r:Content>
+            <r:Content xml:lang="fi">Tutkimuksen aikaulottuvuus</r:Content>
+            <r:Content xml:lang="fr">Méthode temporelle</r:Content>
+            <r:Content xml:lang="it">Dimensione temporale</r:Content>
+            <r:Content xml:lang="lt">Laiko metodas</r:Content>
+            <r:Content xml:lang="nl">Onderzoeksdesign</r:Content>
+            <r:Content xml:lang="no">Tidsmetode</r:Content>
+            <r:Content xml:lang="pt">Dimensão temporal</r:Content>
+            <r:Content xml:lang="sl">Časovna metoda</r:Content>
+            <r:Content xml:lang="sr">Vremenski metod</r:Content>
+            <r:Content xml:lang="sv">Tidsdimension/studiedesign</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Describes the time dimension of the data collection.</r:Content>
+            <r:Content xml:lang="da">Beskriver tidsdimensionen for dataindsamlingen.</r:Content>
+            <r:Content xml:lang="de">Beschreibt die zeitliche Dimension der Datenerhebung.</r:Content>
+            <r:Content xml:lang="fi">Aineistonkeruun aikaulottuvuus.</r:Content>
+            <r:Content xml:lang="fr">Décrit la dimension temporelle de la collecte des données</r:Content>
+            <r:Content xml:lang="it">Descrive la dimensione temporale dei dati</r:Content>
+            <r:Content xml:lang="lt">Apibūdina duomenų rinkimo laiko dimensiją.</r:Content>
+            <r:Content xml:lang="nl">Beschrijft de tijdsdimensie van de gegevensverzameling.</r:Content>
+            <r:Content xml:lang="no">Beskrivelse av tidsdimensjonen for datainnsamlingen.</r:Content>
+            <r:Content xml:lang="pt">Descreve a dimensão temporal da recolha de dados.</r:Content>
+            <r:Content xml:lang="sl">Opisuje časovno dimenzijo zbiranja podatkov.</r:Content>
+            <r:Content xml:lang="sr">Opisuje vremensku dimenziju kolekcije podataka.</r:Content>
+            <r:Content xml:lang="sv">Beskriver hur datainsamlingen lagts upp för att ske över tid.</r:Content>
+         </r:Description>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TimeMethod-Longitudinal-Code</r:ID>
-            <r:Version>1.2.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e207</r:UserID>
+            <r:ID>TimeMethod-d9d4936-Code</r:ID>
+            <r:Version>1.2.3</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d9d4936</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TimeMethod-Longitudinal-Category</r:ID>
-               <r:Version>1.2.0</r:Version>
+               <r:ID>TimeMethod-d9d4936-Category</r:ID>
+               <r:Version>1.2.3</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Longitudinal</r:Value>
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TimeMethod-Longitudinal.CohortEventBased-Code</r:ID>
-            <r:Version>1.2.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e398</r:UserID>
+            <r:ID>TimeMethod-198bd90-Code</r:ID>
+            <r:Version>1.2.3</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/198bd90</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TimeMethod-Longitudinal.CohortEventBased-Category</r:ID>
-               <r:Version>1.2.0</r:Version>
+               <r:ID>TimeMethod-198bd90-Category</r:ID>
+               <r:Version>1.2.3</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Longitudinal.CohortEventBased</r:Value>
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TimeMethod-Longitudinal.TrendRepeatedCrossSection-Code</r:ID>
-            <r:Version>1.2.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e582</r:UserID>
+            <r:ID>TimeMethod-8470cc4-Code</r:ID>
+            <r:Version>1.2.3</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/8470cc4</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TimeMethod-Longitudinal.TrendRepeatedCrossSection-Category</r:ID>
-               <r:Version>1.2.0</r:Version>
+               <r:ID>TimeMethod-8470cc4-Category</r:ID>
+               <r:Version>1.2.3</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Longitudinal.TrendRepeatedCrossSection</r:Value>
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TimeMethod-Longitudinal.Panel-Code</r:ID>
-            <r:Version>1.2.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e766</r:UserID>
+            <r:ID>TimeMethod-91403e2-Code</r:ID>
+            <r:Version>1.2.3</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/91403e2</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TimeMethod-Longitudinal.Panel-Category</r:ID>
-               <r:Version>1.2.0</r:Version>
+               <r:ID>TimeMethod-91403e2-Category</r:ID>
+               <r:Version>1.2.3</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Longitudinal.Panel</r:Value>
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TimeMethod-Longitudinal.Panel.Continuous-Code</r:ID>
-            <r:Version>1.2.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e956</r:UserID>
+            <r:ID>TimeMethod-44f33ff-Code</r:ID>
+            <r:Version>1.2.3</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/44f33ff</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TimeMethod-Longitudinal.Panel.Continuous-Category</r:ID>
-               <r:Version>1.2.0</r:Version>
+               <r:ID>TimeMethod-44f33ff-Category</r:ID>
+               <r:Version>1.2.3</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Longitudinal.Panel.Continuous</r:Value>
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TimeMethod-Longitudinal.Panel.Interval-Code</r:ID>
-            <r:Version>1.2.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1140</r:UserID>
+            <r:ID>TimeMethod-11cdacf-Code</r:ID>
+            <r:Version>1.2.3</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/11cdacf</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TimeMethod-Longitudinal.Panel.Interval-Category</r:ID>
-               <r:Version>1.2.0</r:Version>
+               <r:ID>TimeMethod-11cdacf-Category</r:ID>
+               <r:Version>1.2.3</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Longitudinal.Panel.Interval</r:Value>
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TimeMethod-TimeSeries-Code</r:ID>
-            <r:Version>1.2.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1324</r:UserID>
+            <r:ID>TimeMethod-c4efcd7-Code</r:ID>
+            <r:Version>1.2.3</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/c4efcd7</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TimeMethod-TimeSeries-Category</r:ID>
-               <r:Version>1.2.0</r:Version>
+               <r:ID>TimeMethod-c4efcd7-Category</r:ID>
+               <r:Version>1.2.3</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>TimeSeries</r:Value>
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TimeMethod-TimeSeries.Continuous-Code</r:ID>
-            <r:Version>1.2.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1513</r:UserID>
+            <r:ID>TimeMethod-34743b0-Code</r:ID>
+            <r:Version>1.2.3</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/34743b0</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TimeMethod-TimeSeries.Continuous-Category</r:ID>
-               <r:Version>1.2.0</r:Version>
+               <r:ID>TimeMethod-34743b0-Category</r:ID>
+               <r:Version>1.2.3</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>TimeSeries.Continuous</r:Value>
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TimeMethod-TimeSeries.Discrete-Code</r:ID>
-            <r:Version>1.2.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1697</r:UserID>
+            <r:ID>TimeMethod-f25a743-Code</r:ID>
+            <r:Version>1.2.3</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/f25a743</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TimeMethod-TimeSeries.Discrete-Category</r:ID>
-               <r:Version>1.2.0</r:Version>
+               <r:ID>TimeMethod-f25a743-Category</r:ID>
+               <r:Version>1.2.3</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>TimeSeries.Discrete</r:Value>
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TimeMethod-CrossSection-Code</r:ID>
-            <r:Version>1.2.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1881</r:UserID>
+            <r:ID>TimeMethod-01558f3-Code</r:ID>
+            <r:Version>1.2.3</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/01558f3</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TimeMethod-CrossSection-Category</r:ID>
-               <r:Version>1.2.0</r:Version>
+               <r:ID>TimeMethod-01558f3-Category</r:ID>
+               <r:Version>1.2.3</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>CrossSection</r:Value>
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TimeMethod-CrossSectionAdHocFollowUp-Code</r:ID>
-            <r:Version>1.2.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e2066</r:UserID>
+            <r:ID>TimeMethod-ebc79d8-Code</r:ID>
+            <r:Version>1.2.3</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/ebc79d8</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TimeMethod-CrossSectionAdHocFollowUp-Category</r:ID>
-               <r:Version>1.2.0</r:Version>
+               <r:ID>TimeMethod-ebc79d8-Category</r:ID>
+               <r:Version>1.2.3</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>CrossSectionAdHocFollowUp</r:Value>
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TimeMethod-Other-Code</r:ID>
-            <r:Version>1.2.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e2250</r:UserID>
+            <r:ID>TimeMethod-6311ae1-Code</r:ID>
+            <r:Version>1.2.3</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/6311ae1</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TimeMethod-Other-Category</r:ID>
-               <r:Version>1.2.0</r:Version>
+               <r:ID>TimeMethod-6311ae1-Category</r:ID>
+               <r:Version>1.2.3</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Other</r:Value>
@@ -172,68 +200,38 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TimeMethod-Longitudinal-Category</r:ID>
-         <r:Version>1.2.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e207</r:UserID>
+         <r:ID>TimeMethod-d9d4936-Category</r:ID>
+         <r:Version>1.2.3</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d9d4936</r:UserID>
          <l:CategoryName>Longitudinal</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Longitudinal</r:Content>
-            <r:Content xml:lang="en">Longitudinal</r:Content>
-            <r:Content xml:lang="da">Longitudinal</r:Content>
             <r:Content xml:lang="da">Longitudinal</r:Content>
             <r:Content xml:lang="de">Längsschnitt</r:Content>
-            <r:Content xml:lang="de">Längsschnitt</r:Content>
             <r:Content xml:lang="fi">Pitkittäisaineisto</r:Content>
-            <r:Content xml:lang="fi">Pitkittäisaineisto</r:Content>
-            <r:Content xml:lang="fi">Pitkittäisaineisto</r:Content>
-            <r:Content xml:lang="fr">Longitudinale</r:Content>
-            <r:Content xml:lang="fr">Longitudinale</r:Content>
             <r:Content xml:lang="fr">Longitudinale</r:Content>
             <r:Content xml:lang="it">Longitudinale</r:Content>
-            <r:Content xml:lang="it">Longitudinale</r:Content>
-            <r:Content xml:lang="lt">Longitudinis</r:Content>
             <r:Content xml:lang="lt">Longitudinis</r:Content>
             <r:Content xml:lang="nl">Longitudinaal</r:Content>
-            <r:Content xml:lang="nl">Longitudinaal</r:Content>
-            <r:Content xml:lang="no">Longitudinell</r:Content>
             <r:Content xml:lang="no">Longitudinell</r:Content>
             <r:Content xml:lang="pt">Longitudinal</r:Content>
-            <r:Content xml:lang="pt">Longitudinal</r:Content>
-            <r:Content xml:lang="sl">Longitudinalno</r:Content>
             <r:Content xml:lang="sl">Longitudinalno</r:Content>
             <r:Content xml:lang="sr">Longitudinalni</r:Content>
-            <r:Content xml:lang="sr">Longitudinalni</r:Content>
-            <r:Content xml:lang="sv">Longitudinell</r:Content>
             <r:Content xml:lang="sv">Longitudinell</r:Content>
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Data collected repeatedly over time to allow studying change in a population. At least some of the questions or modules are repeated over waves. Use the broad term when none of the subterms is suitable.</r:Content>
-            <r:Content xml:lang="en">Data collected repeatedly over time to allow studying change in a population. At least some of the questions or modules are repeated over waves. Use the broad term when none of the subterms is suitable.</r:Content>
-            <r:Content xml:lang="da">Data indsamlet gentagne gange over tid for at muliggøre undersøgelse af ændringer i en population. Mindst nogle af spørgsmålene eller modulerne er gentaget i bølger. Anvend det brede begreb, når ingen af underbegreberne er egnede.</r:Content>
             <r:Content xml:lang="da">Data indsamlet gentagne gange over tid for at muliggøre undersøgelse af ændringer i en population. Mindst nogle af spørgsmålene eller modulerne er gentaget i bølger. Anvend det brede begreb, når ingen af underbegreberne er egnede.</r:Content>
             <r:Content xml:lang="de">Daten, die zu mehreren Zeitpunkten erhoben wurden, um Veränderungen innerhalb einer Population zu untersuchen. Mindestens einige der Fragen oder Module werden dabei in Wellen wiederholt abgefragt. Verwenden Sie diesen breit gefassten Begriff, wenn sich keiner der Unterbegriffe eignet.</r:Content>
-            <r:Content xml:lang="de">Daten, die zu mehreren Zeitpunkten erhoben wurden, um Veränderungen innerhalb einer Population zu untersuchen. Mindestens einige der Fragen oder Module werden dabei in Wellen wiederholt abgefragt. Verwenden Sie diesen breit gefassten Begriff, wenn sich keiner der Unterbegriffe eignet.</r:Content>
             <r:Content xml:lang="fi">Dataa on kerätty toistuvasti populaatiossa tapahtuvan muutoksen tutkimiseksi. Ainakin osa kysymyksistä tai moduuleista on toistettu eri keruuaalloissa, mikä mahdollistaa ajallisen vertailun. Ylätermi, jota käytetään mikäli aineistoa ei pysty luokittelemaan mihinkään pitkittäistutkimuksen alaluokkaan.</r:Content>
-            <r:Content xml:lang="fi">Dataa on kerätty toistuvasti populaatiossa tapahtuvan muutoksen tutkimiseksi. Ainakin osa kysymyksistä tai moduuleista on toistettu eri keruuaalloissa, mikä mahdollistaa ajallisen vertailun. Ylätermi, jota käytetään mikäli aineistoa ei pysty luokittelemaan mihinkään pitkittäistutkimuksen alaluokkaan.</r:Content>
-            <r:Content xml:lang="fi">Dataa on kerätty toistuvasti populaatiossa tapahtuvan muutoksen tutkimiseksi. Ainakin osa kysymyksistä tai moduuleista on toistettu eri keruuaalloissa, mikä mahdollistaa ajallisen vertailun. Ylätermi, jota käytetään mikäli aineistoa ei pysty luokittelemaan mihinkään pitkittäistutkimuksen alaluokkaan.</r:Content>
-            <r:Content xml:lang="fr">Données collectées à plusieurs reprises au fil du temps pour permettre d'étudier les changements dans une population. Au moins certaines des questions ou modules sont répétés au fil des vagues. Utilisez ce terme quand aucun des sous-termes ne convient.</r:Content>
-            <r:Content xml:lang="fr">Données collectées à plusieurs reprises au fil du temps pour permettre d'étudier les changements dans une population. Au moins certaines des questions ou modules sont répétés au fil des vagues. Utilisez ce terme quand aucun des sous-termes ne convient.</r:Content>
             <r:Content xml:lang="fr">Données collectées à plusieurs reprises au fil du temps pour permettre d'étudier les changements dans une population. Au moins certaines des questions ou modules sont répétés au fil des vagues. Utilisez ce terme quand aucun des sous-termes ne convient.</r:Content>
             <r:Content xml:lang="it">Dati raccolti ripetutamente nel tempo per consentire lo studio dei mutamenti della popolazione. E' necessario che almeno parte delle domande o interi moduli siano ripetuti nelle diverse ondate. Utilizzare il termine generico quando nessuno dei sotto-termini è adatto.</r:Content>
-            <r:Content xml:lang="it">Dati raccolti ripetutamente nel tempo per consentire lo studio dei mutamenti della popolazione. E' necessario che almeno parte delle domande o interi moduli siano ripetuti nelle diverse ondate. Utilizzare il termine generico quando nessuno dei sotto-termini è adatto.</r:Content>
-            <r:Content xml:lang="lt">Laikui bėgant pakartotinai renkami duomenys, kad būtų galima tirti populiacijos pokyčius. Bent keletas klausimų ar modulių yra kartojami kiekvienoje bangoje. Naudoti šį platesnį terminą, jei netinka nė vienas iš siauresnių terminų.</r:Content>
             <r:Content xml:lang="lt">Laikui bėgant pakartotinai renkami duomenys, kad būtų galima tirti populiacijos pokyčius. Bent keletas klausimų ar modulių yra kartojami kiekvienoje bangoje. Naudoti šį platesnį terminą, jei netinka nė vienas iš siauresnių terminų.</r:Content>
             <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="no">Data samlet inn gjentatte ganger over tid slik at man kan studere forandringer i populasjonen. En del av spørsmålene eller modulene blir gjentatt i runder. Benytt det bredere begrepet når ingen av underbegrepene passer.</r:Content>
             <r:Content xml:lang="no">Data samlet inn gjentatte ganger over tid slik at man kan studere forandringer i populasjonen. En del av spørsmålene eller modulene blir gjentatt i runder. Benytt det bredere begrepet når ingen av underbegrepene passer.</r:Content>
             <r:Content xml:lang="pt">Dados recolhidos repetidamente ao longo do tempo para permitir estudar a mudança numa população. Pelo menos algumas das questões ou módulos são repetidos ao longo das séries/vagas. Usar o termo geral quando nenhum dos subtermos for adequado.</r:Content>
-            <r:Content xml:lang="pt">Dados recolhidos repetidamente ao longo do tempo para permitir estudar a mudança numa população. Pelo menos algumas das questões ou módulos são repetidos ao longo das séries/vagas. Usar o termo geral quando nenhum dos subtermos for adequado.</r:Content>
-            <r:Content xml:lang="sl">Podatki, ki jih s ponovitvami zbiramo v času, z namenom preučevanja sprememb v populaciji. Vsaj nekaj vprašanj ali modulov se ponovi v vsakemu krogu zbiranja podatkov. Uporabite širši izraz, če noben od pod-izrazov ne ustreza.</r:Content>
             <r:Content xml:lang="sl">Podatki, ki jih s ponovitvami zbiramo v času, z namenom preučevanja sprememb v populaciji. Vsaj nekaj vprašanj ali modulov se ponovi v vsakemu krogu zbiranja podatkov. Uporabite širši izraz, če noben od pod-izrazov ne ustreza.</r:Content>
             <r:Content xml:lang="sr">Longitudinalni podaci predstavljaju podatke u vidu ponovljenih merenja koji su prikupljeni na jedinkama posmatrane populacije (ili češće na uzorku iz populacije).Potrebno je da se barem neka pitanja ili moduli ponavljaju u svakom talasu istraživanja. Koristite širi pojam kada nijedan od pododgovora nije pogodan.</r:Content>
-            <r:Content xml:lang="sr">Longitudinalni podaci predstavljaju podatke u vidu ponovljenih merenja koji su prikupljeni na jedinkama posmatrane populacije (ili češće na uzorku iz populacije).Potrebno je da se barem neka pitanja ili moduli ponavljaju u svakom talasu istraživanja. Koristite širi pojam kada nijedan od pododgovora nije pogodan.</r:Content>
-            <r:Content xml:lang="sv">Data samlas in upprepade gånger över tid så att det går att studera förändringar i populationen. Åtminstone en del frågor eller moduler upprepas i vågor. Använd den bredare termen när ingen av de mer precisa termerna passar.</r:Content>
             <r:Content xml:lang="sv">Data samlas in upprepade gånger över tid så att det går att studera förändringar i populationen. Åtminstone en del frågor eller moduler upprepas i vågor. Använd den bredare termen när ingen av de mer precisa termerna passar.</r:Content>
          </r:Description>
       </l:Category>
@@ -241,68 +239,38 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TimeMethod-Longitudinal.CohortEventBased-Category</r:ID>
-         <r:Version>1.2.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e398</r:UserID>
+         <r:ID>TimeMethod-198bd90-Category</r:ID>
+         <r:Version>1.2.3</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/198bd90</r:UserID>
          <l:CategoryName>Longitudinal.CohortEventBased</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Longitudinal: Cohort/Event-based</r:Content>
-            <r:Content xml:lang="en">Longitudinal: Cohort/Event-based</r:Content>
-            <r:Content xml:lang="da">Longitudinal: Kohorte/Begivenhedsbaseret</r:Content>
             <r:Content xml:lang="da">Longitudinal: Kohorte/Begivenhedsbaseret</r:Content>
             <r:Content xml:lang="de">Längsschnitt: Kohorte/Ereignisbasierte Daten</r:Content>
-            <r:Content xml:lang="de">Längsschnitt: Kohorte/Ereignisbasierte Daten</r:Content>
             <r:Content xml:lang="fi">Pitkittäisaineisto: kohortti/tapahtuma-aineisto</r:Content>
-            <r:Content xml:lang="fi">Pitkittäisaineisto: kohortti/tapahtuma-aineisto</r:Content>
-            <r:Content xml:lang="fi">Pitkittäisaineisto: kohortti/tapahtuma-aineisto</r:Content>
-            <r:Content xml:lang="fr">Longitudinale : cohorte / basée sur un événement</r:Content>
-            <r:Content xml:lang="fr">Longitudinale : cohorte / basée sur un événement</r:Content>
             <r:Content xml:lang="fr">Longitudinale : cohorte / basée sur un événement</r:Content>
             <r:Content xml:lang="it">Longitudinale: Basata su coorte/evento</r:Content>
-            <r:Content xml:lang="it">Longitudinale: Basata su coorte/evento</r:Content>
-            <r:Content xml:lang="lt">Longitudinis: kohortų arba įvykių</r:Content>
             <r:Content xml:lang="lt">Longitudinis: kohortų arba įvykių</r:Content>
             <r:Content xml:lang="nl">Longitudinaal: Cohort/Event-based</r:Content>
-            <r:Content xml:lang="nl">Longitudinaal: Cohort/Event-based</r:Content>
-            <r:Content xml:lang="no">Longitudinell: Kohort/hendelsesbasert</r:Content>
             <r:Content xml:lang="no">Longitudinell: Kohort/hendelsesbasert</r:Content>
             <r:Content xml:lang="pt">Longitudinal: Coorte/baseado em eventos</r:Content>
-            <r:Content xml:lang="pt">Longitudinal: Coorte/baseado em eventos</r:Content>
-            <r:Content xml:lang="sl">Longitudinalno: kohorte/na podlagi dogodkov</r:Content>
             <r:Content xml:lang="sl">Longitudinalno: kohorte/na podlagi dogodkov</r:Content>
             <r:Content xml:lang="sr">Longitudinalni: Kohorta/Bazirana na događaju</r:Content>
-            <r:Content xml:lang="sr">Longitudinalni: Kohorta/Bazirana na događaju</r:Content>
-            <r:Content xml:lang="sv">Longitudinell: Kohort/Händelsebaserad</r:Content>
             <r:Content xml:lang="sv">Longitudinell: Kohort/Händelsebaserad</r:Content>
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Data collected over time from the same cohort of respondents. The individuals in the cohort are connected in some way or have shared some significant experience within a given period. In some cases, the samples may differ between waves but are drawn from the same cohort. Examples: birth year, disease (clinical trials), common problem (intervention studies), education, employment, family formation, participation in an event.</r:Content>
-            <r:Content xml:lang="en">Data collected over time from the same cohort of respondents. The individuals in the cohort are connected in some way or have shared some significant experience within a given period. In some cases, the samples may differ between waves but are drawn from the same cohort. Examples: birth year, disease (clinical trials), common problem (intervention studies), education, employment, family formation, participation in an event.</r:Content>
-            <r:Content xml:lang="da">Data indsamlet over tid fra den samme kohorte af respondenter. Individerne i kohorten er forbundet på en eller anden måde eller har delt en betydelig hændelse inden for en given periode. I nogle tilfælde kan stikprøverne adskille sig mellem bølgerne, men er udtrukket fra den samme kohorte. Eksempler: fødselsår, sygdom (kliniske forsøg), fællesproblem (interventionsundersøgelser), uddannelse, beskæftigelse, familiedannelse, deltagelse i en begivenhed.</r:Content>
             <r:Content xml:lang="da">Data indsamlet over tid fra den samme kohorte af respondenter. Individerne i kohorten er forbundet på en eller anden måde eller har delt en betydelig hændelse inden for en given periode. I nogle tilfælde kan stikprøverne adskille sig mellem bølgerne, men er udtrukket fra den samme kohorte. Eksempler: fødselsår, sygdom (kliniske forsøg), fællesproblem (interventionsundersøgelser), uddannelse, beskæftigelse, familiedannelse, deltagelse i en begivenhed.</r:Content>
             <r:Content xml:lang="de">Daten, die zu mehreren Zeitpunkten einer gleichbleibenden Kohorte erhoben wurden. Die Individuen der Kohorte sind in einer spezifischen Art und Weise miteinander verbunden oder teilen besondere Erfahrungen innerhalb eines bestimmten Zeitraums. In manchen Fällen können die Stichproben zwischen den Wellen variieren, werden jedoch aus derselben Kohorte gezogen. Beispiele: Geburtsjahr, Krankheit (klinische Studien), gemeinsames Problem (Interventionsstudien), Bildung, Beschäftigung, Familiengründung, Teilnahme an einer Veranstaltung.</r:Content>
-            <r:Content xml:lang="de">Daten, die zu mehreren Zeitpunkten einer gleichbleibenden Kohorte erhoben wurden. Die Individuen der Kohorte sind in einer spezifischen Art und Weise miteinander verbunden oder teilen besondere Erfahrungen innerhalb eines bestimmten Zeitraums. In manchen Fällen können die Stichproben zwischen den Wellen variieren, werden jedoch aus derselben Kohorte gezogen. Beispiele: Geburtsjahr, Krankheit (klinische Studien), gemeinsames Problem (Interventionsstudien), Bildung, Beschäftigung, Familiengründung, Teilnahme an einer Veranstaltung.</r:Content>
             <r:Content xml:lang="fi">Dataa kerätään toistuvasti henkilöistä, joita yhdistää jokin tekijä tai kokemus. Voi myös olla eri otos eri vuosina mutta samasta kohortista. Ainakin osa kysymyksistä tai moduuleista on toistettu eri keruuaalloissa. Havaintoyksiköitä yhdistäviä tekijöitä voivat olla: syntymävuosi, sairaus (kliiniset tutkimukset), yhteinen ongelma (interventiotutkimukset), aloitusvuosi samassa koulutuspaikassa, työ, perhemuoto, osanotto johonkin tapahtumaan.</r:Content>
-            <r:Content xml:lang="fi">Dataa kerätään toistuvasti henkilöistä, joita yhdistää jokin tekijä tai kokemus. Voi myös olla eri otos eri vuosina mutta samasta kohortista. Ainakin osa kysymyksistä tai moduuleista on toistettu eri keruuaalloissa. Havaintoyksiköitä yhdistäviä tekijöitä voivat olla: syntymävuosi, sairaus (kliiniset tutkimukset), yhteinen ongelma (interventiotutkimukset), aloitusvuosi samassa koulutuspaikassa, työ, perhemuoto, osanotto johonkin tapahtumaan.</r:Content>
-            <r:Content xml:lang="fi">Dataa kerätään toistuvasti henkilöistä, joita yhdistää jokin tekijä tai kokemus. Voi myös olla eri otos eri vuosina mutta samasta kohortista. Ainakin osa kysymyksistä tai moduuleista on toistettu eri keruuaalloissa. Havaintoyksiköitä yhdistäviä tekijöitä voivat olla: syntymävuosi, sairaus (kliiniset tutkimukset), yhteinen ongelma (interventiotutkimukset), aloitusvuosi samassa koulutuspaikassa, työ, perhemuoto, osanotto johonkin tapahtumaan.</r:Content>
-            <r:Content xml:lang="fr">Données collectées au fil du temps auprès d'une même cohorte de répondants. Les individus de la cohorte sont connectés d'une certaine façon ou ont partagés une expérience significative durant une période donnée. Dans certains cas, les échantillons peuvent différer entre les vagues mais sont tirés depuis la même cohorte. Exemples : année de naissance, pathologie (essais cliniques), problème commun (études d'intervention), éducation, emploi, composition familiale, participation à un événement.</r:Content>
-            <r:Content xml:lang="fr">Données collectées au fil du temps auprès d'une même cohorte de répondants. Les individus de la cohorte sont connectés d'une certaine façon ou ont partagés une expérience significative durant une période donnée. Dans certains cas, les échantillons peuvent différer entre les vagues mais sont tirés depuis la même cohorte. Exemples : année de naissance, pathologie (essais cliniques), problème commun (études d'intervention), éducation, emploi, composition familiale, participation à un événement.</r:Content>
             <r:Content xml:lang="fr">Données collectées au fil du temps auprès d'une même cohorte de répondants. Les individus de la cohorte sont connectés d'une certaine façon ou ont partagés une expérience significative durant une période donnée. Dans certains cas, les échantillons peuvent différer entre les vagues mais sont tirés depuis la même cohorte. Exemples : année de naissance, pathologie (essais cliniques), problème commun (études d'intervention), éducation, emploi, composition familiale, participation à un événement.</r:Content>
             <r:Content xml:lang="it">Dati raccolti nel tempo sulla stessa coorte di intervistati. Gli individui della coorte sono in qualche modo connessi o hanno condiviso alcune esperienze significative in un determinato periodo. In alcuni casi, i campioni possono differire tra le ondate ma sono tratti dalla stessa coorte. Esempi: anno di nascita, malattia (studi clinici), problema condiviso (studi di intervento), istruzione, occupazione, formazione della famiglia, partecipazione a un evento.</r:Content>
-            <r:Content xml:lang="it">Dati raccolti nel tempo sulla stessa coorte di intervistati. Gli individui della coorte sono in qualche modo connessi o hanno condiviso alcune esperienze significative in un determinato periodo. In alcuni casi, i campioni possono differire tra le ondate ma sono tratti dalla stessa coorte. Esempi: anno di nascita, malattia (studi clinici), problema condiviso (studi di intervento), istruzione, occupazione, formazione della famiglia, partecipazione a un evento.</r:Content>
-            <r:Content xml:lang="lt">Laikui bėgant pakartotinai renkami duomenys apie tą pačią respondentų kohortą. Kohortai priklausantys asmenys yra kaip nors susiję arba turėjo kokios nors reikšmingos bendros patirties tam tikru laikotarpiu. Kai kuriais atvejais bangų imtys gali skirtis, tačiau atrenkama iš tos pačios kohortos. Pavyzdžiai: gimimo metai, liga (klinikiniai tyrimai), bendra problema (intervenciniai tyrimai), išsilavinimas, užimtumas, šeimos formavimas, dalyvavimas įvykyje.</r:Content>
             <r:Content xml:lang="lt">Laikui bėgant pakartotinai renkami duomenys apie tą pačią respondentų kohortą. Kohortai priklausantys asmenys yra kaip nors susiję arba turėjo kokios nors reikšmingos bendros patirties tam tikru laikotarpiu. Kai kuriais atvejais bangų imtys gali skirtis, tačiau atrenkama iš tos pačios kohortos. Pavyzdžiai: gimimo metai, liga (klinikiniai tyrimai), bendra problema (intervenciniai tyrimai), išsilavinimas, užimtumas, šeimos formavimas, dalyvavimas įvykyje.</r:Content>
             <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="no">Data samlet inn over tid fra samme kohort av respondenter. Individene i kohorten kan assosiseres med hverandre eller har delt noen viktige erfaringer i løpet av en gitt periode. I noen tilfeller kan utvalget variere mellom rundene, selv om det er samme kohort. For eksempel fødselsår, sykdom (kliniske studier), felles problemer (intervensjonsstudie), utdanning, arbeid, familieformasjon, deltakelse i en begivenhet.</r:Content>
             <r:Content xml:lang="no">Data samlet inn over tid fra samme kohort av respondenter. Individene i kohorten kan assosiseres med hverandre eller har delt noen viktige erfaringer i løpet av en gitt periode. I noen tilfeller kan utvalget variere mellom rundene, selv om det er samme kohort. For eksempel fødselsår, sykdom (kliniske studier), felles problemer (intervensjonsstudie), utdanning, arbeid, familieformasjon, deltakelse i en begivenhet.</r:Content>
             <r:Content xml:lang="pt">Dados recolhidos ao longo do tempo da mesma coorte de respondentes. Os indivíduos da coorte estão conectados de alguma forma ou compartilharam alguma experiência significativa num determinado período. Em alguns casos, as amostras podem diferir entre as séries/vagas, mas são retiradas da mesma coorte. Exemplos: ano de nascimento, doença (ensaios clínicos), problema comum (estudos de intervenção), educação, emprego, formação familiar, participação num evento.</r:Content>
-            <r:Content xml:lang="pt">Dados recolhidos ao longo do tempo da mesma coorte de respondentes. Os indivíduos da coorte estão conectados de alguma forma ou compartilharam alguma experiência significativa num determinado período. Em alguns casos, as amostras podem diferir entre as séries/vagas, mas são retiradas da mesma coorte. Exemplos: ano de nascimento, doença (ensaios clínicos), problema comum (estudos de intervenção), educação, emprego, formação familiar, participação num evento.</r:Content>
-            <r:Content xml:lang="sl">Podatki, zbrani v času iz iste kohorte anketirancev. Posamezniki v kohorti so na nek način povezani ali so si v danem obdobju delili neko pomembno izkušnjo. V določenih primerih se lahko vzorci med valovi zbiranja podatkov razlikujejo, vendar so vzeti iz iste kohorte. Primeri: leto rojstva, bolezen (klinična preskušanja), pogosta težava (raziskave intervencij), izobraževanje, zaposlitev, oblikovanje družine, sodelovanje pri dogodku.</r:Content>
             <r:Content xml:lang="sl">Podatki, zbrani v času iz iste kohorte anketirancev. Posamezniki v kohorti so na nek način povezani ali so si v danem obdobju delili neko pomembno izkušnjo. V določenih primerih se lahko vzorci med valovi zbiranja podatkov razlikujejo, vendar so vzeti iz iste kohorte. Primeri: leto rojstva, bolezen (klinična preskušanja), pogosta težava (raziskave intervencij), izobraževanje, zaposlitev, oblikovanje družine, sodelovanje pri dogodku.</r:Content>
             <r:Content xml:lang="sr">Podaci prikupljeni tokom vremena od iste grupe ispitanika. Pojedinci u kohorti povezani su na neki način ili su podelili neko značajno iskustvo u datom periodu. U nekim slučajevima se uzorci mogu razlikovati između talasa, ali uzimaju se iz iste grupe. Primeri: godina rođenja, bolest (klinička ispitivanja), uobičajeni problem (intervencione studije), obrazovanje, zaposlenje, formiranje porodice, učešće u nekom događaju.</r:Content>
-            <r:Content xml:lang="sr">Podaci prikupljeni tokom vremena od iste grupe ispitanika. Pojedinci u kohorti povezani su na neki način ili su podelili neko značajno iskustvo u datom periodu. U nekim slučajevima se uzorci mogu razlikovati između talasa, ali uzimaju se iz iste grupe. Primeri: godina rođenja, bolest (klinička ispitivanja), uobičajeni problem (intervencione studije), obrazovanje, zaposlenje, formiranje porodice, učešće u nekom događaju.</r:Content>
-            <r:Content xml:lang="sv">Data samlas in över tid från samma kohort med respondenter. Individerna i kohorten har någon koppling till varandra eller har delat någon viktig upplevelse under en viss tidsperiod. I vissa fall kan urvalen skilja sig mellan vågor men tas från samma kohort. Exempel: födelseår, sjukdom (kliniska studier), gemensamt problem (interventionsstudie), utbildning, anställning, familjekonstellation, deltagande i en händelse.</r:Content>
             <r:Content xml:lang="sv">Data samlas in över tid från samma kohort med respondenter. Individerna i kohorten har någon koppling till varandra eller har delat någon viktig upplevelse under en viss tidsperiod. I vissa fall kan urvalen skilja sig mellan vågor men tas från samma kohort. Exempel: födelseår, sjukdom (kliniska studier), gemensamt problem (interventionsstudie), utbildning, anställning, familjekonstellation, deltagande i en händelse.</r:Content>
          </r:Description>
       </l:Category>
@@ -310,68 +278,38 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TimeMethod-Longitudinal.TrendRepeatedCrossSection-Category</r:ID>
-         <r:Version>1.2.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e582</r:UserID>
+         <r:ID>TimeMethod-8470cc4-Category</r:ID>
+         <r:Version>1.2.3</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/8470cc4</r:UserID>
          <l:CategoryName>Longitudinal.TrendRepeatedCrossSection</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Longitudinal: Trend/Repeated cross-section</r:Content>
-            <r:Content xml:lang="en">Longitudinal: Trend/Repeated cross-section</r:Content>
-            <r:Content xml:lang="da">Longitudinal: Trend/Gentagne tværsnit</r:Content>
             <r:Content xml:lang="da">Longitudinal: Trend/Gentagne tværsnit</r:Content>
             <r:Content xml:lang="de">Längsschnitt: Trend/Wiederholter Querschnitt</r:Content>
-            <r:Content xml:lang="de">Längsschnitt: Trend/Wiederholter Querschnitt</r:Content>
             <r:Content xml:lang="fi">Pitkittäisaineisto: trendi/toistuva poikkileikkausaineisto</r:Content>
-            <r:Content xml:lang="fi">Pitkittäisaineisto: trendi/toistuva poikkileikkausaineisto</r:Content>
-            <r:Content xml:lang="fi">Pitkittäisaineisto: trendi/toistuva poikkileikkausaineisto</r:Content>
-            <r:Content xml:lang="fr">Longitudinale : tendance / transversale répétée</r:Content>
-            <r:Content xml:lang="fr">Longitudinale : tendance / transversale répétée</r:Content>
             <r:Content xml:lang="fr">Longitudinale : tendance / transversale répétée</r:Content>
             <r:Content xml:lang="it">Longitudinale: Trend/trasversale ripetuta</r:Content>
-            <r:Content xml:lang="it">Longitudinale: Trend/trasversale ripetuta</r:Content>
-            <r:Content xml:lang="lt">Longitudinis: tendencijų arba kartotinis skerspjūvių</r:Content>
             <r:Content xml:lang="lt">Longitudinis: tendencijų arba kartotinis skerspjūvių</r:Content>
             <r:Content xml:lang="nl">Longitudinaal: Trend/herhaalde cross-sectie</r:Content>
-            <r:Content xml:lang="nl">Longitudinaal: Trend/herhaalde cross-sectie</r:Content>
-            <r:Content xml:lang="no">Longitudinell: Trend/gjentagende tverrsnittstudie</r:Content>
             <r:Content xml:lang="no">Longitudinell: Trend/gjentagende tverrsnittstudie</r:Content>
             <r:Content xml:lang="pt">Longitudinal: Tendência/Transversal repetido</r:Content>
-            <r:Content xml:lang="pt">Longitudinal: Tendência/Transversal repetido</r:Content>
-            <r:Content xml:lang="sl">Longitudinalno: trendi/ ponovljene presečne</r:Content>
             <r:Content xml:lang="sl">Longitudinalno: trendi/ ponovljene presečne</r:Content>
             <r:Content xml:lang="sr">Longitudinalni: Trend/Ponovljena studija preseka</r:Content>
-            <r:Content xml:lang="sr">Longitudinalni: Trend/Ponovljena studija preseka</r:Content>
-            <r:Content xml:lang="sv">Longitudinell: Trend/Upprepat tvärsnitt</r:Content>
             <r:Content xml:lang="sv">Longitudinell: Trend/Upprepat tvärsnitt</r:Content>
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Data collected from different samples or different groups of people from the same population at several points in time, using at least partly the same set of questions/variables. Conclusions are drawn for the population. Examples: European Social Survey (ESS), national longitudinal crime surveys.</r:Content>
-            <r:Content xml:lang="en">Data collected from different samples or different groups of people from the same population at several points in time, using at least partly the same set of questions/variables. Conclusions are drawn for the population. Examples: European Social Survey (ESS), national longitudinal crime surveys.</r:Content>
-            <r:Content xml:lang="da">Data indsamlet fra forskellige stikprøver eller forskellige grupper af personer fra den samme population på flere tidspunkter, hvor der som minimum bruges delvist det samme sæt af spørgsmål/variable. Der drages konklusioner for populationen. Eksempler: European Social Survey (ESS), nationale longitudinale kriminalitetsundersøgelser.</r:Content>
             <r:Content xml:lang="da">Data indsamlet fra forskellige stikprøver eller forskellige grupper af personer fra den samme population på flere tidspunkter, hvor der som minimum bruges delvist det samme sæt af spørgsmål/variable. Der drages konklusioner for populationen. Eksempler: European Social Survey (ESS), nationale longitudinale kriminalitetsundersøgelser.</r:Content>
             <r:Content xml:lang="de">Daten, die zu mehreren Zeitpunkten aus unterschiedlichen Stichproben oder Personengruppen einer gleichen Population erhoben wurden, wobei zumindest teilweise die gleichen Fragen oder Variablen verwendet wurden. Die Schlussfolgerungen beziehen sich auf die Gesamtpopulation. Beispiele: European Social Survey (ESS), nationale Längsschnittstudien über Kriminalität.</r:Content>
-            <r:Content xml:lang="de">Daten, die zu mehreren Zeitpunkten aus unterschiedlichen Stichproben oder Personengruppen einer gleichen Population erhoben wurden, wobei zumindest teilweise die gleichen Fragen oder Variablen verwendet wurden. Die Schlussfolgerungen beziehen sich auf die Gesamtpopulation. Beispiele: European Social Survey (ESS), nationale Längsschnittstudien über Kriminalität.</r:Content>
             <r:Content xml:lang="fi">Dataa on kerätty toistuvasti samasta populaatiosta mutta ei samalta vastaajajoukolta, käyttäen ainakin osittain samoja kysymyksiä/muuttujia. Johtopäätökset koskevat populaatiota. Esimerkiksi: asennetutkimukset, kansalliset toistetut rikosuhritutkimukset.</r:Content>
-            <r:Content xml:lang="fi">Dataa on kerätty toistuvasti samasta populaatiosta mutta ei samalta vastaajajoukolta, käyttäen ainakin osittain samoja kysymyksiä/muuttujia. Johtopäätökset koskevat populaatiota. Esimerkiksi: asennetutkimukset, kansalliset toistetut rikosuhritutkimukset.</r:Content>
-            <r:Content xml:lang="fi">Dataa on kerätty toistuvasti samasta populaatiosta mutta ei samalta vastaajajoukolta, käyttäen ainakin osittain samoja kysymyksiä/muuttujia. Johtopäätökset koskevat populaatiota. Esimerkiksi: asennetutkimukset, kansalliset toistetut rikosuhritutkimukset.</r:Content>
-            <r:Content xml:lang="fr">Données collectées auprès de différents échantillons ou différents groupes de personnes issues de la même population à plusieurs moments, utilisant au moins partiellement le même ensemble de questions / variables. Des conclusions sont tirées pour la population. Exemples : Enquête sociale européenne (ESS), des enquêtes nationales longitudinales sur la criminalité.</r:Content>
-            <r:Content xml:lang="fr">Données collectées auprès de différents échantillons ou différents groupes de personnes issues de la même population à plusieurs moments, utilisant au moins partiellement le même ensemble de questions / variables. Des conclusions sont tirées pour la population. Exemples : Enquête sociale européenne (ESS), des enquêtes nationales longitudinales sur la criminalité.</r:Content>
             <r:Content xml:lang="fr">Données collectées auprès de différents échantillons ou différents groupes de personnes issues de la même population à plusieurs moments, utilisant au moins partiellement le même ensemble de questions / variables. Des conclusions sont tirées pour la population. Exemples : Enquête sociale européenne (ESS), des enquêtes nationales longitudinales sur la criminalité.</r:Content>
             <r:Content xml:lang="it">Dati raccolti su diversi campioni o gruppi diversi di persone della stessa popolazione in momenti differenti, utilizzando almeno in parte lo stesso insieme di domande/variabili. I risultati sono generalizzabili alla popolazione. Esempi: European Social Survey (ESS), studi longitudinali nazionali sulla criminalità.</r:Content>
-            <r:Content xml:lang="it">Dati raccolti su diversi campioni o gruppi diversi di persone della stessa popolazione in momenti differenti, utilizzando almeno in parte lo stesso insieme di domande/variabili. I risultati sono generalizzabili alla popolazione. Esempi: European Social Survey (ESS), studi longitudinali nazionali sulla criminalità.</r:Content>
-            <r:Content xml:lang="lt">Keliais laiko momentais renkami duomenys iš tos pačios populiacijos skirtingų imčių ar skirtingų žmonių grupių, naudojant bent iš dalies tuos pačius klausimus ar kintamuosius. Išvados daromos apie populiaciją. Pavyzdžiai: Europos socialinis tyrimas (EST), nacionaliniai longitudiniai nusikalstamumo tyrimai.</r:Content>
             <r:Content xml:lang="lt">Keliais laiko momentais renkami duomenys iš tos pačios populiacijos skirtingų imčių ar skirtingų žmonių grupių, naudojant bent iš dalies tuos pačius klausimus ar kintamuosius. Išvados daromos apie populiaciją. Pavyzdžiai: Europos socialinis tyrimas (EST), nacionaliniai longitudiniai nusikalstamumo tyrimai.</r:Content>
             <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="no">Data samlet fra ulike utvalg eller ulike grupper av mennesker fra samme populasjon ved flere ulike tidspunkt, hvor det som minimum brukes delvis det samme sett med spørsmål/variabler. Konklusjoner tas om populasjonen. Eksempel: European Social Survey (ESS), nasjonale longitudinelle studier om kriminalitet.</r:Content>
             <r:Content xml:lang="no">Data samlet fra ulike utvalg eller ulike grupper av mennesker fra samme populasjon ved flere ulike tidspunkt, hvor det som minimum brukes delvis det samme sett med spørsmål/variabler. Konklusjoner tas om populasjonen. Eksempel: European Social Survey (ESS), nasjonale longitudinelle studier om kriminalitet.</r:Content>
             <r:Content xml:lang="pt">Dados recolhidos de diferentes amostras ou de diferentes grupos de pessoas da mesma população em vários pontos no tempo, usando pelo menos parcialmente o mesmo conjunto de perguntas/variáveis. As conclusões são extrapoladas para a população. Exemplos: European Social Survey (ESS), inquéritos longitudinais de âmbito nacional sobre crimes.</r:Content>
-            <r:Content xml:lang="pt">Dados recolhidos de diferentes amostras ou de diferentes grupos de pessoas da mesma população em vários pontos no tempo, usando pelo menos parcialmente o mesmo conjunto de perguntas/variáveis. As conclusões são extrapoladas para a população. Exemplos: European Social Survey (ESS), inquéritos longitudinais de âmbito nacional sobre crimes.</r:Content>
-            <r:Content xml:lang="sl">Podatki, zbrani iz različnih vzorcev ali različnih skupin ljudi iz iste populacije v več časovnih točkah, pri čemer vsaj delno uporabljamo isti sklop vprašanj/ spremenljivk. Na podlagi zbranih podatkov sklepamo o značilnostih populacije. Primeri: evropska družboslovna raziskava (ESS), nacionalne longitudinalne ankete o pojavnosti kriminala.</r:Content>
             <r:Content xml:lang="sl">Podatki, zbrani iz različnih vzorcev ali različnih skupin ljudi iz iste populacije v več časovnih točkah, pri čemer vsaj delno uporabljamo isti sklop vprašanj/ spremenljivk. Na podlagi zbranih podatkov sklepamo o značilnostih populacije. Primeri: evropska družboslovna raziskava (ESS), nacionalne longitudinalne ankete o pojavnosti kriminala.</r:Content>
             <r:Content xml:lang="sr">Podaci prikupljeni od različitih uzoraka ili različitih grupa ljudi iz iste populacije u više definisanih vremenskih trenutaka, koristeći barem delimično isti skup pitanja / promenljivih. Za stanovništvo se izvode zaključci. Primeri: European Social Survey (ESS), nacionalna longitudinalna istraživanja o kriminalu.</r:Content>
-            <r:Content xml:lang="sr">Podaci prikupljeni od različitih uzoraka ili različitih grupa ljudi iz iste populacije u više definisanih vremenskih trenutaka, koristeći barem delimično isti skup pitanja / promenljivih. Za stanovništvo se izvode zaključci. Primeri: European Social Survey (ESS), nacionalna longitudinalna istraživanja o kriminalu.</r:Content>
-            <r:Content xml:lang="sv">Data samlas in från olika urval eller olika grupper av människor från samma population vid flera olika tillfällen, med åtminstone delvis samma uppsättning frågor/variabler. Slutsatser dras om populationen. Exempel: European Social Survey (ESS), nationella longitudinella brottslighetssurveyer.</r:Content>
             <r:Content xml:lang="sv">Data samlas in från olika urval eller olika grupper av människor från samma population vid flera olika tillfällen, med åtminstone delvis samma uppsättning frågor/variabler. Slutsatser dras om populationen. Exempel: European Social Survey (ESS), nationella longitudinella brottslighetssurveyer.</r:Content>
          </r:Description>
       </l:Category>
@@ -379,68 +317,38 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TimeMethod-Longitudinal.Panel-Category</r:ID>
-         <r:Version>1.2.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e766</r:UserID>
+         <r:ID>TimeMethod-91403e2-Category</r:ID>
+         <r:Version>1.2.3</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/91403e2</r:UserID>
          <l:CategoryName>Longitudinal.Panel</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Longitudinal: Panel</r:Content>
-            <r:Content xml:lang="en">Longitudinal: Panel</r:Content>
-            <r:Content xml:lang="da">Longitudinal: Panel</r:Content>
             <r:Content xml:lang="da">Longitudinal: Panel</r:Content>
             <r:Content xml:lang="de">Längsschnitt: Panel</r:Content>
-            <r:Content xml:lang="de">Längsschnitt: Panel</r:Content>
             <r:Content xml:lang="fi">Pitkittäisaineisto: paneeliaineisto</r:Content>
-            <r:Content xml:lang="fi">Pitkittäisaineisto: paneeliaineisto</r:Content>
-            <r:Content xml:lang="fi">Pitkittäisaineisto: paneeliaineisto</r:Content>
-            <r:Content xml:lang="fr">Longitudinale : panel</r:Content>
-            <r:Content xml:lang="fr">Longitudinale : panel</r:Content>
             <r:Content xml:lang="fr">Longitudinale : panel</r:Content>
             <r:Content xml:lang="it">Longitudinale: Panel</r:Content>
-            <r:Content xml:lang="it">Longitudinale: Panel</r:Content>
-            <r:Content xml:lang="lt">Longitudinis: panelinis</r:Content>
             <r:Content xml:lang="lt">Longitudinis: panelinis</r:Content>
             <r:Content xml:lang="nl">Longitudinaal: Panel</r:Content>
-            <r:Content xml:lang="nl">Longitudinaal: Panel</r:Content>
-            <r:Content xml:lang="no">Longitudinell: Panel</r:Content>
             <r:Content xml:lang="no">Longitudinell: Panel</r:Content>
             <r:Content xml:lang="pt">Longitudinal: Painel</r:Content>
-            <r:Content xml:lang="pt">Longitudinal: Painel</r:Content>
-            <r:Content xml:lang="sl">Longitudinalno: panel</r:Content>
             <r:Content xml:lang="sl">Longitudinalno: panel</r:Content>
             <r:Content xml:lang="sr">Longitudinalni: Panel</r:Content>
-            <r:Content xml:lang="sr">Longitudinalni: Panel</r:Content>
-            <r:Content xml:lang="sv">Longitudinell: Panel</r:Content>
             <r:Content xml:lang="sv">Longitudinell: Panel</r:Content>
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Data collected over time from, or about, the same sample of respondents. Differs from cohort/event-based data in that the selection of respondents is not based on their being connected in some way or having shared some significant experience.</r:Content>
-            <r:Content xml:lang="en">Data collected over time from, or about, the same sample of respondents. Differs from cohort/event-based data in that the selection of respondents is not based on their being connected in some way or having shared some significant experience.</r:Content>
-            <r:Content xml:lang="da">Data indsamlet over tid fra, eller om, den samme stikprøve af respondenter. Adskiller sig fra kohorte/begivenhedsbaserede data ved, at udvælgelsen af respondenter ikke baseres på, at de er forbundet på nogen måde eller har delt en betydelig oplevelse.</r:Content>
             <r:Content xml:lang="da">Data indsamlet over tid fra, eller om, den samme stikprøve af respondenter. Adskiller sig fra kohorte/begivenhedsbaserede data ved, at udvælgelsen af respondenter ikke baseres på, at de er forbundet på nogen måde eller har delt en betydelig oplevelse.</r:Content>
             <r:Content xml:lang="de">Daten, die zu mehreren Zeitpunkten von einer gleichbleibenden Stichprobe erhoben wurden. Der Unterschied zu Kohorten - bzw. ereignisbezogenen Daten liegt darin, dass die Befragten keine Verbindung aufweisen oder bedeutende Erfahrungen teilen.</r:Content>
-            <r:Content xml:lang="de">Daten, die zu mehreren Zeitpunkten von einer gleichbleibenden Stichprobe erhoben wurden. Der Unterschied zu Kohorten - bzw. ereignisbezogenen Daten liegt darin, dass die Befragten keine Verbindung aufweisen oder bedeutende Erfahrungen teilen.</r:Content>
             <r:Content xml:lang="fi">Dataa on kerätty useamman kerran samoilta vastaajilta samoista aihealueista pidemmän aikavälin (vuosien) kuluessa, mikä mahdollistaa ajallisen vertailun. Poikkeaa kohortti/tapahtuma-aineistosta siten, että vastaajajoukkoa ei yhdistä mikään tietty tekijä tai kokemus.</r:Content>
-            <r:Content xml:lang="fi">Dataa on kerätty useamman kerran samoilta vastaajilta samoista aihealueista pidemmän aikavälin (vuosien) kuluessa, mikä mahdollistaa ajallisen vertailun. Poikkeaa kohortti/tapahtuma-aineistosta siten, että vastaajajoukkoa ei yhdistä mikään tietty tekijä tai kokemus.</r:Content>
-            <r:Content xml:lang="fi">Dataa on kerätty useamman kerran samoilta vastaajilta samoista aihealueista pidemmän aikavälin (vuosien) kuluessa, mikä mahdollistaa ajallisen vertailun. Poikkeaa kohortti/tapahtuma-aineistosta siten, että vastaajajoukkoa ei yhdistä mikään tietty tekijä tai kokemus.</r:Content>
-            <r:Content xml:lang="fr">Données collectées au fil du temps auprès, ou à peu près, du même échantillon de répondants. Diffèrent des données de cohorte dans le fait que la sélection des répondants n'est pas basée sur le fait qu'ils sont liés d'une façon ou d'un d'autre ou qu'ils ont partagé une expérience significative.</r:Content>
-            <r:Content xml:lang="fr">Données collectées au fil du temps auprès, ou à peu près, du même échantillon de répondants. Diffèrent des données de cohorte dans le fait que la sélection des répondants n'est pas basée sur le fait qu'ils sont liés d'une façon ou d'un d'autre ou qu'ils ont partagé une expérience significative.</r:Content>
             <r:Content xml:lang="fr">Données collectées au fil du temps auprès, ou à peu près, du même échantillon de répondants. Diffèrent des données de cohorte dans le fait que la sélection des répondants n'est pas basée sur le fait qu'ils sont liés d'une façon ou d'un d'autre ou qu'ils ont partagé une expérience significative.</r:Content>
             <r:Content xml:lang="it">Dati raccolti sullo stesso gruppo di intervistati su base regolare. Differisce dai dati basati su coorte/evento in quanto la selezione dei soggetti non si basa sul fatto di essere in qualche modo connessi tra loro o di aver condiviso esperienze significative.</r:Content>
-            <r:Content xml:lang="it">Dati raccolti sullo stesso gruppo di intervistati su base regolare. Differisce dai dati basati su coorte/evento in quanto la selezione dei soggetti non si basa sul fatto di essere in qualche modo connessi tra loro o di aver condiviso esperienze significative.</r:Content>
-            <r:Content xml:lang="lt">Laikui bėgant pakartotinai renkami duomenys apie arba iš tos pačios respondentų imties. Skiriasi nuo kohortų arba įvykių duomenų tuo, kad atrinkti respondentai nėra kaip nors susiję ar neturi bendros reikšmingos patirties.</r:Content>
             <r:Content xml:lang="lt">Laikui bėgant pakartotinai renkami duomenys apie arba iš tos pačios respondentų imties. Skiriasi nuo kohortų arba įvykių duomenų tuo, kad atrinkti respondentai nėra kaip nors susiję ar neturi bendros reikšmingos patirties.</r:Content>
             <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="no">Data samlet over tid fra, eller om, samme utvalg av respondenter. Skiller seg fra kohort/hendelsesbaserte data gjennom at respondentene ikke er assosiert med hverandre, eller deler spesifikke erfaringer.</r:Content>
             <r:Content xml:lang="no">Data samlet over tid fra, eller om, samme utvalg av respondenter. Skiller seg fra kohort/hendelsesbaserte data gjennom at respondentene ikke er assosiert med hverandre, eller deler spesifikke erfaringer.</r:Content>
             <r:Content xml:lang="pt">Dados recolhidos ao longo do tempo da mesma amostra de respondentes. Diferencia-se dos dados baseados em coorte/evento, no sentido em que a seleção dos entrevistados não resulta de estarem de alguma forma conectados, nem de terem compartilhado alguma experiência significativa.</r:Content>
-            <r:Content xml:lang="pt">Dados recolhidos ao longo do tempo da mesma amostra de respondentes. Diferencia-se dos dados baseados em coorte/evento, no sentido em que a seleção dos entrevistados não resulta de estarem de alguma forma conectados, nem de terem compartilhado alguma experiência significativa.</r:Content>
-            <r:Content xml:lang="sl">Podatki, zbrani v času iz enakega (oziroma približno enakega) vzorca anketirancev. Razlikuje se od podatkov, ki izhajajo iz kohort/ dogodkov, saj izbira anketirancev ne temelji na njihovi skupni povezavi ali povezavi na podlagi pomembnih izkušenj, ki si jih delijo.</r:Content>
             <r:Content xml:lang="sl">Podatki, zbrani v času iz enakega (oziroma približno enakega) vzorca anketirancev. Razlikuje se od podatkov, ki izhajajo iz kohort/ dogodkov, saj izbira anketirancev ne temelji na njihovi skupni povezavi ali povezavi na podlagi pomembnih izkušenj, ki si jih delijo.</r:Content>
             <r:Content xml:lang="sr">Podaci prikupljeni tokom vremena od istog ili približno istog uzorka ispitanika. Od kohortnih ili podataka zasnovanih na događajima razlikuje se po tome što se izbor ispitanika ne zasniva na tome da li su na neki način povezani ili dele neko značajno iskustvo.</r:Content>
-            <r:Content xml:lang="sr">Podaci prikupljeni tokom vremena od istog ili približno istog uzorka ispitanika. Od kohortnih ili podataka zasnovanih na događajima razlikuje se po tome što se izbor ispitanika ne zasniva na tome da li su na neki način povezani ili dele neko značajno iskustvo.</r:Content>
-            <r:Content xml:lang="sv">Data samlas in över tid från, eller om, samma urval av respondenter. Skiljer sig från kohort-/händelsebaserade data genom att urvalet av respondenter inte utgår från att de skulle ha någon koppling till varandra eller ha delat en viktig upplevelse.</r:Content>
             <r:Content xml:lang="sv">Data samlas in över tid från, eller om, samma urval av respondenter. Skiljer sig från kohort-/händelsebaserade data genom att urvalet av respondenter inte utgår från att de skulle ha någon koppling till varandra eller ha delat en viktig upplevelse.</r:Content>
          </r:Description>
       </l:Category>
@@ -448,68 +356,38 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TimeMethod-Longitudinal.Panel.Continuous-Category</r:ID>
-         <r:Version>1.2.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e956</r:UserID>
+         <r:ID>TimeMethod-44f33ff-Category</r:ID>
+         <r:Version>1.2.3</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/44f33ff</r:UserID>
          <l:CategoryName>Longitudinal.Panel.Continuous</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Longitudinal: Panel: Continuous</r:Content>
-            <r:Content xml:lang="en">Longitudinal: Panel: Continuous</r:Content>
-            <r:Content xml:lang="da">Longitudinal: Panel: Kontinuerlig</r:Content>
             <r:Content xml:lang="da">Longitudinal: Panel: Kontinuerlig</r:Content>
             <r:Content xml:lang="de">Längsschnitt: Panel: Kontinuierlich</r:Content>
-            <r:Content xml:lang="de">Längsschnitt: Panel: Kontinuierlich</r:Content>
             <r:Content xml:lang="fi">Pitkittäisaineisto: jatkuva paneeliaineisto</r:Content>
-            <r:Content xml:lang="fi">Pitkittäisaineisto: jatkuva paneeliaineisto</r:Content>
-            <r:Content xml:lang="fi">Pitkittäisaineisto: jatkuva paneeliaineisto</r:Content>
-            <r:Content xml:lang="fr">Longitudinale : panel : continu</r:Content>
-            <r:Content xml:lang="fr">Longitudinale : panel : continu</r:Content>
             <r:Content xml:lang="fr">Longitudinale : panel : continu</r:Content>
             <r:Content xml:lang="it">Longitudinale: Panel continuo</r:Content>
-            <r:Content xml:lang="it">Longitudinale: Panel continuo</r:Content>
-            <r:Content xml:lang="lt">Longitudinis: panelinis: reguliarus</r:Content>
             <r:Content xml:lang="lt">Longitudinis: panelinis: reguliarus</r:Content>
             <r:Content xml:lang="nl">Longitudinaal: Panel: Continu</r:Content>
-            <r:Content xml:lang="nl">Longitudinaal: Panel: Continu</r:Content>
-            <r:Content xml:lang="no">Longitudinell: Panel: Kontinuerlig</r:Content>
             <r:Content xml:lang="no">Longitudinell: Panel: Kontinuerlig</r:Content>
             <r:Content xml:lang="pt">Longitudinal: Painel: Contínuo</r:Content>
-            <r:Content xml:lang="pt">Longitudinal: Painel: Contínuo</r:Content>
-            <r:Content xml:lang="sl">Longitudinalno: panel: kontinuirani</r:Content>
             <r:Content xml:lang="sl">Longitudinalno: panel: kontinuirani</r:Content>
             <r:Content xml:lang="sr">Longitudinalni: Panel: Kontinuelni</r:Content>
-            <r:Content xml:lang="sr">Longitudinalni: Panel: Kontinuelni</r:Content>
-            <r:Content xml:lang="sv">Longitudinell: Panel: Kontinuerlig</r:Content>
             <r:Content xml:lang="sv">Longitudinell: Panel: Kontinuerlig</r:Content>
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Data collected from a panel of respondents on a regular basis.</r:Content>
-            <r:Content xml:lang="en">Data collected from a panel of respondents on a regular basis.</r:Content>
-            <r:Content xml:lang="da">Data indsamlet fra et panel af respondenter på regelmæssig basis.</r:Content>
             <r:Content xml:lang="da">Data indsamlet fra et panel af respondenter på regelmæssig basis.</r:Content>
             <r:Content xml:lang="de">Daten, die von einer Gruppe von Befragten in regelmäßigen Abständen erhoben werden.</r:Content>
-            <r:Content xml:lang="de">Daten, die von einer Gruppe von Befragten in regelmäßigen Abständen erhoben werden.</r:Content>
             <r:Content xml:lang="fi">Paneeliaineisto kerätään säännöllisin väliajoin.</r:Content>
-            <r:Content xml:lang="fi">Paneeliaineisto kerätään säännöllisin väliajoin.</r:Content>
-            <r:Content xml:lang="fi">Paneeliaineisto kerätään säännöllisin väliajoin.</r:Content>
-            <r:Content xml:lang="fr">Données recueillies auprès d'un panel de répondant sur une base régulière.</r:Content>
-            <r:Content xml:lang="fr">Données recueillies auprès d'un panel de répondant sur une base régulière.</r:Content>
             <r:Content xml:lang="fr">Données recueillies auprès d'un panel de répondant sur une base régulière.</r:Content>
             <r:Content xml:lang="it">Dati raccolti sullo stesso panel su base regolare.</r:Content>
-            <r:Content xml:lang="it">Dati raccolti sullo stesso panel su base regolare.</r:Content>
-            <r:Content xml:lang="lt">Reguliariai renkami duomenys iš to paties respondentų panelio.</r:Content>
             <r:Content xml:lang="lt">Reguliariai renkami duomenys iš to paties respondentų panelio.</r:Content>
             <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="no">Data samlet inn fra et panel med respondenter regelmessig.</r:Content>
             <r:Content xml:lang="no">Data samlet inn fra et panel med respondenter regelmessig.</r:Content>
             <r:Content xml:lang="pt">Dados recolhidos de um painel de respondentes numa base regular.</r:Content>
-            <r:Content xml:lang="pt">Dados recolhidos de um painel de respondentes numa base regular.</r:Content>
-            <r:Content xml:lang="sl">Podatki, redno zbirani na podlagi panela anketirancev.</r:Content>
             <r:Content xml:lang="sl">Podatki, redno zbirani na podlagi panela anketirancev.</r:Content>
             <r:Content xml:lang="sr">Podaci koji se redovno prikupljaju od panela ispitanika.</r:Content>
-            <r:Content xml:lang="sr">Podaci koji se redovno prikupljaju od panela ispitanika.</r:Content>
-            <r:Content xml:lang="sv">Data samlas in från en panel med respondenter på regelbunden basis.</r:Content>
             <r:Content xml:lang="sv">Data samlas in från en panel med respondenter på regelbunden basis.</r:Content>
          </r:Description>
       </l:Category>
@@ -517,68 +395,38 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TimeMethod-Longitudinal.Panel.Interval-Category</r:ID>
-         <r:Version>1.2.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1140</r:UserID>
+         <r:ID>TimeMethod-11cdacf-Category</r:ID>
+         <r:Version>1.2.3</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/11cdacf</r:UserID>
          <l:CategoryName>Longitudinal.Panel.Interval</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Longitudinal: Panel: Interval</r:Content>
-            <r:Content xml:lang="en">Longitudinal: Panel: Interval</r:Content>
-            <r:Content xml:lang="da">Longitudinal: Panel: Interval</r:Content>
             <r:Content xml:lang="da">Longitudinal: Panel: Interval</r:Content>
             <r:Content xml:lang="de">Längsschnitt: Panel: Intervalle</r:Content>
-            <r:Content xml:lang="de">Längsschnitt: Panel: Intervalle</r:Content>
             <r:Content xml:lang="fi">Pitkittäisaineisto: ajoittainen paneeliaineisto</r:Content>
-            <r:Content xml:lang="fi">Pitkittäisaineisto: ajoittainen paneeliaineisto</r:Content>
-            <r:Content xml:lang="fi">Pitkittäisaineisto: ajoittainen paneeliaineisto</r:Content>
-            <r:Content xml:lang="fr">Longitudinale : panel : intervalle</r:Content>
-            <r:Content xml:lang="fr">Longitudinale : panel : intervalle</r:Content>
             <r:Content xml:lang="fr">Longitudinale : panel : intervalle</r:Content>
             <r:Content xml:lang="it">Longitudinale: Panel a intervalli</r:Content>
-            <r:Content xml:lang="it">Longitudinale: Panel a intervalli</r:Content>
-            <r:Content xml:lang="lt">Longitudinis: panelinis: proginis</r:Content>
             <r:Content xml:lang="lt">Longitudinis: panelinis: proginis</r:Content>
             <r:Content xml:lang="nl">Longitudinaal: Panel: Interval</r:Content>
-            <r:Content xml:lang="nl">Longitudinaal: Panel: Interval</r:Content>
-            <r:Content xml:lang="no">Longitudinal: Panel: Intervall</r:Content>
             <r:Content xml:lang="no">Longitudinal: Panel: Intervall</r:Content>
             <r:Content xml:lang="pt">Longitudinal: Painel: Intervalo</r:Content>
-            <r:Content xml:lang="pt">Longitudinal: Painel: Intervalo</r:Content>
-            <r:Content xml:lang="sl">Longitudinalno: panel: intervalni</r:Content>
             <r:Content xml:lang="sl">Longitudinalno: panel: intervalni</r:Content>
             <r:Content xml:lang="sr">Longitudinalni: Panel: Intervalni</r:Content>
-            <r:Content xml:lang="sr">Longitudinalni: Panel: Intervalni</r:Content>
-            <r:Content xml:lang="sv">Longitudinell: Panel: Intervall</r:Content>
             <r:Content xml:lang="sv">Longitudinell: Panel: Intervall</r:Content>
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Data collected from a panel of respondents only when information is needed.</r:Content>
-            <r:Content xml:lang="en">Data collected from a panel of respondents only when information is needed.</r:Content>
-            <r:Content xml:lang="da">Data indsamlet fra et panel af respondenter, kun når information er nødvendig.</r:Content>
             <r:Content xml:lang="da">Data indsamlet fra et panel af respondenter, kun når information er nødvendig.</r:Content>
             <r:Content xml:lang="de">Daten, die nur dann von einer Gruppe von Befragten erhoben werden, wenn Bedarf an Information besteht.</r:Content>
-            <r:Content xml:lang="de">Daten, die nur dann von einer Gruppe von Befragten erhoben werden, wenn Bedarf an Information besteht.</r:Content>
             <r:Content xml:lang="fi">Paneeliaineisto kerätään vain silloin, kun tietoa tarvitaan.</r:Content>
-            <r:Content xml:lang="fi">Paneeliaineisto kerätään vain silloin, kun tietoa tarvitaan.</r:Content>
-            <r:Content xml:lang="fi">Paneeliaineisto kerätään vain silloin, kun tietoa tarvitaan.</r:Content>
-            <r:Content xml:lang="fr">Données collectées auprès d'un panel de répondants seulement lorsque des informations sont nécessaires.</r:Content>
-            <r:Content xml:lang="fr">Données collectées auprès d'un panel de répondants seulement lorsque des informations sont nécessaires.</r:Content>
             <r:Content xml:lang="fr">Données collectées auprès d'un panel de répondants seulement lorsque des informations sont nécessaires.</r:Content>
             <r:Content xml:lang="it">Dati raccolti sullo stesso panel esclusivamente quando l'informazione è necessaria</r:Content>
-            <r:Content xml:lang="it">Dati raccolti sullo stesso panel esclusivamente quando l'informazione è necessaria</r:Content>
-            <r:Content xml:lang="lt">Nereguliariai, tik esant poreikiui, renkami duomenys iš to paties respondentų panelio.</r:Content>
             <r:Content xml:lang="lt">Nereguliariai, tik esant poreikiui, renkami duomenys iš to paties respondentų panelio.</r:Content>
             <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="no">Data samlet inn fra et panel med respondenter når det er behov for informasjon.</r:Content>
             <r:Content xml:lang="no">Data samlet inn fra et panel med respondenter når det er behov for informasjon.</r:Content>
             <r:Content xml:lang="pt">Dados recolhidos de um painel de respondentes somente quando a informação é necessária.</r:Content>
-            <r:Content xml:lang="pt">Dados recolhidos de um painel de respondentes somente quando a informação é necessária.</r:Content>
-            <r:Content xml:lang="sl">Podatki, zbrani na podlagi panela anketirancev, samo ko potrebujemo določene informacije.</r:Content>
             <r:Content xml:lang="sl">Podatki, zbrani na podlagi panela anketirancev, samo ko potrebujemo določene informacije.</r:Content>
             <r:Content xml:lang="sr">Podaci prikupljeni od panela ispitanika samo onda kada su potrebne informacije.</r:Content>
-            <r:Content xml:lang="sr">Podaci prikupljeni od panela ispitanika samo onda kada su potrebne informacije.</r:Content>
-            <r:Content xml:lang="sv">Data samlas in från en panel med respondenter endast när informationen behövs.</r:Content>
             <r:Content xml:lang="sv">Data samlas in från en panel med respondenter endast när informationen behövs.</r:Content>
          </r:Description>
       </l:Category>
@@ -586,68 +434,38 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TimeMethod-TimeSeries-Category</r:ID>
-         <r:Version>1.2.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1324</r:UserID>
+         <r:ID>TimeMethod-c4efcd7-Category</r:ID>
+         <r:Version>1.2.3</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/c4efcd7</r:UserID>
          <l:CategoryName>TimeSeries</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Time series</r:Content>
-            <r:Content xml:lang="en">Time series</r:Content>
-            <r:Content xml:lang="da">Tidsserier</r:Content>
             <r:Content xml:lang="da">Tidsserier</r:Content>
             <r:Content xml:lang="de">Zeitreihen</r:Content>
-            <r:Content xml:lang="de">Zeitreihen</r:Content>
             <r:Content xml:lang="fi">Aikasarja-aineisto</r:Content>
-            <r:Content xml:lang="fi">Aikasarja-aineisto</r:Content>
-            <r:Content xml:lang="fi">Aikasarja-aineisto</r:Content>
-            <r:Content xml:lang="fr">Série temporelle</r:Content>
-            <r:Content xml:lang="fr">Série temporelle</r:Content>
             <r:Content xml:lang="fr">Série temporelle</r:Content>
             <r:Content xml:lang="it">Serie temporali</r:Content>
-            <r:Content xml:lang="it">Serie temporali</r:Content>
-            <r:Content xml:lang="lt">Laiko eilučių</r:Content>
             <r:Content xml:lang="lt">Laiko eilučių</r:Content>
             <r:Content xml:lang="nl">Tijdsreeks</r:Content>
-            <r:Content xml:lang="nl">Tijdsreeks</r:Content>
-            <r:Content xml:lang="no">Tidsserie</r:Content>
             <r:Content xml:lang="no">Tidsserie</r:Content>
             <r:Content xml:lang="pt">Séries Temporais</r:Content>
-            <r:Content xml:lang="pt">Séries Temporais</r:Content>
-            <r:Content xml:lang="sl">Časovne vrste</r:Content>
             <r:Content xml:lang="sl">Časovne vrste</r:Content>
             <r:Content xml:lang="sr">Vremenska serija</r:Content>
-            <r:Content xml:lang="sr">Vremenska serija</r:Content>
-            <r:Content xml:lang="sv">Tidsserie</r:Content>
             <r:Content xml:lang="sv">Tidsserie</r:Content>
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Data collected repeatedly over time to study change in observations. These are typically "objective" measurements of phenomena that can be observed externally, as opposed to attitudes/opinions or feelings. Examples may include economic/financial indicators, natural/meteorological phenomena, vital statistics, etc.</r:Content>
-            <r:Content xml:lang="en">Data collected repeatedly over time to study change in observations. These are typically "objective" measurements of phenomena that can be observed externally, as opposed to attitudes/opinions or feelings. Examples may include economic/financial indicators, natural/meteorological phenomena, vital statistics, etc.</r:Content>
-            <r:Content xml:lang="da">Data indsamlet gentagne gange over tid for at studere ændringer i observationer. Disse er typisk ’objektive’ målinger af fænomener, der kan observeres udefra, i modsætning til holdninger/meninger eller følelser. Eksempler kan inkludere økonomiske/finansielle indikatorer, naturlige/meteorologiske fænomener, afgørende statistikker mm.</r:Content>
             <r:Content xml:lang="da">Data indsamlet gentagne gange over tid for at studere ændringer i observationer. Disse er typisk ’objektive’ målinger af fænomener, der kan observeres udefra, i modsætning til holdninger/meninger eller følelser. Eksempler kan inkludere økonomiske/finansielle indikatorer, naturlige/meteorologiske fænomener, afgørende statistikker mm.</r:Content>
             <r:Content xml:lang="de">Daten, die in wiederholten Zeitabständen gesammelt wurden, um Veränderungen der Untersuchungseinheit zu untersuchen. Diese sind typischerweise 'objektive' Messungen von Phänomenen, die durch externe Beobachtung erhoben werden können, im Gegensatz zu Einstellungen/Meinungen oder Emotionen. Beispiele sind ökonomische/finanzielle Indikatoren, natürliche/meteorologische Phänomene, Bevölkerungsstatistik, etc.</r:Content>
-            <r:Content xml:lang="de">Daten, die in wiederholten Zeitabständen gesammelt wurden, um Veränderungen der Untersuchungseinheit zu untersuchen. Diese sind typischerweise 'objektive' Messungen von Phänomenen, die durch externe Beobachtung erhoben werden können, im Gegensatz zu Einstellungen/Meinungen oder Emotionen. Beispiele sind ökonomische/finanzielle Indikatoren, natürliche/meteorologische Phänomene, Bevölkerungsstatistik, etc.</r:Content>
             <r:Content xml:lang="fi">Dataa kerätty havaintoyksiköstä useilta eri ajanjaksoilta havainnossa tapahtuvan muutoksen tutkimiseksi. Yleensä viittaa 'objektiivisiin' mittauksiin ilmiöistä, joita voidaan havainnoida ulkoisesti eli ei asenteiden tai tuntemusten tutkimiseen. Esimerkiksi taloudelliset indikaattorit, luonnonilmiöt, väestönmuutostekijät (kuolemat, syntymät, sairastavuus, avioliitot ja -erot) yms.</r:Content>
-            <r:Content xml:lang="fi">Dataa kerätty havaintoyksiköstä useilta eri ajanjaksoilta havainnossa tapahtuvan muutoksen tutkimiseksi. Yleensä viittaa 'objektiivisiin' mittauksiin ilmiöistä, joita voidaan havainnoida ulkoisesti eli ei asenteiden tai tuntemusten tutkimiseen. Esimerkiksi taloudelliset indikaattorit, luonnonilmiöt, väestönmuutostekijät (kuolemat, syntymät, sairastavuus, avioliitot ja -erot) yms.</r:Content>
-            <r:Content xml:lang="fi">Dataa kerätty havaintoyksiköstä useilta eri ajanjaksoilta havainnossa tapahtuvan muutoksen tutkimiseksi. Yleensä viittaa 'objektiivisiin' mittauksiin ilmiöistä, joita voidaan havainnoida ulkoisesti eli ei asenteiden tai tuntemusten tutkimiseen. Esimerkiksi taloudelliset indikaattorit, luonnonilmiöt, väestönmuutostekijät (kuolemat, syntymät, sairastavuus, avioliitot ja -erot) yms.</r:Content>
-            <r:Content xml:lang="fr">Données collectées à plusieurs reprises au fil du temps pour étudier les changements dans les observations. Celles-ci sont typiquement des mesures "objectives" de phénomènes qui peuvent être observé de l'extérieur, comme l'opposition attitudes / opinions ou sentiments. Les exemples peuvent inclure des indicateurs économiques / financiers, de phénomènes naturels / météorologiques, de statistiques de l'état civil, etc.</r:Content>
-            <r:Content xml:lang="fr">Données collectées à plusieurs reprises au fil du temps pour étudier les changements dans les observations. Celles-ci sont typiquement des mesures "objectives" de phénomènes qui peuvent être observé de l'extérieur, comme l'opposition attitudes / opinions ou sentiments. Les exemples peuvent inclure des indicateurs économiques / financiers, de phénomènes naturels / météorologiques, de statistiques de l'état civil, etc.</r:Content>
             <r:Content xml:lang="fr">Données collectées à plusieurs reprises au fil du temps pour étudier les changements dans les observations. Celles-ci sont typiquement des mesures "objectives" de phénomènes qui peuvent être observé de l'extérieur, comme l'opposition attitudes / opinions ou sentiments. Les exemples peuvent inclure des indicateurs économiques / financiers, de phénomènes naturels / météorologiques, de statistiques de l'état civil, etc.</r:Content>
             <r:Content xml:lang="it">Dati raccolti ripetutamente nel tempo per studiare il cambiamento dei fenomeni. Si tratta in genere di misurazioni "oggettive" di fenomeni che possono essere osservati esternamente, a differenza di atteggiamenti, opinioni o sentimenti. Gli esempi possono includere indicatori economici/finanziari, fenomeni naturali/meteorologici, statistiche anagrafiche, ecc.</r:Content>
-            <r:Content xml:lang="it">Dati raccolti ripetutamente nel tempo per studiare il cambiamento dei fenomeni. Si tratta in genere di misurazioni "oggettive" di fenomeni che possono essere osservati esternamente, a differenza di atteggiamenti, opinioni o sentimenti. Gli esempi possono includere indicatori economici/finanziari, fenomeni naturali/meteorologici, statistiche anagrafiche, ecc.</r:Content>
-            <r:Content xml:lang="lt">Laikui bėgant pakartotinai renkami duomenys, siekiant ištirti pokyčius tarp stebėjimų. Paprastai tai yra „objektyvūs“ iš išorės stebimų reiškinių matavimai, priešingai nei nuostatų, nuomonių ar jausmų matavimai. Pavyzdžiais gali būti ekonominiai ar finansiniai rodikliai, gamtos ar meteorologiniai reiškiniai, demografinė statistika ir kt.</r:Content>
             <r:Content xml:lang="lt">Laikui bėgant pakartotinai renkami duomenys, siekiant ištirti pokyčius tarp stebėjimų. Paprastai tai yra „objektyvūs“ iš išorės stebimų reiškinių matavimai, priešingai nei nuostatų, nuomonių ar jausmų matavimai. Pavyzdžiais gali būti ekonominiai ar finansiniai rodikliai, gamtos ar meteorologiniai reiškiniai, demografinė statistika ir kt.</r:Content>
             <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="no">Data samlet inn gjentatte ganger over tid for å studere endring i observasjoner. Dette er typiske 'objektive' målinger av fenomener som kan observeres eksternt, i motsetning til holdninger/meninger eller følelser. For eksempel økonomiske/finansielle indikatorer, natur/meteorologiske fenomener, befolkningsstatistikk etc.</r:Content>
             <r:Content xml:lang="no">Data samlet inn gjentatte ganger over tid for å studere endring i observasjoner. Dette er typiske 'objektive' målinger av fenomener som kan observeres eksternt, i motsetning til holdninger/meninger eller følelser. For eksempel økonomiske/finansielle indikatorer, natur/meteorologiske fenomener, befolkningsstatistikk etc.</r:Content>
             <r:Content xml:lang="pt">Dados recolhidos repetidamente ao longo do tempo para estudar a mudança nas observações. Referem-se normalmente a medições "objetivas" de fenómenos que podem ser observados externamente, em oposição a atitudes/opiniões ou sentimentos. Exemplos podem incluir indicadores económicos/financeiros, fenómenos naturais/meteorológicos, estatísticas vitais, etc.</r:Content>
-            <r:Content xml:lang="pt">Dados recolhidos repetidamente ao longo do tempo para estudar a mudança nas observações. Referem-se normalmente a medições "objetivas" de fenómenos que podem ser observados externamente, em oposição a atitudes/opiniões ou sentimentos. Exemplos podem incluir indicadores económicos/financeiros, fenómenos naturais/meteorológicos, estatísticas vitais, etc.</r:Content>
-            <r:Content xml:lang="sl">Podatki zbirani v času s ponovitvami z namenom preučevanja sprememb v opazovanjih. To so običajno 'objektivne' meritve pojavov, ki jih je mogoče opazovati navzven, v nasprotju s stališči/mnenji ali občutki. Primeri lahko vključujejo ekonomske/finančne kazalnike, naravne/meteorološke pojave, vitalno statistiko itd.</r:Content>
             <r:Content xml:lang="sl">Podatki zbirani v času s ponovitvami z namenom preučevanja sprememb v opazovanjih. To so običajno 'objektivne' meritve pojavov, ki jih je mogoče opazovati navzven, v nasprotju s stališči/mnenji ali občutki. Primeri lahko vključujejo ekonomske/finančne kazalnike, naravne/meteorološke pojave, vitalno statistiko itd.</r:Content>
             <r:Content xml:lang="sr">Podaci prikupljeni u više navrata tokom vremena, kako bi se proučile promene u opservacijama. To su obično "objektivna" merenja pojava koja se mogu posmatrati spolja, za razliku od stavova / mišljenja ili osećanja. Primeri mogu obuhvatati ekonomske / finansijske pokazatelje, prirodne / meteorološke pojave, vitalnu statistiku, itd.</r:Content>
-            <r:Content xml:lang="sr">Podaci prikupljeni u više navrata tokom vremena, kako bi se proučile promene u opservacijama. To su obično "objektivna" merenja pojava koja se mogu posmatrati spolja, za razliku od stavova / mišljenja ili osećanja. Primeri mogu obuhvatati ekonomske / finansijske pokazatelje, prirodne / meteorološke pojave, vitalnu statistiku, itd.</r:Content>
-            <r:Content xml:lang="sv">Data samlas in upprepade gånger över tid så att det går att studera förändringar i observationerna. Dessa är generellt "objektiva" mätningar av externa, observerbara fenomen, i motsats till attityder/åsikter eller känslor. Exempel kan inkludera ekonomiska/finansiella indikatorer, naturliga/meteorologiska fenomen, befolkningsstatistik m.m.</r:Content>
             <r:Content xml:lang="sv">Data samlas in upprepade gånger över tid så att det går att studera förändringar i observationerna. Dessa är generellt "objektiva" mätningar av externa, observerbara fenomen, i motsats till attityder/åsikter eller känslor. Exempel kan inkludera ekonomiska/finansiella indikatorer, naturliga/meteorologiska fenomen, befolkningsstatistik m.m.</r:Content>
          </r:Description>
       </l:Category>
@@ -655,68 +473,38 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TimeMethod-TimeSeries.Continuous-Category</r:ID>
-         <r:Version>1.2.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1513</r:UserID>
+         <r:ID>TimeMethod-34743b0-Category</r:ID>
+         <r:Version>1.2.3</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/34743b0</r:UserID>
          <l:CategoryName>TimeSeries.Continuous</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Time series: Continuous</r:Content>
-            <r:Content xml:lang="en">Time series: Continuous</r:Content>
-            <r:Content xml:lang="da">Tidsserier: Kontinuerlig</r:Content>
             <r:Content xml:lang="da">Tidsserier: Kontinuerlig</r:Content>
             <r:Content xml:lang="de">Zeitreihen: Kontinuierlich</r:Content>
-            <r:Content xml:lang="de">Zeitreihen: Kontinuierlich</r:Content>
             <r:Content xml:lang="fi">Aikasarja-aineisto: jatkuva</r:Content>
-            <r:Content xml:lang="fi">Aikasarja-aineisto: jatkuva</r:Content>
-            <r:Content xml:lang="fi">Aikasarja-aineisto: jatkuva</r:Content>
-            <r:Content xml:lang="fr">Série temporelle : continue</r:Content>
-            <r:Content xml:lang="fr">Série temporelle : continue</r:Content>
             <r:Content xml:lang="fr">Série temporelle : continue</r:Content>
             <r:Content xml:lang="it">Serie temporali: continue</r:Content>
-            <r:Content xml:lang="it">Serie temporali: continue</r:Content>
-            <r:Content xml:lang="lt">Laiko eilučių: tolydžiųjų</r:Content>
             <r:Content xml:lang="lt">Laiko eilučių: tolydžiųjų</r:Content>
             <r:Content xml:lang="nl">Tijdsreeks: Continu</r:Content>
-            <r:Content xml:lang="nl">Tijdsreeks: Continu</r:Content>
-            <r:Content xml:lang="no">Tidsserie: Kontinuerlig</r:Content>
             <r:Content xml:lang="no">Tidsserie: Kontinuerlig</r:Content>
             <r:Content xml:lang="pt">Séries Temporais: Contínuas</r:Content>
-            <r:Content xml:lang="pt">Séries Temporais: Contínuas</r:Content>
-            <r:Content xml:lang="sl">Časovne vrste: kontinuirane</r:Content>
             <r:Content xml:lang="sl">Časovne vrste: kontinuirane</r:Content>
             <r:Content xml:lang="sr">Vremenska serija: Kontinuelna</r:Content>
-            <r:Content xml:lang="sr">Vremenska serija: Kontinuelna</r:Content>
-            <r:Content xml:lang="sv">Tidsserie: Kontinuerlig</r:Content>
             <r:Content xml:lang="sv">Tidsserie: Kontinuerlig</r:Content>
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Measurements are taken at every instant in time. Examples: lie detectors, electrocardiograms, etc.</r:Content>
-            <r:Content xml:lang="en">Measurements are taken at every instant in time. Examples: lie detectors, electrocardiograms, etc.</r:Content>
-            <r:Content xml:lang="da">Målinger foretages hvert øjeblik i tid. Eksempler: løgnedetektorer, elektrokardiogrammer (EKG) mm.</r:Content>
             <r:Content xml:lang="da">Målinger foretages hvert øjeblik i tid. Eksempler: løgnedetektorer, elektrokardiogrammer (EKG) mm.</r:Content>
             <r:Content xml:lang="de">Die Messungen erfolgen kontinuierlich zu jedem Zeitpunkt. Beispiele: Lügendetektoren und Elektrokardiogramme, etc.</r:Content>
-            <r:Content xml:lang="de">Die Messungen erfolgen kontinuierlich zu jedem Zeitpunkt. Beispiele: Lügendetektoren und Elektrokardiogramme, etc.</r:Content>
             <r:Content xml:lang="fi">Mittaus on havaintoperiodin aikana jatkuvaa, esim. valheenpaljastuskoneet, EKG (sydänkäyrä) jne.</r:Content>
-            <r:Content xml:lang="fi">Mittaus on havaintoperiodin aikana jatkuvaa, esim. valheenpaljastuskoneet, EKG (sydänkäyrä) jne.</r:Content>
-            <r:Content xml:lang="fi">Mittaus on havaintoperiodin aikana jatkuvaa, esim. valheenpaljastuskoneet, EKG (sydänkäyrä) jne.</r:Content>
-            <r:Content xml:lang="fr">Les mesures sont prises à chaque instant dans le temps. Exemple : détecteurs de mensonges, électrocardiogrammes, etc.</r:Content>
-            <r:Content xml:lang="fr">Les mesures sont prises à chaque instant dans le temps. Exemple : détecteurs de mensonges, électrocardiogrammes, etc.</r:Content>
             <r:Content xml:lang="fr">Les mesures sont prises à chaque instant dans le temps. Exemple : détecteurs de mensonges, électrocardiogrammes, etc.</r:Content>
             <r:Content xml:lang="it">Le misurazioni sono rilevate in ogni istante temporale. Esempi: macchine della verità, elettrocardiogrammi, ecc.</r:Content>
-            <r:Content xml:lang="it">Le misurazioni sono rilevate in ogni istante temporale. Esempi: macchine della verità, elettrocardiogrammi, ecc.</r:Content>
-            <r:Content xml:lang="lt">Matavimai laike atliekami nepertraukiamai. Pavyzdžiai: melo detektoriai, elektrokardiogramos ir kt.</r:Content>
             <r:Content xml:lang="lt">Matavimai laike atliekami nepertraukiamai. Pavyzdžiai: melo detektoriai, elektrokardiogramos ir kt.</r:Content>
             <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="no">Målinger blir gjennomført ved et gitt tidspunkt. For eksempel løgndetektor, elektrokardiogram (EKG) etc.</r:Content>
             <r:Content xml:lang="no">Målinger blir gjennomført ved et gitt tidspunkt. For eksempel løgndetektor, elektrokardiogram (EKG) etc.</r:Content>
             <r:Content xml:lang="pt">As medições são realizadas são realizadas de forma contínua. Exemplos: detectores de mentiras, electrocardiograma, etc.</r:Content>
-            <r:Content xml:lang="pt">As medições são realizadas são realizadas de forma contínua. Exemplos: detectores de mentiras, electrocardiograma, etc.</r:Content>
-            <r:Content xml:lang="sl">Meritve se izvajajo v celotnem obdobju merjenja. Primeri: detektorji laži, elektrokardiogrami itd.</r:Content>
             <r:Content xml:lang="sl">Meritve se izvajajo v celotnem obdobju merjenja. Primeri: detektorji laži, elektrokardiogrami itd.</r:Content>
             <r:Content xml:lang="sr">Merenja se vrše u svakom trenutku u vremenu. Primeri: detektori laži, elektrokardiogrami itd.</r:Content>
-            <r:Content xml:lang="sr">Merenja se vrše u svakom trenutku u vremenu. Primeri: detektori laži, elektrokardiogrami itd.</r:Content>
-            <r:Content xml:lang="sv">Mätvärden tas vid varje given tidpunkt. Exempel: lögndetektorer, elektrokardiogram (EKG) m.m.</r:Content>
             <r:Content xml:lang="sv">Mätvärden tas vid varje given tidpunkt. Exempel: lögndetektorer, elektrokardiogram (EKG) m.m.</r:Content>
          </r:Description>
       </l:Category>
@@ -724,68 +512,38 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TimeMethod-TimeSeries.Discrete-Category</r:ID>
-         <r:Version>1.2.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1697</r:UserID>
+         <r:ID>TimeMethod-f25a743-Category</r:ID>
+         <r:Version>1.2.3</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/f25a743</r:UserID>
          <l:CategoryName>TimeSeries.Discrete</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Time series: Discrete</r:Content>
-            <r:Content xml:lang="en">Time series: Discrete</r:Content>
-            <r:Content xml:lang="da">Tidsserier: Diskret</r:Content>
             <r:Content xml:lang="da">Tidsserier: Diskret</r:Content>
             <r:Content xml:lang="de">Zeitreihen: Diskret</r:Content>
-            <r:Content xml:lang="de">Zeitreihen: Diskret</r:Content>
             <r:Content xml:lang="fi">Aikasarja-aineisto: diskreetti</r:Content>
-            <r:Content xml:lang="fi">Aikasarja-aineisto: diskreetti</r:Content>
-            <r:Content xml:lang="fi">Aikasarja-aineisto: diskreetti</r:Content>
-            <r:Content xml:lang="fr">Série temporelle : discrète</r:Content>
-            <r:Content xml:lang="fr">Série temporelle : discrète</r:Content>
             <r:Content xml:lang="fr">Série temporelle : discrète</r:Content>
             <r:Content xml:lang="it">Serie temporali: discrete</r:Content>
-            <r:Content xml:lang="it">Serie temporali: discrete</r:Content>
-            <r:Content xml:lang="lt">Laiko eilučių: diskrečiųjų</r:Content>
             <r:Content xml:lang="lt">Laiko eilučių: diskrečiųjų</r:Content>
             <r:Content xml:lang="nl">Tijdsreeks: Interval</r:Content>
-            <r:Content xml:lang="nl">Tijdsreeks: Interval</r:Content>
-            <r:Content xml:lang="no">Tidsserie: Diskret</r:Content>
             <r:Content xml:lang="no">Tidsserie: Diskret</r:Content>
             <r:Content xml:lang="pt">Séries Temporais: Discretas</r:Content>
-            <r:Content xml:lang="pt">Séries Temporais: Discretas</r:Content>
-            <r:Content xml:lang="sl">Časovne vrste: diskretne</r:Content>
             <r:Content xml:lang="sl">Časovne vrste: diskretne</r:Content>
             <r:Content xml:lang="sr">Vremenska serija: Prekidna</r:Content>
-            <r:Content xml:lang="sr">Vremenska serija: Prekidna</r:Content>
-            <r:Content xml:lang="sv">Tidsserie: Diskret</r:Content>
             <r:Content xml:lang="sv">Tidsserie: Diskret</r:Content>
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Measurements are taken at (usually regularly) spaced intervals. Examples: macroeconomics (weekly share prices, monthly profits, sales); meteorology (hourly temperature); measurements of individuals (blood pressure, weight, height); sociology (crime figures, employment figures), etc.</r:Content>
-            <r:Content xml:lang="en">Measurements are taken at (usually regularly) spaced intervals. Examples: macroeconomics (weekly share prices, monthly profits, sales); meteorology (hourly temperature); measurements of individuals (blood pressure, weight, height); sociology (crime figures, employment figures), etc.</r:Content>
-            <r:Content xml:lang="da">Målinger foretages (normalt regelmæssigt) i tidsintervaller. Eksempler: makroøkonomi (ugentlige aktiekurser, månedlige fortjenester, salg); meteorologi (timetemperatur); målinger af individer (blodtryk, vægt, højde); sociologi (kriminalitetstal, beskæftigelsestal) mm.</r:Content>
             <r:Content xml:lang="da">Målinger foretages (normalt regelmæssigt) i tidsintervaller. Eksempler: makroøkonomi (ugentlige aktiekurser, månedlige fortjenester, salg); meteorologi (timetemperatur); målinger af individer (blodtryk, vægt, højde); sociologi (kriminalitetstal, beskæftigelsestal) mm.</r:Content>
             <r:Content xml:lang="de">Die Messungen werden in (meist regelmäßigen) Abständen durchgeführt. Beispiele: Makroökonomie (wöchentliche Aktienkurse, Monatsgewinne, Umsatz); Meteorologie (stündliche Temperatur); Körpermessungen (Blutdruck, Gewicht, Höhe) Soziologie (Verbrechen, Beschäftigungszahlen) usw.</r:Content>
-            <r:Content xml:lang="de">Die Messungen werden in (meist regelmäßigen) Abständen durchgeführt. Beispiele: Makroökonomie (wöchentliche Aktienkurse, Monatsgewinne, Umsatz); Meteorologie (stündliche Temperatur); Körpermessungen (Blutdruck, Gewicht, Höhe) Soziologie (Verbrechen, Beschäftigungszahlen) usw.</r:Content>
             <r:Content xml:lang="fi">Havaintoperiodin aikana havaintoja mitataan erillisinä ajanhetkinä, usein tasaisin väliajoin. Esimerkiksi makrotaloustieteessä (kuukausittaiset myynnit, vuotuinen bruttokansantuote), meteorologiassa (järviveden lämpötila), sosiologiassa (vuosittaiset rikosluvut), ihmisiin kohdistuvissa mittauksissa (verenpaine, paino, pituus).</r:Content>
-            <r:Content xml:lang="fi">Havaintoperiodin aikana havaintoja mitataan erillisinä ajanhetkinä, usein tasaisin väliajoin. Esimerkiksi makrotaloustieteessä (kuukausittaiset myynnit, vuotuinen bruttokansantuote), meteorologiassa (järviveden lämpötila), sosiologiassa (vuosittaiset rikosluvut), ihmisiin kohdistuvissa mittauksissa (verenpaine, paino, pituus).</r:Content>
-            <r:Content xml:lang="fi">Havaintoperiodin aikana havaintoja mitataan erillisinä ajanhetkinä, usein tasaisin väliajoin. Esimerkiksi makrotaloustieteessä (kuukausittaiset myynnit, vuotuinen bruttokansantuote), meteorologiassa (järviveden lämpötila), sosiologiassa (vuosittaiset rikosluvut), ihmisiin kohdistuvissa mittauksissa (verenpaine, paino, pituus).</r:Content>
-            <r:Content xml:lang="fr">Les mesures sont prises (habituellement régulièrement) à des intervalles espacés. Exemples : macroéconomie (cours hebdomadaires des actions ; bénéfices, ventes mensuels) ; météorologie (température horaire) ; mesures des individus (pression sanguine, poids, taille) ; sociologie (taux de criminalité, taux d'emploi), etc.</r:Content>
-            <r:Content xml:lang="fr">Les mesures sont prises (habituellement régulièrement) à des intervalles espacés. Exemples : macroéconomie (cours hebdomadaires des actions ; bénéfices, ventes mensuels) ; météorologie (température horaire) ; mesures des individus (pression sanguine, poids, taille) ; sociologie (taux de criminalité, taux d'emploi), etc.</r:Content>
             <r:Content xml:lang="fr">Les mesures sont prises (habituellement régulièrement) à des intervalles espacés. Exemples : macroéconomie (cours hebdomadaires des actions ; bénéfices, ventes mensuels) ; météorologie (température horaire) ; mesures des individus (pression sanguine, poids, taille) ; sociologie (taux de criminalité, taux d'emploi), etc.</r:Content>
             <r:Content xml:lang="it">Le misurazioni sono prese a intervalli regolari. Esempi: macroeconomia (prezzi delle azioni settimanali, profitti mensili, vendite); meteorologia (temperatura oraria); rilievi sugli individui (pressione arteriosa, peso, altezza); sociologia (tassi di criminalità, tassi occupazionali), ecc.</r:Content>
-            <r:Content xml:lang="it">Le misurazioni sono prese a intervalli regolari. Esempi: macroeconomia (prezzi delle azioni settimanali, profitti mensili, vendite); meteorologia (temperatura oraria); rilievi sugli individui (pressione arteriosa, peso, altezza); sociologia (tassi di criminalità, tassi occupazionali), ecc.</r:Content>
-            <r:Content xml:lang="lt">Matavimai atliekami tam tikrais (paprastai reguliariais)  intervalais. Pavyzdžiai: makroekonomika (savaitinės akcijų kainos, mėnesinis pelnas, pardavimai); meteorologija (valandinė temperatūra); fiziniai matavimai (kraujo spaudimas, svoris, ūgis); sociologija (nusikalstamumo, užimtumo duomenys) ir kt.</r:Content>
             <r:Content xml:lang="lt">Matavimai atliekami tam tikrais (paprastai reguliariais)  intervalais. Pavyzdžiai: makroekonomika (savaitinės akcijų kainos, mėnesinis pelnas, pardavimai); meteorologija (valandinė temperatūra); fiziniai matavimai (kraujo spaudimas, svoris, ūgis); sociologija (nusikalstamumo, užimtumo duomenys) ir kt.</r:Content>
             <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="no">Målinger basert på (ofte regelmessige) intervaller. For eksempel makroøknonomi (ukentlige aksjekurser, månedlig fortjeneste, salg), meteorologi (temperatur hver time), målinger hos individer (blodtrykk, vekt, høyde), sosiologi (statistikk på lovbrudd, sysselsetting) etc.</r:Content>
             <r:Content xml:lang="no">Målinger basert på (ofte regelmessige) intervaller. For eksempel makroøknonomi (ukentlige aksjekurser, månedlig fortjeneste, salg), meteorologi (temperatur hver time), målinger hos individer (blodtrykk, vekt, høyde), sosiologi (statistikk på lovbrudd, sysselsetting) etc.</r:Content>
             <r:Content xml:lang="pt">As medições são feitas em intervalos espaçados, normalmente regulares. Exemplos: macroeconomia (preços semanais das ações, lucros mensais, vendas); meteorologia (temperatura horária); medições aos indivíduos (pressão arterial, peso, altura); sociologia (estatísticas criminais, estatísticas de emprego), etc.</r:Content>
-            <r:Content xml:lang="pt">As medições são feitas em intervalos espaçados, normalmente regulares. Exemplos: macroeconomia (preços semanais das ações, lucros mensais, vendas); meteorologia (temperatura horária); medições aos indivíduos (pressão arterial, peso, altura); sociologia (estatísticas criminais, estatísticas de emprego), etc.</r:Content>
-            <r:Content xml:lang="sl">Meritve se izvajajo v (običajno enako) razmaknjenih intervalih. Primeri: makroekonomija (tedensko gibanje cen delnic, meseči dobički, prodaja); meteorologija (temperatura po urah); meritve posameznikov (krvni tlak, teža, višina); sociologija (podatki o kriminalu, podatki o zaposlenosti) itd.</r:Content>
             <r:Content xml:lang="sl">Meritve se izvajajo v (običajno enako) razmaknjenih intervalih. Primeri: makroekonomija (tedensko gibanje cen delnic, meseči dobički, prodaja); meteorologija (temperatura po urah); meritve posameznikov (krvni tlak, teža, višina); sociologija (podatki o kriminalu, podatki o zaposlenosti) itd.</r:Content>
             <r:Content xml:lang="sr">Merenja se vrše u razmacima (obično redovnim). Primeri: makroekonomija (nedeljne cene akcija, mesečna dobit, prodaja); meteorologija (temperatura svakog sata); merenja osoba (krvni pritisak, težina, visina); sociologija (podaci o kriminalu, podaci o zaposlenosti) itd.</r:Content>
-            <r:Content xml:lang="sr">Merenja se vrše u razmacima (obično redovnim). Primeri: makroekonomija (nedeljne cene akcija, mesečna dobit, prodaja); meteorologija (temperatura svakog sata); merenja osoba (krvni pritisak, težina, visina); sociologija (podaci o kriminalu, podaci o zaposlenosti) itd.</r:Content>
-            <r:Content xml:lang="sv">Mätvärden tas med (vanligtvis regelbundna) intervall. Exempel: makroekonomi (aktiekurser varje vecka, månatliga vinster, försäljningssiffror); meteorologi (temperaturen varje timme); mätningar på individer (blodtryck, vikt, längd); sociologi (brottsstatistik, arbetslöshetstal) m.m.</r:Content>
             <r:Content xml:lang="sv">Mätvärden tas med (vanligtvis regelbundna) intervall. Exempel: makroekonomi (aktiekurser varje vecka, månatliga vinster, försäljningssiffror); meteorologi (temperaturen varje timme); mätningar på individer (blodtryck, vikt, längd); sociologi (brottsstatistik, arbetslöshetstal) m.m.</r:Content>
          </r:Description>
       </l:Category>
@@ -793,68 +551,38 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TimeMethod-CrossSection-Category</r:ID>
-         <r:Version>1.2.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e1881</r:UserID>
+         <r:ID>TimeMethod-01558f3-Category</r:ID>
+         <r:Version>1.2.3</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/01558f3</r:UserID>
          <l:CategoryName>CrossSection</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Cross-section</r:Content>
-            <r:Content xml:lang="en">Cross-section</r:Content>
-            <r:Content xml:lang="da">Tværsnit</r:Content>
             <r:Content xml:lang="da">Tværsnit</r:Content>
             <r:Content xml:lang="de">Querschnitt</r:Content>
-            <r:Content xml:lang="de">Querschnitt</r:Content>
             <r:Content xml:lang="fi">Poikkileikkausaineisto</r:Content>
-            <r:Content xml:lang="fi">Poikkileikkausaineisto</r:Content>
-            <r:Content xml:lang="fi">Poikkileikkausaineisto</r:Content>
-            <r:Content xml:lang="fr">Transversale</r:Content>
-            <r:Content xml:lang="fr">Transversale</r:Content>
             <r:Content xml:lang="fr">Transversale</r:Content>
             <r:Content xml:lang="it">Trasversale</r:Content>
-            <r:Content xml:lang="it">Trasversale</r:Content>
-            <r:Content xml:lang="lt">Skerspjūvio</r:Content>
             <r:Content xml:lang="lt">Skerspjūvio</r:Content>
             <r:Content xml:lang="nl">Cross-sectioneel</r:Content>
-            <r:Content xml:lang="nl">Cross-sectioneel</r:Content>
-            <r:Content xml:lang="no">Tverrsnitt</r:Content>
             <r:Content xml:lang="no">Tverrsnitt</r:Content>
             <r:Content xml:lang="pt">Transversal (ou cross-section)</r:Content>
-            <r:Content xml:lang="pt">Transversal (ou cross-section)</r:Content>
-            <r:Content xml:lang="sl">Presečno</r:Content>
             <r:Content xml:lang="sl">Presečno</r:Content>
             <r:Content xml:lang="sr">Studija preseka Poprečni presek</r:Content>
-            <r:Content xml:lang="sr">Studija preseka Poprečni presek</r:Content>
-            <r:Content xml:lang="sv">Tvärsnitt</r:Content>
             <r:Content xml:lang="sv">Tvärsnitt</r:Content>
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Data collected by observing subjects within the study period, without regard to changes over time. May include more than one collection event. Analysis of cross-sectional data often consists in comparing the differences and similarities among subjects.</r:Content>
-            <r:Content xml:lang="en">Data collected by observing subjects within the study period, without regard to changes over time. May include more than one collection event. Analysis of cross-sectional data often consists in comparing the differences and similarities among subjects.</r:Content>
-            <r:Content xml:lang="da">Data indsamlet ved observation af subjekter inden for undersøgelsesperioden uden hensyntagen til ændringer over tid. Kan inkludere mere end en indsamlingsbegivenhed. Analyse af tværsnitdata består ofte i sammenligning af forskellene og lighederne mellem subjekter.</r:Content>
             <r:Content xml:lang="da">Data indsamlet ved observation af subjekter inden for undersøgelsesperioden uden hensyntagen til ændringer over tid. Kan inkludere mere end en indsamlingsbegivenhed. Analyse af tværsnitdata består ofte i sammenligning af forskellene og lighederne mellem subjekter.</r:Content>
             <r:Content xml:lang="de">Daten, die zu einem Zeitpunkt erhoben wurden, ohne bei den Untersuchungseinheiten Veränderungen über die Zeit zu berücksichtigen. Dabei kann die Erhebung auch mehrere 'Erhebungsereignisse' umfassen, z. B. an mehreren Tagen innerhalb der Feldzeit durchgeführt werden. Die Analyse der Querschnittsdaten besteht häufig in der Untersuchung von Unterschieden und Gemeinsamkeiten der Befragten.</r:Content>
-            <r:Content xml:lang="de">Daten, die zu einem Zeitpunkt erhoben wurden, ohne bei den Untersuchungseinheiten Veränderungen über die Zeit zu berücksichtigen. Dabei kann die Erhebung auch mehrere 'Erhebungsereignisse' umfassen, z. B. an mehreren Tagen innerhalb der Feldzeit durchgeführt werden. Die Analyse der Querschnittsdaten besteht häufig in der Untersuchung von Unterschieden und Gemeinsamkeiten der Befragten.</r:Content>
             <r:Content xml:lang="fi">Dataa on kerätty vain tietyn tutkimusajankohdan sisällä. Useimmiten tehdään yksi aineistonkeruu mutta joissakin tapauksissa on saatettu kerätä dataa useammassa jaksossa saman tutkimusajankohdan sisällä. Aineiston avulla ei ole tarkoitus tutkia ajallista muutosta vaan esimerkiksi havaintoyksiköiden välisiä eroavaisuuksia tai samankaltaisuuksia tiettynä ajankohtana.</r:Content>
-            <r:Content xml:lang="fi">Dataa on kerätty vain tietyn tutkimusajankohdan sisällä. Useimmiten tehdään yksi aineistonkeruu mutta joissakin tapauksissa on saatettu kerätä dataa useammassa jaksossa saman tutkimusajankohdan sisällä. Aineiston avulla ei ole tarkoitus tutkia ajallista muutosta vaan esimerkiksi havaintoyksiköiden välisiä eroavaisuuksia tai samankaltaisuuksia tiettynä ajankohtana.</r:Content>
-            <r:Content xml:lang="fi">Dataa on kerätty vain tietyn tutkimusajankohdan sisällä. Useimmiten tehdään yksi aineistonkeruu mutta joissakin tapauksissa on saatettu kerätä dataa useammassa jaksossa saman tutkimusajankohdan sisällä. Aineiston avulla ei ole tarkoitus tutkia ajallista muutosta vaan esimerkiksi havaintoyksiköiden välisiä eroavaisuuksia tai samankaltaisuuksia tiettynä ajankohtana.</r:Content>
-            <r:Content xml:lang="fr">Données collectées par observation de sujets pendant la période d'étude, sans prendre en compte les changements au fil du temps. Peut inclure plus d'une collection d'événements. L'analyse de données transversales consiste souvent à comparer les différences et les similitudes entre des sujets.</r:Content>
-            <r:Content xml:lang="fr">Données collectées par observation de sujets pendant la période d'étude, sans prendre en compte les changements au fil du temps. Peut inclure plus d'une collection d'événements. L'analyse de données transversales consiste souvent à comparer les différences et les similitudes entre des sujets.</r:Content>
             <r:Content xml:lang="fr">Données collectées par observation de sujets pendant la période d'étude, sans prendre en compte les changements au fil du temps. Peut inclure plus d'une collection d'événements. L'analyse de données transversales consiste souvent à comparer les différences et les similitudes entre des sujets.</r:Content>
             <r:Content xml:lang="it">Dati raccolti osservando i soggetti in un determinato periodo di tempo, senza prendere in esame i cambiamenti nel tempo. Può includere più di una rilevazione. L'analisi dei dati trasversali si basa spesso sulle differenze e sulle somiglianze tra i soggetti.</r:Content>
-            <r:Content xml:lang="it">Dati raccolti osservando i soggetti in un determinato periodo di tempo, senza prendere in esame i cambiamenti nel tempo. Può includere più di una rilevazione. L'analisi dei dati trasversali si basa spesso sulle differenze e sulle somiglianze tra i soggetti.</r:Content>
-            <r:Content xml:lang="lt">Duomenys renkami stebint tiriamuosius tam tikru konkrečiu metu, nesiekiant tirti pokyčių laike. Duomenys gali būti renkami daugiau nei vieną kartą. Skerspjūvio duomenų analizėje dažniausiai lyginami tiriamųjų skirtumai ir panašumai.</r:Content>
             <r:Content xml:lang="lt">Duomenys renkami stebint tiriamuosius tam tikru konkrečiu metu, nesiekiant tirti pokyčių laike. Duomenys gali būti renkami daugiau nei vieną kartą. Skerspjūvio duomenų analizėje dažniausiai lyginami tiriamųjų skirtumai ir panašumai.</r:Content>
             <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="no">Data samlet inn ved å observere subjekter under studieperioden, uten å ta hensyn til endringer over tid. Kan inkludere mer enn ett innsamlingstilfelle. Analyse av data fra tverrsnittstudier består ofte i å sammenligne likheter og ulikheter mellom subjektene.</r:Content>
             <r:Content xml:lang="no">Data samlet inn ved å observere subjekter under studieperioden, uten å ta hensyn til endringer over tid. Kan inkludere mer enn ett innsamlingstilfelle. Analyse av data fra tverrsnittstudier består ofte i å sammenligne likheter og ulikheter mellom subjektene.</r:Content>
             <r:Content xml:lang="pt">Dados recolhidos a partir da observação dos sujeitos dentro do período do estudo, sem ter em conta as mudanças ao longo do tempo. Pode incluir mais do que um período de recolha de dados. A análise transversal de dados consiste geralmente em comparar as diferenças e semelhanças entre os sujeitos.</r:Content>
-            <r:Content xml:lang="pt">Dados recolhidos a partir da observação dos sujeitos dentro do período do estudo, sem ter em conta as mudanças ao longo do tempo. Pode incluir mais do que um período de recolha de dados. A análise transversal de dados consiste geralmente em comparar as diferenças e semelhanças entre os sujeitos.</r:Content>
-            <r:Content xml:lang="sl">Podatki, zbrani z opazovanjem udeležencev znotraj obdobja raziskovanja, ne glede na spremembe skozi čas. Lahko vključuje več kot en dogodek zbiranja podatkov. Analiza presečnih podatkov pogosto vsebuje primerjavo razlik in podobnosti med udeleženci.</r:Content>
             <r:Content xml:lang="sl">Podatki, zbrani z opazovanjem udeležencev znotraj obdobja raziskovanja, ne glede na spremembe skozi čas. Lahko vključuje več kot en dogodek zbiranja podatkov. Analiza presečnih podatkov pogosto vsebuje primerjavo razlik in podobnosti med udeleženci.</r:Content>
             <r:Content xml:lang="sr">Podaci prikupljeni posmatranjem subjekata u periodu ispitivanja, bez obzira na promene tokom vremena. Može da obuhvati više od jednog skupa. Analiza podataka poprečnog preseka često se sastoji u poređenju razlika i sličnosti među ispitanicima.</r:Content>
-            <r:Content xml:lang="sr">Podaci prikupljeni posmatranjem subjekata u periodu ispitivanja, bez obzira na promene tokom vremena. Može da obuhvati više od jednog skupa. Analiza podataka poprečnog preseka često se sastoji u poređenju razlika i sličnosti među ispitanicima.</r:Content>
-            <r:Content xml:lang="sv">Data samlas in genom att observera subjekten under studieperioden utan att ta hänsyn till förändring över tid. Kan inkludera mer än ett insamlingstillfälle. Analys av tvärsnittsdata består ofta i att jämföra likheter och skillnader mellan subjekten.</r:Content>
             <r:Content xml:lang="sv">Data samlas in genom att observera subjekten under studieperioden utan att ta hänsyn till förändring över tid. Kan inkludera mer än ett insamlingstillfälle. Analys av tvärsnittsdata består ofta i att jämföra likheter och skillnader mellan subjekten.</r:Content>
          </r:Description>
       </l:Category>
@@ -862,68 +590,38 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TimeMethod-CrossSectionAdHocFollowUp-Category</r:ID>
-         <r:Version>1.2.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e2066</r:UserID>
+         <r:ID>TimeMethod-ebc79d8-Category</r:ID>
+         <r:Version>1.2.3</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/ebc79d8</r:UserID>
          <l:CategoryName>CrossSectionAdHocFollowUp</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Cross-section ad-hoc follow-up</r:Content>
-            <r:Content xml:lang="en">Cross-section ad-hoc follow-up</r:Content>
-            <r:Content xml:lang="da">Tværsnit ad-hoc-opfølgning</r:Content>
             <r:Content xml:lang="da">Tværsnit ad-hoc-opfølgning</r:Content>
             <r:Content xml:lang="de">Querschnitt: ad-hoc Nachuntersuchung</r:Content>
-            <r:Content xml:lang="de">Querschnitt: ad-hoc Nachuntersuchung</r:Content>
             <r:Content xml:lang="fi">Poikkileikkausaineisto: täydennys/seurantakeruu</r:Content>
-            <r:Content xml:lang="fi">Poikkileikkausaineisto: täydennys/seurantakeruu</r:Content>
-            <r:Content xml:lang="fi">Poikkileikkausaineisto: täydennys/seurantakeruu</r:Content>
-            <r:Content xml:lang="fr">Transversale ponctuelle complémentaire</r:Content>
-            <r:Content xml:lang="fr">Transversale ponctuelle complémentaire</r:Content>
             <r:Content xml:lang="fr">Transversale ponctuelle complémentaire</r:Content>
             <r:Content xml:lang="it">Trasversale: follow-up ad hoc</r:Content>
-            <r:Content xml:lang="it">Trasversale: follow-up ad hoc</r:Content>
-            <r:Content xml:lang="lt">Ad hoc papildantis skrespjūvio</r:Content>
             <r:Content xml:lang="lt">Ad hoc papildantis skrespjūvio</r:Content>
             <r:Content xml:lang="nl">Cross-sectioneel ad-hoc opvolging</r:Content>
-            <r:Content xml:lang="nl">Cross-sectioneel ad-hoc opvolging</r:Content>
-            <r:Content xml:lang="no">Tverrsnitt ad-hoc oppfølging</r:Content>
             <r:Content xml:lang="no">Tverrsnitt ad-hoc oppfølging</r:Content>
             <r:Content xml:lang="pt">Transversal de acompanhamento (ad-hoc follow-up)</r:Content>
-            <r:Content xml:lang="pt">Transversal de acompanhamento (ad-hoc follow-up)</r:Content>
-            <r:Content xml:lang="sl">Presečno ad-hoc nadaljevalno</r:Content>
             <r:Content xml:lang="sl">Presečno ad-hoc nadaljevalno</r:Content>
             <r:Content xml:lang="sr">Studija preseka ad hoc prateća</r:Content>
-            <r:Content xml:lang="sr">Studija preseka ad hoc prateća</r:Content>
-            <r:Content xml:lang="sv">Tvärsnitt ad hoc uppföljning</r:Content>
             <r:Content xml:lang="sv">Tvärsnitt ad hoc uppföljning</r:Content>
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Data collected at one point in time to complete information collected in a previous cross-sectional study; the decision to collect follow-up data was not included in the original study design.</r:Content>
-            <r:Content xml:lang="en">Data collected at one point in time to complete information collected in a previous cross-sectional study; the decision to collect follow-up data was not included in the original study design.</r:Content>
-            <r:Content xml:lang="da">Data indsamlet på et tidspunkt for at færdiggøre information indsamlet i en tidligere tværsnitundersøgelse; beslutningen om at indsamle opfølgningsdata var ikke inkluderet i det originale undersøgelsesdesign.</r:Content>
             <r:Content xml:lang="da">Data indsamlet på et tidspunkt for at færdiggøre information indsamlet i en tidligere tværsnitundersøgelse; beslutningen om at indsamle opfølgningsdata var ikke inkluderet i det originale undersøgelsesdesign.</r:Content>
             <r:Content xml:lang="de">Daten, die zu einem Zeitpunkt erhoben wurden, um eine frühere Querschnittsstudie zu vervollständigen; die Entscheidung der Erhebung von Follow-Up-Daten war in der ursprünglichen Studie nicht vorgesehen.</r:Content>
-            <r:Content xml:lang="de">Daten, die zu einem Zeitpunkt erhoben wurden, um eine frühere Querschnittsstudie zu vervollständigen; die Entscheidung der Erhebung von Follow-Up-Daten war in der ursprünglichen Studie nicht vorgesehen.</r:Content>
             <r:Content xml:lang="fi">Aineistoa kerätään tietojen täydentämiseksi saman tutkimuksen sisällä tai seurantatutkimuksena. Täydennys- tai uusintakeruu ei ole sisältynyt alkuperäiseen tutkimussuunnitelmaan.</r:Content>
-            <r:Content xml:lang="fi">Aineistoa kerätään tietojen täydentämiseksi saman tutkimuksen sisällä tai seurantatutkimuksena. Täydennys- tai uusintakeruu ei ole sisältynyt alkuperäiseen tutkimussuunnitelmaan.</r:Content>
-            <r:Content xml:lang="fi">Aineistoa kerätään tietojen täydentämiseksi saman tutkimuksen sisällä tai seurantatutkimuksena. Täydennys- tai uusintakeruu ei ole sisältynyt alkuperäiseen tutkimussuunnitelmaan.</r:Content>
-            <r:Content xml:lang="fr">Données collectées à un moment donné pour compléter des informations collectées dans une étude transversale précédente ; la décision de collecter ces données complémentaires n'étaient pas incluse dans la conception initiale de l'étude.</r:Content>
-            <r:Content xml:lang="fr">Données collectées à un moment donné pour compléter des informations collectées dans une étude transversale précédente ; la décision de collecter ces données complémentaires n'étaient pas incluse dans la conception initiale de l'étude.</r:Content>
             <r:Content xml:lang="fr">Données collectées à un moment donné pour compléter des informations collectées dans une étude transversale précédente ; la décision de collecter ces données complémentaires n'étaient pas incluse dans la conception initiale de l'étude.</r:Content>
             <r:Content xml:lang="it">Dati raccolti in un specifico momento per completare le informazioni raccolte in un precedente studio trasversale; la decisione di raccogliere i dati di follow-up non era stata inclusa nel progetto di studio originale.</r:Content>
-            <r:Content xml:lang="it">Dati raccolti in un specifico momento per completare le informazioni raccolte in un precedente studio trasversale; la decisione di raccogliere i dati di follow-up non era stata inclusa nel progetto di studio originale.</r:Content>
-            <r:Content xml:lang="lt">Duomenys renkami vieną kartą, siekiant papildyti ankstesniame skerspjūvio tyrime surinktą informaciją; sprendimas rinkti papildomus duomenis nebuvo įtrauktas į pradinį tyrimo planą.</r:Content>
             <r:Content xml:lang="lt">Duomenys renkami vieną kartą, siekiant papildyti ankstesniame skerspjūvio tyrime surinktą informaciją; sprendimas rinkti papildomus duomenis nebuvo įtrauktas į pradinį tyrimo planą.</r:Content>
             <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="no">Data innsamlet på et tidspunkt for å fullføre informasjon som er samlet inn i en tidligere tverrsnittstudie. Beslutningen om å samle inn oppfølgingsdata var ikke en del av det opprinnelige studiedesignet.</r:Content>
             <r:Content xml:lang="no">Data innsamlet på et tidspunkt for å fullføre informasjon som er samlet inn i en tidligere tverrsnittstudie. Beslutningen om å samle inn oppfølgingsdata var ikke en del av det opprinnelige studiedesignet.</r:Content>
             <r:Content xml:lang="pt">Dados recolhidos num determinado momento para completar as informações recolhidas num estudo transversal anterior; a decisão de recolher dados follow-up (de acompanhamento) não estava incluída na concepção inicial do estudo.</r:Content>
-            <r:Content xml:lang="pt">Dados recolhidos num determinado momento para completar as informações recolhidas num estudo transversal anterior; a decisão de recolher dados follow-up (de acompanhamento) não estava incluída na concepção inicial do estudo.</r:Content>
-            <r:Content xml:lang="sl">Podatki, zbrani v določenem trenutku, z namenom dopolnitve informacije, zbrane v predhodni presečni raziskavi; odločitev o naknadnem zbiranju podatkov ni bila vključena v prvotni raziskovalni načrt.</r:Content>
             <r:Content xml:lang="sl">Podatki, zbrani v določenem trenutku, z namenom dopolnitve informacije, zbrane v predhodni presečni raziskavi; odločitev o naknadnem zbiranju podatkov ni bila vključena v prvotni raziskovalni načrt.</r:Content>
             <r:Content xml:lang="sr">Podaci prikupljeni u jednom trenutku da bi se dovršili podaci prikupljeni u prethodnoj studiji poprečnog preseka; odluka za prikupljanje podataka o praćenju nije uključena u prvobitni dizajn studije.</r:Content>
-            <r:Content xml:lang="sr">Podaci prikupljeni u jednom trenutku da bi se dovršili podaci prikupljeni u prethodnoj studiji poprečnog preseka; odluka za prikupljanje podataka o praćenju nije uključena u prvobitni dizajn studije.</r:Content>
-            <r:Content xml:lang="sv">Data samlas in vid ett tillfälle för att komplettera information som har samlats in vid en tidigare tvärsnittsstudie; beslutet att samla in uppföljningsdata var inte en del av den ursprungliga studiedesignen.</r:Content>
             <r:Content xml:lang="sv">Data samlas in vid ett tillfälle för att komplettera information som har samlats in vid en tidigare tvärsnittsstudie; beslutet att samla in uppföljningsdata var inte en del av den ursprungliga studiedesignen.</r:Content>
          </r:Description>
       </l:Category>
@@ -931,68 +629,38 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TimeMethod-Other-Category</r:ID>
-         <r:Version>1.2.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/d30e2250</r:UserID>
+         <r:ID>TimeMethod-6311ae1-Category</r:ID>
+         <r:Version>1.2.3</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/6311ae1</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>
-            <r:Content xml:lang="en">Other</r:Content>
-            <r:Content xml:lang="da">Andet</r:Content>
             <r:Content xml:lang="da">Andet</r:Content>
             <r:Content xml:lang="de">Andere</r:Content>
-            <r:Content xml:lang="de">Andere</r:Content>
             <r:Content xml:lang="fi">Muu aikaulottuvuus</r:Content>
-            <r:Content xml:lang="fi">Muu aikaulottuvuus</r:Content>
-            <r:Content xml:lang="fi">Muu aikaulottuvuus</r:Content>
-            <r:Content xml:lang="fr">Autre</r:Content>
-            <r:Content xml:lang="fr">Autre</r:Content>
             <r:Content xml:lang="fr">Autre</r:Content>
             <r:Content xml:lang="it">Altro</r:Content>
-            <r:Content xml:lang="it">Altro</r:Content>
-            <r:Content xml:lang="lt">Kita</r:Content>
             <r:Content xml:lang="lt">Kita</r:Content>
             <r:Content xml:lang="nl">Anders</r:Content>
-            <r:Content xml:lang="nl">Anders</r:Content>
-            <r:Content xml:lang="no">Annet</r:Content>
             <r:Content xml:lang="no">Annet</r:Content>
             <r:Content xml:lang="pt">Outro</r:Content>
-            <r:Content xml:lang="pt">Outro</r:Content>
-            <r:Content xml:lang="sl">Drugo</r:Content>
             <r:Content xml:lang="sl">Drugo</r:Content>
             <r:Content xml:lang="sr">Ostalo</r:Content>
-            <r:Content xml:lang="sr">Ostalo</r:Content>
-            <r:Content xml:lang="sv">Övrig</r:Content>
             <r:Content xml:lang="sv">Övrig</r:Content>
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Use if the time method is known, but not found in the list.</r:Content>
-            <r:Content xml:lang="en">Use if the time method is known, but not found in the list.</r:Content>
-            <r:Content xml:lang="da">Anvend, hvis tidsmetoden er kendt, men ikke findes på listen.</r:Content>
             <r:Content xml:lang="da">Anvend, hvis tidsmetoden er kendt, men ikke findes på listen.</r:Content>
             <r:Content xml:lang="de">Verwenden Sie diesen Begriff, wenn die zeitliche Dimension des Erhebungsdesigns bekannt, aber nicht in der Liste vertreten ist.</r:Content>
-            <r:Content xml:lang="de">Verwenden Sie diesen Begriff, wenn die zeitliche Dimension des Erhebungsdesigns bekannt, aber nicht in der Liste vertreten ist.</r:Content>
             <r:Content xml:lang="fi">Käytä mikäli aineiston aikaulottuvuustyyppi on tiedossa, mutta ei sanastossa.</r:Content>
-            <r:Content xml:lang="fi">Käytä mikäli aineiston aikaulottuvuustyyppi on tiedossa, mutta ei sanastossa.</r:Content>
-            <r:Content xml:lang="fi">Käytä mikäli aineiston aikaulottuvuustyyppi on tiedossa, mutta ei sanastossa.</r:Content>
-            <r:Content xml:lang="fr">Utilisez si la méthode temporelle est connue, mais pas présente dans la liste.</r:Content>
-            <r:Content xml:lang="fr">Utilisez si la méthode temporelle est connue, mais pas présente dans la liste.</r:Content>
             <r:Content xml:lang="fr">Utilisez si la méthode temporelle est connue, mais pas présente dans la liste.</r:Content>
             <r:Content xml:lang="it">Utilizzare se la dimensione temporale è conosciuta, ma non è presente nell'elenco.</r:Content>
-            <r:Content xml:lang="it">Utilizzare se la dimensione temporale è conosciuta, ma non è presente nell'elenco.</r:Content>
-            <r:Content xml:lang="lt">Naudoti, kai laiko metodas yra žinomas, bet jo nėra sąraše.</r:Content>
             <r:Content xml:lang="lt">Naudoti, kai laiko metodas yra žinomas, bet jo nėra sąraše.</r:Content>
             <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="nl"/>
-            <r:Content xml:lang="no">Bruk hvis metoden for undersøkelsen er kjent, men ikke finnes i listen.</r:Content>
             <r:Content xml:lang="no">Bruk hvis metoden for undersøkelsen er kjent, men ikke finnes i listen.</r:Content>
             <r:Content xml:lang="pt">Usar se a dimensão temporal for conhecida, mas não se encontrar na lista.</r:Content>
-            <r:Content xml:lang="pt">Usar se a dimensão temporal for conhecida, mas não se encontrar na lista.</r:Content>
-            <r:Content xml:lang="sl">Uporabite, če je časovna metoda znana, a je ne najdete na seznamu.</r:Content>
             <r:Content xml:lang="sl">Uporabite, če je časovna metoda znana, a je ne najdete na seznamu.</r:Content>
             <r:Content xml:lang="sr">Koristite ako je vremenska metoda poznata, ali nije na listi.</r:Content>
-            <r:Content xml:lang="sr">Koristite ako je vremenska metoda poznata, ali nije na listi.</r:Content>
-            <r:Content xml:lang="sv">Använd om metod för undersökning över tid är känd men saknas i listan.</r:Content>
             <r:Content xml:lang="sv">Använd om metod för undersökning över tid är känd men saknas i listan.</r:Content>
          </r:Description>
       </l:Category>

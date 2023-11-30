@@ -8,17 +8,21 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>NumericType</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/</r:UserID>
-         <r:Label/>
-         <r:Description/>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/</r:UserID>
+         <r:Label>
+            <r:Content xml:lang="en">Numeric Type</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Specifies the type of numeric data.</r:Content>
+         </r:Description>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>NumericType-Integer-Code</r:ID>
+            <r:ID>NumericType-a0faef0-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e47</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/a0faef0</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>NumericType-Integer-Category</r:ID>
+               <r:ID>NumericType-a0faef0-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -26,12 +30,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>NumericType-Int-Code</r:ID>
+            <r:ID>NumericType-1686a6c-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e62</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/1686a6c</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>NumericType-Int-Category</r:ID>
+               <r:ID>NumericType-1686a6c-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -39,12 +43,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>NumericType-Long-Code</r:ID>
+            <r:ID>NumericType-8394f03-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e77</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/8394f03</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>NumericType-Long-Category</r:ID>
+               <r:ID>NumericType-8394f03-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -52,12 +56,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>NumericType-Short-Code</r:ID>
+            <r:ID>NumericType-30bb747-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e92</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/30bb747</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>NumericType-Short-Category</r:ID>
+               <r:ID>NumericType-30bb747-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -65,12 +69,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>NumericType-Decimal-Code</r:ID>
+            <r:ID>NumericType-937504f-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e108</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/937504f</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>NumericType-Decimal-Category</r:ID>
+               <r:ID>NumericType-937504f-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -78,12 +82,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>NumericType-Float-Code</r:ID>
+            <r:ID>NumericType-22ae0e2-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e123</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/22ae0e2</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>NumericType-Float-Category</r:ID>
+               <r:ID>NumericType-22ae0e2-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -91,12 +95,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>NumericType-Double-Code</r:ID>
+            <r:ID>NumericType-d909d38-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e138</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/d909d38</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>NumericType-Double-Category</r:ID>
+               <r:ID>NumericType-d909d38-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -104,12 +108,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>NumericType-Count-Code</r:ID>
+            <r:ID>NumericType-e93f994-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e153</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/e93f994</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>NumericType-Count-Category</r:ID>
+               <r:ID>NumericType-e93f994-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -117,12 +121,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>NumericType-Incremental-Code</r:ID>
+            <r:ID>NumericType-482be0d-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e168</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/482be0d</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>NumericType-Incremental-Category</r:ID>
+               <r:ID>NumericType-482be0d-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -130,12 +134,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>NumericType-Other-Code</r:ID>
+            <r:ID>NumericType-6311ae1-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e183</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/6311ae1</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>NumericType-Other-Category</r:ID>
+               <r:ID>NumericType-6311ae1-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -146,9 +150,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>NumericType-Integer-Category</r:ID>
+         <r:ID>NumericType-a0faef0-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e47</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/a0faef0</r:UserID>
          <l:CategoryName>Integer</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Integer</r:Content>
@@ -161,9 +165,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>NumericType-Int-Category</r:ID>
+         <r:ID>NumericType-1686a6c-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e62</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/1686a6c</r:UserID>
          <l:CategoryName>Int</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Int </r:Content>
@@ -176,9 +180,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>NumericType-Long-Category</r:ID>
+         <r:ID>NumericType-8394f03-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e77</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/8394f03</r:UserID>
          <l:CategoryName>Long</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Long</r:Content>
@@ -191,9 +195,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>NumericType-Short-Category</r:ID>
+         <r:ID>NumericType-30bb747-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e92</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/30bb747</r:UserID>
          <l:CategoryName>Short</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Short</r:Content>
@@ -206,9 +210,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>NumericType-Decimal-Category</r:ID>
+         <r:ID>NumericType-937504f-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e108</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/937504f</r:UserID>
          <l:CategoryName>Decimal</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Decimal</r:Content>
@@ -221,9 +225,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>NumericType-Float-Category</r:ID>
+         <r:ID>NumericType-22ae0e2-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e123</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/22ae0e2</r:UserID>
          <l:CategoryName>Float</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Float</r:Content>
@@ -236,9 +240,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>NumericType-Double-Category</r:ID>
+         <r:ID>NumericType-d909d38-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e138</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/d909d38</r:UserID>
          <l:CategoryName>Double</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Double</r:Content>
@@ -251,9 +255,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>NumericType-Count-Category</r:ID>
+         <r:ID>NumericType-e93f994-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e153</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/e93f994</r:UserID>
          <l:CategoryName>Count</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Count</r:Content>
@@ -266,9 +270,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>NumericType-Incremental-Category</r:ID>
+         <r:ID>NumericType-482be0d-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e168</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/482be0d</r:UserID>
          <l:CategoryName>Incremental</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Incremental</r:Content>
@@ -281,9 +285,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>NumericType-Other-Category</r:ID>
+         <r:ID>NumericType-6311ae1-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0/d58e183</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/NumericType/1.0.0/6311ae1</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>

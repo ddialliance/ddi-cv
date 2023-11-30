@@ -8,17 +8,21 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfTranslationMethod</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/</r:UserID>
-         <r:Label/>
-         <r:Description/>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/</r:UserID>
+         <r:Label>
+            <r:Content xml:lang="en">Type of Translation Method</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">A typology of methods used to translate data collection instruments, including questionnaires, individual questions, measurements, data capture flows, etc.</r:Content>
+         </r:Description>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfTranslationMethod-SingleTranslation-Code</r:ID>
+            <r:ID>TypeOfTranslationMethod-100bf39-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e46</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/100bf39</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfTranslationMethod-SingleTranslation-Category</r:ID>
+               <r:ID>TypeOfTranslationMethod-100bf39-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -26,12 +30,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfTranslationMethod-SingleTranslation.IndividualReview-Code</r:ID>
+            <r:ID>TypeOfTranslationMethod-d0fd2ac-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e72</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/d0fd2ac</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfTranslationMethod-SingleTranslation.IndividualReview-Category</r:ID>
+               <r:ID>TypeOfTranslationMethod-d0fd2ac-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -39,12 +43,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfTranslationMethod-SingleTranslation.CommitteeReview-Code</r:ID>
+            <r:ID>TypeOfTranslationMethod-bdd4b48-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e94</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/bdd4b48</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfTranslationMethod-SingleTranslation.CommitteeReview-Category</r:ID>
+               <r:ID>TypeOfTranslationMethod-bdd4b48-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -52,12 +56,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfTranslationMethod-SplitTranslation-Code</r:ID>
+            <r:ID>TypeOfTranslationMethod-a6285c5-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e116</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/a6285c5</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfTranslationMethod-SplitTranslation-Category</r:ID>
+               <r:ID>TypeOfTranslationMethod-a6285c5-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -65,12 +69,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfTranslationMethod-SplitTranslation.IndividualReview-Code</r:ID>
+            <r:ID>TypeOfTranslationMethod-61c9399-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e143</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/61c9399</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfTranslationMethod-SplitTranslation.IndividualReview-Category</r:ID>
+               <r:ID>TypeOfTranslationMethod-61c9399-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -78,12 +82,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfTranslationMethod-SplitTranslation.CommitteeReview-Code</r:ID>
+            <r:ID>TypeOfTranslationMethod-199a35c-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e165</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/199a35c</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfTranslationMethod-SplitTranslation.CommitteeReview-Category</r:ID>
+               <r:ID>TypeOfTranslationMethod-199a35c-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -91,12 +95,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfTranslationMethod-ParallelTranslations-Code</r:ID>
+            <r:ID>TypeOfTranslationMethod-a403736-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e187</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/a403736</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfTranslationMethod-ParallelTranslations-Category</r:ID>
+               <r:ID>TypeOfTranslationMethod-a403736-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -104,12 +108,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfTranslationMethod-ParallelTranslations.IndividualReview-Code</r:ID>
+            <r:ID>TypeOfTranslationMethod-d2cd6a9-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e213</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/d2cd6a9</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfTranslationMethod-ParallelTranslations.IndividualReview-Category</r:ID>
+               <r:ID>TypeOfTranslationMethod-d2cd6a9-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -117,12 +121,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfTranslationMethod-ParallelTranslations.CommitteeReview-Code</r:ID>
+            <r:ID>TypeOfTranslationMethod-3305b85-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e235</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/3305b85</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfTranslationMethod-ParallelTranslations.CommitteeReview-Category</r:ID>
+               <r:ID>TypeOfTranslationMethod-3305b85-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -130,12 +134,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfTranslationMethod-SameLanguageAdaptation-Code</r:ID>
+            <r:ID>TypeOfTranslationMethod-fc988a3-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e257</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/fc988a3</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfTranslationMethod-SameLanguageAdaptation-Category</r:ID>
+               <r:ID>TypeOfTranslationMethod-fc988a3-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -143,12 +147,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfTranslationMethod-SameLanguageHarmonization-Code</r:ID>
+            <r:ID>TypeOfTranslationMethod-6cc8949-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e280</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/6cc8949</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfTranslationMethod-SameLanguageHarmonization-Category</r:ID>
+               <r:ID>TypeOfTranslationMethod-6cc8949-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -156,12 +160,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfTranslationMethod-TranslationMethodUnspecified-Code</r:ID>
+            <r:ID>TypeOfTranslationMethod-873e3e3-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e302</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/873e3e3</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfTranslationMethod-TranslationMethodUnspecified-Category</r:ID>
+               <r:ID>TypeOfTranslationMethod-873e3e3-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -169,12 +173,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfTranslationMethod-Other-Code</r:ID>
+            <r:ID>TypeOfTranslationMethod-6311ae1-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e324</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/6311ae1</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfTranslationMethod-Other-Category</r:ID>
+               <r:ID>TypeOfTranslationMethod-6311ae1-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -185,16 +189,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfTranslationMethod-SingleTranslation-Category</r:ID>
+         <r:ID>TypeOfTranslationMethod-100bf39-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e46</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/100bf39</r:UserID>
          <l:CategoryName>SingleTranslation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Single translation</r:Content>
-            <r:Content xml:lang="en">Single translation</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">A single translator produces one translation. Use this broader term if the translator makes the decisions about the final version, if it is not known who makes the final decisions, or if the review process is not explained in either of the narrower terms.</r:Content>
             <r:Content xml:lang="en">A single translator produces one translation. Use this broader term if the translator makes the decisions about the final version, if it is not known who makes the final decisions, or if the review process is not explained in either of the narrower terms.</r:Content>
          </r:Description>
       </l:Category>
@@ -202,16 +204,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfTranslationMethod-SingleTranslation.IndividualReview-Category</r:ID>
+         <r:ID>TypeOfTranslationMethod-d0fd2ac-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e72</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/d0fd2ac</r:UserID>
          <l:CategoryName>SingleTranslation.IndividualReview</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Single translation: Individual review</r:Content>
-            <r:Content xml:lang="en">Single translation: Individual review</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">A single translator produces one translation. Another individual reviews the translation, possibly in consultation with the translator. There may be more than one review round and different individual reviewers in each round.  An  adjudicator (possibly a reviewer) approves the final version.</r:Content>
             <r:Content xml:lang="en">A single translator produces one translation. Another individual reviews the translation, possibly in consultation with the translator. There may be more than one review round and different individual reviewers in each round.  An  adjudicator (possibly a reviewer) approves the final version.</r:Content>
          </r:Description>
       </l:Category>
@@ -219,16 +219,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfTranslationMethod-SingleTranslation.CommitteeReview-Category</r:ID>
+         <r:ID>TypeOfTranslationMethod-bdd4b48-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e94</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/bdd4b48</r:UserID>
          <l:CategoryName>SingleTranslation.CommitteeReview</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Single translation: Committee review</r:Content>
-            <r:Content xml:lang="en">Single translation: Committee review</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">A single translator produces one translation. A committee, possibly including the translator, reviews it and approves the final version. There may be more than one review round. In survey translation, the committee may include survey, domain and language experts.</r:Content>
             <r:Content xml:lang="en">A single translator produces one translation. A committee, possibly including the translator, reviews it and approves the final version. There may be more than one review round. In survey translation, the committee may include survey, domain and language experts.</r:Content>
          </r:Description>
       </l:Category>
@@ -236,16 +234,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfTranslationMethod-SplitTranslation-Category</r:ID>
+         <r:ID>TypeOfTranslationMethod-a6285c5-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e116</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/a6285c5</r:UserID>
          <l:CategoryName>SplitTranslation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Split translation</r:Content>
-            <r:Content xml:lang="en">Split translation</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Two or more translators produce one translation by splitting up a source text (for example, a questionnaire) into subsections and each translating a subsection. Use this broader term if the translators decide on the final version amongst themselves, if it is not known who makes the final decisions or if the review process is not explained in either of the narrower terms.</r:Content>
             <r:Content xml:lang="en">Two or more translators produce one translation by splitting up a source text (for example, a questionnaire) into subsections and each translating a subsection. Use this broader term if the translators decide on the final version amongst themselves, if it is not known who makes the final decisions or if the review process is not explained in either of the narrower terms.</r:Content>
          </r:Description>
       </l:Category>
@@ -253,16 +249,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfTranslationMethod-SplitTranslation.IndividualReview-Category</r:ID>
+         <r:ID>TypeOfTranslationMethod-61c9399-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e143</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/61c9399</r:UserID>
          <l:CategoryName>SplitTranslation.IndividualReview</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Split translation: Individual review</r:Content>
-            <r:Content xml:lang="en">Split translation: Individual review</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Two or more translators produce one translation by splitting up a source text (for example, a questionnaire) into subsections and each translating a subsection. An individual reviews the whole translation, possibly in consultation with the translators. There may be more than one review round and different individual reviewers in each round. An adjudicator (possibly a reviewer) approves the final version.</r:Content>
             <r:Content xml:lang="en">Two or more translators produce one translation by splitting up a source text (for example, a questionnaire) into subsections and each translating a subsection. An individual reviews the whole translation, possibly in consultation with the translators. There may be more than one review round and different individual reviewers in each round. An adjudicator (possibly a reviewer) approves the final version.</r:Content>
          </r:Description>
       </l:Category>
@@ -270,16 +264,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfTranslationMethod-SplitTranslation.CommitteeReview-Category</r:ID>
+         <r:ID>TypeOfTranslationMethod-199a35c-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e165</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/199a35c</r:UserID>
          <l:CategoryName>SplitTranslation.CommitteeReview</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Split translation: Committee review</r:Content>
-            <r:Content xml:lang="en">Split translation: Committee review</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Two or more translators produce one translation by splitting up a source text (for example, a questionnaire) into subsections and each translating a subsection. A committee, possibly including the translators, reviews the whole translation and approves the final version. There may be more than one review round. In survey translation, the committee may include survey, domain and language experts.</r:Content>
             <r:Content xml:lang="en">Two or more translators produce one translation by splitting up a source text (for example, a questionnaire) into subsections and each translating a subsection. A committee, possibly including the translators, reviews the whole translation and approves the final version. There may be more than one review round. In survey translation, the committee may include survey, domain and language experts.</r:Content>
          </r:Description>
       </l:Category>
@@ -287,16 +279,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfTranslationMethod-ParallelTranslations-Category</r:ID>
+         <r:ID>TypeOfTranslationMethod-a403736-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e187</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/a403736</r:UserID>
          <l:CategoryName>ParallelTranslations</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Parallel translations</r:Content>
-            <r:Content xml:lang="en">Parallel translations</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Two or more translators each produce a separate,  independent  translation of a whole text. Use this broader term if the  translators decide on a final version amongst themselves, if it is not known who makes the final decisions or if the review process is not described in either of the narrower terms.</r:Content>
             <r:Content xml:lang="en">Two or more translators each produce a separate,  independent  translation of a whole text. Use this broader term if the  translators decide on a final version amongst themselves, if it is not known who makes the final decisions or if the review process is not described in either of the narrower terms.</r:Content>
          </r:Description>
       </l:Category>
@@ -304,16 +294,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfTranslationMethod-ParallelTranslations.IndividualReview-Category</r:ID>
+         <r:ID>TypeOfTranslationMethod-d2cd6a9-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e213</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/d2cd6a9</r:UserID>
          <l:CategoryName>ParallelTranslations.IndividualReview</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Parallel translations: Individual review</r:Content>
-            <r:Content xml:lang="en">Parallel translations: Individual review</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Two or more translators each produce a separate,  independent  translation of a whole text. An individual reviews all the translations and makes decisions on the final version, possibly in consultation with the translators. There may be more than one review round and different individual reviewers in each round. An adjudicator (possibly a reviewer) approves the final version.</r:Content>
             <r:Content xml:lang="en">Two or more translators each produce a separate,  independent  translation of a whole text. An individual reviews all the translations and makes decisions on the final version, possibly in consultation with the translators. There may be more than one review round and different individual reviewers in each round. An adjudicator (possibly a reviewer) approves the final version.</r:Content>
          </r:Description>
       </l:Category>
@@ -321,16 +309,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfTranslationMethod-ParallelTranslations.CommitteeReview-Category</r:ID>
+         <r:ID>TypeOfTranslationMethod-3305b85-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e235</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/3305b85</r:UserID>
          <l:CategoryName>ParallelTranslations.CommitteeReview</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Parallel translations: Committee review</r:Content>
-            <r:Content xml:lang="en">Parallel translations: Committee review</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Two or more translators each produce a separate, independent  translation of a whole text. A committee, possibly including the translators, reviews all the translations, and makes decisions on the final version. There may be more than one review round. In survey translation, the committee may include survey, domain and language experts.</r:Content>
             <r:Content xml:lang="en">Two or more translators each produce a separate, independent  translation of a whole text. A committee, possibly including the translators, reviews all the translations, and makes decisions on the final version. There may be more than one review round. In survey translation, the committee may include survey, domain and language experts.</r:Content>
          </r:Description>
       </l:Category>
@@ -338,16 +324,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfTranslationMethod-SameLanguageAdaptation-Category</r:ID>
+         <r:ID>TypeOfTranslationMethod-fc988a3-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e257</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/fc988a3</r:UserID>
          <l:CategoryName>SameLanguageAdaptation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Same language adaptation</r:Content>
-            <r:Content xml:lang="en">Same language adaptation</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">A country or region uses the final translation of another country or region sharing the same language as the basis for their own translation. Some of the content of the original translation is modified to reflect linguistic, cultural, socio-economic or political differences. If needed, this term may be used alongside other relevant terms from this list.</r:Content>
             <r:Content xml:lang="en">A country or region uses the final translation of another country or region sharing the same language as the basis for their own translation. Some of the content of the original translation is modified to reflect linguistic, cultural, socio-economic or political differences. If needed, this term may be used alongside other relevant terms from this list.</r:Content>
          </r:Description>
       </l:Category>
@@ -355,16 +339,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfTranslationMethod-SameLanguageHarmonization-Category</r:ID>
+         <r:ID>TypeOfTranslationMethod-6cc8949-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e280</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/6cc8949</r:UserID>
          <l:CategoryName>SameLanguageHarmonization</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Same language harmonization</r:Content>
-            <r:Content xml:lang="en">Same language harmonization</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Two or more countries or regions sharing the same language cooperate in the translation process, producing a commonly agreed translation which each country or region can then modify to account for linguistic, cultural, socio-economic or political differences. If needed, this term may be used alongside other relevant terms from this list.</r:Content>
             <r:Content xml:lang="en">Two or more countries or regions sharing the same language cooperate in the translation process, producing a commonly agreed translation which each country or region can then modify to account for linguistic, cultural, socio-economic or political differences. If needed, this term may be used alongside other relevant terms from this list.</r:Content>
          </r:Description>
       </l:Category>
@@ -372,16 +354,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfTranslationMethod-TranslationMethodUnspecified-Category</r:ID>
+         <r:ID>TypeOfTranslationMethod-873e3e3-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e302</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/873e3e3</r:UserID>
          <l:CategoryName>TranslationMethodUnspecified</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Translation method unspecified</r:Content>
-            <r:Content xml:lang="en">Translation method unspecified</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">It is not known what kind of translation method has been used.</r:Content>
             <r:Content xml:lang="en">It is not known what kind of translation method has been used.</r:Content>
          </r:Description>
       </l:Category>
@@ -389,16 +369,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfTranslationMethod-Other-Category</r:ID>
+         <r:ID>TypeOfTranslationMethod-6311ae1-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.1/d69e324</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTranslationMethod/1.0.0/6311ae1</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>
-            <r:Content xml:lang="en">Other</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The translation method is known but not in the list. If needed, use the free-text element for a more extensive description.</r:Content>
             <r:Content xml:lang="en">The translation method is known but not in the list. If needed, use the free-text element for a more extensive description.</r:Content>
          </r:Description>
       </l:Category>

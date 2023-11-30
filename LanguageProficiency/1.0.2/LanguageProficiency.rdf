@@ -1,214 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:owl="http://www.w3.org/2002/07/owl#"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-          xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+>
    <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
-      <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency"/>
-      <skos:notation>LanguageProficiency</skos:notation>
+      <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/"/>
+      <skos:notation xml:lang="en">LanguageProficiency</skos:notation>
+      <dcterms:title xml:lang="en">Language Proficiency</dcterms:title>
+      <dcterms:description xml:lang="en">Describes the level of proficiency of an individual in a natural language.</dcterms:description>
       <skos:prefLabel xml:lang="en">Language Proficiency</skos:prefLabel>
-      <skos:prefLabel xml:lang="en">Language Proficiency</skos:prefLabel>
-      <skos:prefLabel xml:lang="no">Språkferdigheter</skos:prefLabel>
-      <skos:prefLabel xml:lang="no">Språkferdigheter</skos:prefLabel>
-      <skos:definition xml:lang="en">Describes the level of proficiency of an individual in a natural language.</skos:definition>
-      <skos:definition xml:lang="en">Describes the level of proficiency of an individual in a natural language.</skos:definition>
-      <skos:definition xml:lang="no">Beskriver ferdighetene et individ har i et naturlig språk.</skos:definition>
-      <skos:definition xml:lang="no">Beskriver ferdighetene et individ har i et naturlig språk.</skos:definition>
-      <owl:versionInfo>1.0.0</owl:versionInfo>
-      <dcterms:license rdf:resource="Creative Commons Attribution 4.0 International"/>
-      <dcterms:rights>Copyright ©DDI Alliance 2020</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e53"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e197"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e340"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e484"/>
+      <dcterms:title xml:lang="no">Spr&#xe5;kferdigheter</dcterms:title>
+      <dcterms:description xml:lang="no">Beskriver ferdighetene et individ har i et naturlig spr&#xe5;k.</dcterms:description>
+      <skos:prefLabel xml:lang="no">Spr&#xe5;kferdigheter</skos:prefLabel>
+      <owl:versionInfo>1.0.2</owl:versionInfo>
+      <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+      <dcterms:rights>Copyright &#xa9;DDI Alliance 2020</dcterms:rights>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/925641e"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/223dee0"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/6279308"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/6311ae1"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e53">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/925641e">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/"/>
-      <skos:notation>Native</skos:notation>
+      <skos:notation xml:lang="en">Native</skos:notation>
       <skos:prefLabel xml:lang="en">Native</skos:prefLabel>
       <skos:definition xml:lang="en">The individual is a native user of the language whose level of proficiency is unknown/unspecified.</skos:definition>
-      <skos:prefLabel xml:lang="en">Native</skos:prefLabel>
-      <skos:definition xml:lang="en">The individual is a native user of the language whose level of proficiency is unknown/unspecified.</skos:definition>
-      <skos:prefLabel xml:lang="no">Morsmål</skos:prefLabel>
-      <skos:definition xml:lang="no">Individet har språket som morsmål, men ferdighetene i språken er ukjent eller uspesifisert.</skos:definition>
-      <skos:prefLabel xml:lang="no">Morsmål</skos:prefLabel>
-      <skos:definition xml:lang="no">Individet har språket som morsmål, men ferdighetene i språken er ukjent eller uspesifisert.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e94"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e128"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e162"/>
+      <skos:prefLabel xml:lang="no">Morsm&#xe5;l</skos:prefLabel>
+      <skos:definition xml:lang="no">Individet har spr&#xe5;ket som morsm&#xe5;l, men ferdighetene i spr&#xe5;ken er ukjent eller uspesifisert.</skos:definition>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/28b7b7d"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/823f0d0"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/4d30d3a"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e94">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/28b7b7d">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/"/>
-      <skos:notation>Native.Fluent</skos:notation>
+      <skos:notation xml:lang="en">Native.Fluent</skos:notation>
       <skos:prefLabel xml:lang="en">Native: Fluent</skos:prefLabel>
       <skos:definition xml:lang="en">The individual is a native user with excellent mastery of the language, including breadth of vocabulary and idiom, and confident command of the grammar.</skos:definition>
-      <skos:prefLabel xml:lang="en">Native: Fluent</skos:prefLabel>
-      <skos:definition xml:lang="en">The individual is a native user with excellent mastery of the language, including breadth of vocabulary and idiom, and confident command of the grammar.</skos:definition>
-      <skos:prefLabel xml:lang="no">Morsmål: Flytende</skos:prefLabel>
-      <skos:definition xml:lang="no">Individet har språket som morsmål og har en utmerket mestring av det, inkludert inngående kjennskap til uttrykk, et bredt ordforråd og trygg kontroll over grammatikken.</skos:definition>
-      <skos:prefLabel xml:lang="no">Morsmål: Flytende</skos:prefLabel>
-      <skos:definition xml:lang="no">Individet har språket som morsmål og har en utmerket mestring av det, inkludert inngående kjennskap til uttrykk, et bredt ordforråd og trygg kontroll over grammatikken.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e53"/>
+      <skos:prefLabel xml:lang="no">Morsm&#xe5;l: Flytende</skos:prefLabel>
+      <skos:definition xml:lang="no">Individet har spr&#xe5;ket som morsm&#xe5;l og har en utmerket mestring av det, inkludert inng&#xe5;ende kjennskap til uttrykk, et bredt ordforr&#xe5;d og trygg kontroll over grammatikken.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e128">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/823f0d0">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/"/>
-      <skos:notation>Native.Good</skos:notation>
+      <skos:notation xml:lang="en">Native.Good</skos:notation>
       <skos:prefLabel xml:lang="en">Native: Good</skos:prefLabel>
       <skos:definition xml:lang="en">The individual is a native user of the language with good structural accuracy, vocabulary and comprehension.</skos:definition>
-      <skos:prefLabel xml:lang="en">Native: Good</skos:prefLabel>
-      <skos:definition xml:lang="en">The individual is a native user of the language with good structural accuracy, vocabulary and comprehension.</skos:definition>
-      <skos:prefLabel xml:lang="no">Morsmål: Bra</skos:prefLabel>
-      <skos:definition xml:lang="no">Individet har språket som morsmål og behersker det med god strukturell nøyaktighet, godt ordforråd og forståelse.</skos:definition>
-      <skos:prefLabel xml:lang="no">Morsmål: Bra</skos:prefLabel>
-      <skos:definition xml:lang="no">Individet har språket som morsmål og behersker det med god strukturell nøyaktighet, godt ordforråd og forståelse.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e53"/>
+      <skos:prefLabel xml:lang="no">Morsm&#xe5;l: Bra</skos:prefLabel>
+      <skos:definition xml:lang="no">Individet har spr&#xe5;ket som morsm&#xe5;l og behersker det med god strukturell n&#xf8;yaktighet, godt ordforr&#xe5;d og forst&#xe5;else.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e162">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/4d30d3a">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/"/>
-      <skos:notation>Native.Basic</skos:notation>
+      <skos:notation xml:lang="en">Native.Basic</skos:notation>
       <skos:prefLabel xml:lang="en">Native: Basic</skos:prefLabel>
       <skos:definition xml:lang="en">The individual is a native user of the language with limited vocabulary, use of grammar and comprehension.</skos:definition>
-      <skos:prefLabel xml:lang="en">Native: Basic</skos:prefLabel>
-      <skos:definition xml:lang="en">The individual is a native user of the language with limited vocabulary, use of grammar and comprehension.</skos:definition>
-      <skos:prefLabel xml:lang="no">Morsmål: Grunnleggende</skos:prefLabel>
-      <skos:definition xml:lang="no">Individet har språket som morsmål, men er begrenset i ordforrådet, grammatikk og forståelse.</skos:definition>
-      <skos:prefLabel xml:lang="no">Morsmål: Grunnleggende</skos:prefLabel>
-      <skos:definition xml:lang="no">Individet har språket som morsmål, men er begrenset i ordforrådet, grammatikk og forståelse.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e53"/>
+      <skos:prefLabel xml:lang="no">Morsm&#xe5;l: Grunnleggende</skos:prefLabel>
+      <skos:definition xml:lang="no">Individet har spr&#xe5;ket som morsm&#xe5;l, men er begrenset i ordforr&#xe5;det, grammatikk og forst&#xe5;else.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e197">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/223dee0">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/"/>
-      <skos:notation>NonNative</skos:notation>
+      <skos:notation xml:lang="en">NonNative</skos:notation>
       <skos:prefLabel xml:lang="en">Non-native</skos:prefLabel>
       <skos:definition xml:lang="en">The individual is a non-native user of the language whose level of proficiency is unknown/unspecified.</skos:definition>
-      <skos:prefLabel xml:lang="en">Non-native</skos:prefLabel>
-      <skos:definition xml:lang="en">The individual is a non-native user of the language whose level of proficiency is unknown/unspecified.</skos:definition>
-      <skos:prefLabel xml:lang="no">Andrespråk</skos:prefLabel>
-      <skos:definition xml:lang="no">Individet har språket som andrespråk, men ferdighetene i språket er ukjent eller uspesifisert.</skos:definition>
-      <skos:prefLabel xml:lang="no">Andrespråk</skos:prefLabel>
-      <skos:definition xml:lang="no">Individet har språket som andrespråk, men ferdighetene i språket er ukjent eller uspesifisert.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e238"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e272"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e306"/>
+      <skos:prefLabel xml:lang="no">Andrespr&#xe5;k</skos:prefLabel>
+      <skos:definition xml:lang="no">Individet har spr&#xe5;ket som andrespr&#xe5;k, men ferdighetene i spr&#xe5;ket er ukjent eller uspesifisert.</skos:definition>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/bdbc6ed"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/cf189a2"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/19770b6"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e238">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/bdbc6ed">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/"/>
-      <skos:notation>NonNative.Fluent</skos:notation>
+      <skos:notation xml:lang="en">NonNative.Fluent</skos:notation>
       <skos:prefLabel xml:lang="en">Non-native: Fluent</skos:prefLabel>
       <skos:definition xml:lang="en">The individual is a non-native user with excellent mastery of the language, including breadth of vocabulary and idiom, and confident command of the grammar.</skos:definition>
-      <skos:prefLabel xml:lang="en">Non-native: Fluent</skos:prefLabel>
-      <skos:definition xml:lang="en">The individual is a non-native user with excellent mastery of the language, including breadth of vocabulary and idiom, and confident command of the grammar.</skos:definition>
-      <skos:prefLabel xml:lang="no">Andre språk: Flytende</skos:prefLabel>
-      <skos:definition xml:lang="no">Individet har språket som andrespråk og har en utmerket mestring av det, inkludert inngående kjennskap til uttrykk, et bredt ordforråd og trygg kontroll over grammatikken.</skos:definition>
-      <skos:prefLabel xml:lang="no">Andre språk: Flytende</skos:prefLabel>
-      <skos:definition xml:lang="no">Individet har språket som andrespråk og har en utmerket mestring av det, inkludert inngående kjennskap til uttrykk, et bredt ordforråd og trygg kontroll over grammatikken.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e197"/>
+      <skos:prefLabel xml:lang="no">Andre spr&#xe5;k: Flytende</skos:prefLabel>
+      <skos:definition xml:lang="no">Individet har spr&#xe5;ket som andrespr&#xe5;k og har en utmerket mestring av det, inkludert inng&#xe5;ende kjennskap til uttrykk, et bredt ordforr&#xe5;d og trygg kontroll over grammatikken.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e272">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/cf189a2">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/"/>
-      <skos:notation>NonNative.Good</skos:notation>
+      <skos:notation xml:lang="en">NonNative.Good</skos:notation>
       <skos:prefLabel xml:lang="en">Non-native: Good</skos:prefLabel>
       <skos:definition xml:lang="en">The individual is a non-native user of the language with good structural accuracy, vocabulary and comprehension.</skos:definition>
-      <skos:prefLabel xml:lang="en">Non-native: Good</skos:prefLabel>
-      <skos:definition xml:lang="en">The individual is a non-native user of the language with good structural accuracy, vocabulary and comprehension.</skos:definition>
-      <skos:prefLabel xml:lang="no">Andrespråk: Bra</skos:prefLabel>
-      <skos:definition xml:lang="no">Individet har språket som andrespråk og behersker det med god strukturell nøyaktighet, godt ordforråd og forståelse.</skos:definition>
-      <skos:prefLabel xml:lang="no">Andrespråk: Bra</skos:prefLabel>
-      <skos:definition xml:lang="no">Individet har språket som andrespråk og behersker det med god strukturell nøyaktighet, godt ordforråd og forståelse.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e197"/>
+      <skos:prefLabel xml:lang="no">Andrespr&#xe5;k: Bra</skos:prefLabel>
+      <skos:definition xml:lang="no">Individet har spr&#xe5;ket som andrespr&#xe5;k og behersker det med god strukturell n&#xf8;yaktighet, godt ordforr&#xe5;d og forst&#xe5;else.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e306">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/19770b6">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/"/>
-      <skos:notation>NonNative.Basic</skos:notation>
+      <skos:notation xml:lang="en">NonNative.Basic</skos:notation>
       <skos:prefLabel xml:lang="en">Non-native: Basic</skos:prefLabel>
       <skos:definition xml:lang="en">The individual is a non-native user of the language with limited vocabulary, use of grammar and comprehension.</skos:definition>
-      <skos:prefLabel xml:lang="en">Non-native: Basic</skos:prefLabel>
-      <skos:definition xml:lang="en">The individual is a non-native user of the language with limited vocabulary, use of grammar and comprehension.</skos:definition>
-      <skos:prefLabel xml:lang="no">Andrespråk: Grunnleggende</skos:prefLabel>
-      <skos:definition xml:lang="no">Individet har språket som andrespråk, men er begrenset i ordforrådet, grammatikk og forståelse.</skos:definition>
-      <skos:prefLabel xml:lang="no">Andrespråk: Grunnleggende</skos:prefLabel>
-      <skos:definition xml:lang="no">Individet har språket som andrespråk, men er begrenset i ordforrådet, grammatikk og forståelse.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e197"/>
+      <skos:prefLabel xml:lang="no">Andrespr&#xe5;k: Grunnleggende</skos:prefLabel>
+      <skos:definition xml:lang="no">Individet har spr&#xe5;ket som andrespr&#xe5;k, men er begrenset i ordforr&#xe5;det, grammatikk og forst&#xe5;else.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e340">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/6279308">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/"/>
-      <skos:notation>NativeStatusUnspecified</skos:notation>
+      <skos:notation xml:lang="en">NativeStatusUnspecified</skos:notation>
       <skos:prefLabel xml:lang="en">Unspecified native status</skos:prefLabel>
-      <skos:definition xml:lang="en">The individual's native status and her/his level of proficiency are both unknown, or not specified.</skos:definition>
-      <skos:prefLabel xml:lang="en">Unspecified native status</skos:prefLabel>
-      <skos:definition xml:lang="en">The individual's native status and her/his level of proficiency are both unknown, or not specified.</skos:definition>
-      <skos:prefLabel xml:lang="no">Uspesifisert språktilhørighet</skos:prefLabel>
-      <skos:definition xml:lang="no">Individets språktilhørighet og hen sine ferdigheter er begge ukjent, eller ikke spesifisert.</skos:definition>
-      <skos:prefLabel xml:lang="no">Uspesifisert språktilhørighet</skos:prefLabel>
-      <skos:definition xml:lang="no">Individets språktilhørighet og hen sine ferdigheter er begge ukjent, eller ikke spesifisert.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e381"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e416"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e450"/>
+      <skos:definition xml:lang="en">The individual&apos;s native status and her/his level of proficiency are both unknown, or not specified.</skos:definition>
+      <skos:prefLabel xml:lang="no">Uspesifisert spr&#xe5;ktilh&#xf8;righet</skos:prefLabel>
+      <skos:definition xml:lang="no">Individets spr&#xe5;ktilh&#xf8;righet og hen sine ferdigheter er begge ukjent, eller ikke spesifisert.</skos:definition>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/6b5f366"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/022e3d5"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/5c65d4e"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e381">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/6b5f366">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/"/>
-      <skos:notation>NativeStatusUnspecified.Fluent</skos:notation>
+      <skos:notation xml:lang="en">NativeStatusUnspecified.Fluent</skos:notation>
       <skos:prefLabel xml:lang="en">Unspecified native status: Fluent</skos:prefLabel>
-      <skos:definition xml:lang="en">The individual's native status is unknown/unspecified; s/he has excellent mastery of the language, including breadth of vocabulary and idiom, and confident command of the grammar.</skos:definition>
-      <skos:prefLabel xml:lang="en">Unspecified native status: Fluent</skos:prefLabel>
-      <skos:definition xml:lang="en">The individual's native status is unknown/unspecified; s/he has excellent mastery of the language, including breadth of vocabulary and idiom, and confident command of the grammar.</skos:definition>
-      <skos:prefLabel xml:lang="no">Uspesifisert språktilhørighet: Flytende</skos:prefLabel>
-      <skos:definition xml:lang="no">Individets språktilhørighet er ukjent/uspesifisert; hen har utmerket mestring av språket, inkludert inngående kjennskap til uttrykk, et bredt ordforråd og trygg kontroll over grammatikken.</skos:definition>
-      <skos:prefLabel xml:lang="no">Uspesifisert språktilhørighet: Flytende</skos:prefLabel>
-      <skos:definition xml:lang="no">Individets språktilhørighet er ukjent/uspesifisert; hen har utmerket mestring av språket, inkludert inngående kjennskap til uttrykk, et bredt ordforråd og trygg kontroll over grammatikken.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e340"/>
+      <skos:definition xml:lang="en">The individual&apos;s native status is unknown/unspecified; s/he has excellent mastery of the language, including breadth of vocabulary and idiom, and confident command of the grammar.</skos:definition>
+      <skos:prefLabel xml:lang="no">Uspesifisert spr&#xe5;ktilh&#xf8;righet: Flytende</skos:prefLabel>
+      <skos:definition xml:lang="no">Individets spr&#xe5;ktilh&#xf8;righet er ukjent/uspesifisert; hen har utmerket mestring av spr&#xe5;ket, inkludert inng&#xe5;ende kjennskap til uttrykk, et bredt ordforr&#xe5;d og trygg kontroll over grammatikken.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e416">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/022e3d5">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/"/>
-      <skos:notation>NativeStatusUnspecified.Good</skos:notation>
+      <skos:notation xml:lang="en">NativeStatusUnspecified.Good</skos:notation>
       <skos:prefLabel xml:lang="en">Unspecified native status: Good</skos:prefLabel>
-      <skos:definition xml:lang="en">The individual's native status is unknown/unspecified; s/he has good structural accuracy, vocabulary and comprehension.</skos:definition>
-      <skos:prefLabel xml:lang="en">Unspecified native status: Good</skos:prefLabel>
-      <skos:definition xml:lang="en">The individual's native status is unknown/unspecified; s/he has good structural accuracy, vocabulary and comprehension.</skos:definition>
-      <skos:prefLabel xml:lang="no">Uspesifisert språktilhørighet: Bra</skos:prefLabel>
-      <skos:definition xml:lang="no">Individets språktilhørighet er ukjent/uspesifisert; hen har god strukturell nøyaktighet, godt ordforråd og forståelse.</skos:definition>
-      <skos:prefLabel xml:lang="no">Uspesifisert språktilhørighet: Bra</skos:prefLabel>
-      <skos:definition xml:lang="no">Individets språktilhørighet er ukjent/uspesifisert; hen har god strukturell nøyaktighet, godt ordforråd og forståelse.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e340"/>
+      <skos:definition xml:lang="en">The individual&apos;s native status is unknown/unspecified; s/he has good structural accuracy, vocabulary and comprehension.</skos:definition>
+      <skos:prefLabel xml:lang="no">Uspesifisert spr&#xe5;ktilh&#xf8;righet: Bra</skos:prefLabel>
+      <skos:definition xml:lang="no">Individets spr&#xe5;ktilh&#xf8;righet er ukjent/uspesifisert; hen har god strukturell n&#xf8;yaktighet, godt ordforr&#xe5;d og forst&#xe5;else.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e450">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/5c65d4e">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/"/>
-      <skos:notation>NativeStatusUnspecified.Basic</skos:notation>
+      <skos:notation xml:lang="en">NativeStatusUnspecified.Basic</skos:notation>
       <skos:prefLabel xml:lang="en">Unspecified native status: Basic</skos:prefLabel>
-      <skos:definition xml:lang="en">The individual's native status is unknown/unspecified; s/he has limited vocabulary, use of grammar, and comprehension.</skos:definition>
-      <skos:prefLabel xml:lang="en">Unspecified native status: Basic</skos:prefLabel>
-      <skos:definition xml:lang="en">The individual's native status is unknown/unspecified; s/he has limited vocabulary, use of grammar, and comprehension.</skos:definition>
-      <skos:prefLabel xml:lang="no">Uspesifisert språktilhørighet: Grunnleggende</skos:prefLabel>
-      <skos:definition xml:lang="no">Individets språktilhørighet er ukjent/uspesifisert; hen har begrensninger i ordforråd, grammatikk og forståelse.</skos:definition>
-      <skos:prefLabel xml:lang="no">Uspesifisert språktilhørighet: Grunnleggende</skos:prefLabel>
-      <skos:definition xml:lang="no">Individets språktilhørighet er ukjent/uspesifisert; hen har begrensninger i ordforråd, grammatikk og forståelse.</skos:definition>
-      <skos:broader rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e340"/>
+      <skos:definition xml:lang="en">The individual&apos;s native status is unknown/unspecified; s/he has limited vocabulary, use of grammar, and comprehension.</skos:definition>
+      <skos:prefLabel xml:lang="no">Uspesifisert spr&#xe5;ktilh&#xf8;righet: Grunnleggende</skos:prefLabel>
+      <skos:definition xml:lang="no">Individets spr&#xe5;ktilh&#xf8;righet er ukjent/uspesifisert; hen har begrensninger i ordforr&#xe5;d, grammatikk og forst&#xe5;else.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/d44e484">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/6311ae1">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/LanguageProficiency/1.0.2/"/>
-      <skos:notation>Other</skos:notation>
+      <skos:notation xml:lang="en">Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
-      <skos:definition xml:lang="en">Use if level of proficiency is known, but not found in the list. It is recommended that any new entry combine information about the individual's native/non-native status and his/her level of proficiency, following the format [native status].[proficiency level] as shown in the entries above.</skos:definition>
-      <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
-      <skos:definition xml:lang="en">Use if level of proficiency is known, but not found in the list. It is recommended that any new entry combine information about the individual's native/non-native status and his/her level of proficiency, following the format [native status].[proficiency level] as shown in the entries above.</skos:definition>
+      <skos:definition xml:lang="en">Use if level of proficiency is known, but not found in the list. It is recommended that any new entry combine information about the individual&apos;s native/non-native status and his/her level of proficiency, following the format [native status].[proficiency level] as shown in the entries above.</skos:definition>
       <skos:prefLabel xml:lang="no">Annet</skos:prefLabel>
-      <skos:definition xml:lang="no">Bruk hvis språkferdigheter er kjent, men ikke er å finne på listen. Det er anbefalt at enhver ny oppføring kombinerer informasjon om individets morsmål/andrespråk status og hen sitt ferdighetsnivå i formatet [morsmål/andrespråk/annet]. [ferdighetsnivå] som vist ovenfor.</skos:definition>
-      <skos:prefLabel xml:lang="no">Annet</skos:prefLabel>
-      <skos:definition xml:lang="no">Bruk hvis språkferdigheter er kjent, men ikke er å finne på listen. Det er anbefalt at enhver ny oppføring kombinerer informasjon om individets morsmål/andrespråk status og hen sitt ferdighetsnivå i formatet [morsmål/andrespråk/annet]. [ferdighetsnivå] som vist ovenfor.</skos:definition>
+      <skos:definition xml:lang="no">Bruk hvis spr&#xe5;kferdigheter er kjent, men ikke er &#xe5; finne p&#xe5; listen. Det er anbefalt at enhver ny oppf&#xf8;ring kombinerer informasjon om individets morsm&#xe5;l/andrespr&#xe5;k status og hen sitt ferdighetsniv&#xe5; i formatet [morsm&#xe5;l/andrespr&#xe5;k/annet]. [ferdighetsniv&#xe5;] som vist ovenfor.</skos:definition>
    </rdf:Description>
 </rdf:RDF>

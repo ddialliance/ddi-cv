@@ -9,16 +9,20 @@
          <r:ID>DataType</r:ID>
          <r:Version>1.0.0</r:Version>
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/</r:UserID>
-         <r:Label/>
-         <r:Description/>
+         <r:Label>
+            <r:Content xml:lang="en">Data Type</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Identifies the type of data, which has a bearing on the acceptable data values, the operations that can be performed with the data, and the ways in which the data are stored.</r:Content>
+         </r:Description>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-String-Code</r:ID>
+            <r:ID>DataType-2711832-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e139</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/2711832</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-String-Category</r:ID>
+               <r:ID>DataType-2711832-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -26,12 +30,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-NormalizedString-Code</r:ID>
+            <r:ID>DataType-915b651-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e199</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/915b651</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-NormalizedString-Category</r:ID>
+               <r:ID>DataType-915b651-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -39,12 +43,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-Boolean-Code</r:ID>
+            <r:ID>DataType-27226c8-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e259</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/27226c8</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-Boolean-Category</r:ID>
+               <r:ID>DataType-27226c8-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -52,12 +56,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-Decimal-Code</r:ID>
+            <r:ID>DataType-937504f-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e319</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/937504f</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-Decimal-Category</r:ID>
+               <r:ID>DataType-937504f-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -65,12 +69,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-Integer-Code</r:ID>
+            <r:ID>DataType-a0faef0-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e380</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/a0faef0</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-Integer-Category</r:ID>
+               <r:ID>DataType-a0faef0-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -78,12 +82,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-PositiveInteger-Code</r:ID>
+            <r:ID>DataType-9a80ecf-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e440</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/9a80ecf</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-PositiveInteger-Category</r:ID>
+               <r:ID>DataType-9a80ecf-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -91,12 +95,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-NegativeInteger-Code</r:ID>
+            <r:ID>DataType-c799385-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e500</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/c799385</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-NegativeInteger-Category</r:ID>
+               <r:ID>DataType-c799385-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -104,12 +108,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-NonNegativeInteger-Code</r:ID>
+            <r:ID>DataType-17e6c6e-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e560</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/17e6c6e</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-NonNegativeInteger-Category</r:ID>
+               <r:ID>DataType-17e6c6e-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -117,12 +121,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-NonPositiveInteger-Code</r:ID>
+            <r:ID>DataType-1bd04a8-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e620</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/1bd04a8</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-NonPositiveInteger-Category</r:ID>
+               <r:ID>DataType-1bd04a8-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -130,12 +134,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-Long-Code</r:ID>
+            <r:ID>DataType-8394f03-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e680</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/8394f03</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-Long-Category</r:ID>
+               <r:ID>DataType-8394f03-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -143,12 +147,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-Int-Code</r:ID>
+            <r:ID>DataType-1686a6c-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e741</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/1686a6c</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-Int-Category</r:ID>
+               <r:ID>DataType-1686a6c-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -156,12 +160,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-Short-Code</r:ID>
+            <r:ID>DataType-30bb747-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e801</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/30bb747</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-Short-Category</r:ID>
+               <r:ID>DataType-30bb747-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -169,12 +173,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-Byte-Code</r:ID>
+            <r:ID>DataType-a245c32-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e861</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/a245c32</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-Byte-Category</r:ID>
+               <r:ID>DataType-a245c32-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -182,12 +186,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-UnsignedLong-Code</r:ID>
+            <r:ID>DataType-0c72cf9-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e921</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/0c72cf9</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-UnsignedLong-Category</r:ID>
+               <r:ID>DataType-0c72cf9-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -195,12 +199,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-UnsignedInt-Code</r:ID>
+            <r:ID>DataType-c93cff9-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e981</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/c93cff9</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-UnsignedInt-Category</r:ID>
+               <r:ID>DataType-c93cff9-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -208,12 +212,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-UnsignedShort-Code</r:ID>
+            <r:ID>DataType-eb51124-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1041</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/eb51124</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-UnsignedShort-Category</r:ID>
+               <r:ID>DataType-eb51124-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -221,12 +225,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-UnsignedByte-Code</r:ID>
+            <r:ID>DataType-8f0fb88-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1102</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/8f0fb88</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-UnsignedByte-Category</r:ID>
+               <r:ID>DataType-8f0fb88-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -234,12 +238,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-Float-Code</r:ID>
+            <r:ID>DataType-22ae0e2-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1162</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/22ae0e2</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-Float-Category</r:ID>
+               <r:ID>DataType-22ae0e2-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -247,12 +251,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-Double-Code</r:ID>
+            <r:ID>DataType-d909d38-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1222</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d909d38</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-Double-Category</r:ID>
+               <r:ID>DataType-d909d38-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -260,12 +264,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-DateTime-Code</r:ID>
+            <r:ID>DataType-8cf10d2-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1282</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/8cf10d2</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-DateTime-Category</r:ID>
+               <r:ID>DataType-8cf10d2-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -273,12 +277,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-Time-Code</r:ID>
+            <r:ID>DataType-a76d4ef-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1342</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/a76d4ef</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-Time-Category</r:ID>
+               <r:ID>DataType-a76d4ef-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -286,12 +290,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-Date-Code</r:ID>
+            <r:ID>DataType-4474971-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1402</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/4474971</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-Date-Category</r:ID>
+               <r:ID>DataType-4474971-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -299,12 +303,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-GYearMonth-Code</r:ID>
+            <r:ID>DataType-e8a304e-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1463</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/e8a304e</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-GYearMonth-Category</r:ID>
+               <r:ID>DataType-e8a304e-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -312,12 +316,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-GYear-Code</r:ID>
+            <r:ID>DataType-08a1af4-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1523</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/08a1af4</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-GYear-Category</r:ID>
+               <r:ID>DataType-08a1af4-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -325,12 +329,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-GMonthDay-Code</r:ID>
+            <r:ID>DataType-5fddfa0-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1583</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/5fddfa0</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-GMonthDay-Category</r:ID>
+               <r:ID>DataType-5fddfa0-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -338,12 +342,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-GDay-Code</r:ID>
+            <r:ID>DataType-d4eaaeb-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1643</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d4eaaeb</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-GDay-Category</r:ID>
+               <r:ID>DataType-d4eaaeb-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -351,12 +355,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-GMonth-Code</r:ID>
+            <r:ID>DataType-dee6835-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1703</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/dee6835</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-GMonth-Category</r:ID>
+               <r:ID>DataType-dee6835-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -364,12 +368,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-Duration-Code</r:ID>
+            <r:ID>DataType-e02d2ae-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1763</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/e02d2ae</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-Duration-Category</r:ID>
+               <r:ID>DataType-e02d2ae-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -377,12 +381,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-HexBinary-Code</r:ID>
+            <r:ID>DataType-7bf524f-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1824</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/7bf524f</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-HexBinary-Category</r:ID>
+               <r:ID>DataType-7bf524f-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -390,12 +394,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-Base64Binary-Code</r:ID>
+            <r:ID>DataType-279fceb-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1884</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/279fceb</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-Base64Binary-Category</r:ID>
+               <r:ID>DataType-279fceb-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -403,12 +407,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-AnyURI-Code</r:ID>
+            <r:ID>DataType-6e3915f-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1944</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/6e3915f</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-AnyURI-Category</r:ID>
+               <r:ID>DataType-6e3915f-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -416,12 +420,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>DataType-Other-Code</r:ID>
+            <r:ID>DataType-6311ae1-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e2004</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/6311ae1</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>DataType-Other-Category</r:ID>
+               <r:ID>DataType-6311ae1-Category</r:ID>
                <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -432,9 +436,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-String-Category</r:ID>
+         <r:ID>DataType-2711832-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e139</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/2711832</r:UserID>
          <l:CategoryName>String</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">String</r:Content>
@@ -447,9 +451,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-NormalizedString-Category</r:ID>
+         <r:ID>DataType-915b651-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e199</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/915b651</r:UserID>
          <l:CategoryName>NormalizedString</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Normalized string</r:Content>
@@ -462,9 +466,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-Boolean-Category</r:ID>
+         <r:ID>DataType-27226c8-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e259</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/27226c8</r:UserID>
          <l:CategoryName>Boolean</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Boolean</r:Content>
@@ -477,9 +481,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-Decimal-Category</r:ID>
+         <r:ID>DataType-937504f-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e319</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/937504f</r:UserID>
          <l:CategoryName>Decimal</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Decimal</r:Content>
@@ -492,9 +496,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-Integer-Category</r:ID>
+         <r:ID>DataType-a0faef0-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e380</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/a0faef0</r:UserID>
          <l:CategoryName>Integer</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Integer</r:Content>
@@ -507,9 +511,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-PositiveInteger-Category</r:ID>
+         <r:ID>DataType-9a80ecf-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e440</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/9a80ecf</r:UserID>
          <l:CategoryName>PositiveInteger</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Positive integer</r:Content>
@@ -522,9 +526,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-NegativeInteger-Category</r:ID>
+         <r:ID>DataType-c799385-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e500</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/c799385</r:UserID>
          <l:CategoryName>NegativeInteger</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Negative integer</r:Content>
@@ -537,9 +541,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-NonNegativeInteger-Category</r:ID>
+         <r:ID>DataType-17e6c6e-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e560</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/17e6c6e</r:UserID>
          <l:CategoryName>NonNegativeInteger</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Non-negative integer</r:Content>
@@ -552,9 +556,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-NonPositiveInteger-Category</r:ID>
+         <r:ID>DataType-1bd04a8-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e620</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/1bd04a8</r:UserID>
          <l:CategoryName>NonPositiveInteger</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Non-positive integer</r:Content>
@@ -567,9 +571,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-Long-Category</r:ID>
+         <r:ID>DataType-8394f03-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e680</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/8394f03</r:UserID>
          <l:CategoryName>Long</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Long</r:Content>
@@ -582,9 +586,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-Int-Category</r:ID>
+         <r:ID>DataType-1686a6c-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e741</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/1686a6c</r:UserID>
          <l:CategoryName>Int</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Int</r:Content>
@@ -597,9 +601,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-Short-Category</r:ID>
+         <r:ID>DataType-30bb747-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e801</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/30bb747</r:UserID>
          <l:CategoryName>Short</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Short</r:Content>
@@ -612,9 +616,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-Byte-Category</r:ID>
+         <r:ID>DataType-a245c32-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e861</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/a245c32</r:UserID>
          <l:CategoryName>Byte</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Byte</r:Content>
@@ -627,9 +631,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-UnsignedLong-Category</r:ID>
+         <r:ID>DataType-0c72cf9-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e921</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/0c72cf9</r:UserID>
          <l:CategoryName>UnsignedLong</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Unsigned long</r:Content>
@@ -642,9 +646,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-UnsignedInt-Category</r:ID>
+         <r:ID>DataType-c93cff9-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e981</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/c93cff9</r:UserID>
          <l:CategoryName>UnsignedInt</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Unsigned int</r:Content>
@@ -657,9 +661,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-UnsignedShort-Category</r:ID>
+         <r:ID>DataType-eb51124-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1041</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/eb51124</r:UserID>
          <l:CategoryName>UnsignedShort</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Unsigned short</r:Content>
@@ -672,9 +676,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-UnsignedByte-Category</r:ID>
+         <r:ID>DataType-8f0fb88-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1102</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/8f0fb88</r:UserID>
          <l:CategoryName>UnsignedByte</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Unsigned byte</r:Content>
@@ -687,9 +691,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-Float-Category</r:ID>
+         <r:ID>DataType-22ae0e2-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1162</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/22ae0e2</r:UserID>
          <l:CategoryName>Float</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Float</r:Content>
@@ -702,9 +706,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-Double-Category</r:ID>
+         <r:ID>DataType-d909d38-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1222</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d909d38</r:UserID>
          <l:CategoryName>Double</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Double</r:Content>
@@ -717,9 +721,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-DateTime-Category</r:ID>
+         <r:ID>DataType-8cf10d2-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1282</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/8cf10d2</r:UserID>
          <l:CategoryName>DateTime</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">DateTime</r:Content>
@@ -732,9 +736,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-Time-Category</r:ID>
+         <r:ID>DataType-a76d4ef-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1342</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/a76d4ef</r:UserID>
          <l:CategoryName>Time</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Time</r:Content>
@@ -747,9 +751,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-Date-Category</r:ID>
+         <r:ID>DataType-4474971-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1402</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/4474971</r:UserID>
          <l:CategoryName>Date</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Date</r:Content>
@@ -762,9 +766,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-GYearMonth-Category</r:ID>
+         <r:ID>DataType-e8a304e-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1463</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/e8a304e</r:UserID>
          <l:CategoryName>GYearMonth</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">YearMonth</r:Content>
@@ -777,9 +781,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-GYear-Category</r:ID>
+         <r:ID>DataType-08a1af4-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1523</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/08a1af4</r:UserID>
          <l:CategoryName>GYear</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Year</r:Content>
@@ -792,9 +796,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-GMonthDay-Category</r:ID>
+         <r:ID>DataType-5fddfa0-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1583</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/5fddfa0</r:UserID>
          <l:CategoryName>GMonthDay</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">MonthDay</r:Content>
@@ -807,9 +811,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-GDay-Category</r:ID>
+         <r:ID>DataType-d4eaaeb-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1643</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d4eaaeb</r:UserID>
          <l:CategoryName>GDay</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Day</r:Content>
@@ -822,9 +826,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-GMonth-Category</r:ID>
+         <r:ID>DataType-dee6835-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1703</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/dee6835</r:UserID>
          <l:CategoryName>GMonth</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Month</r:Content>
@@ -837,9 +841,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-Duration-Category</r:ID>
+         <r:ID>DataType-e02d2ae-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1763</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/e02d2ae</r:UserID>
          <l:CategoryName>Duration</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Duration</r:Content>
@@ -852,9 +856,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-HexBinary-Category</r:ID>
+         <r:ID>DataType-7bf524f-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1824</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/7bf524f</r:UserID>
          <l:CategoryName>HexBinary</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">hexBinary</r:Content>
@@ -867,9 +871,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-Base64Binary-Category</r:ID>
+         <r:ID>DataType-279fceb-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1884</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/279fceb</r:UserID>
          <l:CategoryName>Base64Binary</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">base64Binary</r:Content>
@@ -882,9 +886,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-AnyURI-Category</r:ID>
+         <r:ID>DataType-6e3915f-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e1944</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/6e3915f</r:UserID>
          <l:CategoryName>AnyURI</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">anyURI</r:Content>
@@ -897,9 +901,9 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>DataType-Other-Category</r:ID>
+         <r:ID>DataType-6311ae1-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/d19e2004</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/DataType/1.0/6311ae1</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>

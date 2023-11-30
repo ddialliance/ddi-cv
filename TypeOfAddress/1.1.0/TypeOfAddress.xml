@@ -8,17 +8,22 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfAddress</r:ID>
          <r:Version>1.1.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.1/</r:UserID>
-         <r:Label/>
-         <r:Description/>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.0/</r:UserID>
+         <r:Label>
+            <r:Content xml:lang="en">Type of Address</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Identifies the type of address entered as contact information for an individual or an organization.
+</r:Content>
+         </r:Description>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfAddress-Mailing-Code</r:ID>
+            <r:ID>TypeOfAddress-c8896d7-Code</r:ID>
             <r:Version>1.1.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.1/d108e31</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.0/c8896d7</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfAddress-Mailing-Category</r:ID>
+               <r:ID>TypeOfAddress-c8896d7-Category</r:ID>
                <r:Version>1.1.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -26,12 +31,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfAddress-Mailing.Residential-Code</r:ID>
+            <r:ID>TypeOfAddress-8ef080c-Code</r:ID>
             <r:Version>1.1.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.1/d108e51</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.0/8ef080c</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfAddress-Mailing.Residential-Category</r:ID>
+               <r:ID>TypeOfAddress-8ef080c-Category</r:ID>
                <r:Version>1.1.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -39,12 +44,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfAddress-Mailing.Nonresidential-Code</r:ID>
+            <r:ID>TypeOfAddress-c1ddd21-Code</r:ID>
             <r:Version>1.1.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.1/d108e66</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.0/c1ddd21</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfAddress-Mailing.Nonresidential-Category</r:ID>
+               <r:ID>TypeOfAddress-c1ddd21-Category</r:ID>
                <r:Version>1.1.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -52,12 +57,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfAddress-Visiting-Code</r:ID>
+            <r:ID>TypeOfAddress-a9a6096-Code</r:ID>
             <r:Version>1.1.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.1/d108e81</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.0/a9a6096</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfAddress-Visiting-Category</r:ID>
+               <r:ID>TypeOfAddress-a9a6096-Category</r:ID>
                <r:Version>1.1.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -65,12 +70,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfAddress-Visiting.Residential-Code</r:ID>
+            <r:ID>TypeOfAddress-d7892ee-Code</r:ID>
             <r:Version>1.1.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.1/d108e102</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.0/d7892ee</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfAddress-Visiting.Residential-Category</r:ID>
+               <r:ID>TypeOfAddress-d7892ee-Category</r:ID>
                <r:Version>1.1.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -78,12 +83,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfAddress-Visiting.Nonresidential-Code</r:ID>
+            <r:ID>TypeOfAddress-af04d20-Code</r:ID>
             <r:Version>1.1.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.1/d108e117</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.0/af04d20</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfAddress-Visiting.Nonresidential-Category</r:ID>
+               <r:ID>TypeOfAddress-af04d20-Category</r:ID>
                <r:Version>1.1.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -91,12 +96,12 @@
          </l:Code>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
-            <r:ID>TypeOfAddress-Other-Code</r:ID>
+            <r:ID>TypeOfAddress-6311ae1-Code</r:ID>
             <r:Version>1.1.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.1/d108e132</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.0/6311ae1</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
-               <r:ID>TypeOfAddress-Other-Category</r:ID>
+               <r:ID>TypeOfAddress-6311ae1-Category</r:ID>
                <r:Version>1.1.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
@@ -107,16 +112,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfAddress-Mailing-Category</r:ID>
+         <r:ID>TypeOfAddress-c8896d7-Category</r:ID>
          <r:Version>1.1.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.1/d108e31</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.0/c8896d7</r:UserID>
          <l:CategoryName>Mailing</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Mailing address</r:Content>
-            <r:Content xml:lang="en">Mailing address</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Includes both "street", and P.O. Box addresses used for sending and receiving physical/conventional mail through the postal system.</r:Content>
             <r:Content xml:lang="en">Includes both "street", and P.O. Box addresses used for sending and receiving physical/conventional mail through the postal system.</r:Content>
          </r:Description>
       </l:Category>
@@ -124,16 +127,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfAddress-Mailing.Residential-Category</r:ID>
+         <r:ID>TypeOfAddress-8ef080c-Category</r:ID>
          <r:Version>1.1.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.1/d108e51</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.0/8ef080c</r:UserID>
          <l:CategoryName>Mailing.Residential</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Mailing address: Residential</r:Content>
-            <r:Content xml:lang="en">Mailing address: Residential</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Address for directing physical/conventional mail to a person's residence, including institutional residence.</r:Content>
             <r:Content xml:lang="en">Address for directing physical/conventional mail to a person's residence, including institutional residence.</r:Content>
          </r:Description>
       </l:Category>
@@ -141,16 +142,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfAddress-Mailing.Nonresidential-Category</r:ID>
+         <r:ID>TypeOfAddress-c1ddd21-Category</r:ID>
          <r:Version>1.1.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.1/d108e66</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.0/c1ddd21</r:UserID>
          <l:CategoryName>Mailing.Nonresidential</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Mailing address: Nonresidential</r:Content>
-            <r:Content xml:lang="en">Mailing address: Nonresidential</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Address for directing physical/conventional mail to a business, organization, or other type of association.</r:Content>
             <r:Content xml:lang="en">Address for directing physical/conventional mail to a business, organization, or other type of association.</r:Content>
          </r:Description>
       </l:Category>
@@ -158,16 +157,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfAddress-Visiting-Category</r:ID>
+         <r:ID>TypeOfAddress-a9a6096-Category</r:ID>
          <r:Version>1.1.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.1/d108e81</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.0/a9a6096</r:UserID>
          <l:CategoryName>Visiting</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Visiting address</r:Content>
-            <r:Content xml:lang="en">Visiting address</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Address used to identify a physical location (typically a building or a unit in a building) that may be accessed in person.</r:Content>
             <r:Content xml:lang="en">Address used to identify a physical location (typically a building or a unit in a building) that may be accessed in person.</r:Content>
          </r:Description>
       </l:Category>
@@ -175,16 +172,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfAddress-Visiting.Residential-Category</r:ID>
+         <r:ID>TypeOfAddress-d7892ee-Category</r:ID>
          <r:Version>1.1.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.1/d108e102</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.0/d7892ee</r:UserID>
          <l:CategoryName>Visiting.Residential</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Visiting address: Residential</r:Content>
-            <r:Content xml:lang="en">Visiting address: Residential</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Visiting address for a person's residence, including institutional residence.</r:Content>
             <r:Content xml:lang="en">Visiting address for a person's residence, including institutional residence.</r:Content>
          </r:Description>
       </l:Category>
@@ -192,16 +187,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfAddress-Visiting.Nonresidential-Category</r:ID>
+         <r:ID>TypeOfAddress-af04d20-Category</r:ID>
          <r:Version>1.1.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.1/d108e117</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.0/af04d20</r:UserID>
          <l:CategoryName>Visiting.Nonresidential</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Visiting address: Nonresidential</r:Content>
-            <r:Content xml:lang="en">Visiting address: Nonresidential</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Visiting address for a business, organization, or other type of association.</r:Content>
             <r:Content xml:lang="en">Visiting address for a business, organization, or other type of association.</r:Content>
          </r:Description>
       </l:Category>
@@ -209,16 +202,14 @@
    <ddi:Fragment>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
-         <r:ID>TypeOfAddress-Other-Category</r:ID>
+         <r:ID>TypeOfAddress-6311ae1-Category</r:ID>
          <r:Version>1.1.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.1/d108e132</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfAddress/1.1.0/6311ae1</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>
-            <r:Content xml:lang="en">Other</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Use if type of address is known, but not found in the list.</r:Content>
             <r:Content xml:lang="en">Use if type of address is known, but not found in the list.</r:Content>
          </r:Description>
       </l:Category>

@@ -1,498 +1,401 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
-          xmlns:owl="http://www.w3.org/2002/07/owl#"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-          xmlns:skos="http://www.w3.org/2004/02/skos/core#">
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+>
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
-      <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage"/>
-      <skos:notation>SoftwarePackage</skos:notation>
+      <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/"/>
+      <skos:notation xml:lang="en">SoftwarePackage</skos:notation>
+      <dcterms:title xml:lang="en">Software Package</dcterms:title>
+      <dcterms:description xml:lang="en">Indicates the statistical software package used in the production/processing/dissemination of the data. Data collection software is not covered in this list.</dcterms:description>
       <skos:prefLabel xml:lang="en">Software Package</skos:prefLabel>
-      <skos:prefLabel xml:lang="en">Software Package</skos:prefLabel>
-      <skos:definition xml:lang="en">Indicates the statistical software package used in the production/processing/dissemination of the data. Data collection software is not covered in this list.</skos:definition>
-      <skos:definition xml:lang="en">Indicates the statistical software package used in the production/processing/dissemination of the data. Data collection software is not covered in this list.</skos:definition>
       <owl:versionInfo>1.0.0</owl:versionInfo>
-      <dcterms:license rdf:resource="Creative Commons Attribution 4.0 International"/>
-      <dcterms:rights>Copyright ©DDI Alliance 2020</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e135"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e155"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e175"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e195"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e216"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e236"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e256"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e276"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e296"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e316"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e339"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e359"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e379"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e399"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e419"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e439"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e460"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e480"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e500"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e520"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e540"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e560"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e581"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e601"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e621"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e641"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e661"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e681"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e702"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e722"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e742"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e762"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e782"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e802"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e823"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e843"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e863"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e883"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e903"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e923"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e944"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e964"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e984"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e1004"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e1024"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e1044"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e1065"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e1085"/>
+      <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+      <dcterms:rights>Copyright &#xa9;DDI Alliance 2020</dcterms:rights>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/eeb9e1f"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/3e827b5"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/74d7359"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/a98f622"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/abc691c"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/9eb48fa"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/a29b2e9"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/48d4282"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/0f84b92"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/24599f1"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/29f76ef"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/6460fde"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/98b74cc"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/37a2f93"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/fb974e8"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/7e41f63"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/39c4046"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/152b9af"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/791fe51"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/542c20a"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/4004507"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/ce5dcee"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/bc15a72"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/7180929"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/feabb59"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/76723e4"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/cd02fb2"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/a71e699"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/1732126"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/3edf8ca"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/8914678"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/dd152b9"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/bb988f8"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/213d73a"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/e1e1d3d"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/105e491"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/8262313"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/f4136bd"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/2db46c6"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/9c53618"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/9b791dc"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/a566e46"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/739e087"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/259a54d"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/487b304"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/35b2fe9"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/e902a36"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/6311ae1"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e135">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/eeb9e1f">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>AcaStat</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">AcaStat</skos:notation>
       <skos:prefLabel xml:lang="en">AcaStat</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">AcaStat</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e155">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/3e827b5">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>ADaMSoft</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">ADaMSoft</skos:notation>
       <skos:prefLabel xml:lang="en">ADaMSoft</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">ADaMSoft</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e175">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/74d7359">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>AnalyseIt</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">AnalyseIt</skos:notation>
       <skos:prefLabel xml:lang="en">Analyse-it</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">Analyse-it</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e195">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/a98f622">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>Auguri</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">Auguri</skos:notation>
       <skos:prefLabel xml:lang="en">Auguri</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">Auguri</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e216">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/abc691c">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>BioStat</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">BioStat</skos:notation>
       <skos:prefLabel xml:lang="en">BioStat</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">BioStat</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e236">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/9eb48fa">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>BMDP</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">BMDP</skos:notation>
       <skos:prefLabel xml:lang="en">BMDP</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">BMDP</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e256">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/a29b2e9">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>BrightStat</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">BrightStat</skos:notation>
       <skos:prefLabel xml:lang="en">BrightStat</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">BrightStat</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e276">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/48d4282">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>Dataplot</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">Dataplot</skos:notation>
       <skos:prefLabel xml:lang="en">Dataplot</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">Dataplot</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e296">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/0f84b92">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>DBase</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">DBase</skos:notation>
       <skos:prefLabel xml:lang="en">DBase</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">DBase</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e316">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/24599f1">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>DIF</skos:notation>
-      <skos:prefLabel xml:lang="en">DIF</skos:prefLabel>
-      <skos:definition xml:lang="en">Data interchange format suitable for use in Excel.</skos:definition>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">DIF</skos:notation>
       <skos:prefLabel xml:lang="en">DIF</skos:prefLabel>
       <skos:definition xml:lang="en">Data interchange format suitable for use in Excel.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e339">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/29f76ef">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>EasyReg</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">EasyReg</skos:notation>
       <skos:prefLabel xml:lang="en">EasyReg</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">EasyReg</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e359">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/6460fde">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>EpiInfo</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">EpiInfo</skos:notation>
       <skos:prefLabel xml:lang="en">Epi Info</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">Epi Info</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e379">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/98b74cc">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>EViews</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">EViews</skos:notation>
       <skos:prefLabel xml:lang="en">EViews</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">EViews</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e399">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/37a2f93">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>GAUSS</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">GAUSS</skos:notation>
       <skos:prefLabel xml:lang="en">GAUSS</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">GAUSS</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e419">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/fb974e8">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>GoldenHelix</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">GoldenHelix</skos:notation>
       <skos:prefLabel xml:lang="en">Golden Helix</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">Golden Helix</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e439">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/7e41f63">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>GraphPadPrism</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">GraphPadPrism</skos:notation>
       <skos:prefLabel xml:lang="en">GraphPad Prism</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">GraphPad Prism</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e460">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/39c4046">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>Gretl</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">Gretl</skos:notation>
       <skos:prefLabel xml:lang="en">gretl</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">gretl</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e480">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/152b9af">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>JMP</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">JMP</skos:notation>
       <skos:prefLabel xml:lang="en">JMP</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">JMP</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e500">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/791fe51">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>Limdep</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">Limdep</skos:notation>
       <skos:prefLabel xml:lang="en">Limdep</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">Limdep</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e520">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/542c20a">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>MacAnova</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">MacAnova</skos:notation>
       <skos:prefLabel xml:lang="en">MacAnova</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">MacAnova</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e540">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/4004507">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>Maple</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">Maple</skos:notation>
       <skos:prefLabel xml:lang="en">Maple</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">Maple</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e560">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/ce5dcee">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>Mathematica</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">Mathematica</skos:notation>
       <skos:prefLabel xml:lang="en">Mathematica</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">Mathematica</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e581">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/bc15a72">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>MatLab</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">MatLab</skos:notation>
       <skos:prefLabel xml:lang="en">MatLab</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">MatLab</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e601">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/7180929">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>MedCalc</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">MedCalc</skos:notation>
       <skos:prefLabel xml:lang="en">MedCalc</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">MedCalc</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e621">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/feabb59">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>Minitab</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">Minitab</skos:notation>
       <skos:prefLabel xml:lang="en">Minitab</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">Minitab</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e641">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/76723e4">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>ModelQED</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">ModelQED</skos:notation>
       <skos:prefLabel xml:lang="en">modelQED</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">modelQED</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e661">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/cd02fb2">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>NCSS</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">NCSS</skos:notation>
       <skos:prefLabel xml:lang="en">NCSS</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">NCSS</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e681">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/a71e699">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>NSDStat</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">NSDStat</skos:notation>
       <skos:prefLabel xml:lang="en">NSDStat</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">NSDStat</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e702">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/1732126">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>OpenEpi</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">OpenEpi</skos:notation>
       <skos:prefLabel xml:lang="en">OpenEpi</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">OpenEpi</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e722">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/3edf8ca">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>Origin</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">Origin</skos:notation>
       <skos:prefLabel xml:lang="en">Origin</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">Origin</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e742">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/8914678">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>Partek</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">Partek</skos:notation>
       <skos:prefLabel xml:lang="en">Partek</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">Partek</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e762">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/dd152b9">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>Primer</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">Primer</skos:notation>
       <skos:prefLabel xml:lang="en">Primer</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">Primer</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e782">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/bb988f8">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>PSPP</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">PSPP</skos:notation>
       <skos:prefLabel xml:lang="en">PSPP</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">PSPP</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e802">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/213d73a">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>RCommander</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">RCommander</skos:notation>
       <skos:prefLabel xml:lang="en">R Commander</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">R Commander</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e823">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/e1e1d3d">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>R</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">R</skos:notation>
       <skos:prefLabel xml:lang="en">R</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">R</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e843">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/105e491">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>RATS</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">RATS</skos:notation>
       <skos:prefLabel xml:lang="en">RATS</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">RATS</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e863">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/8262313">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>RKWard</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">RKWard</skos:notation>
       <skos:prefLabel xml:lang="en">RKWard</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">RKWard</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e883">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/f4136bd">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>SalStat</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">SalStat</skos:notation>
       <skos:prefLabel xml:lang="en">SalStat</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">SalStat</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e903">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/2db46c6">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>SAS</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">SAS</skos:notation>
       <skos:prefLabel xml:lang="en">SAS</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">SAS</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e923">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/9c53618">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>Shazam</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">Shazam</skos:notation>
       <skos:prefLabel xml:lang="en">Shazam</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">Shazam</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e944">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/9b791dc">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>SOCR</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">SOCR</skos:notation>
       <skos:prefLabel xml:lang="en">SOCR</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">SOCR</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e964">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/a566e46">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>SPlus</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">SPlus</skos:notation>
       <skos:prefLabel xml:lang="en">SPlus</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">SPlus</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e984">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/739e087">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>SPSS</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">SPSS</skos:notation>
       <skos:prefLabel xml:lang="en">SPSS</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">SPSS</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e1004">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/259a54d">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>Stata</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">Stata</skos:notation>
       <skos:prefLabel xml:lang="en">Stata</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">Stata</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e1024">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/487b304">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>Statistica</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">Statistica</skos:notation>
       <skos:prefLabel xml:lang="en">Statistica</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">Statistica</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e1044">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/35b2fe9">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>SUDAAN</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">SUDAAN</skos:notation>
       <skos:prefLabel xml:lang="en">SUDAAN</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">SUDAAN</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e1065">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/e902a36">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>TSP</skos:notation>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">TSP</skos:notation>
       <skos:prefLabel xml:lang="en">TSP</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
-      <skos:prefLabel xml:lang="en">TSP</skos:prefLabel>
-      <skos:definition xml:lang="en"/>
+      <skos:definition xml:lang="en"></skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/d51e1085">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/6311ae1">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/"/>
-      <skos:notation>Other</skos:notation>
-      <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
-      <skos:definition xml:lang="en">Use if the software package is known, but not found in the list.</skos:definition>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.0/"/>
+      <skos:notation xml:lang="en">Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use if the software package is known, but not found in the list.</skos:definition>
    </rdf:Description>
