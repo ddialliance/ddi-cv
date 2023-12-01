@@ -1,2 +1,1192 @@
-<?xml version="1.0" encoding="UTF-8"?>503 Service Unavailable
-No server is available to handle this request.
+<?xml version="1.0" encoding="UTF-8"?>
+<ddi:FragmentInstance xmlns:ddi="ddi:instance:3_2"
+                       xmlns:ddi-cv="urn:ddi-cv"
+                       xmlns:l="ddi:logicalproduct:3_2"
+                       xmlns:r="ddi:reusable:3_2">
+   <ddi:Fragment>
+      <l:CodeList>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/</r:UserID>
+         <r:Label>
+            <r:Content xml:lang="en">Lifecycle Event Type</r:Content>
+            <r:Content xml:lang="no">Livssyklus hendelsestype</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Specifies the event happening over the data life cycle that is considered significant enough to document.</r:Content>
+            <r:Content xml:lang="no">Spesifiserer hendelser som skjer i data livssyklusen som anses som signifikante nok til å bli dokumentert.</r:Content>
+         </r:Description>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-0f06797-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/0f06797</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-0f06797-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>StudyProposal</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-682889d-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/682889d</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-682889d-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Funding</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-8e4ba08-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/8e4ba08</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-8e4ba08-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>StudyDesign</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-cc004d9-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/cc004d9</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-cc004d9-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>InstrumentDesign</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-5692ac9-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/5692ac9</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-5692ac9-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>QuestionnaireTranslation</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-22dc409-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/22dc409</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-22dc409-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>QuestionnaireAdaptation</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-b405f37-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/b405f37</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-b405f37-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>InterviewerTraining</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-1dd6b68-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/1dd6b68</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-1dd6b68-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EthicsReview</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-a60797a-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/a60797a</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-a60797a-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>LegalReview</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-1d07814-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/1d07814</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-1d07814-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Sampling</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-c0198e2-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/c0198e2</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-c0198e2-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>InstrumentPreTesting</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-1806c2b-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/1806c2b</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-1806c2b-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>PilotStudy</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-e9b52b4-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/e9b52b4</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-e9b52b4-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataCollection</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-b55e113-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/b55e113</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-b55e113-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataCollectionReports</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-552cf53-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/552cf53</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-552cf53-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataProcessing</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-f09d0f0-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/f09d0f0</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-f09d0f0-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataProcessing.Coding</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-4ae9f02-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/4ae9f02</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-4ae9f02-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataProcessing.Classification</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-7ccf106-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/7ccf106</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-7ccf106-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataProcessing.InterviewTranscriptions</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-3068950-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/3068950</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-3068950-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataProcessing.Weighting</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-81c6d38-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/81c6d38</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-81c6d38-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataProcessing.Aggregation</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-6912d31-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/6912d31</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-6912d31-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataProcessing.CompositeMeasures</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-35b0e7b-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/35b0e7b</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-35b0e7b-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataProcessing.Derivation</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-c691602-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/c691602</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-c691602-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataProcessing.DataQualityChecks</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-7f385ef-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/7f385ef</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-7f385ef-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataProcessing.DataIntegration</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-e784ede-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/e784ede</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-e784ede-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataProcessing.DisclosureLimitation</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-506d843-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/506d843</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-506d843-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataProcessing.Imputation</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-71dfa2a-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/71dfa2a</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-71dfa2a-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>MetadataProduction</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-86d7722-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/86d7722</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-86d7722-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>MetadataEditing</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-a99e082-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/a99e082</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-a99e082-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>MetadataTranslation</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-6455742-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/6455742</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-6455742-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>FinalReport</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-b74a43d-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/b74a43d</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-b74a43d-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Evaluation</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-d0024fc-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/d0024fc</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-d0024fc-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>OriginalRelease</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-92f80bd-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/92f80bd</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-92f80bd-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Deposit</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-4536c42-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/4536c42</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-4536c42-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>PreservationPackageProduction</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-4c28eff-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/4c28eff</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-4c28eff-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DisseminationPackageProduction</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-df10e90-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/df10e90</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-df10e90-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DisseminationPackageRelease</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-82951ba-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/82951ba</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-82951ba-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DataAnalysisReports</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-d18440b-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/d18440b</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-d18440b-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>NewVersionRelease</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>LifecycleEventType-6311ae1-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/6311ae1</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>LifecycleEventType-6311ae1-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Other</r:Value>
+         </l:Code>
+      </l:CodeList>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-0f06797-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/0f06797</r:UserID>
+         <l:CategoryName>StudyProposal</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Study proposal</r:Content>
+            <r:Content xml:lang="no">Studieforslag</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Defining outlines for a new study/data collection, including needs for information and general  research  objectives, as well  as main concepts, study scope and methodology, usually to be presented for approval to funders, partners, or other relevant bodies.</r:Content>
+            <r:Content xml:lang="no">Definere rammene for en ny studie/datainnsamling, inkluderer behovet for informasjon og de generelle forskningsmålene, samt hovedkonsepter, studieomfang og metodologi, som regel presenteres dette for godkjenning hos finansiere, partnere og andre relevante aktører.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-682889d-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/682889d</r:UserID>
+         <l:CategoryName>Funding</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Funding</r:Content>
+            <r:Content xml:lang="no">Finansiering</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Decisions to extend financial support for the study/data collection.</r:Content>
+            <r:Content xml:lang="no">Avgjørelser om å forlenge finansiell støtte for en studie/datainnsamling.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-8e4ba08-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/8e4ba08</r:UserID>
+         <l:CategoryName>StudyDesign</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Study design</r:Content>
+            <r:Content xml:lang="no">Studie design</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Detailed planning for carrying out the study/data collection: refining concepts and identifying ways to measure them, defining the target population, time dimension, sampling frame and sample selection, data collection methodology, production systems and workflows, etc.</r:Content>
+            <r:Content xml:lang="no">Detaljert planlegging for å gjennomføre studien/datainnsamlingen: raffinere konsepter og identifisere måter å måle de, definere mål populasjonen, tidsdimensjonen, utvalgsrammeverket og utvalgstrekning, datainnsamlings metodologi, produksjonssystemer og arbeidsflyt, etc.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-cc004d9-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/cc004d9</r:UserID>
+         <l:CategoryName>InstrumentDesign</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Instrument design</r:Content>
+            <r:Content xml:lang="no">Instrumentdesign</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Building the data collection instrument, for example, the questionnaire or interview questions, focus group topics, observation forms for an observational design, standardized record review, independent and dependent variables for an experimental design, etc.</r:Content>
+            <r:Content xml:lang="no">Utvikle datainnsamlingsinstrumentet, for eksempel, spørreskjemaet eller intervjuspørsmålene, fokusgruppe emner, observasjonsskjema for observasjonsdesign, standardisert journalgjennomgang, uavhengig og avhengig variabler for eksperimentelt design.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-5692ac9-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/5692ac9</r:UserID>
+         <l:CategoryName>QuestionnaireTranslation</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Questionnaire translation</r:Content>
+            <r:Content xml:lang="no">Spørreskjema oversettelse</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Translating the source questionnaire into other languages, for example, in cross-national surveys or in national surveys conducted in multilingual countries.</r:Content>
+            <r:Content xml:lang="no">Oversette kildespørreskjemaet til andre språk, for eksempel, i tverrnasjonale spørreskjema eller i nasjonale spørreskjema gjennomført i flerspråklige land.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-22dc409-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/22dc409</r:UserID>
+         <l:CategoryName>QuestionnaireAdaptation</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Questionnaire adaptation</r:Content>
+            <r:Content xml:lang="no">Spørreskjema tilpasning</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Changing the wording of questions to reflect cultural or institutional differences if same-language questionnaires are administered in different regions or countries.</r:Content>
+            <r:Content xml:lang="no">Endring av språkformulering i spørsmål for å belyse kulturelle eller institusjonelle forskjeller, hvis spørreskjema i samme språk utføres i forskjellige regioner eller land.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-b405f37-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/b405f37</r:UserID>
+         <l:CategoryName>InterviewerTraining</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Interviewer training</r:Content>
+            <r:Content xml:lang="no">Intervjueropplæring</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Training the interviewers that administer questionnaires in survey-type studies.</r:Content>
+            <r:Content xml:lang="no">Opplæring av intervjuere som administrerer spørreskjemaet i spørreskjemaundersøkelser.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-1dd6b68-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/1dd6b68</r:UserID>
+         <l:CategoryName>EthicsReview</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Ethics review</r:Content>
+            <r:Content xml:lang="no">Etisk godkjenning</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Review of the study/data collection to ensure that it complies with statutory ethics requirements or regulations, including verification of the informed consent statement, performed by a qualified body, like a Research Ethics Committee, or Institutional Review Board.</r:Content>
+            <r:Content xml:lang="no">Gjennomgang av studien/datainnsamlingen for å forsikre at den samsvarer med lovpålagte etiske krav eller forskrifter, inkludert verifisering av informert samtykke, gjennomført av et godkjent organ, som en forskningsetisk komité eller institusjonell vurderingsnemd.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-a60797a-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/a60797a</r:UserID>
+         <l:CategoryName>LegalReview</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Legal review</r:Content>
+            <r:Content xml:lang="no">Lovlig godkjenning</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Review of the study/data collection in terms of compliance with the law  (legislation concerning confidentiality, the protection of children, etc.).</r:Content>
+            <r:Content xml:lang="no">Gjennomgang av studien/datainnsamling i forhold til samsvar med loven (lovgivning som omhandler konfidensialitet, beskyttelse av barn, etc.).</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-1d07814-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/1d07814</r:UserID>
+         <l:CategoryName>Sampling</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Sampling</r:Content>
+            <r:Content xml:lang="no">Utvalgstrekking</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Selecting the sample for the study/data collection.</r:Content>
+            <r:Content xml:lang="no">Velge utvalget for studien/datainnsamlingen.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-c0198e2-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/c0198e2</r:UserID>
+         <l:CategoryName>InstrumentPreTesting</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Instrument pre-testing</r:Content>
+            <r:Content xml:lang="no">Instrumenttest</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Small-scale application of the data collection instrument designed to identify potential problems before using it for the entire study.</r:Content>
+            <r:Content xml:lang="no">Småskala anvendelse av datainnsamling instrumentet med hensikt å identifisere potensielle problemer før en tar det i bruk i fullskala for hele studien.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-1806c2b-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/1806c2b</r:UserID>
+         <l:CategoryName>PilotStudy</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Pilot study</r:Content>
+            <r:Content xml:lang="no">Pilotstudie</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Dress rehearsal of the full project, for example, by administering the questionnaire to a small number of people, then coding and analyzing results, etc.</r:Content>
+            <r:Content xml:lang="no">Generalprøve for hele prosjektet, for eksempel ved å gjennomføre datainnsamling via spørreskjema til et lite antall mennesker, så kode og analysere resultatene, etc.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-e9b52b4-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/e9b52b4</r:UserID>
+         <l:CategoryName>DataCollection</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data collection</r:Content>
+            <r:Content xml:lang="no">Datainnsamling</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Setting up, running and finalizing the data collection process, including follow-up procedures, etc.</r:Content>
+            <r:Content xml:lang="no">Klargjøre, gjennomføre og ferdigstille datainnsamling prosessen, inkludert oppfølging prosedyrer, etc.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-b55e113-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/b55e113</r:UserID>
+         <l:CategoryName>DataCollectionReports</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data collection reports</r:Content>
+            <r:Content xml:lang="no">Datainnsamling rapporter</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Reports on designing and conducting the data collection process, including methodological decisions and problems encountered. These may take the form of conference posters or presentations, journal articles or online publications, book chapters, etc.</r:Content>
+            <r:Content xml:lang="no">Rapporter på designet og gjennomførelsen av datainnsamling prosessen, inkludert metodologiske avgjørelser og utfordringer som har oppstått. Disse kan være konferansepresentasjoner, tidsskriftartikler eller online publikasjoner, bokkapitler, etc.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-552cf53-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/552cf53</r:UserID>
+         <l:CategoryName>DataProcessing</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data processing</r:Content>
+            <r:Content xml:lang="no">Databehandling</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Changes, additions or deletions brought to the data at any point in time after collection.</r:Content>
+            <r:Content xml:lang="no">Endringer, tillegg eller sletting gjennomført på data på hvilket som helst tidspunkt etter innsamlingen.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-f09d0f0-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/f09d0f0</r:UserID>
+         <l:CategoryName>DataProcessing.Coding</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data processing: Coding</r:Content>
+            <r:Content xml:lang="no">Databehandling: Koding</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Converting raw data into machine-readable codes.</r:Content>
+            <r:Content xml:lang="no">Konvertering av rådata til maskinlesbare koder.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-4ae9f02-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/4ae9f02</r:UserID>
+         <l:CategoryName>DataProcessing.Classification</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data processing: Classification</r:Content>
+            <r:Content xml:lang="no">Databehandling: Klassifisering</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Documenting the meaning/substance of coded data.</r:Content>
+            <r:Content xml:lang="no">Dokumentering av meningen/innholdet av kodede data.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-7ccf106-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/7ccf106</r:UserID>
+         <l:CategoryName>DataProcessing.InterviewTranscriptions</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data processing: Transcriptions of interviews</r:Content>
+            <r:Content xml:lang="no">Databehandling: Transkibering av intervjuer</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Transferring video- or audio-taped data into written form.</r:Content>
+            <r:Content xml:lang="no">Overføring av video- eller lydopptak data til skriftlig format.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-3068950-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/3068950</r:UserID>
+         <l:CategoryName>DataProcessing.Weighting</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data processing: Weighting</r:Content>
+            <r:Content xml:lang="no">Databehandling: Vekting</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Calculating weight variables and adding them to the data.</r:Content>
+            <r:Content xml:lang="no">Utregning av vektevariabler og legge de til datamaterialet.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-81c6d38-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/81c6d38</r:UserID>
+         <l:CategoryName>DataProcessing.Aggregation</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data processing: Aggregation</r:Content>
+            <r:Content xml:lang="no">Databehandling: Aggregering</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Calculating cumulative measures of individual-level data or microdata.</r:Content>
+            <r:Content xml:lang="no">Utregning av kumulative mål på individnivå data eller mikrodata.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-6912d31-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/6912d31</r:UserID>
+         <l:CategoryName>DataProcessing.CompositeMeasures</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data processing: Composite measures</r:Content>
+            <r:Content xml:lang="no">Databehandling: Sammensatte mål</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Calculating scales, indexes, or typologies and adding them to the data.</r:Content>
+            <r:Content xml:lang="no">Utregning av skalaer, indekser eller typologier og legge de til datamaterialet.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-35b0e7b-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/35b0e7b</r:UserID>
+         <l:CategoryName>DataProcessing.Derivation</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data processing: Derivation</r:Content>
+            <r:Content xml:lang="no">Databehandling: Avledning</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Calculating new variables from measured variables, usually by recodes.</r:Content>
+            <r:Content xml:lang="no">Utregning av nye variabler fra målte variabler, som regel gjennom rekoding.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-c691602-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/c691602</r:UserID>
+         <l:CategoryName>DataProcessing.DataQualityChecks</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data processing: Quality checks</r:Content>
+            <r:Content xml:lang="no">Databehandling: Kvalitetskontroll</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Checks for consistency, undocumented codes, missing data representation, etc.</r:Content>
+            <r:Content xml:lang="no">Kontrollere overensstemmelser, udokumenterte koder, missing data representasjoner, etc.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-7f385ef-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/7f385ef</r:UserID>
+         <l:CategoryName>DataProcessing.DataIntegration</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data processing: Data integration</r:Content>
+            <r:Content xml:lang="no">Databehandling: Dataintegrering</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Creating complex datasets by merging related data, for example, hierarchical datasets with multiple but related  analysis units, or multiple-wave datasets, or data collected in different countries for a cross-national study, etc.</r:Content>
+            <r:Content xml:lang="no">Opprette komplekse datasett med å koble sammen relaterte data, for eksempel, hierarkiske datasett med flere, men sammenliknbare, analyseenheter, eller datasett fra flere runder av en undersøkelse, eller data samlet inn i forskjellige land for en tverrnasjonal studie, etc.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-e784ede-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/e784ede</r:UserID>
+         <l:CategoryName>DataProcessing.DisclosureLimitation</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data processing: Disclosure limitation</r:Content>
+            <r:Content xml:lang="no">Databehandling: Begrensning om avsløring</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Editing the data to prevent identification of subjects, for example, performing anonymization measures like recoding or top-coding sensitive variables like income levels, suppressing some geographic indicators, or replacing personal names with pseudonyms and/or categorizing background or demographic information in qualitative data.</r:Content>
+            <r:Content xml:lang="no">Å endre dataene for å forhindre identifisering av subjekter, for eksempel, å utføre anonymiseringstiltak som å rekode eller topp-kode sensitive variabler som inntektsnivå, aggregere eller holde tilbake geografiske indikatorer, eller erstatte personnavn med pseudonymer og/eller kategorisere bakgrunnsopplysninger eller demografisk informasjon i kvalitative data.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-506d843-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/506d843</r:UserID>
+         <l:CategoryName>DataProcessing.Imputation</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data processing: Imputation</r:Content>
+            <r:Content xml:lang="no">Databehandling: Imputasjon</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Replacing missing data points with values calculated according to an imputation technique.</r:Content>
+            <r:Content xml:lang="no">Erstatte manglende data punkter med verdier utregnet ved bruk av imputasjonsteknikker.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-71dfa2a-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/71dfa2a</r:UserID>
+         <l:CategoryName>MetadataProduction</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Metadata production</r:Content>
+            <r:Content xml:lang="no">Metadata produksjon</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Documenting the data, for example, by producing study-level and variable descriptions.</r:Content>
+            <r:Content xml:lang="no">Dokumentere data, for eksempel ved å produsere studienivå og variabel beskrivelser.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-86d7722-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/86d7722</r:UserID>
+         <l:CategoryName>MetadataEditing</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Metadata editing</r:Content>
+            <r:Content xml:lang="no">Metadata redigering</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Amending the metadata to reflect changes in the data or to improve or enhance documentation.</r:Content>
+            <r:Content xml:lang="no">Å endre metadataene for å gjenspeile endringer i dataene eller for å forbedre eller styrke dokumentasjonen.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-a99e082-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/a99e082</r:UserID>
+         <l:CategoryName>MetadataTranslation</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Metadata translation</r:Content>
+            <r:Content xml:lang="no">Metadata oversettelse</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Translating the metadata into another language.</r:Content>
+            <r:Content xml:lang="no">Å oversette metadata til et annet språk.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-6455742-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/6455742</r:UserID>
+         <l:CategoryName>FinalReport</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Final report</r:Content>
+            <r:Content xml:lang="no">Sluttrapport</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Complete account on how the study was conducted through all its stages, often required by funders or other administrative bodies.</r:Content>
+            <r:Content xml:lang="no">Fullstendig redegjørelse for hvordan studien ble gjennomført i alle stadier, ofte påkrevd av finansiør eller andre administrative instanser.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-b74a43d-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/b74a43d</r:UserID>
+         <l:CategoryName>Evaluation</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Evaluation</r:Content>
+            <r:Content xml:lang="no">Evaluering</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Analysis of how the study, in all its stages, was managed and/or conducted, including the outcome of methodological, technical, and business decisions. May serve as a basis for changes or improvements in planning future iterations of the data collection, or entirely new projects.</r:Content>
+            <r:Content xml:lang="no">Analyse av hvordan studien, i alle stadier, ble administrert og/eller gjennomført, inkludert utfallet av metodologiske-, tekniske- og forretningsbeslutninger. Kan tjene som et grunnlag for endringer eller forbedringer i planleggingen av fremtidige iterasjoner av datainnsamlingen eller helt nye prosjekter.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-d0024fc-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/d0024fc</r:UserID>
+         <l:CategoryName>OriginalRelease</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Original release</r:Content>
+            <r:Content xml:lang="no">Original utgivelse</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">First release of data and/or metadata to other individuals and/or agencies than the study producers.</r:Content>
+            <r:Content xml:lang="no">Første utgivelse av data og/eller metadata til andre individer og/eller byråer enn studiens produsenter.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-92f80bd-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/92f80bd</r:UserID>
+         <l:CategoryName>Deposit</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Deposit</r:Content>
+            <r:Content xml:lang="no">Deponering</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Handing over the data and available metadata (Submission Information Package in OAIS terms) to a data archive or repository for preservation, possible further processing,  and dissemination.</r:Content>
+            <r:Content xml:lang="no">Overlevering av data og tilgjengelig metadata (Submission Information Package i OAIS terminologi) til ett dataarkiv eller oppbevaringssted for bevaring, mulig videre prosessering, og formidling.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-4536c42-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/4536c42</r:UserID>
+         <l:CategoryName>PreservationPackageProduction</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Preservation package production</r:Content>
+            <r:Content xml:lang="no">Produksjon av bevaringspakke</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Producing a preservation package of the data for archiving purposes (Archival Information Package in OAIS terms).</r:Content>
+            <r:Content xml:lang="no">Produsere en bevaringspakke av datamaterialet for arkivformål (Archival Information Package i OAIS terminologi).</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-4c28eff-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/4c28eff</r:UserID>
+         <l:CategoryName>DisseminationPackageProduction</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Dissemination package production</r:Content>
+            <r:Content xml:lang="no">Produksjon av formidlingspakke</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Producing a dissemination package for distribution of the data (Dissemination Information Package in OAIS terms).</r:Content>
+            <r:Content xml:lang="no">Produsere en formidlingspakke for distribusjon av data (Dissemination Information Package i OAIS terminologi).</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-df10e90-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/df10e90</r:UserID>
+         <l:CategoryName>DisseminationPackageRelease</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Dissemination package release</r:Content>
+            <r:Content xml:lang="no">Utgivelse av formidlingspakke</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Publishing or otherwise making the dissemination package available to users.</r:Content>
+            <r:Content xml:lang="no">Publisering, eller annen tilgjengeliggjøring, av formidlingspakken for brukere.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-82951ba-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/82951ba</r:UserID>
+         <l:CategoryName>DataAnalysisReports</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Data analysis reports</r:Content>
+            <r:Content xml:lang="no">Dataanalyse rapport</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Reports describing how the data were analyzed,  as well as the resulting findings. These may take the form of conference posters or presentations, journal articles or online publications, books, book chapters, etc.</r:Content>
+            <r:Content xml:lang="no">Rapport som beskriver hvordan data ble analyser, inklusiv funn. Dette kan være konferansepresentasjoner, tidsskriftartikler eller online publikasjoner, bøker eller bokkapitler, etc.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-d18440b-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/d18440b</r:UserID>
+         <l:CategoryName>NewVersionRelease</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">New version release</r:Content>
+            <r:Content xml:lang="no">Ny versjon utgivelse</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Publishing or otherwise making a new version of the data and/or metadata available to users.</r:Content>
+            <r:Content xml:lang="no">Publisering, eller annen tilgjengeliggjøring, av en ny versjon av data og/eller metadata for brukere.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>LifecycleEventType-6311ae1-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/LifecycleEventType/1.0.2/6311ae1</r:UserID>
+         <l:CategoryName>Other</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Other</r:Content>
+            <r:Content xml:lang="no">Annet</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Use if the event type is known, but not found in the list.</r:Content>
+            <r:Content xml:lang="no">Bruk hvis hendelsestypen er kjent, men ikke finnes på listen.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+</ddi:FragmentInstance>

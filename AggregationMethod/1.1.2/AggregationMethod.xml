@@ -1,2 +1,378 @@
-<?xml version="1.0" encoding="UTF-8"?>503 Service Unavailable
-No server is available to handle this request.
+<?xml version="1.0" encoding="UTF-8"?>
+<ddi:FragmentInstance xmlns:ddi="ddi:instance:3_2"
+                       xmlns:ddi-cv="urn:ddi-cv"
+                       xmlns:l="ddi:logicalproduct:3_2"
+                       xmlns:r="ddi:reusable:3_2">
+   <ddi:Fragment>
+      <l:CodeList>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AggregationMethod</r:ID>
+         <r:Version>1.1.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/</r:UserID>
+         <r:Label>
+            <r:Content xml:lang="en">Aggregation Method</r:Content>
+            <r:Content xml:lang="da">Aggregeringsmetode</r:Content>
+            <r:Content xml:lang="no">Aggregeringsmetode</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Identifies the type of aggregation used to combine related categories, usually within a common branch of a hierarchy, to provide information at a broader level than the level at which detailed observations are taken. (From: The OECD Glossary of Statistical Terms)</r:Content>
+            <r:Content xml:lang="da">Identificerer den type aggregering, der anvendes til at kombinere relaterede kategorier, normalt inden for en fælles gren af et hierarki, til at tilvejebringe information på et bredere niveau end det, på hvilket detaljerede observationer er foretaget. (Fra: OECD-ordlisten med statistiske begreber)</r:Content>
+            <r:Content xml:lang="no">Identifiserer den type aggregering som brukes for å kombinere relaterte kategorier, vanligvis innenfor en felles
+gren av et hierarki, for å gi informasjon på et bredere nivå enn det detaljerte nivået hvor observasjonene er tatt
+fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
+         </r:Description>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AggregationMethod-a0ec870-Code</r:ID>
+            <r:Version>1.1.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/a0ec870</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AggregationMethod-a0ec870-Category</r:ID>
+               <r:Version>1.1.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Sum</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AggregationMethod-7975ed0-Code</r:ID>
+            <r:Version>1.1.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/7975ed0</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AggregationMethod-7975ed0-Category</r:ID>
+               <r:Version>1.1.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ArithmeticMean</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AggregationMethod-e93f994-Code</r:ID>
+            <r:Version>1.1.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/e93f994</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AggregationMethod-e93f994-Category</r:ID>
+               <r:Version>1.1.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Count</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AggregationMethod-650be61-Code</r:ID>
+            <r:Version>1.1.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/650be61</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AggregationMethod-650be61-Category</r:ID>
+               <r:Version>1.1.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Mode</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AggregationMethod-66851a3-Code</r:ID>
+            <r:Version>1.1.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/66851a3</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AggregationMethod-66851a3-Category</r:ID>
+               <r:Version>1.1.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Median</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AggregationMethod-8321e79-Code</r:ID>
+            <r:Version>1.1.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/8321e79</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AggregationMethod-8321e79-Category</r:ID>
+               <r:Version>1.1.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Maximum</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AggregationMethod-a1d0ec6-Code</r:ID>
+            <r:Version>1.1.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/a1d0ec6</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AggregationMethod-a1d0ec6-Category</r:ID>
+               <r:Version>1.1.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Minimum</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AggregationMethod-adaaee4-Code</r:ID>
+            <r:Version>1.1.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/adaaee4</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AggregationMethod-adaaee4-Category</r:ID>
+               <r:Version>1.1.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Percent</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AggregationMethod-4dfc4f5-Code</r:ID>
+            <r:Version>1.1.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/4dfc4f5</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AggregationMethod-4dfc4f5-Category</r:ID>
+               <r:Version>1.1.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>CumulativePercent</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AggregationMethod-bdc1c84-Code</r:ID>
+            <r:Version>1.1.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/bdc1c84</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AggregationMethod-bdc1c84-Category</r:ID>
+               <r:Version>1.1.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>PercentileRank</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>AggregationMethod-6311ae1-Code</r:ID>
+            <r:Version>1.1.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/6311ae1</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>AggregationMethod-6311ae1-Category</r:ID>
+               <r:Version>1.1.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Other</r:Value>
+         </l:Code>
+      </l:CodeList>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AggregationMethod-a0ec870-Category</r:ID>
+         <r:Version>1.1.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/a0ec870</r:UserID>
+         <l:CategoryName>Sum</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Sum</r:Content>
+            <r:Content xml:lang="da">Sum</r:Content>
+            <r:Content xml:lang="no">Sum</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">A value obtained as a result of adding two or more numbers (items/amounts).</r:Content>
+            <r:Content xml:lang="da">En værdi opnået som et resultat af tilføjelse af to eller flere tal (elementer/mængder).</r:Content>
+            <r:Content xml:lang="no">En verdi som er resultatet av å legge til to eller flere tall (elementer/mengder).</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AggregationMethod-7975ed0-Category</r:ID>
+         <r:Version>1.1.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/7975ed0</r:UserID>
+         <l:CategoryName>ArithmeticMean</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Arithmetic mean</r:Content>
+            <r:Content xml:lang="da">Aritmetisk gennemsnit</r:Content>
+            <r:Content xml:lang="no">Aritmetisk gjennomsnitt</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Mathematical average of a set of values. The mean is calculated by adding up two or more values and dividing the total by their number. In social/political science, it is usually the sum of the measurements divided by the number of subjects, or cases.</r:Content>
+            <r:Content xml:lang="da">Matematisk gennemsnit af et sæt af værdier. Gennemsnittet beregnes ved at tilføje to eller flere værdier og dividere totalen med deres antal. I social/politisk videnskab er det som regel summen af målingerne divideret med antallet af subjekter eller cases.</r:Content>
+            <r:Content xml:lang="no">Det matematiske gjennomsnittet til et sett av verdier. Gjennomsnittet beregnes ved å addere to eller flere verdier og dele summen på antallet verdier. I samfunnsvitenskapen er det som regel summen av målingene delt på antall subjekter eller tilfeller.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AggregationMethod-e93f994-Category</r:ID>
+         <r:Version>1.1.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/e93f994</r:UserID>
+         <l:CategoryName>Count</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Count</r:Content>
+            <r:Content xml:lang="da">Antal</r:Content>
+            <r:Content xml:lang="no">Antall</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Total number of units in a group of items.</r:Content>
+            <r:Content xml:lang="da">Samlet antal af enheder i en gruppe af elementer.</r:Content>
+            <r:Content xml:lang="no">Samlet antall enhenter i en gruppe av elementer</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AggregationMethod-650be61-Category</r:ID>
+         <r:Version>1.1.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/650be61</r:UserID>
+         <l:CategoryName>Mode</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Mode</r:Content>
+            <r:Content xml:lang="da">Modus</r:Content>
+            <r:Content xml:lang="no">Modus</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">The value that appears most often in a set of values.</r:Content>
+            <r:Content xml:lang="da">Den værdi, der oftest forekommer i et sæt af værdier.</r:Content>
+            <r:Content xml:lang="no">Den verdien som forekommer mest i et sett av verdier.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AggregationMethod-66851a3-Category</r:ID>
+         <r:Version>1.1.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/66851a3</r:UserID>
+         <l:CategoryName>Median</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Median</r:Content>
+            <r:Content xml:lang="da">Median</r:Content>
+            <r:Content xml:lang="no">Median</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">The middle value in a series of values arranged sequentially from smallest to largest.</r:Content>
+            <r:Content xml:lang="da">Den midterste værdi i en serie af værdier arrangeret i rækkefølge fra mindst til størst.</r:Content>
+            <r:Content xml:lang="no">Midtverdien i en serie av verdier som er arrangert i rekkefølge fra minst til størst.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AggregationMethod-8321e79-Category</r:ID>
+         <r:Version>1.1.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/8321e79</r:UserID>
+         <l:CategoryName>Maximum</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Maximum</r:Content>
+            <r:Content xml:lang="da">Maksimum</r:Content>
+            <r:Content xml:lang="no">Maksimum</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">The highest value attained or recorded.</r:Content>
+            <r:Content xml:lang="da">Den højest opnåede eller registrerede værdi.</r:Content>
+            <r:Content xml:lang="no">Den høyeste oppnådde eller registrerte verdi.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AggregationMethod-a1d0ec6-Category</r:ID>
+         <r:Version>1.1.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/a1d0ec6</r:UserID>
+         <l:CategoryName>Minimum</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Minimum</r:Content>
+            <r:Content xml:lang="da">Minimum</r:Content>
+            <r:Content xml:lang="no">Minimum</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">The lowest value attained or recorded.</r:Content>
+            <r:Content xml:lang="da">Den lavest opnåede eller registrerede værdi.</r:Content>
+            <r:Content xml:lang="no">Den laveste oppnådde eller registrerte verdi.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AggregationMethod-adaaee4-Category</r:ID>
+         <r:Version>1.1.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/adaaee4</r:UserID>
+         <l:CategoryName>Percent</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Percent</r:Content>
+            <r:Content xml:lang="da">Procent</r:Content>
+            <r:Content xml:lang="no">Prosent</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">The number of parts out of 100. In mathematics, a percentage is a number of ratio expressed as a fraction of 100. Percentages are used to express how large one quantity is relative to another quantity.</r:Content>
+            <r:Content xml:lang="da">Antallet af dele ud af 100. I matematik er en procentdel et forholdstal udtrykt som en brøkdel af 100. Procentdele anvendes til at udtrykke, hvor stor en mængde er i forhold til en anden.</r:Content>
+            <r:Content xml:lang="no">Antall deler av 100. I matematikk er en prosentdel et forholdstall som er uttrykket som en andel av 100. Prosentdel er brukt for å uttrykke hvor stor en mengde er i forhold til en annen mengde.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AggregationMethod-4dfc4f5-Category</r:ID>
+         <r:Version>1.1.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/4dfc4f5</r:UserID>
+         <l:CategoryName>CumulativePercent</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Cumulative percent</r:Content>
+            <r:Content xml:lang="da">Kumulativ procent</r:Content>
+            <r:Content xml:lang="no">Kumulativ prosent</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">The total of a frequency and all frequencies below it in a frequency distribution; the "running total" of frequencies [the maximum value is 100%].</r:Content>
+            <r:Content xml:lang="da">Summen af en frekvens og alle frekvenser under den i en frekvensfordeling; den ”løbende sum” af frekvenser [den maksimale værdi er 100%].</r:Content>
+            <r:Content xml:lang="no">Summen av en frekvens og alle frekvenser under den i en frekvensfordeling; den "løpende sum" av frekvenser [den maksimale verdien er 100%].</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AggregationMethod-bdc1c84-Category</r:ID>
+         <r:Version>1.1.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/bdc1c84</r:UserID>
+         <l:CategoryName>PercentileRank</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Percentile rank</r:Content>
+            <r:Content xml:lang="da">Procentdel rang</r:Content>
+            <r:Content xml:lang="no">Persentil</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">The percentile rank of a item is the percentage of items in its frequency distribution which are lower [cannot reach 100%].</r:Content>
+            <r:Content xml:lang="da">Den procentdele rang af et element er procentdelen af elementer i dens frekvensfordeling, der er lavere [kan ikke nå 100%].</r:Content>
+            <r:Content xml:lang="no">Persentil til en enhet er den prosentdelen av enheter i frekvensfordelingen som er lavere [kan ikke nå 100%].</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>AggregationMethod-6311ae1-Category</r:ID>
+         <r:Version>1.1.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/6311ae1</r:UserID>
+         <l:CategoryName>Other</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Other</r:Content>
+            <r:Content xml:lang="da">Andet</r:Content>
+            <r:Content xml:lang="no">Annet</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Use when the aggregation method is known, but not found in the list.</r:Content>
+            <r:Content xml:lang="da">Anvend, når aggregeringsmetoden er kendt, men ikke findes i listen.</r:Content>
+            <r:Content xml:lang="no">Bruk når aggregeringsmetoden er kjent, men ikke er på denne listen.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+</ddi:FragmentInstance>

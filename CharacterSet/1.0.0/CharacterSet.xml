@@ -1,2 +1,860 @@
-<?xml version="1.0" encoding="UTF-8"?>503 Service Unavailable
-No server is available to handle this request.
+<?xml version="1.0" encoding="UTF-8"?>
+<ddi:FragmentInstance xmlns:ddi="ddi:instance:3_2"
+                       xmlns:ddi-cv="urn:ddi-cv"
+                       xmlns:l="ddi:logicalproduct:3_2"
+                       xmlns:r="ddi:reusable:3_2">
+   <ddi:Fragment>
+      <l:CodeList>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/</r:UserID>
+         <r:Label>
+            <r:Content xml:lang="en">Character Set</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Standard set of characters upon which many character encodings are based (Wikipedia).</r:Content>
+         </r:Description>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-d2cd825-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/d2cd825</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-d2cd825-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ASCII</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-deafe22-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/deafe22</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-deafe22-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ISO88591</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-3f16a2b-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/3f16a2b</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-3f16a2b-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ISO88592</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-80b9ba1-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/80b9ba1</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-80b9ba1-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ISO88593</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-e1cb7b1-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/e1cb7b1</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-e1cb7b1-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ISO88594</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-8f6a0e5-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/8f6a0e5</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-8f6a0e5-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ISO88595</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-b39ba5d-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/b39ba5d</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-b39ba5d-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ISO88596</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-7e2ad57-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/7e2ad57</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-7e2ad57-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ISO88597</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-004a575-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/004a575</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-004a575-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ISO88598</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-0610983-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/0610983</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-0610983-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ISO88599</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-80b2ef1-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/80b2ef1</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-80b2ef1-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ISO885910</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-f485803-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/f485803</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-f485803-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ISO885911</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-add5edf-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/add5edf</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-add5edf-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ISO885913</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-a97aaa9-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/a97aaa9</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-a97aaa9-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ISO885914</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-c561b1a-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/c561b1a</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-c561b1a-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ISO885915</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-cadad10-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/cadad10</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-cadad10-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ISO885916</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-8cb39c0-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/8cb39c0</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-8cb39c0-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>MacOSRoman</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-eb7ee0f-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/eb7ee0f</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-eb7ee0f-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>UTF8</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-f023832-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/f023832</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-f023832-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>UTF16</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-92dca19-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/92dca19</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-92dca19-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>UTF32</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-7149bb2-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/7149bb2</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-7149bb2-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Windows1251</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-d56f2f0-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/d56f2f0</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-d56f2f0-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Windows1252</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-145fe2c-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/145fe2c</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-145fe2c-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Windows1253</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-f848527-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/f848527</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-f848527-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Windows1254</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-deccb6c-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/deccb6c</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-deccb6c-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Windows1255</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-c45e91b-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/c45e91b</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-c45e91b-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Windows1256</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-4369684-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/4369684</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-4369684-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Windows1257</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-348e9d0-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/348e9d0</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-348e9d0-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Windows1258</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-6fcdc09-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/6fcdc09</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-6fcdc09-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Unspecified</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>CharacterSet-6311ae1-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/6311ae1</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>CharacterSet-6311ae1-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Other</r:Value>
+         </l:Code>
+      </l:CodeList>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-d2cd825-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/d2cd825</r:UserID>
+         <l:CategoryName>ASCII</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">ASCII</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">The official name is US-ASCII but use the format: ASCII. The ISO code for ASCII is ISO 14962.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-deafe22-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/deafe22</r:UserID>
+         <l:CategoryName>ISO88591</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">ISO-8859-1</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">For ISO standards, use format: ISO-n-n in Caption and ISOnn in Code. ISO standards are also known as Latin, for example, ISO-8859-1 as Latin1.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-3f16a2b-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/3f16a2b</r:UserID>
+         <l:CategoryName>ISO88592</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">ISO-8859-2</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-80b9ba1-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/80b9ba1</r:UserID>
+         <l:CategoryName>ISO88593</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">ISO-8859-3</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-e1cb7b1-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/e1cb7b1</r:UserID>
+         <l:CategoryName>ISO88594</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">ISO-8859-4</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-8f6a0e5-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/8f6a0e5</r:UserID>
+         <l:CategoryName>ISO88595</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">ISO-8859-5</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-b39ba5d-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/b39ba5d</r:UserID>
+         <l:CategoryName>ISO88596</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">ISO-8859-6</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-7e2ad57-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/7e2ad57</r:UserID>
+         <l:CategoryName>ISO88597</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">ISO-8859-7</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-004a575-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/004a575</r:UserID>
+         <l:CategoryName>ISO88598</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">ISO-8859-8</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-0610983-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/0610983</r:UserID>
+         <l:CategoryName>ISO88599</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">ISO-8859-9</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-80b2ef1-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/80b2ef1</r:UserID>
+         <l:CategoryName>ISO885910</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">ISO-8859-10</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-f485803-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/f485803</r:UserID>
+         <l:CategoryName>ISO885911</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">ISO-8859-11</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-add5edf-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/add5edf</r:UserID>
+         <l:CategoryName>ISO885913</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">ISO-8859-13</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-a97aaa9-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/a97aaa9</r:UserID>
+         <l:CategoryName>ISO885914</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">ISO-8859-14</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-c561b1a-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/c561b1a</r:UserID>
+         <l:CategoryName>ISO885915</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">ISO-8859-15</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-cadad10-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/cadad10</r:UserID>
+         <l:CategoryName>ISO885916</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">ISO-8859-16</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-8cb39c0-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/8cb39c0</r:UserID>
+         <l:CategoryName>MacOSRoman</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Mac OS Roman</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-eb7ee0f-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/eb7ee0f</r:UserID>
+         <l:CategoryName>UTF8</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">UTF-8</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">For Unicode Transformation Formats, use format: UTF-n in Caption and UTFn in Code.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-f023832-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/f023832</r:UserID>
+         <l:CategoryName>UTF16</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">UTF-16</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-92dca19-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/92dca19</r:UserID>
+         <l:CategoryName>UTF32</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">UTF-32</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-7149bb2-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/7149bb2</r:UserID>
+         <l:CategoryName>Windows1251</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Windows-1251</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">For MS-Windows character sets, use format: Windows-n in Caption and Windowsn in Code.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-d56f2f0-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/d56f2f0</r:UserID>
+         <l:CategoryName>Windows1252</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Windows-1252</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-145fe2c-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/145fe2c</r:UserID>
+         <l:CategoryName>Windows1253</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Windows-1253</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-f848527-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/f848527</r:UserID>
+         <l:CategoryName>Windows1254</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Windows-1254</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-deccb6c-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/deccb6c</r:UserID>
+         <l:CategoryName>Windows1255</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Windows-1255</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-c45e91b-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/c45e91b</r:UserID>
+         <l:CategoryName>Windows1256</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Windows-1256</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-4369684-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/4369684</r:UserID>
+         <l:CategoryName>Windows1257</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Windows-1257</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-348e9d0-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/348e9d0</r:UserID>
+         <l:CategoryName>Windows1258</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Windows-1258</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-6fcdc09-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/6fcdc09</r:UserID>
+         <l:CategoryName>Unspecified</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Unspecified</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Use if the character set is not known, for example for some proprietary data files.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>CharacterSet-6311ae1-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CharacterSet/1.0.0/6311ae1</r:UserID>
+         <l:CategoryName>Other</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Other</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Use if the character set is known, but not found in the list.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+</ddi:FragmentInstance>

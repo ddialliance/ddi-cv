@@ -1,2 +1,300 @@
-<?xml version="1.0" encoding="UTF-8"?>503 Service Unavailable
-No server is available to handle this request.
+<?xml version="1.0" encoding="UTF-8"?>
+<ddi:FragmentInstance xmlns:ddi="ddi:instance:3_2"
+                       xmlns:ddi-cv="urn:ddi-cv"
+                       xmlns:l="ddi:logicalproduct:3_2"
+                       xmlns:r="ddi:reusable:3_2">
+   <ddi:Fragment>
+      <l:CodeList>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfTelephone</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/</r:UserID>
+         <r:Label>
+            <r:Content xml:lang="en">Type of Telephone</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Identifies the type of telephone entered as contact information for an individual or an organization.</r:Content>
+         </r:Description>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfTelephone-4457d44-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/4457d44</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfTelephone-4457d44-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Fixed</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfTelephone-3ca0762-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/3ca0762</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfTelephone-3ca0762-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Fixed.PersonalPrivate</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfTelephone-30ba591-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/30ba591</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfTelephone-30ba591-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Fixed.OrganizationBusiness</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfTelephone-87d17f4-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/87d17f4</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfTelephone-87d17f4-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Mobile</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfTelephone-f932b45-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/f932b45</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfTelephone-f932b45-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Mobile.PersonalPrivate</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfTelephone-d2278ff-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/d2278ff</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfTelephone-d2278ff-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Mobile.OrganizationBusiness</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfTelephone-9810aa2-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/9810aa2</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfTelephone-9810aa2-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Fax</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfTelephone-b46b400-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/b46b400</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfTelephone-b46b400-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Fax.PersonalPrivate</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfTelephone-40a4f9e-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/40a4f9e</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfTelephone-40a4f9e-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Fax.OrganizationBusiness</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfTelephone-6311ae1-Code</r:ID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/6311ae1</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfTelephone-6311ae1-Category</r:ID>
+               <r:Version>1.0.0</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Other</r:Value>
+         </l:Code>
+      </l:CodeList>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfTelephone-4457d44-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/4457d44</r:UserID>
+         <l:CategoryName>Fixed</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Fixed telephone</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">A telephone that transmits signals converted from audio data through physical media, such as wire or fiber optic cable; also known as landline.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfTelephone-3ca0762-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/3ca0762</r:UserID>
+         <l:CategoryName>Fixed.PersonalPrivate</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Fixed telephone: Personal/Private</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">A fixed telephone belonging to a private person, usually located in a home or a private dwelling unit.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfTelephone-30ba591-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/30ba591</r:UserID>
+         <l:CategoryName>Fixed.OrganizationBusiness</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Fixed telephone: Organization/Business</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">A fixed telephone of an organization, institution or business, or the work telephone of a person employed by the organization.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfTelephone-87d17f4-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/87d17f4</r:UserID>
+         <l:CategoryName>Mobile</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Mobile telephone</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">A portable telephone connected to a wireless communications network through radio waves or satellite transmissions; includes phones known as cellular (or cell) phones, hand phones, as well as satellite phones.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfTelephone-f932b45-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/f932b45</r:UserID>
+         <l:CategoryName>Mobile.PersonalPrivate</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Mobile telephone: Personal/Private</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">A mobile telephone belonging to a private person.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfTelephone-d2278ff-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/d2278ff</r:UserID>
+         <l:CategoryName>Mobile.OrganizationBusiness</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Mobile telephone: Organization/Business</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">A mobile telephone of an organization, institution or business, or the mobile work telephone of a person employed by the organization.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfTelephone-9810aa2-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/9810aa2</r:UserID>
+         <l:CategoryName>Fax</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Fax</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">A fax (short for facsimile) is a device used for the telephonic transmission of scanned-in printed material (text or images), usually to a telephone number associated with a printer or other output device; also known as telecopying.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfTelephone-b46b400-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/b46b400</r:UserID>
+         <l:CategoryName>Fax.PersonalPrivate</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Fax: Personal/Private</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">A fax belonging to a private person.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfTelephone-40a4f9e-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/40a4f9e</r:UserID>
+         <l:CategoryName>Fax.OrganizationBusiness</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Fax: Organization/Business</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">The fax of an organization, institution or business, or the work fax of a person employed by the organization.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfTelephone-6311ae1-Category</r:ID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfTelephone/1.0.0/6311ae1</r:UserID>
+         <l:CategoryName>Other</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="en">Other</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="en">Use when the type of telephone is known, but not found in the list.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+</ddi:FragmentInstance>
