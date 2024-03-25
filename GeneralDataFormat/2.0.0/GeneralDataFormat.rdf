@@ -4,7 +4,7 @@
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:dcterms="http://purl.org/dc/terms/"
 >
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/"/>
       <skos:notation xml:lang="en">GeneralDataFormat</skos:notation>
@@ -44,23 +44,23 @@
       <dcterms:title xml:lang="sv">Typ av dataformat</dcterms:title>
       <dcterms:description xml:lang="sv">Beskriver fysiskt/-a format f&#xf6;r de data som dokumenteras i en studieenhets logiska produkt/-er.</dcterms:description>
       <skos:prefLabel xml:lang="sv">Typ av dataformat</skos:prefLabel>
-      <owl:versionInfo>2.0.3</owl:versionInfo>
+      <owl:versionInfo>2.0.0</owl:versionInfo>
       <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
       <dcterms:rights>Copyright &#xa9;DDI Alliance 2019</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/8732239"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/9dffbf6"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/5311744"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/c9347b7"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/b22f041"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/34e2d19"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/719d067"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/cec124a"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/31a45a8"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/6311ae1"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/8732239"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/9dffbf6"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/5311744"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/c9347b7"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/b22f041"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/34e2d19"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/719d067"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/cec124a"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/31a45a8"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/6311ae1"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/8732239">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/8732239">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/"/>
       <skos:notation xml:lang="en">Numeric</skos:notation>
       <skos:prefLabel xml:lang="en">Numeric</skos:prefLabel>
       <skos:definition xml:lang="en">Data consisting largely of values expressed as digits from 0 to 9 and, optionally, signs for negative values, decimal points, or letters only when intended to represent numbers (for example, A-F or a-f in hexadecimal).</skos:definition>
@@ -87,9 +87,9 @@
       <skos:prefLabel xml:lang="sv">Numeriska</skos:prefLabel>
       <skos:definition xml:lang="sv">Data som fr&#xe4;mst best&#xe5;r av v&#xe4;rden som uttrycks med siffrorna 0 till 9 och eventuellt tecken f&#xf6;r negativa v&#xe4;rden, decimalkomman, och bokst&#xe4;ver endast d&#xe5; de &#xe4;r avsedda att representera siffror (t.ex. A-F eller a-f f&#xf6;r hexadecimala tal).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/9dffbf6">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/9dffbf6">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/"/>
       <skos:notation xml:lang="en">Text</skos:notation>
       <skos:prefLabel xml:lang="en">Text</skos:prefLabel>
       <skos:definition xml:lang="en">Data consisting largely of text, including letters, numbers, and special characters or symbols used in writing for punctuation, abbreviation, etc. For example, interview transcriptions, narratives or essays written by study participants, newspaper articles, etc.</skos:definition>
@@ -116,9 +116,9 @@
       <skos:prefLabel xml:lang="sv">Text</skos:prefLabel>
       <skos:definition xml:lang="sv">Data som fr&#xe4;mst best&#xe5;r av text, inklusive bokst&#xe4;ver, siffror och specialtecken eller symboler som anv&#xe4;nds i skrift f&#xf6;r interpunktion, f&#xf6;rkortningar m.m. Exempel: intervjutranskripter, ber&#xe4;ttelser eller uppsatser skrivna av studiedeltagarna, tidningsartiklar, m.m.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/5311744">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/5311744">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/"/>
       <skos:notation xml:lang="en">StillImage</skos:notation>
       <skos:prefLabel xml:lang="en">Still image</skos:prefLabel>
       <skos:definition xml:lang="en">Static images, such as graphs, drawings, photographs, diagnostic/medical images like X-rays, etc.</skos:definition>
@@ -145,9 +145,9 @@
       <skos:prefLabel xml:lang="sv">Stillbild</skos:prefLabel>
       <skos:definition xml:lang="sv">Statiska bilder som t.ex. diagram, ritningar, fotografier, diagnostiska/medicinska bilder (r&#xf6;ntgenbilder m.m.).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/c9347b7">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/c9347b7">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/"/>
       <skos:notation xml:lang="en">Geospatial</skos:notation>
       <skos:prefLabel xml:lang="en">Geospatial</skos:prefLabel>
       <skos:definition xml:lang="en">Geospatial data are any type of data with spatial coordinates that allow them to be mapped to the Earth&apos;s surface. They can represent physical objects, discrete areas or continuous surfaces. Discrete geospatial data are usually represented using vector data consisting of points, lines and polygons, while continuous geospatial data are usually represented by raster data, consisting of a grid of cells that each has its own value. Any number of applications in a wide range of areas produce geospatial data, such as GIS, Remote Sensing equipment, GPS units, archaeological total stations, manual mapping and computer-aided design (CAD), in a number of formats, including images, vector, text, and tabular data. Vector-based geospatial data include tables listing archaeological sites along with their coordinates, text-based files (e.g. XML) containing coordinates and topology for historic road networks, voting figures for political parties by administrative area. Raster-based geospatial data include satellite images, aerial photographs, scanned maps, and digital maps of elevations, vegetation, land-use, sea surface temperatures, air pollution, soil-types, etc.</skos:definition>
@@ -174,9 +174,9 @@
       <skos:prefLabel xml:lang="sv">Geospatiala</skos:prefLabel>
       <skos:definition xml:lang="sv">Geospatiala data &#xe4;r alla sorters data med spatiella koordinater som till&#xe5;ter dem att mappas p&#xe5; jordens yta. De kan representera fysiska f&#xf6;rem&#xe5;l, diskreta omr&#xe5;den eller kontinuerliga ytor. Diskreta geospatiala data representeras vanligtvis med vektordata som best&#xe5;r av punkter, linjer och polygoner, medan kontinuerliga geospatiala data vanligen representeras med rasterdata som best&#xe5;r av ett rutn&#xe4;t d&#xe4;r varje ruta har sitt eget v&#xe4;rde. Ett stort antal program inom ett brett spektrum av omr&#xe5;den producerar geospatiala data, t.ex. GIS, fj&#xe4;rranalysutrustning, GPS-enheter, arkeologiska totalstationer, manuell kartritning och CAD (computer-aided design), i ett flertal format, inklusive bilder, vektorfiler, text och tabelldata. Vektorbaserade geospatiala data inkluderar tabeller &#xf6;ver arkeologiska utgr&#xe4;vningar tillsammans med deras koordinater, text-baserade filer (t.ex. XML) med koordinater och topologi f&#xf6;r historiska v&#xe4;gn&#xe4;t, och r&#xf6;stsiffror f&#xf6;r politiska partier inom olika administrative omr&#xe5;den. Rasterbaserade geospatiala data inkluderar satellitbilder, flygfoton, skannade kartor och digitala kartor &#xf6;ver h&#xf6;jdskillnader, vegetation, anv&#xe4;ndning av landomr&#xe5;den, havsytans temperatur, luftf&#xf6;roreningar, jordtyper, m.m.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/b22f041">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/b22f041">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/"/>
       <skos:notation xml:lang="en">Audio</skos:notation>
       <skos:prefLabel xml:lang="en">Audio</skos:prefLabel>
       <skos:definition xml:lang="en">Recorded sound, including voice, music, etc.</skos:definition>
@@ -203,9 +203,9 @@
       <skos:prefLabel xml:lang="sv">Audio</skos:prefLabel>
       <skos:definition xml:lang="sv">Inspelat ljud, inklusive tal, musik, m.m.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/34e2d19">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/34e2d19">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/"/>
       <skos:notation xml:lang="en">Video</skos:notation>
       <skos:prefLabel xml:lang="en">Video</skos:prefLabel>
       <skos:definition xml:lang="en">Moving images. May include films, animation, digital recordings, visual output from simulations, recorded television programs, etc. May be mute or may include synchronized sound.</skos:definition>
@@ -232,9 +232,9 @@
       <skos:prefLabel xml:lang="sv">Video</skos:prefLabel>
       <skos:definition xml:lang="sv">R&#xf6;rliga bilder. Kan inkludera film, animation, digitala inspelningar, visuella utdata fr&#xe5;n simulationer, inspelade TV-program, m.m. Kan vara ljudl&#xf6;sa eller med synkroniserat ljud.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/719d067">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/719d067">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/"/>
       <skos:notation xml:lang="en">Software</skos:notation>
       <skos:prefLabel xml:lang="en">Software</skos:prefLabel>
       <skos:definition xml:lang="en">Computer program(s) in source code (human-readable) or compiled form.</skos:definition>
@@ -261,9 +261,9 @@
       <skos:prefLabel xml:lang="sv">Programvara</skos:prefLabel>
       <skos:definition xml:lang="sv">Datorprogram som k&#xe4;llkod (m&#xe4;nniskol&#xe4;slig) eller i kompilerad form.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/cec124a">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/cec124a">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/"/>
       <skos:notation xml:lang="en">InteractiveResource</skos:notation>
       <skos:prefLabel xml:lang="en">Interactive resource</skos:prefLabel>
       <skos:definition xml:lang="en">A resource requiring interaction from the user to be understood, executed, or experienced. For example, training modules, query/response portals, files that require action from the user, etc.</skos:definition>
@@ -290,9 +290,9 @@
       <skos:prefLabel xml:lang="sv">Interaktiv resurs</skos:prefLabel>
       <skos:definition xml:lang="sv">En resurs som kr&#xe4;ver interaktion fr&#xe5;n anv&#xe4;ndaren f&#xf6;r att f&#xf6;rst&#xe5;s, k&#xf6;ras eller upplevas. Exempel: tr&#xe4;ningsmoduler, portaler f&#xf6;r fr&#xe5;gor och svar, filer som kr&#xe4;ver att anv&#xe4;ndaren g&#xf6;r n&#xe5;got med dem, m.m.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/31a45a8">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/31a45a8">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/"/>
       <skos:notation xml:lang="en">ThreeD</skos:notation>
       <skos:prefLabel xml:lang="en">3D</skos:prefLabel>
       <skos:definition xml:lang="en">Virtual three-dimensional representations of objects, architecture, places, etc.</skos:definition>
@@ -319,9 +319,9 @@
       <skos:prefLabel xml:lang="sv">3D</skos:prefLabel>
       <skos:definition xml:lang="sv">Virtuell, tredimensionell representation av f&#xf6;rem&#xe5;l, arkitektur, platser, m.m.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/6311ae1">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/6311ae1">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/GeneralDataFormat/2.0.0/"/>
       <skos:notation xml:lang="en">Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use when the kind of data format is known, but not found in the list.</skos:definition>

@@ -4,7 +4,7 @@
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:dcterms="http://purl.org/dc/terms/"
 >
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/"/>
       <skos:notation xml:lang="en">ResponseUnit</skos:notation>
@@ -14,54 +14,54 @@
       <dcterms:title xml:lang="no">Svarenhet</dcterms:title>
       <dcterms:description xml:lang="no">Indikerer enheten som har gitt informasjonen som er i variabelen.</dcterms:description>
       <skos:prefLabel xml:lang="no">Svarenhet</skos:prefLabel>
-      <owl:versionInfo>1.0.2</owl:versionInfo>
+      <owl:versionInfo>1.0.0</owl:versionInfo>
       <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
       <dcterms:rights>Copyright &#xa9;DDI Alliance 2020</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/ad6e765"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/85c2695"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/f56ec2a"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/1b778c7"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/6311ae1"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/ad6e765"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/85c2695"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/f56ec2a"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/1b778c7"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/6311ae1"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/ad6e765">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/ad6e765">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/"/>
       <skos:notation xml:lang="en">Self</skos:notation>
       <skos:prefLabel xml:lang="en">Self</skos:prefLabel>
       <skos:definition xml:lang="en">Unit of response is same as unit of observation/analysis.</skos:definition>
       <skos:prefLabel xml:lang="no">Selv</skos:prefLabel>
       <skos:definition xml:lang="no">Svarenheten er den samme som observasjons-/analyseenheten.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/85c2695">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/85c2695">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/"/>
       <skos:notation xml:lang="en">Informant</skos:notation>
       <skos:prefLabel xml:lang="en">Informant</skos:prefLabel>
       <skos:definition xml:lang="en">Unit of response is different than the unit of observation as part of the study design, and the identity of the response unit is also pre-determined by the study design. Such studies are actually called &quot;informant surveys&quot; and they involve, for instance, obtaining information about a community from certain select members who hold specific information, like church leaders, business owners or leaders, physicians, school teachers, civic leaders, etc. Or, if a business or organization is the unit of observation, information may be sought at different administrative/professional levels, etc.</skos:definition>
       <skos:prefLabel xml:lang="no">Informant</skos:prefLabel>
       <skos:definition xml:lang="no">Svarenheten er forskjellig fra observasjonsenheten i studiedesignet, og identiteten til svarenheten er ogs&#xe5; forh&#xe5;ndsbestemt av studiedesignet. Slike studer blir faktisk kalt &quot;informantunders&#xf8;kelser&quot; og de involverer, for eksempel, innhenting av informasjon om et fellesskap fra visse utvalgte medlemmer som har spesifikk informasjon, som kirkeledere, bedriftseiere eller ledere, leger, l&#xe6;rere, samfunnsledere, etc. Eller, hvis en bedrift eller organisasjon er observasjonsenheten, kan informasjonen v&#xe6;re ettertraktet p&#xe5; forskjellige administrative/faglige niv&#xe5;er, etc.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/f56ec2a">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/f56ec2a">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/"/>
       <skos:notation xml:lang="en">Proxy</skos:notation>
       <skos:prefLabel xml:lang="en">Proxy</skos:prefLabel>
       <skos:definition xml:lang="en">Unit of response is different than the unit of analysis because the sampled unit is unavailable/unable to participate. Proxies may be allowed by the study design, but their identity is not specifically designated (for example, anyone in the household can provide information about another household member, or any available student can provide information about another student, etc.).</skos:definition>
       <skos:prefLabel xml:lang="no">Fullmektig</skos:prefLabel>
       <skos:definition xml:lang="no">Svarenheten er forskjellig fra analyseenheten fordi utvalgsenheten er utilgjengelig/ikke har mulighet til &#xe5; delta. Fullmektige kan v&#xe6;re tillatt av studiedesignet, men deres identitet er ikke spesifikt utpekt (for eksempel, hvem som helst i husstanden kan gi informasjon om en annen husstandsmedlem, eller hvilken som helst tilgjengelig student kan gi informasjon om en annen student, etc.).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/1b778c7">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/1b778c7">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/"/>
       <skos:notation xml:lang="en">Interviewer</skos:notation>
       <skos:prefLabel xml:lang="en">Interviewer</skos:prefLabel>
       <skos:definition xml:lang="en">Data are entered directly by the interviewer, as a result of his/her own observations, and not by eliciting answers to a question.</skos:definition>
       <skos:prefLabel xml:lang="no">Intervjuer</skos:prefLabel>
       <skos:definition xml:lang="no">Data er direkte registrert av intervjueren som et resultat av hans eller hennes egne observasjoner, og ikke ved &#xe5; fremkalle svar til et sp&#xf8;rsm&#xe5;l.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/6311ae1">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/6311ae1">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/"/>
       <skos:notation xml:lang="en">Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use if the response unit is known, but not found in the list.</skos:definition>

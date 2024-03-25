@@ -4,7 +4,7 @@
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:dcterms="http://purl.org/dc/terms/"
 >
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/"/>
       <skos:notation xml:lang="en">ModeOfCollection</skos:notation>
@@ -41,25 +41,25 @@
       <owl:versionInfo>3.0.0</owl:versionInfo>
       <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
       <dcterms:rights>Copyright &#xa9;DDI Alliance 2020</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/cb20d17"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/35e4248"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/9ec957d"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/08e658a"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/c680d43"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/05aeba4"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/c5564d2"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/4848ed5"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/df9aac3"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/6decc77"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/2906121"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/d9ceca6"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/4f502b5"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/38ceaa4"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/6311ae1"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/cb20d17"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/35e4248"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/9ec957d"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/08e658a"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/c680d43"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/05aeba4"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/c5564d2"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/4848ed5"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/df9aac3"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/6decc77"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/2906121"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/d9ceca6"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/4f502b5"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/38ceaa4"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/6311ae1"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/cb20d17">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/cb20d17">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Interview</skos:notation>
       <skos:prefLabel xml:lang="en">Interview</skos:prefLabel>
       <skos:definition xml:lang="en">A pre-planned communication between two (or more) people - the interviewer(s) and the interviewee(s) - in which information is obtained by the interviewer(s) from the interviewee(s). If group interaction is part of the method, use &quot;Focus group&quot;.</skos:definition>
@@ -81,14 +81,14 @@
       <skos:definition xml:lang="sr">Unapred planirana komunikacija izme&#x111;u dve (ili vi&#x161;e) osoba - anketara i sagovornika (anketiranog), u kojoj informacije dobija anketar od anketiranog. Ukoliko je grupna interakcija deo ove metode, koristite termin &#x201e;Fokus grupa&#x201c;.</skos:definition>
       <skos:prefLabel xml:lang="sv">Intervju</skos:prefLabel>
       <skos:definition xml:lang="sv">Planerad kommunikation mellan tv&#xe5; (eller flera) personer &#x2013; intervjuaren/-na och intervjuobjektet/-en &#x2013; d&#xe4;r intervjuaren/-na f&#xe5;r information fr&#xe5;n intervjuobjektet/-en. Om gruppinteraktion &#xe4;r del av metoden, anv&#xe4;nd &quot;Fokusgrupp&quot;.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/9f669a4"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/ae68e25"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/b0b2868"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/1af2bfa"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/9f669a4"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/ae68e25"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/b0b2868"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/1af2bfa"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/9f669a4">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/9f669a4">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Interview.FaceToFace</skos:notation>
       <skos:prefLabel xml:lang="en">Face-to-face interview</skos:prefLabel>
       <skos:definition xml:lang="en">Data collection method in which a live interviewer conducts a personal interview, presenting questions and entering the responses. Use this broader term if not CAPI or PAPI, or if not known whether CAPI/PAPI or not.</skos:definition>
@@ -110,12 +110,12 @@
       <skos:definition xml:lang="sr">Na&#x10d;in prikupljanja podataka u kojem anketar u&#x17e;ivo vodi usmeni razgovor, postavljajuc&#x301;i pitanja i unosec&#x301;i odgovore. Koristite ovaj &#x161;iri pojam ukoliko nije ta&#x10d;no navedno da se radi o CAPI (Intervju licem u lice: podr&#x17e;an ra&#x10d;unarom) ili PAPI (Intervju licem u lice: bele&#x17e;i se na papiru) ili ukoliko vama nije poznato da li je u pitanju CAPI ili PAPI.</skos:definition>
       <skos:prefLabel xml:lang="sv">Personlig intervju</skos:prefLabel>
       <skos:definition xml:lang="sv">En n&#xe4;rvarande intervjuare genomf&#xf6;r en personlig intervju genom att st&#xe4;lla fr&#xe5;gor och notera svaren. Anv&#xe4;nd denna bredare term om det inte r&#xf6;r sig om CAPI eller PAPI, eller om det inte &#xe4;r k&#xe4;nt huruvida det r&#xf6;r sig om CAPI/PAPI eller inte.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/89e4fb4"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/e477963"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/89e4fb4"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/e477963"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/89e4fb4">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/89e4fb4">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Interview.FaceToFace.CAPIorCAMI</skos:notation>
       <skos:prefLabel xml:lang="en">Face-to-face interview: Computer-assisted (CAPI/CAMI)</skos:prefLabel>
       <skos:definition xml:lang="en">Computer-assisted personal interviewing (CAPI), or computer-assisted mobile interviewing (CAMI). Data collection method in which the interviewer reads questions to the respondents from the screen of a computer, laptop, or a mobile device like tablet or smartphone, and enters the answers in the same device. The administration of the interview is managed by a specifically designed program/application.</skos:definition>
@@ -138,9 +138,9 @@
       <skos:prefLabel xml:lang="sv">Personlig intervju: CAPI/CAMI</skos:prefLabel>
       <skos:definition xml:lang="sv">Datorst&#xf6;dd personlig intervju. Intervjuaren l&#xe4;ser fr&#xe5;gor f&#xf6;r respondenterna fr&#xe5;n en datorsk&#xe4;rm eller mobil enhet (t.ex. surfplatta eller mobiltelefon) och skriver in svaren direkt i datorn. Intervjun hanteras med ett program som utvecklats f&#xf6;r detta syfte.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/e477963">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/e477963">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Interview.FaceToFace.PAPI</skos:notation>
       <skos:prefLabel xml:lang="en">Face-to-face interview: Paper-and-pencil (PAPI)</skos:prefLabel>
       <skos:definition xml:lang="en">Paper-and-pencil interviewing (PAPI). The interviewer uses a traditional paper questionnaire to read the questions and enter the answers.</skos:definition>
@@ -163,9 +163,9 @@
       <skos:prefLabel xml:lang="sv">Personlig intervju: PAPI</skos:prefLabel>
       <skos:definition xml:lang="sv">Papper-och-penna-intervju. Intervjuaren anv&#xe4;nder ett traditionellt fr&#xe5;geformul&#xe4;r p&#xe5; papper f&#xf6;r att l&#xe4;sa fr&#xe5;gorna och skriva ned svaren.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/ae68e25">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/ae68e25">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Interview.Telephone</skos:notation>
       <skos:prefLabel xml:lang="en">Telephone interview</skos:prefLabel>
       <skos:definition xml:lang="en">Interview administered on the telephone. Use this broader term if not CATI, or if not known whether CATI or not.</skos:definition>
@@ -187,11 +187,11 @@
       <skos:definition xml:lang="sr">Intervju administriran telefonom. Koristite ovaj &#x161;iri pojam ukoliko nije spcifikovano da je u pitanu telefonski upitnik podr&#x17e;an ra&#x10d;unarom (CATI) ili ako vam nije poznato koji tip telefonskog upitnika je kori&#x161;&#x107;en.</skos:definition>
       <skos:prefLabel xml:lang="sv">Telefonintervju</skos:prefLabel>
       <skos:definition xml:lang="sv">Intervju som genomf&#xf6;rs &#xf6;ver telefon. Anv&#xe4;nd denna bredare term om det inte r&#xf6;r sig om CATI, eller om det inte &#xe4;r k&#xe4;nt huruvida det r&#xf6;r sig om CATI.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/1498dd4"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/1498dd4"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/1498dd4">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/1498dd4">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Interview.Telephone.CATI</skos:notation>
       <skos:prefLabel xml:lang="en">Telephone interview: Computer-assisted (CATI)</skos:prefLabel>
       <skos:definition xml:lang="en">Computer-assisted telephone interviewing (CATI). The interviewer asks questions as directed by a computer, responses are keyed directly into the computer and the administration of the interview is managed by a specifically designed program.</skos:definition>
@@ -214,9 +214,9 @@
       <skos:prefLabel xml:lang="sv">Telefonintervju: CATI</skos:prefLabel>
       <skos:definition xml:lang="sv">Datorst&#xf6;dd telefonintervju. Intervjuaren l&#xe4;ser fr&#xe5;gor f&#xf6;r respondenterna fr&#xe5;n en datorsk&#xe4;rm och skriver in svaren direkt i datorn. Intervjun hanteras genom ett program som utvecklats f&#xf6;r detta syfte.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/b0b2868">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/b0b2868">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Interview.Email</skos:notation>
       <skos:prefLabel xml:lang="en">E-mail interview</skos:prefLabel>
       <skos:definition xml:lang="en">Interviews conducted via e-mail, usually consisting of several e-mail messages that allow the discussion to continue beyond the first set of questions and answers, or the first e-mail exchange.</skos:definition>
@@ -239,9 +239,9 @@
       <skos:prefLabel xml:lang="sv">E-postintervju</skos:prefLabel>
       <skos:definition xml:lang="sv">Intervju som genomf&#xf6;rs via e-post, vanligtvis &#xf6;ver flera meddelanden som m&#xf6;jligg&#xf6;r att diskussionen forts&#xe4;tter fr&#xe5;n den f&#xf6;rsta upps&#xe4;ttningen av fr&#xe5;gor och svar eller det f&#xf6;rsta utbytet av e-brev.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/1af2bfa">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/1af2bfa">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Interview.WebBased</skos:notation>
       <skos:prefLabel xml:lang="en">Web-based interview</skos:prefLabel>
       <skos:definition xml:lang="en">An interview conducted via the Internet. For example, interviews conducted within online forums or using web-based audio-visual technology that enables the interviewer(s) and interviewee(s) to communicate in real time.</skos:definition>
@@ -264,9 +264,9 @@
       <skos:prefLabel xml:lang="sv">Webbaserad intervju</skos:prefLabel>
       <skos:definition xml:lang="sv">Intervju som genomf&#xf6;rs &#xf6;ver Internet. Exempel inkluderar intervjuer genomf&#xf6;rda p&#xe5; onlineforum eller med hj&#xe4;lp av webbaserad audiovisuell teknik som till&#xe5;ter att intervjuare och intervjuobjekt kan kommunicera i realtid.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/35e4248">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/35e4248">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">SelfAdministeredQuestionnaire</skos:notation>
       <skos:prefLabel xml:lang="en">Self-administered questionnaire</skos:prefLabel>
       <skos:definition xml:lang="en">Data collection method in which the respondent reads or listens to the questions, and enters the responses by him/herself; no live interviewer is present, or participates in the questionnaire administration. If possible, use a narrower term. Use this broader term if the method is not described by any of the narrower terms - for example, for PDF and diskette questionnaires.</skos:definition>
@@ -288,15 +288,15 @@
       <skos:definition xml:lang="sr">Metoda prikupljanja podataka u kojoj ispitanik &#x10d;ita ili slu&#x161;a pitanja i unosi odgovore; nema &#x17e;ivog anketara ili on ne u&#x10d;estvuje u administraciji upitnika. Ako je moguc&#x301;e, koristite u&#x17e;i termin. Upotrebite ovaj &#x161;iri pojam ako metod nije opisan nijednim u&#x17e;im terminom.</skos:definition>
       <skos:prefLabel xml:lang="sv">Sj&#xe4;lvadministrerat fr&#xe5;geformul&#xe4;r</skos:prefLabel>
       <skos:definition xml:lang="sv">Respondenten l&#xe4;ser eller lyssnar p&#xe5; fr&#xe5;gorna och noterar sj&#xe4;lv svaren; ingen intervjuare &#xe4;r n&#xe4;rvarande eller deltar i administrerandet av fr&#xe5;geformul&#xe4;ret. Anv&#xe4;nd om m&#xf6;jligt en smalare term. Anv&#xe4;nd denna bredare term om metoden inte beskrivits av n&#xe5;gon av de mer precisa termerna.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/69a46ca"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/6255fce"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/ddaefe8"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/557586d"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/e48ace5"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/69a46ca"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/6255fce"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/ddaefe8"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/557586d"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/e48ace5"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/69a46ca">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/69a46ca">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">SelfAdministeredQuestionnaire.Email</skos:notation>
       <skos:prefLabel xml:lang="en">Self-administered questionnaire: E-mail</skos:prefLabel>
       <skos:definition xml:lang="en">Self-administered survey in which questions are presented to the respondent in the text body of an e-mail or as an attachment to an e-mail, but not as a link to a web-based questionnaire. Responses are also sent back via e-mail, in the e-mail body or as an attachment.</skos:definition>
@@ -319,9 +319,9 @@
       <skos:prefLabel xml:lang="sv">Sj&#xe4;lvadministrerat fr&#xe5;geformul&#xe4;r: e-post</skos:prefLabel>
       <skos:definition xml:lang="sv">Fr&#xe5;gor skickas till respondenten i br&#xf6;dtexten p&#xe5;, eller som en bilaga till, ett e-brev, inte som en l&#xe4;nk till ett fr&#xe5;geformul&#xe4;r p&#xe5; webben. Svaren skickas tillbaka med e-post, i br&#xf6;dtexten eller som bilaga.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/6255fce">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/6255fce">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">SelfAdministeredQuestionnaire.Paper</skos:notation>
       <skos:prefLabel xml:lang="en">Self-administered questionnaire: Paper</skos:prefLabel>
       <skos:definition xml:lang="en">Self-administered survey using a traditional paper questionnaire delivered and/or collected by mail (postal services), by fax, or in person by either interviewer, or respondent.</skos:definition>
@@ -344,9 +344,9 @@
       <skos:prefLabel xml:lang="sv">Sj&#xe4;lvadministrerat fr&#xe5;geformul&#xe4;r: papper</skos:prefLabel>
       <skos:definition xml:lang="sv">Sj&#xe4;lvadministrerad surveyunders&#xf6;kning som anv&#xe4;nder traditionella fr&#xe5;geformul&#xe4;r p&#xe5; papper, vilka skickas ut och/eller in via post eller fax, eller l&#xe4;mnas &#xf6;ver personligen av antingen intervjuaren eller intervjuobjektet.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/ddaefe8">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/ddaefe8">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">SelfAdministeredQuestionnaire.SMSorMMS</skos:notation>
       <skos:prefLabel xml:lang="en">Self-administered questionnaire: Messaging (SMS/MMS)</skos:prefLabel>
       <skos:definition xml:lang="en">Self-administered survey in which the respondents receive the questions incorporated in SMS (text messages) or MMS (messages including multimedia content) and send their replies in the same format.</skos:definition>
@@ -369,9 +369,9 @@
       <skos:prefLabel xml:lang="sv">Sj&#xe4;lvadministrerat fr&#xe5;geformul&#xe4;r: SMS/MMS</skos:prefLabel>
       <skos:definition xml:lang="sv">Sj&#xe4;lvadministrerad surveyunders&#xf6;kning d&#xe4;r fr&#xe5;gor och svar inkluderas i SMS (textmeddelanden) eller MMS (meddelanden med multimedia-inneh&#xe5;ll) som skickas mellan mobiltelefoner.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/557586d">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/557586d">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">SelfAdministeredQuestionnaire.CAWI</skos:notation>
       <skos:prefLabel xml:lang="en">Self-administered questionnaire: Web-based (CAWI)</skos:prefLabel>
       <skos:definition xml:lang="en">Computer-assisted web interviewing (CAWI). Data are collected using a web questionnaire, produced with a program for creating web surveys. The program can customize the flow of the questionnaire based on the answers provided, and can allow for the questionnaire to contain pictures, audio and video clips, links to different web pages etc.</skos:definition>
@@ -394,9 +394,9 @@
       <skos:prefLabel xml:lang="sv">Sj&#xe4;lvadministrerat fr&#xe5;geformul&#xe4;r: webbaserat</skos:prefLabel>
       <skos:definition xml:lang="sv">Computer-assisted web interviewing (CAWI). Data samlas in med ett webbformul&#xe4;r som producerats av ett program som skapar webbsurveyer. Programmet kan anpassa fl&#xf6;det i fr&#xe5;geformul&#xe4;ret utifr&#xe5;n svaren som ges och det g&#xe5;r att inkludera bilder, ljud- och videoklipp, l&#xe4;nkar till andra webbsidor m.m. (Anpassad fr&#xe5;n Wikipedia.)</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/e48ace5">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/e48ace5">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">SelfAdministeredQuestionnaire.CASI</skos:notation>
       <skos:prefLabel xml:lang="en">Self-administered questionnaire: Computer-assisted (CASI)</skos:prefLabel>
       <skos:definition xml:lang="en">Computer-assisted self-interview (CASI). Respondents enter the responses into a computer (desktop, laptop, Palm/PDA, tablet, etc.) by themselves. The administration of the questionnaire is managed by a specifically designed program/application but there is no real-time data transfer as in CAWI, the answers are stored on the device used for the interview. The questionnaire may be fixed form or interactive. Includes VCASI (Video computer-assisted self-interviewing), ACASI (Audio computer-assisted self-interviewing) and TACASI (Telephone audio computer-assisted self-interviewing).</skos:definition>
@@ -419,9 +419,9 @@
       <skos:prefLabel xml:lang="sv">Sj&#xe4;lvadministrerat fr&#xe5;geformul&#xe4;r: med datorst&#xf6;d (CASI)</skos:prefLabel>
       <skos:definition xml:lang="sv">Computer-assisted self-interview (CASI). Respondenterna noterar sj&#xe4;lva sina svar i en dator (station&#xe4;r eller b&#xe4;rbar, Palm/PDA, surfplatta e. dyl.). Fr&#xe5;geformul&#xe4;ret administreras med ett datorprogram som utvecklats f&#xf6;r detta syfte men data &#xf6;verf&#xf6;rs inte i realtid som i fallet med CAWI: svaren lagras p&#xe5; datorn som anv&#xe4;nds f&#xf6;r intervjun. Fr&#xe5;geformul&#xe4;ret kan vara statiskt eller interaktivt. Omfattar VCASI (Video Computer-Assisted Self-Interview), ACASI (Audio computer-assisted self-interview) och TCASI (Telephone audio computer-assisted self-interview).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/9ec957d">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/9ec957d">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">FocusGroup</skos:notation>
       <skos:prefLabel xml:lang="en">Focus group</skos:prefLabel>
       <skos:definition xml:lang="en">A group discussion on a particular topic, organized for research purposes. The individuals are selected with relevance to the topic, and interaction among the participants is used as part of the method.</skos:definition>
@@ -443,13 +443,13 @@
       <skos:definition xml:lang="sr">Grupna diskusija o odre&#x111;enoj temi, organizovana u istra&#x17e;iva&#x10d;ke svrhe. Pojedinci su odabrani u skladu sa temom, a interakcija izme&#x111;u u&#x10d;esnika koristi se kao deo metode.</skos:definition>
       <skos:prefLabel xml:lang="sv">Fokusgrupp</skos:prefLabel>
       <skos:definition xml:lang="sv">En gruppdiskussion om ett visst &#xe4;mne som anordnats i forskningssyfte. Deltagarna har valts ut med h&#xe4;nsyn till &#xe4;mnet och interaktionen mellan deltagarna utg&#xf6;r en del av forskningsmetoden.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/00b3692"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/2b4ef44"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/4da1255"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/00b3692"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/2b4ef44"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/4da1255"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/00b3692">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/00b3692">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">FocusGroup.FaceToFace</skos:notation>
       <skos:prefLabel xml:lang="en">Face-to-face focus group</skos:prefLabel>
       <skos:definition xml:lang="en">The focus group participants meet in person to conduct the discussion.</skos:definition>
@@ -472,9 +472,9 @@
       <skos:prefLabel xml:lang="sv">Fokusgrupp: traditionell</skos:prefLabel>
       <skos:definition xml:lang="sv">Fokusgruppens medlemmar tr&#xe4;ffas p&#xe5; samma plats f&#xf6;r att diskutera.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/2b4ef44">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/2b4ef44">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">FocusGroup.Telephone</skos:notation>
       <skos:prefLabel xml:lang="en">Telephone focus group</skos:prefLabel>
       <skos:definition xml:lang="en">The focus group discussion is conducted over the telephone.</skos:definition>
@@ -497,9 +497,9 @@
       <skos:prefLabel xml:lang="sv">Fokusgrupp: telefon</skos:prefLabel>
       <skos:definition xml:lang="sv">Fokusgruppens diskussion f&#xf6;rs &#xf6;ver telefon.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/4da1255">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/4da1255">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">FocusGroup.Online</skos:notation>
       <skos:prefLabel xml:lang="en">Online focus group</skos:prefLabel>
       <skos:definition xml:lang="en">The focus group discussion is conducted over the Internet in an interactive manner.</skos:definition>
@@ -522,9 +522,9 @@
       <skos:prefLabel xml:lang="sv">Fokusgrupp: virtuell</skos:prefLabel>
       <skos:definition xml:lang="sv">Fokusgruppens diskussion f&#xf6;rs interaktivt &#xf6;ver Internet. Kallas &#xe4;ven IT-st&#xf6;dd fokusgrupp.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/08e658a">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/08e658a">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">SelfAdministeredWritingsAndDiaries</skos:notation>
       <skos:prefLabel xml:lang="en">Self-administered writings and/or diaries</skos:prefLabel>
       <skos:definition xml:lang="en">Narratives, stories, diaries, and written texts created by the research subject.</skos:definition>
@@ -546,13 +546,13 @@
       <skos:definition xml:lang="sr">Narativi (besede), pri&#x10d;e, dnevnici i pisani tekstovi koje je kreirao subjekat istra&#x17e;ivanja.</skos:definition>
       <skos:prefLabel xml:lang="sv">Sj&#xe4;lvadministrerad text och/eller dagb&#xf6;cker</skos:prefLabel>
       <skos:definition xml:lang="sv">Narrativ, ber&#xe4;ttelser, dagb&#xf6;cker och andra nedskrivna texter skapade av forskningspersonerna.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/fe226ad"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/e5bef42"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/9e67a7c"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/fe226ad"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/e5bef42"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/9e67a7c"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/fe226ad">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/fe226ad">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">SelfAdministeredWritingsAndDiaries.Email</skos:notation>
       <skos:prefLabel xml:lang="en">Self-administered writings and/or diaries: E-mail</skos:prefLabel>
       <skos:definition xml:lang="en">Narratives, stories, diaries, and written texts submitted via e-mail messages.</skos:definition>
@@ -575,9 +575,9 @@
       <skos:prefLabel xml:lang="sv">Sj&#xe4;lvadministrerad text och/eller dagb&#xf6;cker: e-post</skos:prefLabel>
       <skos:definition xml:lang="sv">Narrativ, ber&#xe4;ttelser, dagb&#xf6;cker och andra nedskrivna texter som skickas in via e-post.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/e5bef42">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/e5bef42">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">SelfAdministeredWritingsAndDiaries.Paper</skos:notation>
       <skos:prefLabel xml:lang="en">Self-administered writings and/or diaries: Paper</skos:prefLabel>
       <skos:definition xml:lang="en">Narratives, stories, diaries, and written texts created and collected in paper form.</skos:definition>
@@ -600,9 +600,9 @@
       <skos:prefLabel xml:lang="sv">Sj&#xe4;lvadministrerad text och/eller dagb&#xf6;cker: papper</skos:prefLabel>
       <skos:definition xml:lang="sv">Narrativ, ber&#xe4;ttelser, dagb&#xf6;cker och andra nedskrivna texter som skapats och samlats in p&#xe5; papper.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/9e67a7c">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/9e67a7c">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">SelfAdministeredWritingsAndDiaries.WebBased</skos:notation>
       <skos:prefLabel xml:lang="en">Self-administered writings and/or diaries: Web-based</skos:prefLabel>
       <skos:definition xml:lang="en">Narratives, stories, diaries, and written texts gathered from Internet sources, e.g. websites, blogs, discussion forums.</skos:definition>
@@ -625,9 +625,9 @@
       <skos:prefLabel xml:lang="sv">Sj&#xe4;lvadministrerad text och/eller dagb&#xf6;cker: webbaserat</skos:prefLabel>
       <skos:definition xml:lang="sv">Narrativ, ber&#xe4;ttelser, dagb&#xf6;cker och andra nedskrivna texter som samlats in fr&#xe5;n Internet-k&#xe4;llor, t.ex. webbplatser, bloggar, diskussionsforum.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/c680d43">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/c680d43">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Observation</skos:notation>
       <skos:prefLabel xml:lang="en">Observation</skos:prefLabel>
       <skos:definition xml:lang="en">Research method that involves collecting data as they occur (for example, observing behaviors, events, development of condition or disease, etc.), without attempting to manipulate any of the independent variables.</skos:definition>
@@ -649,13 +649,13 @@
       <skos:definition xml:lang="sr">Metoda istra&#x17e;ivanja koja uklju&#x10d;uje prikupljanje podataka kako se pojavljuju (na primer, posmatranje pona&#x161;anja, doga&#x111;aja, razvoj stanja ili bolesti itd.), bez poku&#x161;aja manipulacije bilo kojom nezavisnom promenljivom.</skos:definition>
       <skos:prefLabel xml:lang="sv">Observation</skos:prefLabel>
       <skos:definition xml:lang="sv">Forskningsmetod som omfattar att samla in data om f&#xf6;reteelser n&#xe4;r de upptr&#xe4;der (t.ex. observationer av beteenden, h&#xe4;ndelser m.m.) utan att f&#xf6;rs&#xf6;ka p&#xe5;verka n&#xe5;gra av de oberoende variablerna.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/bdc4aac"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/e679c7f"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/40b8b0c"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/bdc4aac"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/e679c7f"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/40b8b0c"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/bdc4aac">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/bdc4aac">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Observation.Field</skos:notation>
       <skos:prefLabel xml:lang="en">Field observation</skos:prefLabel>
       <skos:definition xml:lang="en">Observation that is conducted in a natural environment.</skos:definition>
@@ -677,12 +677,12 @@
       <skos:definition xml:lang="sr">Opservacije koje se sprovode u prirodnom okru&#x17e;enju.</skos:definition>
       <skos:prefLabel xml:lang="sv">F&#xe4;ltobservation</skos:prefLabel>
       <skos:definition xml:lang="sv">Observation som utf&#xf6;rs i en naturlig milj&#xf6;.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/3cee522"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/8245871"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/3cee522"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/8245871"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/e679c7f">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/e679c7f">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Observation.Laboratory</skos:notation>
       <skos:prefLabel xml:lang="en">Laboratory observation</skos:prefLabel>
       <skos:definition xml:lang="en">Observation that is conducted in a controlled, artificially created setting. For example, observing children&apos;s play in a laboratory playroom.</skos:definition>
@@ -704,12 +704,12 @@
       <skos:definition xml:lang="sr">Posmatranje koje se izvodi u kontrolisanom, ve&#x161;ta&#x10d;ki stvorenom okru&#x17e;enju. Na primer, posmatranje igre dece u laboratorijskoj igraonici.</skos:definition>
       <skos:prefLabel xml:lang="sv">Laboratorieobservation</skos:prefLabel>
       <skos:definition xml:lang="sv">Observation som utf&#xf6;rs i en kontrollerad, konstgjord milj&#xf6;. Exempel: observation av barns lek i ett laboratorielekrum.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/2a58349"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/68b02fb"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/2a58349"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/68b02fb"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/2a58349">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/2a58349">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Observation.Laboratory.Participant</skos:notation>
       <skos:prefLabel xml:lang="en">Participant laboratory observation</skos:prefLabel>
       <skos:definition xml:lang="en">Type of laboratory observation in which the researcher interacts with the subjects and often plays a role in the social situation under observation. For example, observing children&apos;s play in a laboratory playroom with the researcher taking part in the play.</skos:definition>
@@ -732,9 +732,9 @@
       <skos:prefLabel xml:lang="sv">Deltagande laboratorieobservation</skos:prefLabel>
       <skos:definition xml:lang="sv">Laboratorieobservation d&#xe4;r forskaren interagerar med forskningsobjekten och ofta har en funktion i den sociala situation som observeras. Exempel: observation av barns lek i ett laboratorielekrum d&#xe4;r forskaren deltar i leken.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/40b8b0c">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/40b8b0c">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Observation.ComputerBased</skos:notation>
       <skos:prefLabel xml:lang="en">Computer-based observation</skos:prefLabel>
       <skos:definition xml:lang="en">Type of observation in which data regarding computer usage are being collected by software that can be built into the computer program itself or can be a separate program. Information may be collected about the number of users, the ways in which users interact with the program(s), how much time they spend on a page, how they use specific sections of applications, how they navigate from page to page or from one application to another, etc.</skos:definition>
@@ -757,9 +757,9 @@
       <skos:prefLabel xml:lang="sv">Datorbaserade observation</skos:prefLabel>
       <skos:definition xml:lang="sv">Observation d&#xe4;r data om datoranv&#xe4;ndning samlas in av programvara som inkluderats i ett datorprogram eller som kan vara ett separat program. Information kan samlas in om antal anv&#xe4;ndare, hur anv&#xe4;ndare interagerar med programmet, hur l&#xe4;nge de stannar p&#xe5; en sida, hur de anv&#xe4;nder best&#xe4;mda delar av program, hur de navigerar fr&#xe5;n en sida till en annan eller v&#xe4;xlar mellan program m.m.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/3cee522">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/3cee522">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Observation.Field.Participant</skos:notation>
       <skos:prefLabel xml:lang="en">Participant field observation</skos:prefLabel>
       <skos:definition xml:lang="en">Type of field observation in which the researcher interacts with the subjects and often plays a role in the social situation under observation.</skos:definition>
@@ -782,9 +782,9 @@
       <skos:prefLabel xml:lang="sv">Deltagande f&#xe4;ltobservation</skos:prefLabel>
       <skos:definition xml:lang="sv">F&#xe4;ltobservation d&#xe4;r forskaren interagerar med forskningsobjekten och ofta har en funktion i den sociala situation som observeras.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/8245871">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/8245871">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Observation.Field.Nonparticipant</skos:notation>
       <skos:prefLabel xml:lang="en">Non-participant field observation</skos:prefLabel>
       <skos:definition xml:lang="en">Observation that is conducted in a natural, non-controlled setting without any interaction between the researcher and his/her subjects.</skos:definition>
@@ -807,9 +807,9 @@
       <skos:prefLabel xml:lang="sv">Icke-deltagande f&#xe4;ltobservation</skos:prefLabel>
       <skos:definition xml:lang="sv">Observation som utf&#xf6;rs i en naturlig, icke-kontrollerad milj&#xf6; utan interaktion mellan forskaren och dennes forskningsobjekt.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/68b02fb">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/68b02fb">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Observation.Laboratory.Nonparticipant</skos:notation>
       <skos:prefLabel xml:lang="en">Non-participant laboratory observation</skos:prefLabel>
       <skos:definition xml:lang="en">Type of laboratory observation that is conducted without any interaction between the researcher and his/her subjects.</skos:definition>
@@ -832,9 +832,9 @@
       <skos:prefLabel xml:lang="sv">Icke-deltagande laboratorieobservation</skos:prefLabel>
       <skos:definition xml:lang="sv">Laboratorieobservation som utf&#xf6;rs utan interaktion mellan forskaren och dennes forskningsobjekt.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/05aeba4">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/05aeba4">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Experiment</skos:notation>
       <skos:prefLabel xml:lang="en">Experiment</skos:prefLabel>
       <skos:definition xml:lang="en">Research method involving the manipulation of some or all of the independent variables included in the hypotheses.</skos:definition>
@@ -856,13 +856,13 @@
       <skos:definition xml:lang="sr">Metoda istra&#x17e;ivanja koja uklju&#x10d;uje manipulaciju nekim ili svim nezavisnim varijablama uklju&#x10d;enim u hipoteze.</skos:definition>
       <skos:prefLabel xml:lang="sv">Experiment</skos:prefLabel>
       <skos:definition xml:lang="sv">Forskningsmetod som omfattar att styra vissa eller alla oberoende variabler som ing&#xe5;r i hypotesen.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/28a60a6"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/5ff61de"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/ed0d083"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/28a60a6"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/5ff61de"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/ed0d083"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/28a60a6">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/28a60a6">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Experiment.Laboratory</skos:notation>
       <skos:prefLabel xml:lang="en">Laboratory experiment</skos:prefLabel>
       <skos:definition xml:lang="en">An experiment conducted in a controlled, artificially created physical setting, in which a researcher manipulates one or several independent variables and measures its/their effect on the dependent variable.</skos:definition>
@@ -885,9 +885,9 @@
       <skos:prefLabel xml:lang="sv">Laboratorieexperiment</skos:prefLabel>
       <skos:definition xml:lang="sv">Ett experiment som utf&#xf6;rs i en kontrollerad, konstgjord fysisk milj&#xf6; d&#xe4;r forskaren styr en eller flera oberoende variabler och m&#xe4;ter dess/deras effekt p&#xe5; den beroende variabeln.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/5ff61de">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/5ff61de">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Experiment.FieldIntervention</skos:notation>
       <skos:prefLabel xml:lang="en">Field/Intervention experiment</skos:prefLabel>
       <skos:definition xml:lang="en">An experiment conducted in a natural, uncontrolled setting, in which the researcher manipulates one or several independent variables. Intervention/clinical studies are one example of field experiments.</skos:definition>
@@ -910,9 +910,9 @@
       <skos:prefLabel xml:lang="sv">F&#xe4;ltexperiment</skos:prefLabel>
       <skos:definition xml:lang="sv">Ett experiment som utf&#xf6;rs i en naturlig, okontrollerad milj&#xf6; d&#xe4;r forskaren styr en eller flera oberoende variabler. Interventionsstudier och kliniska studier &#xe4;r exempel p&#xe5; f&#xe4;ltexperiment.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/ed0d083">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/ed0d083">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Experiment.WebBased</skos:notation>
       <skos:prefLabel xml:lang="en">Web-based experiment</skos:prefLabel>
       <skos:definition xml:lang="en">An experiment conducted in the virtual setting of the World Wide Web, in which experimental materials are programmed to implement artificial situations or events to be investigated in a distributed environment. (Reips, U.-D. (2002). Theory and techniques of Web experimenting. In B. Batinic, U.-D. Reips, &amp; M. Bosnjak (Eds.), Online Social Sciences. Seattle: Hogrefe &amp; Huber. Available at: http://www.websm.org/uploadi/editor/Reips_2002_Theory_and_techniques.pdf [07 June 2013])</skos:definition>
@@ -935,9 +935,9 @@
       <skos:prefLabel xml:lang="sv">Webbaserat experiment</skos:prefLabel>
       <skos:definition xml:lang="sv">Ett experiment som utf&#xf6;rs i en virtuell milj&#xf6; p&#xe5; webben, d&#xe4;r experimentella material programmeras f&#xf6;r att skapa artificiella situationer eller h&#xe4;ndelser som unders&#xf6;ks i en distribuerad milj&#xf6;.  (Reips, U.-D. (2002). Theory and techniques of Web experimenting. In B. Batinic, U.-D. Reips, &amp; M. Bosnjak (Eds.), Online Social Sciences. Seattle: Hogrefe &amp; Huber. Tillg&#xe4;nglig: http://www.websm.org/uploadi/editor/Reips_2002_Theory_and_techniques.pdf [8 september, 2016])</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/c5564d2">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/c5564d2">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Recording</skos:notation>
       <skos:prefLabel xml:lang="en">Recording</skos:prefLabel>
       <skos:definition xml:lang="en">Registering by mechanical or electronic means, in a form that allows the information to be retrieved and/or reproduced. For example, images or sounds on disc or magnetic tape.</skos:definition>
@@ -960,9 +960,9 @@
       <skos:prefLabel xml:lang="sv">Inspelning</skos:prefLabel>
       <skos:definition xml:lang="sv">Upptagning, p&#xe5; mekanisk eller elektronisk v&#xe4;g, p&#xe5; s&#xe5;dant s&#xe4;tt att informationen kan &#xe5;terf&#xe5;s och/eller &#xe5;terskapas. Exempel: bilder eller ljud p&#xe5; en cd eller ett magnetband.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/4848ed5">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/4848ed5">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">ContentCoding</skos:notation>
       <skos:prefLabel xml:lang="en">Content coding</skos:prefLabel>
       <skos:definition xml:lang="en">As a mode of secondary data collection, content coding applies coding techniques to transform qualitative data (textual, video, audio or still-image) originally produced for other purposes into quantitative data (expressed in unit-by-variable matrices) in accordance with pre-defined categorization schemes. For example, coded party manifesto data like the &quot;European Parliament Election Study 2009, Manifesto Study&quot; (doi:10.4232/1.10204).</skos:definition>
@@ -985,9 +985,9 @@
       <skos:prefLabel xml:lang="sv">Kodning av inneh&#xe5;ll</skos:prefLabel>
       <skos:definition xml:lang="sv">Som en metod f&#xf6;r sekund&#xe4;r datainsamling till&#xe4;mpar inneh&#xe5;llskodning  kodningstekniker f&#xf6;r att omvandla kvalitativa data (text-, ljud-, video-, eller stillbildsdata) som ursprungligen skapats f&#xf6;r andra syften till kvantitativa data (uttryckta i en matris med enheter och variabler) enligt f&#xf6;rdefinierade kategoriseringsscheman. Exempel: kodade partiprogramsdata som i &quot;European Parliament Election Study 2009, Manifesto Study&quot; (DOI: 10.4232/1.10204).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/df9aac3">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/df9aac3">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Transcription</skos:notation>
       <skos:prefLabel xml:lang="en">Transcription</skos:prefLabel>
       <skos:definition xml:lang="en">Capturing information in writing from a different source, or from a different medium, alphabet, or form of notation, like scientific formulae, or musical notes. For transcribed interviews or observations, it is recommended to document the primary mode of collection, using one of the interview or observation terms.</skos:definition>
@@ -1010,9 +1010,9 @@
       <skos:prefLabel xml:lang="sv">Transkription</skos:prefLabel>
       <skos:definition xml:lang="sv">Att nedteckna information fr&#xe5;n en annan k&#xe4;lla eller fr&#xe5;n ett annat medium, alfabet eller notationssystem, som till exempel vetenskapliga formler eller noter f&#xf6;r musik. F&#xf6;r transkriberade intervjuer och observationer rekommenderas det att man dokumenterar den prim&#xe4;ra insamlingsmetoden med n&#xe5;gon av termerna f&#xf6;r intervjuer eller observationer.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/6decc77">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/6decc77">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">CompilationSynthesis</skos:notation>
       <skos:prefLabel xml:lang="en">Compilation/Synthesis</skos:prefLabel>
       <skos:definition xml:lang="en">Collecting and assembling data from multiple, often heterogeneous sources that have one or more reference points in common, and at least one of the sources was originally produced for other purposes. The data are incorporated in a new entity. For example, providing data on the number of universities in the last 150 years using a variety of available sources (e.g. finance documents, official statistics, university registers), combining survey data with information about geographical areas from official statistics (e.g. population density, doctors per capita, etc.), or using RSS to collect blog posts or tweets, etc.</skos:definition>
@@ -1035,9 +1035,9 @@
       <skos:prefLabel xml:lang="sv">Kompilering/Syntes</skos:prefLabel>
       <skos:definition xml:lang="sv">Att samla in och sammanst&#xe4;lla data fr&#xe5;n flera, ofta heterogena, k&#xe4;llor som har en eller flera gemensamma referenspunkter, och d&#xe4;r minst en av k&#xe4;llorna ursprungligen producerades f&#xf6;r andra syften. Datamaterialet har inf&#xf6;rlivats i ett nytt material. Exempel: data om antalet universitet under de senaste 150 &#xe5;ren som tas fram med hj&#xe4;lp av ett antal olika k&#xe4;llor (t.ex. r&#xe4;kenskaper, offentlig statistik och universitetsrullor); en kombination av surveydata med information om geografiska omr&#xe5;den fr&#xe5;n offentlig statistik (t.ex. befolkningst&#xe4;thet, l&#xe4;kare per capita osv); eller bloggposter, tweetar, m.m. som samlats in med hj&#xe4;lp av RSS.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/2906121">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/2906121">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Summary</skos:notation>
       <skos:prefLabel xml:lang="en">Summary</skos:prefLabel>
       <skos:definition xml:lang="en">Presentation of information in a condensed form, by reducing it to its main points. For example, abstracts of interviews or reports that are published and used as data rather than the full-length interviews or reports.</skos:definition>
@@ -1060,9 +1060,9 @@
       <skos:prefLabel xml:lang="sv">Sammanfattning</skos:prefLabel>
       <skos:definition xml:lang="sv">Presentation av information i sammandrag, som reducerats till sitt viktigaste inneh&#xe5;ll. Exempel: Abstrakt fr&#xe5;n intervjuer eller rapporter publiceras och anv&#xe4;nds som data ist&#xe4;llet f&#xf6;r de fullst&#xe4;ndiga intervjuerna eller rapporterna.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/d9ceca6">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/d9ceca6">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Aggregation</skos:notation>
       <skos:prefLabel xml:lang="en">Aggregation</skos:prefLabel>
       <skos:definition xml:lang="en">Statistics that relate to broad classes, groups, or categories. The data are averaged, totaled, or otherwise derived from individual-level data, and it is no longer possible to distinguish the characteristics of individuals within those classes, groups, or categories. For example, the number and age group of the unemployed in specific geographic regions, or national level statistics on the occurrence of specific offences, originally derived from the statistics of individual police districts.</skos:definition>
@@ -1085,9 +1085,9 @@
       <skos:prefLabel xml:lang="sv">Aggregation</skos:prefLabel>
       <skos:definition xml:lang="sv">Statistik som r&#xf6;r breda klasser, grupper eller kategorier. Datamaterialet best&#xe5;r av genomsnitt, totalsummor eller andra v&#xe4;rden som har h&#xe4;rletts fr&#xe5;n data p&#xe5; individniv&#xe5;, och det g&#xe5;r inte l&#xe4;ngre att utl&#xe4;sa individernas egenskaper inom dessa klasser, grupper eller kategorier. Exempel: antal och &#xe5;lderskategorier f&#xf6;r arbetsl&#xf6;sa inom s&#xe4;rskilda geografiska omr&#xe5;den, eller statistik p&#xe5; nationsniv&#xe5; &#xf6;ver f&#xf6;rekomsten av s&#xe4;rskilda brott som ursprungligen h&#xe4;rletts fr&#xe5;n statistik fr&#xe5;n enskilda polisdistrikt.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/4f502b5">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/4f502b5">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Simulation</skos:notation>
       <skos:prefLabel xml:lang="en">Simulation</skos:prefLabel>
       <skos:definition xml:lang="en">Modeling or imitative representation of real-world processes, events, or systems, often using computer programs. For example, a program modeling household consumption responses to indirect tax changes; or a dataset on hypothetical patients and their drug exposure, background conditions, and known adverse events.</skos:definition>
@@ -1110,9 +1110,9 @@
       <skos:prefLabel xml:lang="sv">Simulering</skos:prefLabel>
       <skos:definition xml:lang="sv">Modellering eller imiterande representation av processer, h&#xe4;ndelser eller system i den verkliga v&#xe4;rlden, ofta skapade med datorprogram. Exempel: ett program som modellerar hur hush&#xe5;llens konsumtion svarar p&#xe5; f&#xf6;r&#xe4;ndringar i indirekta skatter; eller ett dataset &#xf6;ver hypotetiska patienter och deras droganv&#xe4;ndning, bakgrundsf&#xf6;rh&#xe5;llanden och k&#xe4;nda negativa h&#xe4;ndelser.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/38ceaa4">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/38ceaa4">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">MeasurementsAndTests</skos:notation>
       <skos:prefLabel xml:lang="en">Measurements and tests</skos:prefLabel>
       <skos:definition xml:lang="en">Assessing specific properties (or characteristics) of beings, things, phenomena, (and/ or processes) by applying pre-established standards and/or specialized instruments or techniques.</skos:definition>
@@ -1134,13 +1134,13 @@
       <skos:definition xml:lang="sr">Procena specifi&#x10d;nih svojstava (ili karakteristika) bic&#x301;a, stvari, pojava (i / ili procesa) primenom unapred utvr&#x111;enih standarda i / ili specijalizovanih instrumenata ili tehnika.</skos:definition>
       <skos:prefLabel xml:lang="sv">M&#xe4;tningar och tester</skos:prefLabel>
       <skos:definition xml:lang="sv">Bed&#xf6;mning av varelsers, f&#xf6;rem&#xe5;ls, fenomens (och/eller processers) s&#xe4;rskilda egenskaper (eller karakteristiska) genom att till&#xe4;mpa f&#xf6;rutbest&#xe4;mda standarder och/eller specialiserade instrument eller tekniker.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/4b9776b"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/c2a25a6"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/27daf03"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/4b9776b"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/c2a25a6"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/27daf03"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/4b9776b">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/4b9776b">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">MeasurementsAndTests.Educational</skos:notation>
       <skos:prefLabel xml:lang="en">Educational measurements and tests</skos:prefLabel>
       <skos:definition xml:lang="en">Assessment of knowledge, skills, aptitude, or educational achievement by means of specialized measures or tests.</skos:definition>
@@ -1163,9 +1163,9 @@
       <skos:prefLabel xml:lang="sv">Pedagogiska m&#xe4;tningar och tester</skos:prefLabel>
       <skos:definition xml:lang="sv">Bed&#xf6;mning av kunskap, f&#xf6;rm&#xe5;gor, beg&#xe5;vning eller inl&#xe4;rningsf&#xf6;rm&#xe5;ga med hj&#xe4;lp av specialiserade m&#xe4;tredskap och tester.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/c2a25a6">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/c2a25a6">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">MeasurementsAndTests.Physical</skos:notation>
       <skos:prefLabel xml:lang="en">Physical measurements and tests</skos:prefLabel>
       <skos:definition xml:lang="en">Assessment of physical properties of living beings, objects, materials, or natural phenomena. For example, findings from hands-on medical examination (e.g., palpation or auscultation), clinical measurements and lab tests like blood analysis, blood pressure, heart rate, body weight and height, as well as general measurements like time, distance, mass, temperature, force, power, speed, GPS data on physical movement and other physical parameters or variables, like geospatial data.</skos:definition>
@@ -1188,9 +1188,9 @@
       <skos:prefLabel xml:lang="sv">Fysiska m&#xe4;tningar och tester</skos:prefLabel>
       <skos:definition xml:lang="sv">Bed&#xf6;mning av levande varelsers, f&#xf6;rem&#xe5;ls, materials eller naturliga fenomens fysiska egenskaper. Till exempel: blodtryck, puls, kroppsvikt och l&#xe4;ngd, men &#xe4;ven tid, avst&#xe5;nd, massa, temperatur, kraft, effekt, hastighet, GPS-data f&#xf6;r fysisk r&#xf6;relse och andra fysiska parametrar eller variabler, som t.ex. geospatiala data.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/27daf03">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/27daf03">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">MeasurementsAndTests.Psychological</skos:notation>
       <skos:prefLabel xml:lang="en">Psychological measurements and tests</skos:prefLabel>
       <skos:definition xml:lang="en">Assessment of personality traits or psychological/behavioral responses by means of specialized measures or tests. For example, objective tests like self-report measures with a restricted response format, or projective methods allowing free responses, including word association, sentence or story completion, vignettes, cartoon test, thematic apperception tests, role play, drawing tests, inkblot tests, choice ordering exercises, etc.</skos:definition>
@@ -1213,9 +1213,9 @@
       <skos:prefLabel xml:lang="sv">Psykologiska m&#xe4;tningar och tester</skos:prefLabel>
       <skos:definition xml:lang="sv">Bed&#xf6;mning av personlighetsdrag eller psykologiska/beteendem&#xe4;ssiga responser genom specialiserade m&#xe4;tredskap eller tester. Exempel: objektiva tester som sj&#xe4;lvskattning med begr&#xe4;nsade svarsformat, eller projektiva tester som till&#xe5;ter &#xf6;ppna svar, inklusive ordassociation, menings- eller ber&#xe4;ttelsekomplettering, vinjetter, &quot;cartoon tests&quot;, tematiska apperceptionstester (TAT), rollspel, teckningstester, Rorschachtester, &quot;choice ordering exercises&quot; m.m.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/6311ae1">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/6311ae1">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/"/>
       <skos:notation xml:lang="en">Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use if the mode of data collection is known, but not found in the list.</skos:definition>

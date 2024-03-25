@@ -4,7 +4,7 @@
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:dcterms="http://purl.org/dc/terms/"
 >
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/"/>
       <skos:notation xml:lang="en">AnalysisUnit</skos:notation>
@@ -39,26 +39,26 @@
       <dcterms:title xml:lang="sv">Analysenhet</dcterms:title>
       <dcterms:description xml:lang="sv">Beskriver den enhet som analyseras i studien eller i variabeln. Den h&#xe4;r vokabul&#xe4;ren kan &#xe4;ven anv&#xe4;ndas f&#xf6;r att beskriva unders&#xf6;kningsenhet, som &#xe4;r den enhet som unders&#xf6;ks eller observeras, eller som data samlas in fr&#xe5;n. Unders&#xf6;kningsenheten kan vara densamma som eller &#xe5;tskild fr&#xe5;n analysenheten.</dcterms:description>
       <skos:prefLabel xml:lang="sv">Analysenhet</skos:prefLabel>
-      <owl:versionInfo>2.1.3</owl:versionInfo>
+      <owl:versionInfo>2.1.0</owl:versionInfo>
       <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
       <dcterms:rights>Copyright &#xa9;DDI Alliance 2020</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/2dd4472"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/63eefb7"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/cefc4f7"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/ea4be67"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/4358d21"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/fa83853"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/435eb71"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/75fa5c6"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/8b62b80"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/9658ae5"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/0393713"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/4970317"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/6311ae1"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/2dd4472"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/63eefb7"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/cefc4f7"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/ea4be67"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/4358d21"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/fa83853"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/435eb71"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/75fa5c6"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/8b62b80"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/9658ae5"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/0393713"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/4970317"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/6311ae1"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/2dd4472">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/2dd4472">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/"/>
       <skos:notation xml:lang="en">Individual</skos:notation>
       <skos:prefLabel xml:lang="en">Individual</skos:prefLabel>
       <skos:definition xml:lang="en">Any individual person.</skos:definition>
@@ -81,9 +81,9 @@
       <skos:prefLabel xml:lang="sv">Individ</skos:prefLabel>
       <skos:definition xml:lang="sv">En enskild person.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/63eefb7">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/63eefb7">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/"/>
       <skos:notation xml:lang="en">OrganizationOrInstitution</skos:notation>
       <skos:prefLabel xml:lang="en">Organization/Institution</skos:prefLabel>
       <skos:definition xml:lang="en">Any kind of formal administrative and functional structure - includes associations, institutions, agencies, businesses, political parties, schools, etc. The data are collected about the organizations or institutions, even if the questions are answered by individuals. For example, data on the environmental policies of businesses, data on enrollment or graduation rates at national universities, etc.</skos:definition>
@@ -106,9 +106,9 @@
       <skos:prefLabel xml:lang="sv">Organisation/institution</skos:prefLabel>
       <skos:definition xml:lang="sv">En formell administrativ och funktionell struktur. Detta inkluderar f&#xf6;reningar, institutioner, myndigheter, f&#xf6;retag, politiska partier, skolor m.m. Data om organisationerna eller institutionerna samlas in &#xe4;ven om fr&#xe5;gorna besvaras av enskilda personer. Det g&#xe4;ller till exempel data om f&#xf6;retags milj&#xf6;policyer, data om antagningar eller examensfrekvens vid nationella universitet m.m.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/cefc4f7">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/cefc4f7">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/"/>
       <skos:notation xml:lang="en">Family</skos:notation>
       <skos:prefLabel xml:lang="en">Family</skos:prefLabel>
       <skos:definition xml:lang="en">Two or more people related by blood, marriage (including step-relations), co-habitation or registered partnership, adoption or fostering, and who may or may not live together. For example, data on what kind of public services the family uses or would require; or how often family members are in contact with each other.</skos:definition>
@@ -130,11 +130,11 @@
       <skos:definition xml:lang="sl">Dva ali ve&#x10d; posameznikov, ki so medseboj sorodstveno povezani, ali z zakonsko oz. zunanjzakonsko partnersko zvezo (vklju&#x10d;uje tudi vzpostavljeno dru&#x17e;ino), ali s posvojitvijo ali z rejni&#x161;tvom. Ti posamezniki lahko &#x17e;ivijo skupaj ali pa ne (National Community Services Data Dictionary, Vers 3, AIHW, 2004). Na primer podatki o tem, kak&#x161;ne javne storitve dru&#x17e;ina uporablja ali bi jih potrebovala; ali kako pogosto so dru&#x17e;inski &#x10d;lani v medsebojnem stiku.</skos:definition>
       <skos:prefLabel xml:lang="sv">Familj</skos:prefLabel>
       <skos:definition xml:lang="sv">Tv&#xe5; eller fler personer som &#xe4;r sl&#xe4;kt genom blodsband, &#xe4;ktenskap (inklusive styvsyskon, -f&#xf6;r&#xe4;ldrar, -barn m.m.), samboskap eller registrerat partnerskap, adoption eller fosterfamiljeskap, men som inte n&#xf6;dv&#xe4;ndigtvis bor tillsammans. Till exempel data om vilka offentliga tj&#xe4;nster familjen anv&#xe4;nder eller skulle vara i behov av, eller hur ofta familjemedlemmar har kontakt med varandra.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/4a75b73"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/4a75b73"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/4a75b73">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/4a75b73">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/"/>
       <skos:notation xml:lang="en">Family.HouseholdFamily</skos:notation>
       <skos:prefLabel xml:lang="en">Family: Household family</skos:prefLabel>
       <skos:definition xml:lang="en">A more specific term that refers only to people who are related through family ties (see definition for &apos;Family&apos;) and live in the same household at a point in time. If not known whether the analysis unit is &apos;Family&apos; or &apos;Household family&apos;, use &apos;Family&apos;.</skos:definition>
@@ -157,9 +157,9 @@
       <skos:prefLabel xml:lang="sv">Familj: Familjehush&#xe5;ll</skos:prefLabel>
       <skos:definition xml:lang="sv">En mer specifik term &#xe4;n &quot;Familj&quot;. Betecknar endast m&#xe4;nniskor som &#xe4;r sl&#xe4;kt genom familjeband (se definitionen f&#xf6;r &quot;Familj&quot;) och som bor tillsammans i samma hush&#xe5;ll vid en given tidpunkt. Om det inte &#xe4;r k&#xe4;nt huruvida analysenheten &#xe4;r &quot;Familj&quot; eller &quot;Familjehush&#xe5;ll&quot; ska &quot;Familj&quot; anv&#xe4;ndas.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/ea4be67">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/ea4be67">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/"/>
       <skos:notation xml:lang="en">Household</skos:notation>
       <skos:prefLabel xml:lang="en">Household</skos:prefLabel>
       <skos:definition xml:lang="en">A person or a group of persons who share the same dwelling unit and common living arrangements. These common living arrangements may include pooling some, or all, of their income and wealth, and consuming certain types of goods and services collectively, mainly housing and food (Eurostat).</skos:definition>
@@ -182,9 +182,9 @@
       <skos:prefLabel xml:lang="sv">Hush&#xe5;ll</skos:prefLabel>
       <skos:definition xml:lang="sv">En person eller grupp av personer som delar bostad och levnadsf&#xf6;rh&#xe5;llanden. Dessa gemensamma levnadsf&#xf6;rh&#xe5;llanden kan inkludera att viss eller all inkomst och egendom &#xe4;r gemensam och att vissa sorters varor och tj&#xe4;nster konsumeras gemensamt, f&#xf6;retr&#xe4;delsevis bostad och mat (Eurostat).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/4358d21">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/4358d21">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/"/>
       <skos:notation xml:lang="en">HousingUnit</skos:notation>
       <skos:prefLabel xml:lang="en">Housing unit</skos:prefLabel>
       <skos:definition xml:lang="en">U.S. Census: A housing unit is a house, an apartment, a mobile home, a group of rooms, or a single room that is occupied (or if vacant, is intended for occupancy) as separate living quarters. Separate living quarters are those in which the occupants live and eat separately from any other persons in the building and which have direct access from the outside of the building or through a common hall.</skos:definition>
@@ -207,9 +207,9 @@
       <skos:prefLabel xml:lang="sv">Bostadsenhet</skos:prefLabel>
       <skos:definition xml:lang="sv">En bostadsenhet &#xe4;r ett hus, en l&#xe4;genhet, en husvagn, eller ett eller flera rum som bebos (eller, om den &#xe4;r tom, &#xe4;r avsedd att bebos) som avskild inkvartering. Med avskild inkvartering menas att de som &#xe4;r inkvarterade d&#xe4;r bor och &#xe4;ter avskilda fr&#xe5;n andra personer i byggnaden och kan komma in direkt utifr&#xe5;n eller via en gemensam entr&#xe9; (U.S. Census).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/fa83853">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/fa83853">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/"/>
       <skos:notation xml:lang="en">EventOrProcessOrActivity</skos:notation>
       <skos:prefLabel xml:lang="en">Event/Process/Activity</skos:prefLabel>
       <skos:definition xml:lang="en">Any type of incident, occurrence, or activity. Events are usually one-time, individual occurrences, with a limited or short duration. Examples: criminal offenses, riots, meetings, elections, sports competitions, terrorist attacks, natural disasters like floods, etc. Processes typically take place over time, and may include multiple &apos;events&apos; or gradual changes that ultimately lead, or are projected to lead, to a particular result. Examples: court trials, criminal investigations, political campaigns, medical treatments, education, athletes&apos; training, etc. Use when the main focus is more on the event, process or activity itself. For example, a field observation study on slot machine gambling; or data collected on child abuse cases, such as the type and duration of abuse, the role of the persons involved, etc.</skos:definition>
@@ -232,9 +232,9 @@
       <skos:prefLabel xml:lang="sv">H&#xe4;ndelse/process/aktivitet</skos:prefLabel>
       <skos:definition xml:lang="sv">En f&#xf6;reteelse, tilldragelse eller aktivitet. H&#xe4;ndelser &#xe4;r vanligtvis enstaka f&#xf6;reteelser med begr&#xe4;nsad eller kort varaktighet. Exempel: brott, upplopp, m&#xf6;ten, val, idrottst&#xe4;vlingar, terroristangrepp, naturkatastrofer som &#xf6;versv&#xe4;mningar o.dyl. Processer utspelar sig vanligtvis &#xf6;ver tid och kan omfatta flera &quot;h&#xe4;ndelser&quot; eller gradvisa f&#xf6;r&#xe4;ndringar som slutligen resulterar i, eller kan t&#xe4;nkas resultera i, en viss utg&#xe5;ng. Exempel: r&#xe4;tteg&#xe5;ngar, brottsutredningar, politiska kampanjer, medicinska behandlingar, utbildning, en idrottsut&#xf6;vares tr&#xe4;ning, m.m. Anv&#xe4;nd detta begrepp n&#xe4;r fokus ligger p&#xe5; sj&#xe4;lva h&#xe4;ndelsen, processen eller aktiviteten. Till exempel en f&#xe4;ltobservationsstudie om spel p&#xe5; spelautomater; eller data om fall av &#xf6;vergrepp p&#xe5; barn, som typ av och varaktighet f&#xf6;r &#xf6;vergreppet, de inblandade personernas roller osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/435eb71">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/435eb71">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/"/>
       <skos:notation xml:lang="en">GeographicUnit</skos:notation>
       <skos:prefLabel xml:lang="en">Geographic unit</skos:prefLabel>
       <skos:definition xml:lang="en">Any entity that can be spatially defined as a geographic area, with either natural (physical) or administrative boundaries. For example, data on home sales, landscaping changes, new constructions, or changes in the demographic composition of certain regions or districts.</skos:definition>
@@ -257,9 +257,9 @@
       <skos:prefLabel xml:lang="sv">Geografisk enhet</skos:prefLabel>
       <skos:definition xml:lang="sv">En enhet som kan definieras spatialt som ett geografiskt omr&#xe5;de med antingen naturliga (fysiska) eller administrativa gr&#xe4;nser. Till exempel data om husf&#xf6;rs&#xe4;ljning, landskapsf&#xf6;r&#xe4;ndringar, nybyggen eller f&#xf6;r&#xe4;ndringar av den demografiska sammans&#xe4;ttningen i vissa regioner eller distrikt.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/75fa5c6">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/75fa5c6">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/"/>
       <skos:notation xml:lang="en">PoliticalAdministrativeArea</skos:notation>
       <skos:prefLabel xml:lang="en">Political-administrative area</skos:prefLabel>
       <skos:definition xml:lang="en">A geographical area governed by a sovereign authority that has the power to take administrative or policy decisions for that area. This includes&#xa0;areas at the supranational (e.g., unions of states like the European Union),  national (e.g., individual states or countries), sub-national (e.g., administrative subdivisions like federal states, provinces, etc.), and local (e.g., municipalities) levels.</skos:definition>
@@ -282,9 +282,9 @@
       <skos:prefLabel xml:lang="sv">Politiskt f&#xf6;rvaltningsomr&#xe5;de</skos:prefLabel>
       <skos:definition xml:lang="sv">Ett geografiskt omr&#xe5;de som styrs av en best&#xe4;mmande myndighet med makt att fatta administrativa eller politiska beslut f&#xf6;r omr&#xe5;det. Detta inkluderar omr&#xe5;den p&#xe5; &#xf6;verstatlig (t.ex. unioner av stater som EU), statlig (t.ex. delstater eller l&#xe4;nder), subnationell/regional (t.ex. f&#xf6;rvaltningsomr&#xe5;den som federala delstater, provinser osv.) och lokal (t.ex. kommuner) niv&#xe5;.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/8b62b80">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/8b62b80">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/"/>
       <skos:notation xml:lang="en">TimeUnit</skos:notation>
       <skos:prefLabel xml:lang="en">Time unit</skos:prefLabel>
       <skos:definition xml:lang="en">Any period of time: year, week, month, day, or bimonthly or quarterly periods, etc.</skos:definition>
@@ -307,9 +307,9 @@
       <skos:prefLabel xml:lang="sv">Tidsenhet</skos:prefLabel>
       <skos:definition xml:lang="sv">En tidsperiod: &#xe5;r, m&#xe5;nad, vecka, dag, kvartal, tv&#xe5;m&#xe5;nadersperiod osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/9658ae5">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/9658ae5">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/"/>
       <skos:notation xml:lang="en">MediaUnit</skos:notation>
       <skos:prefLabel xml:lang="en">Media unit</skos:prefLabel>
       <skos:definition xml:lang="en">Includes text, still image, video and sound.</skos:definition>
@@ -331,14 +331,14 @@
       <skos:definition xml:lang="sl">Enota, ki vsebuje dolo&#x10d;eno multimedijsko vsebino: besedilo, mirujo&#x10d;o sliko, posnetek in zvok.</skos:definition>
       <skos:prefLabel xml:lang="sv">Mediaenhet</skos:prefLabel>
       <skos:definition xml:lang="sv">Inkluderar text, stillbilder, video och ljud.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/8ab1c50"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/a0a6f8d"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/45ab7c1"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/75ea575"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/8ab1c50"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/a0a6f8d"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/45ab7c1"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/75ea575"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/8ab1c50">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/8ab1c50">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/"/>
       <skos:notation xml:lang="en">MediaUnit.Sound</skos:notation>
       <skos:prefLabel xml:lang="en">Media unit: Sound</skos:prefLabel>
       <skos:definition xml:lang="en">Recorded sound, including voice, music, etc.</skos:definition>
@@ -361,9 +361,9 @@
       <skos:prefLabel xml:lang="sv">Mediaenhet: Ljud</skos:prefLabel>
       <skos:definition xml:lang="sv">Inspelat ljud, som r&#xf6;st, musik m.m.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/a0a6f8d">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/a0a6f8d">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/"/>
       <skos:notation xml:lang="en">MediaUnit.StillImage</skos:notation>
       <skos:prefLabel xml:lang="en">Media unit: Still image</skos:prefLabel>
       <skos:definition xml:lang="en">Static images, such as graphs, drawings, photographs, diagnostic/medical images like X-rays and other types of imaging tests, etc.</skos:definition>
@@ -386,9 +386,9 @@
       <skos:prefLabel xml:lang="sv">Mediaenhet: Stillbild</skos:prefLabel>
       <skos:definition xml:lang="sv">Statiska bilder, som diagram, ritningar, fotografier, diagnostiska/medicinska bilder som r&#xf6;ntgenbilder eller andra typer av bilddiagnostiska unders&#xf6;kningar&amp;nbsp;osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/45ab7c1">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/45ab7c1">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/"/>
       <skos:notation xml:lang="en">MediaUnit.Text</skos:notation>
       <skos:prefLabel xml:lang="en">Media unit: Text</skos:prefLabel>
       <skos:definition xml:lang="en">Any written piece/entity, such as books, articles, tweets, blogs, etc. For example, a study on hate speech in tweets, or a study of the way newspapers present certain political/social issues over time, like women&apos;s or minorities&apos; rights, etc.</skos:definition>
@@ -411,9 +411,9 @@
       <skos:prefLabel xml:lang="sv">Mediaenhet: Text</skos:prefLabel>
       <skos:definition xml:lang="sv">Skrivna texter, som b&#xf6;cker, artiklar, tweets, bloggar m.m. Till exempel en studie om hets mot folkgrupp i tweets, eller en studie om hur tidningar beskriver olika politiska/sociala &#xe4;mnen &#xf6;ver tid, som kvinnors eller minoriteters r&#xe4;ttigheter osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/75ea575">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/75ea575">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/"/>
       <skos:notation xml:lang="en">MediaUnit.Video</skos:notation>
       <skos:prefLabel xml:lang="en">Media unit: Video</skos:prefLabel>
       <skos:definition xml:lang="en">Moving images. May include films, animation, digital recordings, visual output from simulations, recorded television programs, diagnostic/medical videos like ultrasound scans, etc. May be mute or may include synchronized sound.</skos:definition>
@@ -436,9 +436,9 @@
       <skos:prefLabel xml:lang="sv">Mediaenhet: Video</skos:prefLabel>
       <skos:definition xml:lang="sv">R&#xf6;rliga bilder. Det kan inkludera filmer, animationer, digitala inspelningar, visuella utdata fr&#xe5;n simuleringar, inspelade tv-program, diagnostiska/medicinska videor som ultraljudsunders&#xf6;kningar osv. De kan vara utan ljud eller med synkroniserat ljud.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/0393713">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/0393713">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/"/>
       <skos:notation xml:lang="en">Group</skos:notation>
       <skos:prefLabel xml:lang="en">Group</skos:prefLabel>
       <skos:definition xml:lang="en">Two or more individuals assembled together or having some unifying relationship or characteristic. In surveys, the questions are mainly focused on the group and the attitudes/experiences of the group, rather than on those of the individual respondents. If questions cover both the group and the individual, use  both as analysis units.</skos:definition>
@@ -461,9 +461,9 @@
       <skos:prefLabel xml:lang="sv">Grupp</skos:prefLabel>
       <skos:definition xml:lang="sv">Tv&#xe5; eller fler personer som samlats eller som har n&#xe5;gon form av relation eller egenskap som f&#xf6;renar dem. I surveyunders&#xf6;kningar fokuserar fr&#xe5;gorna framf&#xf6;r allt p&#xe5; gruppen och gruppens attityder/erfarenheter, snarare &#xe4;n p&#xe5; de enskilda respondenterna. Om fr&#xe5;gorna g&#xe4;ller b&#xe5;de gruppen och individen, anv&#xe4;nd b&#xe5;da som analysenheter.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/4970317">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/4970317">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/"/>
       <skos:notation xml:lang="en">Object</skos:notation>
       <skos:prefLabel xml:lang="en">Object</skos:prefLabel>
       <skos:definition xml:lang="en">Anything material, but inanimate, that has an independent existence and may be perceived by the senses. Examples: objects of art (paintings, sculptures, etc.) or weapons, or vehicles, etc.</skos:definition>
@@ -486,9 +486,9 @@
       <skos:prefLabel xml:lang="sv">F&#xf6;rem&#xe5;l</skos:prefLabel>
       <skos:definition xml:lang="sv">N&#xe5;got fysiskt men icke levande som existerar som en oberoende enhet och kan uppfattas av sinnena. Exempel: konstf&#xf6;rem&#xe5;l (tavlor, skulpturer, o.dyl.), vapen, fordon m.m.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/6311ae1">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/6311ae1">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.3/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AnalysisUnit/2.1.0/"/>
       <skos:notation xml:lang="en">Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use if the unit of analysis is known, but not found in the list.</skos:definition>

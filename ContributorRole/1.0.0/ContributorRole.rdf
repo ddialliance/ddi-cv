@@ -4,7 +4,7 @@
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:dcterms="http://purl.org/dc/terms/"
 >
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/"/>
       <skos:notation xml:lang="en">ContributorRole</skos:notation>
@@ -23,51 +23,51 @@
       <dcterms:title xml:lang="sv">Roll f&#xf6;r medverkande</dcterms:title>
       <dcterms:description xml:lang="sv">En klassificering av roller f&#xf6;r medverkande personer.</dcterms:description>
       <skos:prefLabel xml:lang="sv">Roll f&#xf6;r medverkande</skos:prefLabel>
-      <owl:versionInfo>1.0.2</owl:versionInfo>
+      <owl:versionInfo>1.0.0</owl:versionInfo>
       <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
       <dcterms:rights>Copyright &#xa9;DDI Alliance 2019</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/fd6b874"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/c5be2ef"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/a162a08"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/1dd6b68"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/e9b52b4"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/5767fa2"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/cdea62c"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/552cf53"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/2cc8195"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/71dfa2a"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/3b0fc20"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/55021e5"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/1342e63"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/ca5e845"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/bbaff12"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/e5c50a7"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/b1caf7f"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/e676feb"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/b74a43d"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/336ba67"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/91a066f"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/0d6528b"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/21b058b"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/f0e43a7"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/626a54d"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/2916675"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/e333508"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/3a9a021"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/baaa9f1"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/7b371aa"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/6e917a4"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/85068dd"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/cf270e4"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/6dd0887"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/be111a8"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/ce09e3d"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/5b659e6"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/6311ae1"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/fd6b874"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/c5be2ef"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/a162a08"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/1dd6b68"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/e9b52b4"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/5767fa2"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/cdea62c"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/552cf53"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/2cc8195"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/71dfa2a"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/3b0fc20"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/55021e5"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/1342e63"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/ca5e845"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/bbaff12"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/e5c50a7"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/b1caf7f"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/e676feb"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/b74a43d"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/336ba67"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/91a066f"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/0d6528b"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/21b058b"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/f0e43a7"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/626a54d"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/2916675"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/e333508"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/3a9a021"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/baaa9f1"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/7b371aa"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/6e917a4"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/85068dd"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/cf270e4"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/6dd0887"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/be111a8"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/ce09e3d"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/5b659e6"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/6311ae1"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/fd6b874">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/fd6b874">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">ProjectOrStudyDesign</skos:notation>
       <skos:prefLabel xml:lang="en">Project/Study design</skos:prefLabel>
       <skos:definition xml:lang="en">Describing the rationale, and putting together a specific plan for conducting a study or research project.</skos:definition>
@@ -79,16 +79,16 @@
       <skos:definition xml:lang="no">Beskriver rasjonale og sammenstilling av plan for &#xe5; gjennomf&#xf8;re en studie eller et forskningsprosjekt.</skos:definition>
       <skos:prefLabel xml:lang="sv">Projekt-/studiedesign</skos:prefLabel>
       <skos:definition xml:lang="sv">Beskrivning av tanken bakom projektet/studien och hur man har sammanst&#xe4;llt en plan f&#xf6;r hur en studie eller ett forskningsprojekt ska utf&#xf6;ras.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/c095029"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/c166544"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/c05e5b6"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/547933a"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/9573464"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/ba06f19"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/c095029"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/c166544"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/c05e5b6"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/547933a"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/9573464"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/ba06f19"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/c095029">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/c095029">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">ProjectOrStudyDesign.Conceptualization</skos:notation>
       <skos:prefLabel xml:lang="en">Project/Study design: Conceptualization</skos:prefLabel>
       <skos:definition xml:lang="en">Developing high-level research concepts as well as specific concepts to be measured. Conceptualization involves clarifying the concepts with verbal definitions and examples as well as expressing relationships among the concepts.</skos:definition>
@@ -101,9 +101,9 @@
       <skos:prefLabel xml:lang="sv">Projekt-/studiedesign: Begreppsbildning</skos:prefLabel>
       <skos:definition xml:lang="sv">Hur man tar fram forskningsbegrepp p&#xe5; h&#xf6;g niv&#xe5; och specifika begrepp p&#xe5; det som ska m&#xe4;tas. Begreppsbildning inbegriper att beskriva begreppen med definitioner och exempel och att beskriva relationerna mellan begreppen.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/c166544">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/c166544">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">ProjectOrStudyDesign.InstrumentDesign</skos:notation>
       <skos:prefLabel xml:lang="en">Project/Study design: Instrument design</skos:prefLabel>
       <skos:definition xml:lang="en">Conceiving and planning for the data collection instrument(s). May include the operationalization of concepts into questions and indicators, instrument testing, forward translation and subsequent changes in the master instrument(s),  as well as designing  and testing other types of data collection instruments than survey questionnaires.</skos:definition>
@@ -116,9 +116,9 @@
       <skos:prefLabel xml:lang="sv">Projekt-/studiedesign: Instrumentdesign</skos:prefLabel>
       <skos:definition xml:lang="sv">Att ta fram och planera instrument f&#xf6;r datainsamling. Detta kan handla om hur begrepp oms&#xe4;tts i fr&#xe5;gor och indikatorer, instrumenttester, initial &#xf6;vers&#xe4;ttning (&quot;forward translation&quot;) och efterf&#xf6;ljande f&#xf6;r&#xe4;ndringar av huvudinstrumenten, samt att utforma och testa andra typer av datainsamlingsinstrument &#xe4;n fr&#xe5;geformul&#xe4;r.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/c05e5b6">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/c05e5b6">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">ProjectOrStudyDesign.MethodologyDevelopment</skos:notation>
       <skos:prefLabel xml:lang="en">Project/Study design: Methodology development</skos:prefLabel>
       <skos:definition xml:lang="en">Developing guidelines or protocols for the methods used to conduct the study, and to process and analyze the data. For example, directions and instructions for collecting data, conducting interviews, translating questionnaires, input harmonization, using weights, etc.</skos:definition>
@@ -131,9 +131,9 @@
       <skos:prefLabel xml:lang="sv">Projekt-/studiedesign: Metodutveckling</skos:prefLabel>
       <skos:definition xml:lang="sv">Att ta fram riktlinjer eller protokoll f&#xf6;r de metoder som ska anv&#xe4;ndas i utf&#xf6;randet av studien, och f&#xf6;r att behandla och analysera data. Till exempel anvisningar och instruktioner f&#xf6;r hur datainsamling, intervjuer, &#xf6;vers&#xe4;ttning av fr&#xe5;geformul&#xe4;r, harmonisering av indata, viktning osv. ska utf&#xf6;ras.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/547933a">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/547933a">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">ProjectOrStudyDesign.WeightsDesign</skos:notation>
       <skos:prefLabel xml:lang="en">Project/Study design: Weights design</skos:prefLabel>
       <skos:definition xml:lang="en">Developing weights to assist in adjusting the data to the desired objectives of the study, for example, to make the data representative of the target population.</skos:definition>
@@ -146,9 +146,9 @@
       <skos:prefLabel xml:lang="sv">Projekt-/studiedesign: Viktningsdesign</skos:prefLabel>
       <skos:definition xml:lang="sv">Att ta fram viktningar som en hj&#xe4;lp f&#xf6;r att justera data efter studiens &#xf6;nskade m&#xe5;l, till exempel f&#xf6;r att g&#xf6;ra data representativa f&#xf6;r m&#xe5;lpopulationen.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/9573464">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/9573464">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">ProjectOrStudyDesign.StandardsDevelopment</skos:notation>
       <skos:prefLabel xml:lang="en">Project/Study design: Standards development</skos:prefLabel>
       <skos:definition xml:lang="en">Developing models for the structure and distribution of data and metadata in fixed, predictable formats. For example, the DATS (Data Tag Suite) for describing biomedical data, the Data Documentation Initiative (DDI) for describing social, behavioral, economic, and health sciences data, etc.</skos:definition>
@@ -161,9 +161,9 @@
       <skos:prefLabel xml:lang="sv">Projekt-/studiedesign: Utveckling av standarder</skos:prefLabel>
       <skos:definition xml:lang="sv">Att ta fram modeller f&#xf6;r struktur och f&#xf6;rdelning av data och metadata i fasta, f&#xf6;ruts&#xe4;gbara format. Till exempel DATS (Data Tag Suite) f&#xf6;r att beskriva biomedicinska data, DDI (Data Documentation Initiative) f&#xf6;r att beskriva data fr&#xe5;n samh&#xe4;llsvetenskap, nationalekonomi och h&#xe4;lsovetenskaperna osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/ba06f19">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/ba06f19">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">ProjectOrStudyDesign.DataModeling</skos:notation>
       <skos:prefLabel xml:lang="en">Project/Study design: Data modeling</skos:prefLabel>
       <skos:definition xml:lang="en">Creating a data model based on an analysis of data objects and their relationships, data properties, as well as data flows and processes. It is often the first step in database creation, tool and standards development, etc., and typically involves a progression from a conceptual model to a logical model, and then to a physical schema.</skos:definition>
@@ -176,9 +176,9 @@
       <skos:prefLabel xml:lang="sv">Projekt-/studiedesign: Datamodellering</skos:prefLabel>
       <skos:definition xml:lang="sv">Att skapa en datamodell som bygger p&#xe5; en analys av dataobjekt och deras relationer, dataegenskaper, samt datafl&#xf6;den och -processer. Det &#xe4;r ofta det f&#xf6;rsta steget till att skapa en databas, verktyg och standarder osv., och inbegriper vanligtvis en utveckling fr&#xe5;n en konceptuell modell till en logisk modell och vidare till ett fysiskt schema.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/c5be2ef">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/c5be2ef">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">ProjectOrStudyDesignSamplingDesign</skos:notation>
       <skos:prefLabel xml:lang="en">Project/Study design: Sampling design</skos:prefLabel>
       <skos:definition xml:lang="en">Defining which elements of the target population are included in the sample, as well as the rules and procedures by which they will be selected.</skos:definition>
@@ -191,9 +191,9 @@
       <skos:prefLabel xml:lang="sv">Projekt-/studiedesign: Urvalsdesign</skos:prefLabel>
       <skos:definition xml:lang="sv">Att definiera vilka element av m&#xe5;lpopulationen som ska ing&#xe5; i urvalet, och vilka regler och processer som de ska v&#xe4;ljas ut med.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/a162a08">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/a162a08">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">DataManagement</skos:notation>
       <skos:prefLabel xml:lang="en">Data management</skos:prefLabel>
       <skos:definition xml:lang="en">Development and execution of architectures, policies, practices and procedures to handle data at any stage of its life cycle. Includes processes and activities related to the selection, organization and integration of data, their annotation, as well as their publication and preservation so that the data maintain their value over time, and remain available for reuse.</skos:definition>
@@ -206,9 +206,9 @@
       <skos:prefLabel xml:lang="sv">Datahantering</skos:prefLabel>
       <skos:definition xml:lang="sv">Att utveckla och anv&#xe4;nda arkitekturer, policyer, riktlinjer och procedurer f&#xf6;r att hantera data i alla delar av deras livscykel. Detta inkluderar processer och &#xe5;tg&#xe4;rder som ing&#xe5;r i urval, organisering och integrering av data, annotering av data, samt publicering och bevarande av data, s&#xe5; att deras v&#xe4;rden bibeh&#xe5;lls &#xf6;ver tid och finns tillg&#xe4;ngliga f&#xf6;r &#xe5;teranv&#xe4;ndning.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/1dd6b68">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/1dd6b68">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">EthicsReview</skos:notation>
       <skos:prefLabel xml:lang="en">Ethics review</skos:prefLabel>
       <skos:definition xml:lang="en">Reviewing whether a research proposal or study complies with ethical principles based on legislation or approved ethical guidelines (soft legislation).</skos:definition>
@@ -221,9 +221,9 @@
       <skos:prefLabel xml:lang="sv">Etikpr&#xf6;vning</skos:prefLabel>
       <skos:definition xml:lang="sv">Att pr&#xf6;va huruvida ett forskningsf&#xf6;rslag eller en studie uppfyller etiska principer enligt lagkrav eller godk&#xe4;nda etiska riktlinjer (s&#xe5; kallad mjuk lagstiftning).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/e9b52b4">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/e9b52b4">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">DataCollection</skos:notation>
       <skos:prefLabel xml:lang="en">Data collection</skos:prefLabel>
       <skos:definition xml:lang="en">Activities relating to the process of gathering data in an established, systematic fashion that enables answering the stated research questions, testing hypotheses, and evaluating outcomes. Maps to &apos;DataCollector&apos; in DataCite.</skos:definition>
@@ -236,9 +236,9 @@
       <skos:prefLabel xml:lang="sv">Datainsamling</skos:prefLabel>
       <skos:definition xml:lang="sv">Aktiviteter som ing&#xe5;r i att samla in data p&#xe5; ett f&#xf6;rutbest&#xe4;mt och systematiskt s&#xe4;tt, som g&#xf6;r det m&#xf6;jligt att besvara angivna forskningsfr&#xe5;gor, testa hypoteser och utv&#xe4;rdera utfall. Mappas till &quot;DataCollector&quot; i DataCite.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/5767fa2">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/5767fa2">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">SampleSelection</skos:notation>
       <skos:prefLabel xml:lang="en">Sample selection</skos:prefLabel>
       <skos:definition xml:lang="en">Selecting units from the target population.</skos:definition>
@@ -251,9 +251,9 @@
       <skos:prefLabel xml:lang="sv">Val av urval</skos:prefLabel>
       <skos:definition xml:lang="sv">Att v&#xe4;lja enheter ur m&#xe5;lpopulationen.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/cdea62c">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/cdea62c">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">DataEntry</skos:notation>
       <skos:prefLabel xml:lang="en">Data entry</skos:prefLabel>
       <skos:definition xml:lang="en">Entering or updating data into a computer system, often from other forms of media, like paper questionnaires, newspaper articles, etc.</skos:definition>
@@ -266,9 +266,9 @@
       <skos:prefLabel xml:lang="sv">Datainmatning</skos:prefLabel>
       <skos:definition xml:lang="sv">Att skriva in, mata in eller uppdatera data i ett datasystem. Detta r&#xf6;r ofta data fr&#xe5;n andra former av media, som pappersenk&#xe4;ter, tidningsartiklar m.m.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/552cf53">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/552cf53">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">DataProcessing</skos:notation>
       <skos:prefLabel xml:lang="en">Data processing</skos:prefLabel>
       <skos:definition xml:lang="en">Performing operations that result in changes to the data, including data cleaning, editing, post-harmonization, etc. Maps to &apos;DataCurator&apos; in DataCite.</skos:definition>
@@ -280,14 +280,14 @@
       <skos:definition xml:lang="no">Utf&#xf8;rer handlinger som medf&#xf8;rer endringer i data, inkludert rensing av data, redigering og post-harmonisering, etc. Kobles til &apos;DataCurator&apos; i DataCite.</skos:definition>
       <skos:prefLabel xml:lang="sv">Databehandling</skos:prefLabel>
       <skos:definition xml:lang="sv">Att utf&#xf6;ra &#xe5;tg&#xe4;rder som g&#xf6;r att data f&#xf6;r&#xe4;ndras, t.ex. att rensa, redigera eller post-harmonisera data. Mappas till &quot;DataCurator&quot; i DataCite.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/7c47e9a"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/0b8b21c"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/7f385ef"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/657848c"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/7c47e9a"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/0b8b21c"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/7f385ef"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/657848c"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/7c47e9a">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/7c47e9a">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">DataProcessing.DisclosureControl</skos:notation>
       <skos:prefLabel xml:lang="en">Data processing: Disclosure control</skos:prefLabel>
       <skos:definition xml:lang="en">Planning or using specific techniques to preserve the anonymity of individual or other entities that the data refer to. For example, anonymization, pseudonymization, or removal of direct and indirect identifiers.</skos:definition>
@@ -300,9 +300,9 @@
       <skos:prefLabel xml:lang="sv">Databehandling: R&#xf6;jandekontroll</skos:prefLabel>
       <skos:definition xml:lang="sv">Att planera eller anv&#xe4;nda s&#xe4;rskilda tekniker f&#xf6;r att bevara anonymiteten f&#xf6;r individer eller andra enheter som data h&#xe4;nvisar till. Till exempel anonymisering, pseudonymisering eller att ta bort direkta och indirekta identifierare.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/0b8b21c">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/0b8b21c">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">DataProcessing.DataAggregation</skos:notation>
       <skos:prefLabel xml:lang="en">Data processing: Data aggregation</skos:prefLabel>
       <skos:definition xml:lang="en">Producing individually collected data in a summary form, for purposes such as statistical analysis. A common aggregation goal is to obtain more information about particular population groups, based on specific variables, such as age, profession, education, or income.</skos:definition>
@@ -315,9 +315,9 @@
       <skos:prefLabel xml:lang="sv">Databehandling: Dataaggregering</skos:prefLabel>
       <skos:definition xml:lang="sv">Att ta fram individuellt insamlade data i sammanfattad form f&#xf6;r syften som t.ex. statistiska analyser. Ett vanligt m&#xe5;l f&#xf6;r aggregering &#xe4;r att f&#xe5; mer information om vissa populationsgrupper utifr&#xe5;n vissa variabler, som &#xe5;lder, yrke, utbildning eller inkomst.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/7f385ef">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/7f385ef">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">DataProcessing.DataIntegration</skos:notation>
       <skos:prefLabel xml:lang="en">Data processing: Data integration</skos:prefLabel>
       <skos:definition xml:lang="en">Combining data from separate sources into meaningful information. For example, linking register data with survey data or integrating datasets collected in different countries into a cross-national dataset.</skos:definition>
@@ -330,9 +330,9 @@
       <skos:prefLabel xml:lang="sv">Databehandling: Dataintegrering</skos:prefLabel>
       <skos:definition xml:lang="sv">Att kombinera data fr&#xe5;n olika k&#xe4;llor till meningsfull information. Till exempel att koppla registerdata till surveydata, eller att integrera dataset som samlats in i olika l&#xe4;nder till ett tv&#xe4;rnationellt dataset.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/657848c">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/657848c">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">DataProcessing.DataValidation</skos:notation>
       <skos:prefLabel xml:lang="en">Data processing: Data validation</skos:prefLabel>
       <skos:definition xml:lang="en">The process of checking data to ensure that all of them have acceptable values, that they are accurate, coherent, consistent, complete and in the expected format.</skos:definition>
@@ -345,9 +345,9 @@
       <skos:prefLabel xml:lang="sv">Databehandling: Datavalidering</skos:prefLabel>
       <skos:definition xml:lang="sv">Att bed&#xf6;ma data f&#xf6;r att se till att alla data har acceptabla v&#xe4;rden, att de &#xe4;r korrekta, koherenta, konsekventa, fullst&#xe4;ndiga och har f&#xf6;rv&#xe4;ntat format.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/2cc8195">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/2cc8195">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">DataAcquisition</skos:notation>
       <skos:prefLabel xml:lang="en">Data acquisition</skos:prefLabel>
       <skos:definition xml:lang="en">Acquiring data and supporting documentation from potential contributors for further preservation and/or dissemination.</skos:definition>
@@ -360,9 +360,9 @@
       <skos:prefLabel xml:lang="sv">Dataf&#xe5;ngst</skos:prefLabel>
       <skos:definition xml:lang="sv">Att h&#xe4;mta in data och tillh&#xf6;rande dokumentation fr&#xe5;n m&#xf6;jliga medverkande f&#xf6;r ytterligare bevarande och/eller delning.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/71dfa2a">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/71dfa2a">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">MetadataProduction</skos:notation>
       <skos:prefLabel xml:lang="en">Metadata production</skos:prefLabel>
       <skos:definition xml:lang="en">Generating data documentation. For example, a study description covering study rationale, methodology, and other characteristics of the dataset as a whole; variable-level documentation (labels, frequencies, question text); references to study-related materials or publications, etc.</skos:definition>
@@ -375,9 +375,9 @@
       <skos:prefLabel xml:lang="sv">Metadataproduktion</skos:prefLabel>
       <skos:definition xml:lang="sv">Att generera datadokumentation. Till exempel en studiebeskrivning som inneh&#xe5;ller tanken bakom studien, metoden och andra egenskaper hos datasetet som helhet; dokumentation p&#xe5; variabelniv&#xe5; (etiketter, frekvenser, fr&#xe5;getext); referenser till studierelaterade material eller publikationer osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/3b0fc20">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/3b0fc20">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">DataDistribution</skos:notation>
       <skos:prefLabel xml:lang="en">Data distribution</skos:prefLabel>
       <skos:definition xml:lang="en">Distributing/disseminating the data to users and making them available for reuse. Maps to &apos;Distributor&apos; in DataCite.</skos:definition>
@@ -390,9 +390,9 @@
       <skos:prefLabel xml:lang="sv">Datadistribution</skos:prefLabel>
       <skos:definition xml:lang="sv">Att distribuera/sprida data till anv&#xe4;ndare och tillg&#xe4;ngligg&#xf6;ra dem f&#xf6;r &#xe5;teranv&#xe4;ndning. Mappas till &quot;Distributor&quot; i DataCite.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/55021e5">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/55021e5">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">DataHosting</skos:notation>
       <skos:prefLabel xml:lang="en">Data hosting</skos:prefLabel>
       <skos:definition xml:lang="en">Housing, servicing, and maintaining data and, usually, the accompanying  metadata or related documentation. Maps to to &apos;HostingInstitution&apos; in DataCite.</skos:definition>
@@ -405,9 +405,9 @@
       <skos:prefLabel xml:lang="sv">Datalagring</skos:prefLabel>
       <skos:definition xml:lang="sv">Att lagra, ta hand om och underh&#xe5;lla data och, vanligtvis, tillh&#xf6;rande metadata eller dokumentation. Mappas till &quot;HostingInstitution&quot; i DataCite.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/1342e63">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/1342e63">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">LongTermPreservationOrArchiving</skos:notation>
       <skos:prefLabel xml:lang="en">Long-term preservation/archiving</skos:prefLabel>
       <skos:definition xml:lang="en">Protecting and maintaining the integrity and usability of data and accompanying metadata so that they remain available to future generations. Maps to &apos;DataManager&apos; in DataCite.</skos:definition>
@@ -420,9 +420,9 @@
       <skos:prefLabel xml:lang="sv">L&#xe5;ngtidsbevarande/arkivering</skos:prefLabel>
       <skos:definition xml:lang="sv">Att skydda och bibeh&#xe5;lla integriteten och anv&#xe4;ndbarheten hos data och tillh&#xf6;rande metadata, s&#xe5; att de f&#xf6;rblir tillg&#xe4;ngliga f&#xf6;r framtida generationer. Mappas till &quot;DataManager&quot; i DataCite.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/ca5e845">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/ca5e845">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">Consulting</skos:notation>
       <skos:prefLabel xml:lang="en">Consulting</skos:prefLabel>
       <skos:definition xml:lang="en">Providing expert advice.</skos:definition>
@@ -435,9 +435,9 @@
       <skos:prefLabel xml:lang="sv">Konsultande</skos:prefLabel>
       <skos:definition xml:lang="sv">Att ge expertr&#xe5;d.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/bbaff12">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/bbaff12">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">Contact</skos:notation>
       <skos:prefLabel xml:lang="en">Contact</skos:prefLabel>
       <skos:definition xml:lang="en">Individual, or organization that may be reached to obtain data-related information. Maps to  &apos;ContactPerson&apos; in DataCite.</skos:definition>
@@ -450,9 +450,9 @@
       <skos:prefLabel xml:lang="sv">Kontaktperson</skos:prefLabel>
       <skos:definition xml:lang="sv">En individ eller organisation som kan n&#xe5;s om man beh&#xf6;ver datarelaterad information. Mappas till &quot;ContactPerson&quot; i DataCite.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/e5c50a7">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/e5c50a7">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">DataAnalysis</skos:notation>
       <skos:prefLabel xml:lang="en">Data analysis</skos:prefLabel>
       <skos:definition xml:lang="en">The process of investigating the data to help answer research questions and reach conclusions.</skos:definition>
@@ -465,9 +465,9 @@
       <skos:prefLabel xml:lang="sv">Dataanalys</skos:prefLabel>
       <skos:definition xml:lang="sv">Att unders&#xf6;ka data f&#xf6;r att f&#xe5; hj&#xe4;lp att besvara forskningsfr&#xe5;gor och dra slutsatser.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/b1caf7f">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/b1caf7f">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">Editing</skos:notation>
       <skos:prefLabel xml:lang="en">Editing</skos:prefLabel>
       <skos:definition xml:lang="en">Arranging, revising, and preparing materials (e.g., text, audio or video) for final production or publication. Maps to &apos;Editor&apos; in DataCite.</skos:definition>
@@ -480,9 +480,9 @@
       <skos:prefLabel xml:lang="sv">Redigering</skos:prefLabel>
       <skos:definition xml:lang="sv">Att ordna, revidera och f&#xf6;rbereda material (t.ex. text, ljud eller video) f&#xf6;r slutproduktion eller publikation. Mappas till &quot;Editor&quot; i DataCite.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/e676feb">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/e676feb">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">EquipmentDevelopment</skos:notation>
       <skos:prefLabel xml:lang="en">Equipment development</skos:prefLabel>
       <skos:definition xml:lang="en">Creating and maintaining equipment needed at any stage of the data life cycle.</skos:definition>
@@ -495,9 +495,9 @@
       <skos:prefLabel xml:lang="sv">Utveckling av utrustning</skos:prefLabel>
       <skos:definition xml:lang="sv">Att skapa och underh&#xe5;lla utrustning som beh&#xf6;vs i n&#xe5;gon fas av datalivscykeln.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/b74a43d">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/b74a43d">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">Evaluation</skos:notation>
       <skos:prefLabel xml:lang="en">Evaluation</skos:prefLabel>
       <skos:definition xml:lang="en">Assessing quality, worth and significance. Includes, for example, establishing evaluation criteria, gathering evaluation inputs and conducting the process of evaluation.</skos:definition>
@@ -510,9 +510,9 @@
       <skos:prefLabel xml:lang="sv">Utv&#xe4;rdering</skos:prefLabel>
       <skos:definition xml:lang="sv">Att bed&#xf6;ma kvalitet, v&#xe4;rde och signifikans. Det omfattar till exempel att sl&#xe5; fast utv&#xe4;rderingskriterier, samla in data fr&#xe5;n utv&#xe4;rderingar och utf&#xf6;ra sj&#xe4;lva utv&#xe4;rderingen.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/336ba67">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/336ba67">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">FundingProvision</skos:notation>
       <skos:prefLabel xml:lang="en">Funding provision</skos:prefLabel>
       <skos:definition xml:lang="en">Providing financial support to a program or project, usually by an organization or government. Funding is made for a specific purpose for which the successful applicant must often account in full.</skos:definition>
@@ -525,9 +525,9 @@
       <skos:prefLabel xml:lang="sv">Finansiering</skos:prefLabel>
       <skos:definition xml:lang="sv">Att ge ekonomiskt st&#xf6;d till ett program eller projekt, vanligtvis av en organisation eller regering. Finansiering ges till ett visst syfte, och mottagaren m&#xe5;ste vanligtvis ge fullst&#xe4;ndiga redovisningar av den.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/91a066f">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/91a066f">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">FundingOrSponsorshipAcquisition</skos:notation>
       <skos:prefLabel xml:lang="en">Funding/sponsorship acquisition</skos:prefLabel>
       <skos:definition xml:lang="en">Searching for, and/or obtaining financial or other type of support for a program or project.</skos:definition>
@@ -540,9 +540,9 @@
       <skos:prefLabel xml:lang="sv">Erh&#xe5;llande av finansiering/sponsring</skos:prefLabel>
       <skos:definition xml:lang="sv">Att s&#xf6;ka efter och/eller beviljas finansiering eller n&#xe5;gon annan form av st&#xf6;d f&#xf6;r ett program eller projekt.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/0d6528b">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/0d6528b">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">Sponsorship</skos:notation>
       <skos:prefLabel xml:lang="en">Sponsorship</skos:prefLabel>
       <skos:definition xml:lang="en">Providing support for research or for other work or activities. Includes in-kind support, for example, providing staff time, facilities or instrumentation. Maps to &apos;Sponsor&apos; in DataCite.</skos:definition>
@@ -555,9 +555,9 @@
       <skos:prefLabel xml:lang="sv">Sponsring</skos:prefLabel>
       <skos:definition xml:lang="sv">Att ge st&#xf6;d till forskning eller annan verksamhet. Det inkluderar st&#xf6;d in natura, som att tillhandah&#xe5;lla deltidspersonal, lokaler eller instrument. Kopplas till &quot;Sponsor&quot; i DataCite.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/21b058b">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/21b058b">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">GraphicDesign</skos:notation>
       <skos:prefLabel xml:lang="en">Graphic design</skos:prefLabel>
       <skos:definition xml:lang="en">Combining text and images to support and enhance content, and make it visually appealing and user-friendly.</skos:definition>
@@ -570,9 +570,9 @@
       <skos:prefLabel xml:lang="sv">Grafisk design</skos:prefLabel>
       <skos:definition xml:lang="sv">Att kombinera text och bild f&#xf6;r att underst&#xf6;dja och f&#xf6;rst&#xe4;rka inneh&#xe5;ll, g&#xf6;ra det visuellt tilltalande och anv&#xe4;ndarv&#xe4;nligt.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/f0e43a7">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/f0e43a7">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">ProjectOperations</skos:notation>
       <skos:prefLabel xml:lang="en">Project operations</skos:prefLabel>
       <skos:definition xml:lang="en">Initiating, planning, executing, controlling, and closing the work of a team designed to achieve specific goals.</skos:definition>
@@ -584,13 +584,13 @@
       <skos:definition xml:lang="no">Initiering, planlegging, gjennomf&#xf8;ring, kontrollering og ferdigstille arbeidet i en gruppe som er utformet for &#xe5; n&#xe5; spesifikke m&#xe5;l.</skos:definition>
       <skos:prefLabel xml:lang="sv">Projektverksamhet</skos:prefLabel>
       <skos:definition xml:lang="sv">Att initiera, planera, genomf&#xf6;ra, utv&#xe4;rdera och avsluta arbetet f&#xf6;r ett team i syfte att uppn&#xe5; angivna m&#xe5;l.</skos:definition>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/9cfccbf"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/b3b6b30"/>
-      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/284e453"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/9cfccbf"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/b3b6b30"/>
+      <skos:narrower rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/284e453"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/9cfccbf">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/9cfccbf">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">ProjectOperations.ProjectLeader</skos:notation>
       <skos:prefLabel xml:lang="en">Project operations: Project leader</skos:prefLabel>
       <skos:definition xml:lang="en">Person officially designated as head of a project, or subproject team that carries out the work for developing a resource. The project leader remains closely involved in the work performed throughout the life of the project. Maps to &apos;ProjectLeader&apos; in DataCite.</skos:definition>
@@ -603,9 +603,9 @@
       <skos:prefLabel xml:lang="sv">Projektverksamhet: Projektledare</skos:prefLabel>
       <skos:definition xml:lang="sv">En person som officiellt har utsetts att leda ett projekt, eller ett team i ett delprojekt som utf&#xf6;r arbete med att utveckla en resurs. Projektledaren &#xe4;r n&#xe4;ra inblandad i arbetet genom projektets hela livsl&#xe4;ngd. Mappas till &quot;ProjectLeader&quot; i DataCite.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/b3b6b30">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/b3b6b30">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">ProjectOperations.ProjectManager</skos:notation>
       <skos:prefLabel xml:lang="en">Project operations: Project manager</skos:prefLabel>
       <skos:definition xml:lang="en">Person officially designated as manager of a project. This function normally has more administrative responsibilities than actual work involvement. Maps to &apos;ProjectManager&apos; in DataCite.</skos:definition>
@@ -618,9 +618,9 @@
       <skos:prefLabel xml:lang="sv">Projektverksamhet:  Projektansvarig</skos:prefLabel>
       <skos:definition xml:lang="sv">En person som har utsetts att ansvara f&#xf6;r ett projekt. Den h&#xe4;r funktionen har normalt sett mer administrativa ansvarsomr&#xe5;den &#xe4;n det faktiska projektarbetet. Mappas till &quot;ProjectManager&quot; i DataCite.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/284e453">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/284e453">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">ProjectOperations.ProjectMember</skos:notation>
       <skos:prefLabel xml:lang="en">Project operations: Project member</skos:prefLabel>
       <skos:definition xml:lang="en">Person that contributes and participates as a member in a designated project or project team. Maps to &apos;ProjectMember&apos; in DataCite.</skos:definition>
@@ -633,9 +633,9 @@
       <skos:prefLabel xml:lang="sv">Projektverksamhet: Projektmedlem</skos:prefLabel>
       <skos:definition xml:lang="sv">En person som bidrar till och deltar som medlem i ett angivet projekt eller projektteam. Mappas till &quot;ProjectMember&quot; i DataCite.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/626a54d">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/626a54d">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">Promotion</skos:notation>
       <skos:prefLabel xml:lang="en">Promotion</skos:prefLabel>
       <skos:definition xml:lang="en">Raising awareness and understanding of products and services, to attract potential users.</skos:definition>
@@ -648,9 +648,9 @@
       <skos:prefLabel xml:lang="sv">Marknadsf&#xf6;ring</skos:prefLabel>
       <skos:definition xml:lang="sv">Att &#xf6;ka medvetenheten om och f&#xf6;rst&#xe5;elsen av produkter och tj&#xe4;nster i syfte att attrahera m&#xf6;jliga anv&#xe4;ndare.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/2916675">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/2916675">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">RegistrationAuthority</skos:notation>
       <skos:prefLabel xml:lang="en">Registration authority</skos:prefLabel>
       <skos:definition xml:lang="en">A standards-setting body from which Registration Agencies obtain official recognition and guidance. For example, the International DOI Foundation (IDF) serves as the registration authority for the International Standards Organization (ISO) in the area/domain of Digital Object Identifiers.</skos:definition>
@@ -663,9 +663,9 @@
       <skos:prefLabel xml:lang="sv">Registreringsauktoritet</skos:prefLabel>
       <skos:definition xml:lang="sv">Ett standards&#xe4;ttande organ som ger registreringsmyndigheter officiellt erk&#xe4;nnande och v&#xe4;gledning. Till exempel fungerar International DOI Foundation (IDF) som registreringsauktoritet f&#xf6;r International Standards Organization (ISO) n&#xe4;r det g&#xe4;ller Digital Object Identifiers (DOI).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/e333508">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/e333508">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">Researcher</skos:notation>
       <skos:prefLabel xml:lang="en">Researcher</skos:prefLabel>
       <skos:definition xml:lang="en">An individual involved in analyzing the data or the study results, but whose role is to help with the research rather than be a creator.  For example, a researcher may seek, and find additional data from another source and correlate it to the study or experiment that is being conducted. Maps to &apos;Researcher&apos; in DataCite.</skos:definition>
@@ -678,9 +678,9 @@
       <skos:prefLabel xml:lang="sv">Forskare</skos:prefLabel>
       <skos:definition xml:lang="sv">En individ som &#xe4;r delaktig i att analysera data eller studieresultaten, men vars roll &#xe4;r att hj&#xe4;lpa till med forskningen snarare &#xe4;n att vara en skapare. En forskare kan till exempel leta efter och hitta ytterligare data fr&#xe5;n en annan k&#xe4;lla och koppla dem till studien eller experimentet som utf&#xf6;rs. Mappas till &quot;Researcher&quot; i DataCite.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/3a9a021">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/3a9a021">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">ResearchGroup</skos:notation>
       <skos:prefLabel xml:lang="en">Research group</skos:prefLabel>
       <skos:definition xml:lang="en">Group of individuals involved in the research. Maps to &apos;ResearchGroup&apos; in DataCite.</skos:definition>
@@ -693,9 +693,9 @@
       <skos:prefLabel xml:lang="sv">Forskargrupp</skos:prefLabel>
       <skos:definition xml:lang="sv">En grupp av personer som &#xe4;r delaktiga i forskningen. Mappas till &quot;ResearchGroup&quot; i DataCite.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/baaa9f1">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/baaa9f1">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">RightsHolding</skos:notation>
       <skos:prefLabel xml:lang="en">Rights holding</skos:prefLabel>
       <skos:definition xml:lang="en">Owning property rights, including intellectual property rights over the resource. Maps to &apos;RightsHolder&apos; in DataCite.</skos:definition>
@@ -708,9 +708,9 @@
       <skos:prefLabel xml:lang="sv">R&#xe4;ttighetsinnehavare</skos:prefLabel>
       <skos:definition xml:lang="sv">Den som st&#xe5;r som &#xe4;gare f&#xf6;r &#xe4;gander&#xe4;tten, inklusive de immaterialr&#xe4;tten f&#xf6;r resursen. Mappas till &quot;RightsHolder&quot; i DataCite.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/7b371aa">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/7b371aa">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">RightsManagement</skos:notation>
       <skos:prefLabel xml:lang="en">Rights management</skos:prefLabel>
       <skos:definition xml:lang="en">Managing licenses for distributed data, tools, and other research materials on behalf of the rights holder.</skos:definition>
@@ -723,9 +723,9 @@
       <skos:prefLabel xml:lang="sv">R&#xe4;ttighetshantering</skos:prefLabel>
       <skos:definition xml:lang="sv">Hantering av licenser f&#xf6;r distribuerade data, verktyg och annat forskningsmaterial p&#xe5; uppdrag av r&#xe4;ttighetsinnehavaren.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/6e917a4">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/6e917a4">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">SoftwareDevelopment</skos:notation>
       <skos:prefLabel xml:lang="en">Software development</skos:prefLabel>
       <skos:definition xml:lang="en">Creating and maintaining software needed at any stage of the data life cycle.</skos:definition>
@@ -738,9 +738,9 @@
       <skos:prefLabel xml:lang="sv">Programvaruutveckling</skos:prefLabel>
       <skos:definition xml:lang="sv">Att skapa och underh&#xe5;lla programvara som beh&#xf6;vs i n&#xe5;gon fas av datalivscykeln.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/85068dd">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/85068dd">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">Supervision</skos:notation>
       <skos:prefLabel xml:lang="en">Supervision</skos:prefLabel>
       <skos:definition xml:lang="en">Overseeing one or more individuals or teams in their work. Maps to &apos;Supervisor&apos; in DataCite.</skos:definition>
@@ -753,9 +753,9 @@
       <skos:prefLabel xml:lang="sv">Handledning</skos:prefLabel>
       <skos:definition xml:lang="sv">Att handleda en eller flera personer eller team i deras arbete. Mappas till &quot;Supervisor&quot; i DataCite.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/cf270e4">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/cf270e4">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">Training</skos:notation>
       <skos:prefLabel xml:lang="en">Training</skos:prefLabel>
       <skos:definition xml:lang="en">Imparting information and/or instructions to improve the recipient&apos;s performance or to help attain a required level of knowledge or skills related to research or research data. For example, training interviewers, translators, data archivists, or data analysts.</skos:definition>
@@ -768,9 +768,9 @@
       <skos:prefLabel xml:lang="sv">Utbildning</skos:prefLabel>
       <skos:definition xml:lang="sv">Att delge information och/eller instruktioner f&#xf6;r att f&#xf6;rb&#xe4;ttra mottagarens prestation, eller f&#xf6;r att bidra till att n&#xe5; en beg&#xe4;rd niv&#xe5; av kunskap och f&#xf6;rm&#xe5;gor kring forskning eller forskningsdata. Till exempel utbildning av intervjuare, &#xf6;vers&#xe4;ttare, dataarkivarier eller dataanalytiker.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/6dd0887">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/6dd0887">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">Translation</skos:notation>
       <skos:prefLabel xml:lang="en">Translation</skos:prefLabel>
       <skos:definition xml:lang="en">Expressing the content of text or speech in a different language than the original language used. For example, questionnaire or study report translation.</skos:definition>
@@ -783,9 +783,9 @@
       <skos:prefLabel xml:lang="sv">&#xd6;vers&#xe4;ttning</skos:prefLabel>
       <skos:definition xml:lang="sv">Att uttrycka inneh&#xe5;llet i text eller tal p&#xe5; ett annat spr&#xe5;k &#xe4;n originalspr&#xe5;ket. Till exempel &#xf6;vers&#xe4;ttning av fr&#xe5;geformul&#xe4;r eller studierapporter.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/be111a8">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/be111a8">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">UserSupport</skos:notation>
       <skos:prefLabel xml:lang="en">User support</skos:prefLabel>
       <skos:definition xml:lang="en">Providing assistance to users of data, metadata, tools, etc.</skos:definition>
@@ -798,9 +798,9 @@
       <skos:prefLabel xml:lang="sv">Anv&#xe4;ndarsupport</skos:prefLabel>
       <skos:definition xml:lang="sv">Att ge st&#xf6;d till personerna som anv&#xe4;nder data, metadata, verktyg osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/ce09e3d">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/ce09e3d">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">Visualization</skos:notation>
       <skos:prefLabel xml:lang="en">Visualization</skos:prefLabel>
       <skos:definition xml:lang="en">Representing data, analysis results, or other information as a chart, image or animation, to aid in the understanding of their meaning.</skos:definition>
@@ -813,9 +813,9 @@
       <skos:prefLabel xml:lang="sv">Visualisering</skos:prefLabel>
       <skos:definition xml:lang="sv">Att &#xe5;terge data, analysresultat eller annan information i form av diagram, bilder eller animeringar, f&#xf6;r att g&#xf6;ra det l&#xe4;ttare att f&#xf6;rst&#xe5; dem..</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/5b659e6">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/5b659e6">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">WebsiteDevelopment</skos:notation>
       <skos:prefLabel xml:lang="en">Website development</skos:prefLabel>
       <skos:definition xml:lang="en">Creating and maintaining a website related to the data. May include web design, building a user interface, network security configuration, etc.</skos:definition>
@@ -828,9 +828,9 @@
       <skos:prefLabel xml:lang="sv">Webbplatsutveckling</skos:prefLabel>
       <skos:definition xml:lang="sv">Att skapa och underh&#xe5;lla en webbplats som &#xe4;r kopplad till data. Det kan inkludera webbdesign, att skapa ett anv&#xe4;ndargr&#xe4;nssnitt, konfigurera n&#xe4;tverkss&#xe4;kerhet osv.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/6311ae1">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/6311ae1">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/ContributorRole/1.0.0/"/>
       <skos:notation xml:lang="en">Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use if the role is known but not in the list. Can be mapped to the roles &apos;RelatedPerson&apos;, &apos;Producer&apos;, and &apos;Work Package Leader&apos; in DataCite.</skos:definition>

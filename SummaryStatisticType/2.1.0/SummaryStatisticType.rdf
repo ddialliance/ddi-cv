@@ -4,7 +4,7 @@
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:dcterms="http://purl.org/dc/terms/"
 >
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/"/>
       <skos:notation xml:lang="en">SummaryStatisticType</skos:notation>
@@ -38,57 +38,57 @@
       <dcterms:title xml:lang="sv">Typ av sammanfattande statistik</dcterms:title>
       <dcterms:description xml:lang="sv">Anger typ av sammanfattande statistik. Sammanfattande statistik &#xe4;r ett enda v&#xe4;rde som representerar egenskaperna hos en m&#xe4;ngd v&#xe4;rden.</dcterms:description>
       <skos:prefLabel xml:lang="sv">Typ av sammanfattande statistik</skos:prefLabel>
-      <owl:versionInfo>2.1.2</owl:versionInfo>
+      <owl:versionInfo>2.1.0</owl:versionInfo>
       <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
       <dcterms:rights>Copyright &#xa9;DDI Alliance 2019</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/7975ed0"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/cd8ebb0"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/71996c9"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/17ff276"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/2c03973"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/650be61"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/66851a3"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/c646dd8"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/6459c62"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/a1d0ec6"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/8321e79"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/87ba2ec"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/a0ec870"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/700bc90"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/690ab50"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/3279fce"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/015ce0a"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/5dc5781"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/350c70a"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/f02fd7a"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/ebe9990"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/a7f7339"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/ccfc0c3"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/3ca7a64"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/e9f3735"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/c3a6a12"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/b3ab24e"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/ac62c25"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/93d51e9"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/85cba81"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/2381913"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/9eb1ff9"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/380846d"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/edf2add"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/03dbd00"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/9dea4c0"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/26ad7e5"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/9947048"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/3713b65"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/01aac65"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/699a82e"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/ecf4107"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/e592a55"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/6311ae1"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/7975ed0"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/cd8ebb0"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/71996c9"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/17ff276"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/2c03973"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/650be61"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/66851a3"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/c646dd8"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/6459c62"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/a1d0ec6"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/8321e79"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/87ba2ec"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/a0ec870"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/700bc90"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/690ab50"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/3279fce"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/015ce0a"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/5dc5781"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/350c70a"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/f02fd7a"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/ebe9990"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/a7f7339"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/ccfc0c3"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/3ca7a64"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/e9f3735"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/c3a6a12"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/b3ab24e"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/ac62c25"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/93d51e9"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/85cba81"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/2381913"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/9eb1ff9"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/380846d"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/edf2add"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/03dbd00"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/9dea4c0"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/26ad7e5"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/9947048"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/3713b65"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/01aac65"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/699a82e"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/ecf4107"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/e592a55"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/6311ae1"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/7975ed0">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/7975ed0">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">ArithmeticMean</skos:notation>
       <skos:prefLabel xml:lang="en">Arithmetic mean</skos:prefLabel>
       <skos:definition xml:lang="en">Mathematical average of a set of values. The mean is calculated by adding up two or more values and dividing the total by their number. In social/political science, it is usually the sum of the measurements divided by the number of subjects, or cases.</skos:definition>
@@ -111,9 +111,9 @@
       <skos:prefLabel xml:lang="sv">Aritmetiskt medelv&#xe4;rde</skos:prefLabel>
       <skos:definition xml:lang="sv">Det matematiska medelv&#xe4;rdet av en upps&#xe4;ttning v&#xe4;rden. Medelv&#xe4;rdet ber&#xe4;knas genom att addera tv&#xe5; eller flera v&#xe4;rden och dividera summan med antalet v&#xe4;rden. I samh&#xe4;llsvetenskap &#xe4;r det oftast summan av m&#xe4;tningarna dividerat med antalet subjekt eller fall.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/cd8ebb0">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/cd8ebb0">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">GeometricMean</skos:notation>
       <skos:prefLabel xml:lang="en">Geometric mean</skos:prefLabel>
       <skos:definition xml:lang="en">Average value of all data if extracting the nth root of the product of all (n) values. Rarely used in social sciences.</skos:definition>
@@ -136,9 +136,9 @@
       <skos:prefLabel xml:lang="sv">Geometriskt medelv&#xe4;rde</skos:prefLabel>
       <skos:definition xml:lang="sv">Medelv&#xe4;rdet av samtliga v&#xe4;rden som man f&#xe5;r genom att ta den n:te roten av produkten av alla (n) v&#xe4;rden. Anv&#xe4;nds s&#xe4;llan inom samh&#xe4;llsvetenskap.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/71996c9">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/71996c9">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">HarmonicMean</skos:notation>
       <skos:prefLabel xml:lang="en">Harmonic mean</skos:prefLabel>
       <skos:definition xml:lang="en">Average value of all data if calculating the reciprocal of the arithmetic mean of the reciprocal of values. Rarely used in social sciences.</skos:definition>
@@ -161,9 +161,9 @@
       <skos:prefLabel xml:lang="sv">Harmoniskt medelv&#xe4;rde</skos:prefLabel>
       <skos:definition xml:lang="sv">Medelv&#xe4;rdet av samtliga v&#xe4;rden som f&#xe5;s genom att ber&#xe4;kna det inverterade aritmetiska medelv&#xe4;rdet av summan av alla inverterade v&#xe4;rden. Anv&#xe4;nds s&#xe4;llan inom samh&#xe4;llsvetenskap.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/17ff276">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/17ff276">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">TrimmedMean</skos:notation>
       <skos:prefLabel xml:lang="en">Trimmed mean</skos:prefLabel>
       <skos:definition xml:lang="en">The (arithmetic) mean calculated after discarding given parts of observations at the high and low end (e.g., interquartile mean when the lowest 25% and the highest 25% are discarded, and the mean of the remaining values is calculated).</skos:definition>
@@ -186,9 +186,9 @@
       <skos:prefLabel xml:lang="sv">Trunkerat medelv&#xe4;rde</skos:prefLabel>
       <skos:definition xml:lang="sv">Det aritmetiska medelv&#xe4;rdet ber&#xe4;knat efter att man tagit bort givna delar av de h&#xf6;ga och l&#xe5;ga observationerna (t.ex. medelv&#xe4;rdet f&#xf6;r kvartilavst&#xe5;ndet, n&#xe4;r de l&#xe4;gsta 25 % och de h&#xf6;gsta 25 % r&#xe4;knats bort och medelv&#xe4;rdet av de &#xe5;terst&#xe5;ende v&#xe4;rdena ber&#xe4;knas).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/2c03973">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/2c03973">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">StandardErrorOfMean</skos:notation>
       <skos:prefLabel xml:lang="en">Standard error of the mean</skos:prefLabel>
       <skos:definition xml:lang="en">Provides an estimate of how much the sample mean differs from the actual mean of the population.</skos:definition>
@@ -211,9 +211,9 @@
       <skos:prefLabel xml:lang="sv">Standardfel f&#xf6;r medelv&#xe4;rdet</skos:prefLabel>
       <skos:definition xml:lang="sv">Ger en uppskattning av hur mycket medelv&#xe4;rdet f&#xf6;r ett urval avviker fr&#xe5;n medelv&#xe4;rdet f&#xf6;r hela populationen.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/650be61">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/650be61">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">Mode</skos:notation>
       <skos:prefLabel xml:lang="en">Mode</skos:prefLabel>
       <skos:definition xml:lang="en">The most frequently observed data value (Statistics Canada).</skos:definition>
@@ -236,9 +236,9 @@
       <skos:prefLabel xml:lang="sv">Typv&#xe4;rde</skos:prefLabel>
       <skos:definition xml:lang="sv">Det mest frekvent observerade datav&#xe4;rdet.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/66851a3">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/66851a3">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">Median</skos:notation>
       <skos:prefLabel xml:lang="en">Median</skos:prefLabel>
       <skos:definition xml:lang="en">The middle value in a set of values arranged in ascending order. Half of the values fall below the median, and half above it. If the set has an even number of values, the median will be the average of the two middle ones.</skos:definition>
@@ -261,9 +261,9 @@
       <skos:prefLabel xml:lang="sv">Median</skos:prefLabel>
       <skos:definition xml:lang="sv">V&#xe4;rdena som ligger mellan &#xf6;vre och undre h&#xe4;lften av v&#xe4;rdena i en f&#xf6;rdelning (50: e percentilen).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/c646dd8">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/c646dd8">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">ValidCases</skos:notation>
       <skos:prefLabel xml:lang="en">Valid cases</skos:prefLabel>
       <skos:definition xml:lang="en">Cases with observations which are considered to be valid, i.e., providing substantial information and to be included for calculation.</skos:definition>
@@ -286,9 +286,9 @@
       <skos:prefLabel xml:lang="sv">Giltiga fall</skos:prefLabel>
       <skos:definition xml:lang="sv">Fall med observationer som anses vara giltiga, dvs. ger betydande information och ska ing&#xe5; i ber&#xe4;kningar.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/6459c62">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/6459c62">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">InvalidCases</skos:notation>
       <skos:prefLabel xml:lang="en">Invalid cases</skos:prefLabel>
       <skos:definition xml:lang="en">Cases which are considered/defined as &quot;missing&quot; (e.g., not ascertained, not applicable, etc.), usually excluded from calculation.</skos:definition>
@@ -311,9 +311,9 @@
       <skos:prefLabel xml:lang="sv">Ogiltiga fall</skos:prefLabel>
       <skos:definition xml:lang="sv">Fall som betraktas/definieras som &quot;saknade&quot; (t.ex. inte fastst&#xe4;llda, inte till&#xe4;mpliga osv.), vanligtvis uteslutna ur ber&#xe4;kningar.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/a1d0ec6">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/a1d0ec6">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">Minimum</skos:notation>
       <skos:prefLabel xml:lang="en">Minimum</skos:prefLabel>
       <skos:definition xml:lang="en">The lowest valid value in a variable.</skos:definition>
@@ -336,9 +336,9 @@
       <skos:prefLabel xml:lang="sv">Minimum</skos:prefLabel>
       <skos:definition xml:lang="sv">Det l&#xe4;gsta giltiga v&#xe4;rdet i en variabel.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/8321e79">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/8321e79">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">Maximum</skos:notation>
       <skos:prefLabel xml:lang="en">Maximum</skos:prefLabel>
       <skos:definition xml:lang="en">The highest valid value in a variable.</skos:definition>
@@ -361,9 +361,9 @@
       <skos:prefLabel xml:lang="sv">Maximum</skos:prefLabel>
       <skos:definition xml:lang="sv">Det h&#xf6;gsta giltiga v&#xe4;rdet i en variabel.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/87ba2ec">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/87ba2ec">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">Range</skos:notation>
       <skos:prefLabel xml:lang="en">Range</skos:prefLabel>
       <skos:definition xml:lang="en">The range of valid values, i.e., all values that fall between the lowest and highest valid values.</skos:definition>
@@ -386,9 +386,9 @@
       <skos:prefLabel xml:lang="sv">Variationsvidd</skos:prefLabel>
       <skos:definition xml:lang="sv">Variationsvidden av giltiga v&#xe4;rden, dvs. alla v&#xe4;rden som faller mellan det l&#xe4;gsta och det h&#xf6;gsta giltiga v&#xe4;rdet.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/a0ec870">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/a0ec870">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">Sum</skos:notation>
       <skos:prefLabel xml:lang="en">Sum</skos:prefLabel>
       <skos:definition xml:lang="en">The sum or total of the values, across all valid cases.</skos:definition>
@@ -411,9 +411,9 @@
       <skos:prefLabel xml:lang="sv">Summa</skos:prefLabel>
       <skos:definition xml:lang="sv">Summan av v&#xe4;rden f&#xf6;r alla giltiga fall.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/700bc90">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/700bc90">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">Variance</skos:notation>
       <skos:prefLabel xml:lang="en">Variance</skos:prefLabel>
       <skos:definition xml:lang="en">The variance is the mean square deviation of the variable around the average value. It reflects the dispersion of a frequency distribution around its mean (OECD Glossary of Statistics).</skos:definition>
@@ -436,9 +436,9 @@
       <skos:prefLabel xml:lang="sv">Varians</skos:prefLabel>
       <skos:definition xml:lang="sv">Variansen &#xe4;r genomsnittet f&#xf6;r en variabels kvadrerade avvikelser fr&#xe5;n sitt medelv&#xe4;rde. Det &#xe5;terspeglar spridningen av en frekvensf&#xf6;rdelning runt medelv&#xe4;rdet.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/690ab50">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/690ab50">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">StandardDeviation</skos:notation>
       <skos:prefLabel xml:lang="en">Standard deviation</skos:prefLabel>
       <skos:definition xml:lang="en">Indicates the degree to which individuals within the sample differ from the sample mean.</skos:definition>
@@ -461,9 +461,9 @@
       <skos:prefLabel xml:lang="sv">Standardavvikelse</skos:prefLabel>
       <skos:definition xml:lang="sv">Den positiva kvadratroten ur variansen. Det mest anv&#xe4;nda m&#xe5;ttet p&#xe5; spridningen av en frekvensf&#xf6;rdelning.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/3279fce">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/3279fce">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">CoefficientOfVariation</skos:notation>
       <skos:prefLabel xml:lang="en">Coefficient of variation</skos:prefLabel>
       <skos:definition xml:lang="en">Standard deviation divided by the mean.</skos:definition>
@@ -486,9 +486,9 @@
       <skos:prefLabel xml:lang="sv">Variationskoefficient</skos:prefLabel>
       <skos:definition xml:lang="sv">Standardavvikelsen dividerad med medelv&#xe4;rdet.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/015ce0a">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/015ce0a">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">AverageAbsoluteDeviation</skos:notation>
       <skos:prefLabel xml:lang="en">Average absolute deviation</skos:prefLabel>
       <skos:definition xml:lang="en">The average of the absolute differences between each value and the overall mean. Measure of statistical dispersion around the mean, alternative to Standard Deviation.</skos:definition>
@@ -511,9 +511,9 @@
       <skos:prefLabel xml:lang="sv">Genomsnittlig absolut avvikelse</skos:prefLabel>
       <skos:definition xml:lang="sv">Medelv&#xe4;rdet av de absoluta skillnaderna mellan varje v&#xe4;rde och det totala medelv&#xe4;rdet. M&#xe5;tt p&#xe5; den statistiska spridningen kring medelv&#xe4;rdet, ett alternativ till standardavvikelsen.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/5dc5781">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/5dc5781">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">MedianAbsoluteDeviation</skos:notation>
       <skos:prefLabel xml:lang="en">Median absolute deviation</skos:prefLabel>
       <skos:definition xml:lang="en">The median absolute deviation from the median. Measure of statistical dispersion around the median.</skos:definition>
@@ -536,9 +536,9 @@
       <skos:prefLabel xml:lang="sv">Median absolut avvikelse</skos:prefLabel>
       <skos:definition xml:lang="sv">Median absolut avvikelsen fr&#xe5;n medianen. M&#xe5;tt p&#xe5; spridningen runt medianen.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/350c70a">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/350c70a">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">FirstQuartile</skos:notation>
       <skos:prefLabel xml:lang="en">First quartile</skos:prefLabel>
       <skos:definition xml:lang="en">The first of three values which separate the total frequency of a distribution into four equal parts.</skos:definition>
@@ -561,9 +561,9 @@
       <skos:prefLabel xml:lang="sv">F&#xf6;rsta kvartilen</skos:prefLabel>
       <skos:definition xml:lang="sv">Det f&#xf6;rsta av tre v&#xe4;rden som separerar den totala frekvensen av en f&#xf6;rdelning i fyra lika stora delar.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/f02fd7a">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/f02fd7a">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">SecondQuartile</skos:notation>
       <skos:prefLabel xml:lang="en">Second quartile</skos:prefLabel>
       <skos:definition xml:lang="en">The second of three values which separate the total frequency of a distribution into four equal parts (= median).</skos:definition>
@@ -586,9 +586,9 @@
       <skos:prefLabel xml:lang="sv">Andra kvartilen</skos:prefLabel>
       <skos:definition xml:lang="sv">Det andra av tre v&#xe4;rden som separerar den totala frekvensen av en f&#xf6;rdelning i fyra lika delar (= median).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/ebe9990">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/ebe9990">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">ThirdQuartile</skos:notation>
       <skos:prefLabel xml:lang="en">Third quartile</skos:prefLabel>
       <skos:definition xml:lang="en">The third of three values which separate the total frequency of a distribution into four equal parts.</skos:definition>
@@ -611,9 +611,9 @@
       <skos:prefLabel xml:lang="sv">Tredje kvartilen</skos:prefLabel>
       <skos:definition xml:lang="sv">Det tredje av tre v&#xe4;rden som separerar den totala frekvensen av en f&#xf6;rdelning i fyra lika delar.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/a7f7339">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/a7f7339">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">InterquartileRange</skos:notation>
       <skos:prefLabel xml:lang="en">Interquartile range</skos:prefLabel>
       <skos:definition xml:lang="en">The range between the first and third quartile values.</skos:definition>
@@ -636,9 +636,9 @@
       <skos:prefLabel xml:lang="sv">Kvartilavst&#xe5;nd</skos:prefLabel>
       <skos:definition xml:lang="sv">Intervallet mellan f&#xf6;rsta och tredje kvartilen.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/ccfc0c3">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/ccfc0c3">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">FirstQuintile</skos:notation>
       <skos:prefLabel xml:lang="en">First quintile</skos:prefLabel>
       <skos:definition xml:lang="en">The first of four values which separate the total frequency of a distribution into five equal parts.</skos:definition>
@@ -661,9 +661,9 @@
       <skos:prefLabel xml:lang="sv">F&#xf6;rsta kvintilen</skos:prefLabel>
       <skos:definition xml:lang="sv">Det f&#xf6;rsta av fyra v&#xe4;rden som separerar den totala frekvensen av en f&#xf6;rdelning i fem lika delar.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/3ca7a64">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/3ca7a64">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">SecondQuintile</skos:notation>
       <skos:prefLabel xml:lang="en">Second quintile</skos:prefLabel>
       <skos:definition xml:lang="en">The second of four values which separate the total frequency of a distribution into five equal parts.</skos:definition>
@@ -686,9 +686,9 @@
       <skos:prefLabel xml:lang="sv">Andra kvintilen</skos:prefLabel>
       <skos:definition xml:lang="sv">Det andra av fyra v&#xe4;rden som separerar den totala frekvensen av en f&#xf6;rdelning i fem lika delar.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/e9f3735">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/e9f3735">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">ThirdQuintile</skos:notation>
       <skos:prefLabel xml:lang="en">Third quintile</skos:prefLabel>
       <skos:definition xml:lang="en">The third of four values which separate the total frequency of a distribution into five equal parts.</skos:definition>
@@ -711,9 +711,9 @@
       <skos:prefLabel xml:lang="sv">Tredje kvintilen</skos:prefLabel>
       <skos:definition xml:lang="sv">Det tredje av fyra v&#xe4;rden som separerar den totala frekvensen av en f&#xf6;rdelning i fem lika delar.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/c3a6a12">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/c3a6a12">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">FourthQuintile</skos:notation>
       <skos:prefLabel xml:lang="en">Fourth quintile</skos:prefLabel>
       <skos:definition xml:lang="en">The fourth of four values which separate the total frequency of a distribution into five equal parts.</skos:definition>
@@ -736,9 +736,9 @@
       <skos:prefLabel xml:lang="sv">Fj&#xe4;rde kvintilen</skos:prefLabel>
       <skos:definition xml:lang="sv">Det fj&#xe4;rde av fyra v&#xe4;rden som separerar den totala frekvensen av en f&#xf6;rdelning i fem lika delar.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/b3ab24e">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/b3ab24e">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">InterquintileRange</skos:notation>
       <skos:prefLabel xml:lang="en">Interquintile range</skos:prefLabel>
       <skos:definition xml:lang="en">The range between the first and fourth quintile values.</skos:definition>
@@ -761,9 +761,9 @@
       <skos:prefLabel xml:lang="sv">Kvintilavst&#xe5;nd</skos:prefLabel>
       <skos:definition xml:lang="sv">Intervallet mellan f&#xf6;rsta och fj&#xe4;rde kvintilen.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/ac62c25">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/ac62c25">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">FirstDecile</skos:notation>
       <skos:prefLabel xml:lang="en">First decile</skos:prefLabel>
       <skos:definition xml:lang="en">The first of nine values which separate the total frequency of a distribution into ten equal parts.</skos:definition>
@@ -786,9 +786,9 @@
       <skos:prefLabel xml:lang="sv">F&#xf6;rsta decilen</skos:prefLabel>
       <skos:definition xml:lang="sv">Det f&#xf6;rsta av nio v&#xe4;rden som separerar den totala frekvensen av en f&#xf6;rdelning i tio lika delar.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/93d51e9">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/93d51e9">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">SecondDecile</skos:notation>
       <skos:prefLabel xml:lang="en">Second decile</skos:prefLabel>
       <skos:definition xml:lang="en">The second of nine values which separate the total frequency of a distribution into ten equal parts.</skos:definition>
@@ -811,9 +811,9 @@
       <skos:prefLabel xml:lang="sv">Andra decilen</skos:prefLabel>
       <skos:definition xml:lang="sv">Det andra av nio v&#xe4;rden som separerar den totala frekvensen av en f&#xf6;rdelning i tio lika delar.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/85cba81">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/85cba81">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">ThirdDecile</skos:notation>
       <skos:prefLabel xml:lang="en">Third decile</skos:prefLabel>
       <skos:definition xml:lang="en">The third of nine values which separate the total frequency of a distribution into ten equal parts.</skos:definition>
@@ -836,9 +836,9 @@
       <skos:prefLabel xml:lang="sv">Tredje decilen</skos:prefLabel>
       <skos:definition xml:lang="sv">Det tredje av nio v&#xe4;rden som separerar den totala frekvensen av en f&#xf6;rdelning i tio lika delar.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/2381913">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/2381913">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">FourthDecile</skos:notation>
       <skos:prefLabel xml:lang="en">Fourth decile</skos:prefLabel>
       <skos:definition xml:lang="en">The fourth of nine values which separate the total frequency of a distribution into ten equal parts.</skos:definition>
@@ -861,9 +861,9 @@
       <skos:prefLabel xml:lang="sv">Fj&#xe4;rde decilen</skos:prefLabel>
       <skos:definition xml:lang="sv">Det fj&#xe4;rde av nio v&#xe4;rden som separerar den totala frekvensen av en f&#xf6;rdelning i tio lika delar.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/9eb1ff9">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/9eb1ff9">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">FifthDecile</skos:notation>
       <skos:prefLabel xml:lang="en">Fifth decile</skos:prefLabel>
       <skos:definition xml:lang="en">The fifth of nine values which separate the total frequency of a distribution into ten equal parts (= median).</skos:definition>
@@ -886,9 +886,9 @@
       <skos:prefLabel xml:lang="sv">Femte decilen</skos:prefLabel>
       <skos:definition xml:lang="sv">Det femte av nio v&#xe4;rden som separerar den totala frekvensen av en f&#xf6;rdelning i tio lika delar (= median).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/380846d">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/380846d">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">SixthDecile</skos:notation>
       <skos:prefLabel xml:lang="en">Sixth decile</skos:prefLabel>
       <skos:definition xml:lang="en">The sixth of nine values which separate the total frequency of a distribution into ten equal parts.</skos:definition>
@@ -911,9 +911,9 @@
       <skos:prefLabel xml:lang="sv">Sj&#xe4;tte decilen</skos:prefLabel>
       <skos:definition xml:lang="sv">Det sj&#xe4;tte av nio v&#xe4;rden som separerar den totala frekvensen av en f&#xf6;rdelning i tio lika delar.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/edf2add">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/edf2add">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">SeventhDecile</skos:notation>
       <skos:prefLabel xml:lang="en">Seventh decile</skos:prefLabel>
       <skos:definition xml:lang="en">The seventh of nine values which separate the total frequency of a distribution into ten equal parts.</skos:definition>
@@ -936,9 +936,9 @@
       <skos:prefLabel xml:lang="sv">Sjunde decilen</skos:prefLabel>
       <skos:definition xml:lang="sv">Det sjunde av nio v&#xe4;rden som separerar den totala frekvensen av en f&#xf6;rdelning i tio lika delar.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/03dbd00">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/03dbd00">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">EighthDecile</skos:notation>
       <skos:prefLabel xml:lang="en">Eighth decile</skos:prefLabel>
       <skos:definition xml:lang="en">The eighth of nine values which separate the total frequency of a distribution into ten equal parts.</skos:definition>
@@ -961,9 +961,9 @@
       <skos:prefLabel xml:lang="sv">&#xc5;ttonde decilen</skos:prefLabel>
       <skos:definition xml:lang="sv">Det &#xe5;ttonde av nio v&#xe4;rden som separerar den totala frekvensen av en f&#xf6;rdelning i tio lika delar.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/9dea4c0">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/9dea4c0">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">NinthDecile</skos:notation>
       <skos:prefLabel xml:lang="en">Ninth decile</skos:prefLabel>
       <skos:definition xml:lang="en">The ninth of nine values which separate the total frequency of a distribution into ten equal parts.</skos:definition>
@@ -986,9 +986,9 @@
       <skos:prefLabel xml:lang="sv">Nionde decilen</skos:prefLabel>
       <skos:definition xml:lang="sv">Det nionde av nio v&#xe4;rden som separerar den totala frekvensen av en f&#xf6;rdelning i tio lika delar.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/26ad7e5">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/26ad7e5">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">InterdecileRange</skos:notation>
       <skos:prefLabel xml:lang="en">Interdecile range</skos:prefLabel>
       <skos:definition xml:lang="en">The range between the first and ninth decile values.</skos:definition>
@@ -1011,9 +1011,9 @@
       <skos:prefLabel xml:lang="sv">Decilavst&#xe5;nd</skos:prefLabel>
       <skos:definition xml:lang="sv">Intervallet mellan f&#xf6;rsta och nionde decilen.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/9947048">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/9947048">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">OtherPercentile</skos:notation>
       <skos:prefLabel xml:lang="en">Other percentile</skos:prefLabel>
       <skos:definition xml:lang="en">A percentile not covered by any of the other percentile terms.</skos:definition>
@@ -1036,9 +1036,9 @@
       <skos:prefLabel xml:lang="sv">Annan percentil</skos:prefLabel>
       <skos:definition xml:lang="sv">En percentil som inte omfattas av n&#xe5;gon av de andra percentiltermerna.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/3713b65">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/3713b65">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">Beta1</skos:notation>
       <skos:prefLabel xml:lang="en">Skewness</skos:prefLabel>
       <skos:definition xml:lang="en">A measure for the asymmetry of a probability distribution of a variable.</skos:definition>
@@ -1061,9 +1061,9 @@
       <skos:prefLabel xml:lang="sv">Skevhet</skos:prefLabel>
       <skos:definition xml:lang="sv">Ett m&#xe5;tt f&#xf6;r asymmetrin av en variabels sannolikhetsf&#xf6;rdelning.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/01aac65">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/01aac65">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">Beta2</skos:notation>
       <skos:prefLabel xml:lang="en">Kurtosis</skos:prefLabel>
       <skos:definition xml:lang="en">A measure for the &quot;peakedness&quot; of a probability distribution of a variable.</skos:definition>
@@ -1086,9 +1086,9 @@
       <skos:prefLabel xml:lang="sv">Kurtosis</skos:prefLabel>
       <skos:definition xml:lang="sv">Ett m&#xe5;tt f&#xf6;r &quot;spetsigheten&quot; p&#xe5; en variabels sannolikhetsf&#xf6;rdelning.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/699a82e">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/699a82e">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">ShapiroWilk</skos:notation>
       <skos:prefLabel xml:lang="en">Shapiro-Wilk</skos:prefLabel>
       <skos:definition xml:lang="en">Normality test statistics.</skos:definition>
@@ -1111,9 +1111,9 @@
       <skos:prefLabel xml:lang="sv">Shapiro-Wilk</skos:prefLabel>
       <skos:definition xml:lang="sv">Test som visar i vilken m&#xe5;n datamaterialet inte &#xe4;r normalf&#xf6;rdelat.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/ecf4107">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/ecf4107">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">PercentageOfValidCases</skos:notation>
       <skos:prefLabel xml:lang="en">Percentage of valid cases</skos:prefLabel>
       <skos:definition xml:lang="en">Indicates the percentage of valid cases of the total number of cases.</skos:definition>
@@ -1136,9 +1136,9 @@
       <skos:prefLabel xml:lang="sv">Andelen giltiga fall</skos:prefLabel>
       <skos:definition xml:lang="sv">Indikerar andelen giltiga fall i f&#xf6;rh&#xe5;llande till det totala antalet fall.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/e592a55">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/e592a55">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">PercentageOfInvalidCases</skos:notation>
       <skos:prefLabel xml:lang="en">Percentage of invalid cases</skos:prefLabel>
       <skos:definition xml:lang="en">Indicates the percentage of invalid cases of the total number of cases.</skos:definition>
@@ -1161,9 +1161,9 @@
       <skos:prefLabel xml:lang="sv">Andelen ogiltiga fall</skos:prefLabel>
       <skos:definition xml:lang="sv">Indikerar andelen ogiltiga fall i f&#xf6;rh&#xe5;llande till det totala antalet fall.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/6311ae1">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/6311ae1">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.0/"/>
       <skos:notation xml:lang="en">Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use if the summary statistic type is known, but not found in the list.</skos:definition>

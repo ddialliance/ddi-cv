@@ -4,7 +4,7 @@
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:dcterms="http://purl.org/dc/terms/"
 >
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/"/>
       <skos:notation xml:lang="en">DateType</skos:notation>
@@ -21,24 +21,24 @@
       <dcterms:title xml:lang="no">Datotype</dcterms:title>
       <dcterms:description xml:lang="no">Spesifiserer typen dato.</dcterms:description>
       <skos:prefLabel xml:lang="no">Datotype</skos:prefLabel>
-      <owl:versionInfo>1.1.2</owl:versionInfo>
+      <owl:versionInfo>1.1.0</owl:versionInfo>
       <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
       <dcterms:rights>Copyright &#xa9;DDI Alliance 2019</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/8cf10d2"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/a76d4ef"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/4474971"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/e8a304e"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/08a1af4"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/5fddfa0"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d4eaaeb"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/dee6835"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/e02d2ae"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/0e024a1"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/6311ae1"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/8cf10d2"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/a76d4ef"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/4474971"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/e8a304e"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/08a1af4"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/5fddfa0"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/d4eaaeb"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/dee6835"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/e02d2ae"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/0e024a1"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/6311ae1"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/8cf10d2">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/8cf10d2">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/"/>
       <skos:notation xml:lang="en">DateTime</skos:notation>
       <skos:prefLabel xml:lang="en">DateTime</skos:prefLabel>
       <skos:definition xml:lang="en">Used to specify a date and time in the form &quot;year, month, day, hour, minutes and seconds&quot; (YYYY-MM-DD hh:mm:ss). In a DateTime string expression, the time portion is preceded by a &quot;T&quot;, for example, 2018-02-22T13:00:00. A time zone specification may be included either by entering the UTC date and time followed by a &quot;Z&quot;, or by adding a positive or negative time after the stated time to indicate the offset from UTC time. For example, 1 pm U.S. Eastern Standard Time may be expressed as 2018-02-22T18:00:00Z, or as 2018-02-22T13:00:00-5:00.</skos:definition>
@@ -50,9 +50,9 @@
       <skos:definition xml:lang="no">Brukes for &#xe5; spesifisere dato og tid i formatet &quot;&#xe5;r, m&#xe5;ned, dag, time, minutter og sekunder&quot; (YYYY-MM-DD hh:mm:ss). I et DateTime streng utrykk er tidsdelen adskilt med en &quot;T&quot;, for eksempel, 2018-02-22T13:00:00. En tidssone spesifikasjon kan bli inkludert ved enten &#xe5; skrive inn UTC dato og tidsformat etterfulgt av en &quot;Z&quot;, eller ved &#xe5; legge til en positiv eller negativ tid
 etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempel, 13:00 U.S. Eastern Standard Time kan bli uttrykket som 2018-02-22T18:00:00Z, eller 2018-02-22T13:00:00-5:00.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/a76d4ef">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/a76d4ef">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/"/>
       <skos:notation xml:lang="en">Time</skos:notation>
       <skos:prefLabel xml:lang="en">Time</skos:prefLabel>
       <skos:definition xml:lang="en">Used to specify a time in the form &quot;hour, minutes and seconds&quot; (hh:mm:ss). A time zone specification may be included either by entering the UTC time followed by a &quot;Z&quot;, or by adding a positive or negative time after the stated time to indicate the offset from UTC time. For example, 1 pm U.S. Eastern Standard Time may be expressed as 18:00:00Z, or as 13:00:00-5:00.</skos:definition>
@@ -63,9 +63,9 @@ etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempe
       <skos:prefLabel xml:lang="no">Tid</skos:prefLabel>
       <skos:definition xml:lang="no">Brukes for &#xe5; spesifisere tid i formatet &quot;timer, minutter og sekunder&quot; (hh:mm:ss). En tidssone spesifikasjon kan bli inkludert ved &#xe5; skrive inn UTC tid etterfulgt av en &quot;Z&quot;, eller ved &#xe5; legge til en positiv eller negativ tid etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempel, 13:00 U.S. Eastern Standard Time kan bli uttrykket som 18:00:00Z eller som 13:00:00-5:00.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/4474971">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/4474971">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/"/>
       <skos:notation xml:lang="en">Date</skos:notation>
       <skos:prefLabel xml:lang="en">Date</skos:prefLabel>
       <skos:definition xml:lang="en">Used to specify a date in the form &quot;year, month, day&quot; (YYYY-MM-DD). A time zone specification may be included either by entering a UTC date followed by a &quot;Z&quot; or by adding a positive or negative time after the stated date to indicate the offset from UTC time. For example, February 20th, 2018 in Eastern Australia could be expressed as 2018-02-19Z, or as 2018-02-20+10:00.</skos:definition>
@@ -76,9 +76,9 @@ etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempe
       <skos:prefLabel xml:lang="no">Dato</skos:prefLabel>
       <skos:definition xml:lang="no">Brukes for &#xe5; spesifisere en dato i formatet &quot;&#xe5;r, m&#xe5;ned, dag&quot; (YYYY-MM-DD). En tidssone spesifikasjon kan bli inkludert ved &#xe5; skrive inn UTC dato etterfulgt av en &quot;Z&quot; eller ved &#xe5; legge til en positiv eller negativ tid etter den angitte datoen for &#xe5; indikere forskyvning fra UTC tid. For eksempel, Februar 20., 2018 i &#xd8;st-Australia kan bli uttrykket som 2018-02-19Z eller 2018-02-20+10:00.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/e8a304e">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/e8a304e">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/"/>
       <skos:notation xml:lang="en">GYearMonth</skos:notation>
       <skos:prefLabel xml:lang="en">YearMonth</skos:prefLabel>
       <skos:definition xml:lang="en">Defines a part of a date - the year and month (YYYY-MM).</skos:definition>
@@ -89,9 +89,9 @@ etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempe
       <skos:prefLabel xml:lang="no">YearMonth</skos:prefLabel>
       <skos:definition xml:lang="no">Definerer en del av datoen - &#xe5;r og m&#xe5;ned (YYYY-MM).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/08a1af4">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/08a1af4">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/"/>
       <skos:notation xml:lang="en">GYear</skos:notation>
       <skos:prefLabel xml:lang="en">Year</skos:prefLabel>
       <skos:definition xml:lang="en">Defines a part of a date - the year (YYYY).</skos:definition>
@@ -102,9 +102,9 @@ etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempe
       <skos:prefLabel xml:lang="no">&#xc5;r</skos:prefLabel>
       <skos:definition xml:lang="no">Definerer en del av datoen - &#xe5;r (YYYY).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/5fddfa0">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/5fddfa0">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/"/>
       <skos:notation xml:lang="en">GMonthDay</skos:notation>
       <skos:prefLabel xml:lang="en">MonthDay</skos:prefLabel>
       <skos:definition xml:lang="en">Defines a part of a date - the month and day (MM-DD).</skos:definition>
@@ -115,9 +115,9 @@ etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempe
       <skos:prefLabel xml:lang="no">MonthDay</skos:prefLabel>
       <skos:definition xml:lang="no">Definerer en del av datoen - &#xe5;r og m&#xe5;ned (YYYY-MM).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/d4eaaeb">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/d4eaaeb">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/"/>
       <skos:notation xml:lang="en">GDay</skos:notation>
       <skos:prefLabel xml:lang="en">Day</skos:prefLabel>
       <skos:definition xml:lang="en">Defines a part of a date - the day (DD).</skos:definition>
@@ -128,9 +128,9 @@ etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempe
       <skos:prefLabel xml:lang="no">Dag</skos:prefLabel>
       <skos:definition xml:lang="no">Definerer en del av datoen - dagen (DD).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/dee6835">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/dee6835">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/"/>
       <skos:notation xml:lang="en">GMonth</skos:notation>
       <skos:prefLabel xml:lang="en">Month</skos:prefLabel>
       <skos:definition xml:lang="en">Defines a part of a date - the month (MM).</skos:definition>
@@ -141,9 +141,9 @@ etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempe
       <skos:prefLabel xml:lang="no">M&#xe5;ned</skos:prefLabel>
       <skos:definition xml:lang="no">Definerer en del av datoen - m&#xe5;neden (MM).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/e02d2ae">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/e02d2ae">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/"/>
       <skos:notation xml:lang="en">Duration</skos:notation>
       <skos:prefLabel xml:lang="en">Duration</skos:prefLabel>
       <skos:definition xml:lang="en">Used to specify a time period or interval in the form &quot;number of years, number of months, number of days, number of hours, number of minutes, and number of seconds, preceded by a &quot;P&quot; (PnYnMnDTnHnMnS). The letter &quot;T&quot; indicates the start of the time section. For example, P5Y2M10DT15H stands for a period of five years, two months, 10 days, and 15 hours. A period preceded by the minus sign (&quot;-&quot;) will indicate a negative duration, for example, -P10D stands for a period of minus 10 days.</skos:definition>
@@ -154,9 +154,9 @@ etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempe
       <skos:prefLabel xml:lang="no">Varighet</skos:prefLabel>
       <skos:definition xml:lang="no">Brukes for &#xe5; spesifisere tidsperioden eller intervallen i formatet &quot;antall &#xe5;r, antall m&#xe5;neder, antall dager, antall timer, antall minutter og antall sekunder, foreg&#xe5;tt av en &quot;P&quot; (PnYnMnDTnHnMnS). Bokstaven &quot;T&quot; indikerer starten p&#xe5; tidsdelen. For eksempel, P5Y2M10DT15H st&#xe5;r for en periode p&#xe5; fem &#xe5;r, to m&#xe5;neder, 10 dager og 15 timer. En periode med minustegn (&quot;-&quot;) foran indikerer en negativ varighet, for eksempel, -P10D betyr en periode p&#xe5; minus 10 dager.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/0e024a1">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/0e024a1">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/"/>
       <skos:notation xml:lang="en">Timespan</skos:notation>
       <skos:prefLabel xml:lang="en">Timespan</skos:prefLabel>
       <skos:definition xml:lang="en">The TimeSpan structure represents a length of time (duration of time or elapsed time), and may be expressed as start/end, start/duration, or duration/end. Start, end, and duration are documented using the designated DateTime structures. Examples: start/end 2018-02-22T13:00:00/2018-02-22T14:30:00; start/duration 2018-02-Approved: The TimeSpan structure represents a length of time (duration of time or elapsed time), and may be expressed as start/end, start/duration, or duration/end. Start, end, and duration are documented using the designated DateTime structures. Examples: start/end 2018-02-22T13:00:00/2018-02-22T14:30:00; start/duration 2018-02-22T13:00:00/1H30M; duration/end 1H20M/2018-02-22T14:30:00. For start/end expressions, if any element is missing from the end value, it is assumed to be the same as for the start value, including the time zone if used. For example, a two-hour meeting on 14 Dec 2007 can be represented as 2007-12-14T13:30:00/15:30:00, or 2007-12-14T13:30:00/2H.</skos:definition>
@@ -168,9 +168,9 @@ etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempe
       <skos:definition xml:lang="no">Tidsrom strukturen representerer en tidsvarighet (varighet av tid eller g&#xe5;tt tid), den kan bli uttrykket som start/stopp, start/varighet eller varighet/slutt. Start, slutt og varighet er dokumentert ved bruk av de angitte DateTime strukturene.
 Eksempler: start/slutt 2018-02-22T13:00:00/2018-02-22T14:30:00; start/varighet 2018-02-Approved: Tidsrom strukturen representerer en tidsvarighet (varighet av tid eller g&#xe5;tt tid), den kan bli uttrykket ved start/stopp, start/varighet eller varighet/slutt. Start, slutt og varighet er dokumentert ved bruk av de angitte DateTime strukturene. Eksempler: start/slutt 2018-02-22T13:00:00/2018-02-22T14:30:00; start/varighet 2018-02-22T13:00:00/1H30M; varighet/slutt 1H20M/2018-02-22T14:30:00. For start/slutt uttrykk, hvis noen av elementene mangler fra slutt verdien er det antatt &#xe5; v&#xe6;re den samme for startverdien, inkludert tidssone hvis det er brukt. For eksempel, et to timers langt m&#xf8;te p&#xe5; den 14. desember 2007 kan bli representert som 2007-12-14T13:30:00/15:30:00 eller 2007-12-14T13:30:00/2H.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/6311ae1">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/6311ae1">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DateType/1.1.0/"/>
       <skos:notation xml:lang="en">Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use if the date type is known, but not found in the list.</skos:definition>
