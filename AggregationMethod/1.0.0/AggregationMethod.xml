@@ -8,7 +8,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/</r:UserID>
          <r:Label>
             <r:Content xml:lang="en">Aggregation Method</r:Content>
          </r:Label>
@@ -19,7 +19,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-a0ec870-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/a0ec870</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/a0ec870</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-a0ec870-Category</r:ID>
@@ -32,7 +32,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-7975ed0-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/7975ed0</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/7975ed0</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-7975ed0-Category</r:ID>
@@ -45,7 +45,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-e93f994-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/e93f994</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/e93f994</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-e93f994-Category</r:ID>
@@ -58,7 +58,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-650be61-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/650be61</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/650be61</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-650be61-Category</r:ID>
@@ -71,7 +71,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-66851a3-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/66851a3</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/66851a3</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-66851a3-Category</r:ID>
@@ -84,7 +84,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-8321e79-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/8321e79</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/8321e79</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-8321e79-Category</r:ID>
@@ -97,7 +97,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-a1d0ec6-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/a1d0ec6</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/a1d0ec6</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-a1d0ec6-Category</r:ID>
@@ -110,7 +110,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-adaaee4-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/adaaee4</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/adaaee4</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-adaaee4-Category</r:ID>
@@ -123,7 +123,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-4dfc4f5-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/4dfc4f5</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/4dfc4f5</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-4dfc4f5-Category</r:ID>
@@ -136,7 +136,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-bdc1c84-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/bdc1c84</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/bdc1c84</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-bdc1c84-Category</r:ID>
@@ -149,7 +149,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-6311ae1-Code</r:ID>
             <r:Version>1.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/6311ae1</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/6311ae1</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-6311ae1-Category</r:ID>
@@ -165,7 +165,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-a0ec870-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/a0ec870</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/a0ec870</r:UserID>
          <l:CategoryName>Sum</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Sum</r:Content>
@@ -180,7 +180,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-7975ed0-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/7975ed0</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/7975ed0</r:UserID>
          <l:CategoryName>ArithmeticMean</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Arithmetic Mean</r:Content>
@@ -195,7 +195,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-e93f994-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/e93f994</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/e93f994</r:UserID>
          <l:CategoryName>Count</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Count</r:Content>
@@ -210,7 +210,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-650be61-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/650be61</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/650be61</r:UserID>
          <l:CategoryName>Mode</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Mode</r:Content>
@@ -225,7 +225,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-66851a3-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/66851a3</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/66851a3</r:UserID>
          <l:CategoryName>Median</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Median</r:Content>
@@ -240,7 +240,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-8321e79-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/8321e79</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/8321e79</r:UserID>
          <l:CategoryName>Maximum</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Maximum</r:Content>
@@ -255,7 +255,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-a1d0ec6-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/a1d0ec6</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/a1d0ec6</r:UserID>
          <l:CategoryName>Minimum</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Minimum</r:Content>
@@ -270,7 +270,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-adaaee4-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/adaaee4</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/adaaee4</r:UserID>
          <l:CategoryName>Percent</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Percent</r:Content>
@@ -285,7 +285,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-4dfc4f5-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/4dfc4f5</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/4dfc4f5</r:UserID>
          <l:CategoryName>CumulativePercent</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Cumulative Percent</r:Content>
@@ -300,7 +300,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-bdc1c84-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/bdc1c84</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/bdc1c84</r:UserID>
          <l:CategoryName>PercentileRank</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Percentile Rank</r:Content>
@@ -315,7 +315,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-6311ae1-Category</r:ID>
          <r:Version>1.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0/6311ae1</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.0.0/6311ae1</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>

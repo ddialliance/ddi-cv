@@ -11,9 +11,6 @@
       <dcterms:title xml:lang="en">Data Source Type</dcterms:title>
       <dcterms:description xml:lang="en">Includes a typology of data sources.</dcterms:description>
       <skos:prefLabel xml:lang="en">Data Source Type</skos:prefLabel>
-      <dcterms:title xml:lang="da">Type af datakilde</dcterms:title>
-      <dcterms:description xml:lang="da">Indeholder en typologi af datakilder.</dcterms:description>
-      <skos:prefLabel xml:lang="da">Type af datakilde</skos:prefLabel>
       <dcterms:title xml:lang="et">Andmeallikate t&#xfc;&#xfc;bid</dcterms:title>
       <dcterms:description xml:lang="et">Sisaldab andmeallikate t&#xfc;poloogiat.</dcterms:description>
       <skos:prefLabel xml:lang="et">Andmeallikate t&#xfc;&#xfc;bid</skos:prefLabel>
@@ -64,8 +61,6 @@
       <skos:notation xml:lang="en">RegistersRecordsAccounts</skos:notation>
       <skos:prefLabel xml:lang="en">Registers/Records/Accounts</skos:prefLabel>
       <skos:definition xml:lang="en">Official, formal, or semi-formal documents listing for example items, names, occurrences, actions, or results, and preserved in writing or some other permanent form for later reference.</skos:definition>
-      <skos:prefLabel xml:lang="da">Registre/Optegnelser/Opg&#xf8;relser</skos:prefLabel>
-      <skos:definition xml:lang="da">Officielle, formelle eller semi-formelle dokumenter, der for eksempel angiver elementer, navne, begivenheder, handlinger eller resultater og bevares p&#xe5; skrift eller i anden permanent form til senere henvisning.</skos:definition>
       <skos:prefLabel xml:lang="et">Registrid/Dokumendid/Andmekogud</skos:prefLabel>
       <skos:definition xml:lang="et">Ametlikud v&#xf5;i poolametlikud dokumendid, milles on loetletud n&#xe4;iteks objektid, nimed, juhtumid, toimingud v&#xf5;i tulemused ning mis on s&#xe4;ilitatud kirjalikul v&#xf5;i muul p&#xfc;sival kujul edaspidiseks kasutamiseks.</skos:definition>
       <skos:prefLabel xml:lang="fi">Rekisterit/asiakirjat</skos:prefLabel>
@@ -101,8 +96,6 @@
       <skos:notation xml:lang="en">RegistersRecordsAccounts.Administrative</skos:notation>
       <skos:prefLabel xml:lang="en">Registers/Records/Accounts: Administrative</skos:prefLabel>
       <skos:definition xml:lang="en">Information collected on individuals or groups as part of the routine administrative procedures of an agency, business, or institution. Such data are not usually collected with research purposes in mind, may be voluminous, and may require preparation such as coding in order to be usable by researchers. Examples: income tax forms, population registers, naturalization records, birth/death certificates, patent applications, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Registre/Optegnelser/Opg&#xf8;relser: Administrativ</skos:prefLabel>
-      <skos:definition xml:lang="da">Oplysninger indsamlet om individer eller grupper som en del af de rutinem&#xe6;ssige, administrative procedurer hos et agentur, virksomhed eller institution. S&#xe5;danne data er ikke normalt indsamlet til forskningsbrug, kan v&#xe6;re&#xa0;omfattende og&#xa0;kan kr&#xe6;ve&#xa0;forberedelse i form af kodning for at v&#xe6;re brugbart for forskere. Eksempler: Formularer til indkomstskat, folkeregistre, opg&#xf8;relser over naturalisering, f&#xf8;dsels-/d&#xf8;dsattester, patentans&#xf8;gninger mm.</skos:definition>
       <skos:prefLabel xml:lang="et">Registrid/Dokumendid/Andmekogud: administratiivandmed</skos:prefLabel>
       <skos:definition xml:lang="et">Ameti, ettev&#xf5;tte v&#xf5;i asutuse tavap&#xe4;raste haldustoimingute raames &#xfc;ksikisikute v&#xf5;i r&#xfc;hmade kohta kogutud teave. Selliseid andmeid ei koguta tavaliselt teadusuuringute eesm&#xe4;rgil; need v&#xf5;ivad olla mahukad ja vajada eelt&#xf6;&#xf6;tlemist (nt kodeerimist), et teadlased saaksid neid kasutada. N&#xe4;iteks tuludeklaratsioonid, rahvastikuregistrid, naturalisatsiooni korras kodakondsuse saanute andmed, s&#xfc;nni-/surmat&#xf5;endid, patenditaotlused jne.</skos:definition>
       <skos:prefLabel xml:lang="fi">Rekisterit/asiakirjat: hallinnolliset</skos:prefLabel>
@@ -130,8 +123,6 @@
       <skos:notation xml:lang="en">RegistersRecordsAccounts.Historical</skos:notation>
       <skos:prefLabel xml:lang="en">Registers/Records/Accounts: Historical</skos:prefLabel>
       <skos:definition xml:lang="en">Historical records preserve information and constitute evidence about past events. They may be produced by individuals, groups, or organizations. Administrative records become historical when they are no longer retained, or actively used by the issuing agency for their original purpose. Examples include parish registers, estate records, wills, chronicles, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Registre/Optegnelser/Opg&#xf8;relser: Historisk</skos:prefLabel>
-      <skos:definition xml:lang="da">Historiske opg&#xf8;relser bevarer oplysninger og udg&#xf8;r beviser om tidligere begivenheder. De kan v&#xe6;re produceret af individer, grupper eller organisationer. Administrative optegnelser bliver historiske, n&#xe5;r de ikke l&#xe6;ngere beholdes eller anvendes aktivt af det udstedende agentur til deres oprindelige form&#xe5;l. Eksempler inkluderer sogneregistre, tingb&#xf8;ger, testamenter, kr&#xf8;niker mm.</skos:definition>
       <skos:prefLabel xml:lang="et">Registrid/Dokumendid/Andmekogud: ajaloolised allikad</skos:prefLabel>
       <skos:definition xml:lang="et">Ajaloolised allikad s&#xe4;ilitavad teavet ja on t&#xf5;endiks mineviku s&#xfc;ndmuste kohta. Need v&#xf5;ivad olla &#xfc;ksikisikute, gruppide v&#xf5;i organisatsioonide loodud allikad. Haldusdokumendid muutuvad ajalooliseks, kui neid koostanud asutus neid enam ei s&#xe4;ilita ega kasuta aktiivselt esialgsel eesm&#xe4;rgil. N&#xe4;iteks kirikuraamatud, kinnistusraamatud, testamendid, kroonikad jne.</skos:definition>
       <skos:prefLabel xml:lang="fi">Rekisterit/asiakirjat: historialliset</skos:prefLabel>
@@ -159,8 +150,6 @@
       <skos:notation xml:lang="en">RegistersRecordsAccounts.Legal</skos:notation>
       <skos:prefLabel xml:lang="en">Registers/Records/Accounts: Legal</skos:prefLabel>
       <skos:definition xml:lang="en">Records pertaining to law and its administration, for example records related to cases that have been brought to court or to a tribunal.</skos:definition>
-      <skos:prefLabel xml:lang="da">Registre/Optegnelser/Opg&#xf8;relser: Retslige</skos:prefLabel>
-      <skos:definition xml:lang="da">Optegnelser ang&#xe5;ende lovgivning og dens administration, for eksempel optegnelser relateret&#xa0;til sager, der har v&#xe6;ret bragt for en domstol eller et n&#xe6;vn.</skos:definition>
       <skos:prefLabel xml:lang="et">Registrid/Dokumendid/Andmekogud: juriidilised materjalid</skos:prefLabel>
       <skos:definition xml:lang="et">Dokumendid, mis puudutavad &#xf5;igust ja selle rakendamist, n&#xe4;iteks dokumendid, mis on seotud kohtus v&#xf5;i vahekohtus menetletavate juhtumitega.</skos:definition>
       <skos:prefLabel xml:lang="fi">Rekisterit/asiakirjat: juridiset</skos:prefLabel>
@@ -188,8 +177,6 @@
       <skos:notation xml:lang="en">RegistersRecordsAccounts.MedicalClinical</skos:notation>
       <skos:prefLabel xml:lang="en">Registers/Records/Accounts: Medical/Clinical</skos:prefLabel>
       <skos:definition xml:lang="en">Health-related data created or collected by health care professionals about a patient. Usually include the results of medical tests or measurements, findings from consultations or clinical trial programs, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Registre/Optegnelser/Opg&#xf8;relser: Medicinsk/Klinisk</skos:prefLabel>
-      <skos:definition xml:lang="da">Sundhedsrelaterede data skabt eller indsamlet af sundhedspersonale om en patient. Indeholder som regel resultaterne af medicinske tests eller m&#xe5;linger, resultater fra konsultationer eller kliniske fors&#xf8;gsprogrammer mm.</skos:definition>
       <skos:prefLabel xml:lang="et">Registrid/Dokumendid/Andmekogud: meditsiinilised ja raviandmed</skos:prefLabel>
       <skos:definition xml:lang="et">Tervisega seotud andmed, mille tervishoiut&#xf6;&#xf6;tajad on patsiendi kohta koostanud v&#xf5;i kogunud, eelk&#xf5;ige meditsiiniliste testide v&#xf5;i m&#xf5;&#xf5;tmiste tulemused, konsultatsioonide kokkuv&#xf5;tted v&#xf5;i kliiniliste uuringutega kogutud andmed jne.</skos:definition>
       <skos:prefLabel xml:lang="fi">Rekisterit/asiakirjat: l&#xe4;&#xe4;ketieteelliset/kliiniset</skos:prefLabel>
@@ -217,8 +204,6 @@
       <skos:notation xml:lang="en">RegistersRecordsAccounts.AcademicAptitude</skos:notation>
       <skos:prefLabel xml:lang="en">Registers/Records/Accounts: Academic/Aptitude</skos:prefLabel>
       <skos:definition xml:lang="en">Information gathered during an evaluation process and presented as results. Examples include educational tests, IQ tests, verbal or logical reasoning tests, competence tests for professional occupations, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Registre/Optegnelser/Opg&#xf8;relser: Akademisk/Egnethed</skos:prefLabel>
-      <skos:definition xml:lang="da">Oplysninger indsamlet under en evalueringsproces og pr&#xe6;senteret som resultater. Eksempler inkluderer uddannelsespr&#xf8;ver, IQ-tests, tests af verbal eller logisk r&#xe6;sonnement, tests af kompetencer til professionel besk&#xe6;ftigelse mm.</skos:definition>
       <skos:prefLabel xml:lang="et">Registrid/Dokumendid/Andmekogud: eksamite ja testide tulemused</skos:prefLabel>
       <skos:definition xml:lang="et">Hindamise k&#xe4;igus kogutud teave ja hindamise tulemused. N&#xe4;iteks haridusasutuste eksamid ja testid, IQ-testid, lugemisoskuse ja loogilise m&#xf5;tlemise testid, kutseeksamid jne.</skos:definition>
       <skos:prefLabel xml:lang="fi">Rekisterit/asiakirjat: oppimis-,  soveltuvuus- ja kykytestit</skos:prefLabel>
@@ -246,8 +231,6 @@
       <skos:notation xml:lang="en">RegistersRecordsAccounts.EconomicFinancial</skos:notation>
       <skos:prefLabel xml:lang="en">Registers/Records/Accounts: Economic/Financial</skos:prefLabel>
       <skos:definition xml:lang="en">Records of the financial activities of a business, person, state institution or other organizations or entities. Examples are statements of retained earnings, cash flow, income statements, a company&apos;s balance sheet and tax return.</skos:definition>
-      <skos:prefLabel xml:lang="da">Registre/Optegnelser/Opg&#xf8;relser: &#xd8;konomisk/Finansiel</skos:prefLabel>
-      <skos:definition xml:lang="da">Optegnelser af de finansielle aktiviteter hos en virksomhed, person, statslig institution eller andre organisationer eller enheder. Eksempler er redeg&#xf8;relser om bevaret indtjening, pengestr&#xf8;m, resultatopg&#xf8;relser, en virksomheds balance og selvangivelse.</skos:definition>
       <skos:prefLabel xml:lang="et">Registrid/Dokumendid/Andmekogud: majandus- ja finantsandmed</skos:prefLabel>
       <skos:definition xml:lang="et">Ettev&#xf5;tte, isiku, riigiasutuse v&#xf5;i muu organisatsiooni v&#xf5;i &#xfc;ksuse tegevuse finantsandmed. N&#xe4;iteks jaotamata kasumi, rahavoogude ja kasumiaruanded, ettev&#xf5;tte bilanss ja maksudeklaratsioonid.</skos:definition>
       <skos:prefLabel xml:lang="fi">Rekisterit/asiakirjat: taloudelliset</skos:prefLabel>
@@ -275,8 +258,6 @@
       <skos:notation xml:lang="en">RegistersRecordsAccounts.Personal</skos:notation>
       <skos:prefLabel xml:lang="en">Registers/Records/Accounts: Personal</skos:prefLabel>
       <skos:definition xml:lang="en">Records or accounts created unofficially by individuals or families for other purposes than research. Examples may include private diaries or memoirs, family record books or Bibles, collections of personal documents, photographs, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Registre/Optegnelser/Opg&#xf8;relser: Personlig</skos:prefLabel>
-      <skos:definition xml:lang="da">Optegnelser eller opg&#xf8;relser skabt uofficielt af individer eller familier til andre form&#xe5;l end forskning. Eksempler kan inkludere private dagb&#xf8;ger eller erindringer, familieoptegnelser eller&#xa0;bibler, samlinger af personlige dokumenter, fotografier mm.</skos:definition>
       <skos:prefLabel xml:lang="et">Registrid/Dokumendid/Andmekogud: iIsiklikud materjalid</skos:prefLabel>
       <skos:definition xml:lang="et">Andmed v&#xf5;i allikad, mille &#xfc;ksikisikud v&#xf5;i perekonnad on koostanud isiklikuks kasutamiseks ja mitteteaduslikul eesm&#xe4;rgil. N&#xe4;iteks isiklikud p&#xe4;evikud v&#xf5;i kirjalikud m&#xe4;lestused, perekonnaseisudokumendid v&#xf5;i -m&#xe4;rkmed, isiklikud arhiivid, fotokogud jne.</skos:definition>
       <skos:prefLabel xml:lang="fi">Rekisterit/asiakirjat: henkil&#xf6;kohtaiset</skos:prefLabel>
@@ -304,8 +285,6 @@
       <skos:notation xml:lang="en">RegistersRecordsAccounts.VotingResults</skos:notation>
       <skos:prefLabel xml:lang="en">Registers/Records/Accounts: Voting results</skos:prefLabel>
       <skos:definition xml:lang="en">Details of votes cast for candidates in an election (also known as &apos;election returns/results&apos;), parliamentary or organizational votes on policies, motions or proposals, public referendums, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Registre/Optegnelser/Opg&#xf8;relser: Valgresultater</skos:prefLabel>
-      <skos:definition xml:lang="da">Detaljer om stemmeafgivelser p&#xe5; kandidater ved et valg (ogs&#xe5; kendt som &apos;valgresultater&apos;), parlamentariske eller organisatoriske stemmeafgivninger om politikker, beslutningsforslag, udspil, folkeafstemninger mm.</skos:definition>
       <skos:prefLabel xml:lang="et">Registrid/Dokumendid/Andmekogud: h&#xe4;&#xe4;letustulemused</skos:prefLabel>
       <skos:definition xml:lang="et">Valimistel kandidaatidele antud h&#xe4;&#xe4;led (ehk valimistulemused), parlamendi v&#xf5;i organisatsiooni h&#xe4;&#xe4;letused eeln&#xf5;ude, algatuste v&#xf5;i ettepanekute &#xfc;le, rahvah&#xe4;&#xe4;letuste tulemused jne.</skos:definition>
       <skos:prefLabel xml:lang="fi">Rekisterit/asiakirjat: &#xe4;&#xe4;nestystulokset</skos:prefLabel>
@@ -333,8 +312,6 @@
       <skos:notation xml:lang="en">EventsInteractions</skos:notation>
       <skos:prefLabel xml:lang="en">Events/Interactions</skos:prefLabel>
       <skos:definition xml:lang="en">Events are usually one-time, individual occurrences, with a limited or short duration. An event may be listed as data source when it is directly observed or recorded for research. Interactions are events in which two or more people, groups, objects or systems act upon one another having reciprocal influence, or effect. Examples: types of gatherings (ceremonies, competitions, festivals, meetings), riots, terrorist attacks, computing events (i.e., actions or occurrences detected by computer programs), etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Begivenheder/Interaktioner</skos:prefLabel>
-      <skos:definition xml:lang="da">Begivenheder er som regel enkeltst&#xe5;ende, individuelle h&#xe6;ndelser med en begr&#xe6;nset eller kort varighed. En begivenhed kan v&#xe6;re listet som en datakilde, n&#xe5;r den observeres direkte eller optages til forskning. Interaktioner er begivenheder, hvor to eller flere personer, grupper, objekter eller systemer agerer i forhold til hinanden med gensidig indvirkning eller effekt. Eksempler: Typer af sammenkomster (ceremonier, konkurrencer, festivaler, m&#xf8;der), opt&#xf8;jer, terrorangreb, datalogiske begivenheder (dvs. handlinger eller h&#xe6;ndelser opdaget ved hj&#xe6;lp af computerprogrammer) mm.</skos:definition>
       <skos:prefLabel xml:lang="et">S&#xfc;ndmused/Koostoimimised</skos:prefLabel>
       <skos:definition xml:lang="et">S&#xfc;ndmused on tavaliselt &#xfc;hekordsed &#xfc;ksikjuhtumid, mis on l&#xfc;hiajalised v&#xf5;i piiratud kestusega. S&#xfc;ndmus v&#xf5;ib olla andmeallikana loetletud, kui seda vaadeldakse otse v&#xf5;i salvestatakse uurimiseks. Koostoimimised on s&#xfc;ndmused, milles kaks v&#xf5;i enam inimest, r&#xfc;hma, objekti v&#xf5;i s&#xfc;steemi m&#xf5;jutavad &#xfc;ksteist vastastikku v&#xf5;i millel on tagaj&#xe4;rg. N&#xe4;iteks teatud rahvakogunemised (tseremooniad, v&#xf5;istlused, festivalid, koosolekud), m&#xe4;ssud, terrorir&#xfc;nnakud, arvutis&#xfc;ndmused (st arvutiprogrammide tuvastatud toimingud v&#xf5;i s&#xfc;ndmused) jne.</skos:definition>
       <skos:prefLabel xml:lang="fi">Tapahtumat/vuorovaikutustilanteet</skos:prefLabel>
@@ -362,8 +339,6 @@
       <skos:notation xml:lang="en">Processes</skos:notation>
       <skos:prefLabel xml:lang="en">Processes</skos:prefLabel>
       <skos:definition xml:lang="en">Processes are sequences of occurrences, events, activities, actions or operations that take place over time and bring about changes or transformations in organisms, objects, ideas or social phenomena. For example, a business process may include receiving orders, invoicing, shipping the products, or setting a marketing budget.</skos:definition>
-      <skos:prefLabel xml:lang="da">Processer</skos:prefLabel>
-      <skos:definition xml:lang="da">Processer er sekvenser af h&#xe6;ndelser, begivenheder, aktiviteter, handlinger eller operationer, der finder sted over tid og medf&#xf8;rer forandringer eller transformationer i organismer, objekter, id&#xe9;er eller sociale f&#xe6;nomener. For eksempel, en proces hos en virksomhed kan inkludere modtagelse af ordrer, fakturering, spedition eller fastl&#xe6;ggelse af et marketingsbudget.</skos:definition>
       <skos:prefLabel xml:lang="et">Protsessid</skos:prefLabel>
       <skos:definition xml:lang="et">Protsessid on juhtumite, s&#xfc;ndmuste, tegevuste, toimingute v&#xf5;i operatsioonide j&#xe4;rjestused, mis on pikemaajalised ning mille k&#xe4;igus muutuvad v&#xf5;i arenevad organismid, objektid, ideed v&#xf5;i &#xfc;hiskondlikud n&#xe4;htused. N&#xe4;iteks v&#xf5;ib &#xe4;riprotsess sisaldada tellimuste vastuv&#xf5;tmist, arvete esitamist, toodete kohaletoimetamist v&#xf5;i turunduseelarve koostamist.</skos:definition>
       <skos:prefLabel xml:lang="fi">Prosessit</skos:prefLabel>
@@ -392,8 +367,6 @@
       <skos:notation xml:lang="en">Processes.Workflows</skos:notation>
       <skos:prefLabel xml:lang="en">Processes: Workflow(s)</skos:prefLabel>
       <skos:definition xml:lang="en">Sequence of steps and processes through which a piece of work passes from initiation to completion (adapted from the Oxford dictionary online: http://www.oxforddictionaries.com/us/definition/american_english/workflow). Examples from data life cycle: data collection, data processing, data analysis, data archiving, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Processer: Arbejdsgang(e)</skos:prefLabel>
-      <skos:definition xml:lang="da">Sekvens af trin eller processer, hvor et stykke arbejde g&#xe5;r fra at v&#xe6;re igangs&#xe6;tning til afslutning (tilpasset fra the Oxford dictionary online: http://www.oxforddictionaries.com/us/definition/american_english/workflow). Eksempler fra datas livscyklus: dataindsamling, databehandling, dataanalyse, dataarkivering mm.</skos:definition>
       <skos:prefLabel xml:lang="et">Protsessid: t&#xf6;&#xf6;vood</skos:prefLabel>
       <skos:definition xml:lang="et">Etappide ja protsesside j&#xe4;rjestus, mida t&#xf6;&#xf6;objekt l&#xe4;bib algusest kuni valmimiseni (kohandatud Oxfordi s&#xf5;nastike veebilehe definitsiooni j&#xe4;rgi: http://www.oxforddictionaries.com/us/definition/american_english/workflow). Andmete eluts&#xfc;kli etapid on n&#xe4;iteks andmete kogumine, andmet&#xf6;&#xf6;tlus, andmete anal&#xfc;&#xfc;s, andmete arhiveerimine jne.</skos:definition>
       <skos:prefLabel xml:lang="fi">Prosessit: ty&#xf6;nkulku</skos:prefLabel>
@@ -421,8 +394,6 @@
       <skos:notation xml:lang="en">Communications</skos:notation>
       <skos:prefLabel xml:lang="en">Communications</skos:prefLabel>
       <skos:definition xml:lang="en">Messages resulting from the act or process of using words, sounds, signs, or behaviors to convey or exchange information, ideas, thoughts, feelings, etc. (adapted from www.merriam-webster.com).</skos:definition>
-      <skos:prefLabel xml:lang="da">Kommunikation</skos:prefLabel>
-      <skos:definition xml:lang="da">Meddelelser som f&#xf8;lge af handlingen eller processen ved at bruge ord, lyd, tegn eller&#xa0;adf&#xe6;rd til at formidle eller udveksle informationer, id&#xe9;er, tanker, f&#xf8;lelser mm. (tilpasset fra www.merriam-webster.com).</skos:definition>
       <skos:prefLabel xml:lang="et">Suhtlus</skos:prefLabel>
       <skos:definition xml:lang="et">S&#xf5;nade, helide, m&#xe4;rkide abil v&#xf5;i teatud k&#xe4;itumisviiside kaudu edastatavad s&#xf5;numid, millega v&#xe4;ljendatakse v&#xf5;i antakse edasi teavet, ideid, m&#xf5;tteid, tundeid jne (kohandatud www.merriam-webster.com s&#xf5;nastiku definitsiooni j&#xe4;rgi).</skos:definition>
       <skos:prefLabel xml:lang="fi">Viestint&#xe4;</skos:prefLabel>
@@ -452,8 +423,6 @@
       <skos:notation xml:lang="en">Communications.Public</skos:notation>
       <skos:prefLabel xml:lang="en">Communications: Public</skos:prefLabel>
       <skos:definition xml:lang="en">Communications addressed directly to a public audience, for example, in person (public gatherings, political rallies, etc.), by means of broadcast, print or Internet mass media (radio, television, print or online newspapers/journals), by means of billboards, banners or other signage placed in public view, or social media (public postings on Facebook, Twitter, and others).</skos:definition>
-      <skos:prefLabel xml:lang="da">Kommunikation: Offentlig</skos:prefLabel>
-      <skos:definition xml:lang="da">Kommunikation rettet direkte til et offentligt publikum, for eksempel, personligt (offentlige forsamlinger, politiske m&#xf8;der mm.) ved hj&#xe6;lp af TV-udsendelser, trykte massemedier eller&#xa0;massemedier p&#xe5; internettet&#xa0;(radio, fjernsyn trykte eller online netaviser/tidsskrifter), ved hj&#xe6;lp af reklametavler, bannere eller anden skiltning placeret i det offentlige rum, eller sociale medier (offentlige indl&#xe6;g p&#xe5; Facebook, Twitter, og andre).</skos:definition>
       <skos:prefLabel xml:lang="et">Suhtlus: avalik</skos:prefLabel>
       <skos:definition xml:lang="et">Otse avalikkusele suunatud teated, n&#xe4;iteks isiklikult (avalikul koosolekul, poliitilisel kogunemisel jne) v&#xf5;i ringh&#xe4;&#xe4;lingu-, tr&#xfc;ki- v&#xf5;i Interneti-meedias (sh raadio, televisioon, tr&#xfc;kitud v&#xf5;i veebiajalehed/-ajakirjad) edastatud teated, avalikult n&#xe4;htavate reklaamplakatite, b&#xe4;nnerite v&#xf5;i muude kandjatega edastatud teated ning sotsiaalmeedias avaldatud teated (avalikud postitused Facebookis, Twitteris ja mujal).</skos:definition>
       <skos:prefLabel xml:lang="fi">Viestint&#xe4;: julkinen</skos:prefLabel>
@@ -481,8 +450,6 @@
       <skos:notation xml:lang="en">Communications.Interpersonal</skos:notation>
       <skos:prefLabel xml:lang="en">Communications: Interpersonal</skos:prefLabel>
       <skos:definition xml:lang="en">Communications made by an individual to another individual or a private group of persons, for purposes other than research. For example emails, letters, telephone conversations, social media postings with limited access.</skos:definition>
-      <skos:prefLabel xml:lang="da">Kommunikation: Interpersonel</skos:prefLabel>
-      <skos:definition xml:lang="da">Kommunikation foretaget&#xa0;af et&#xa0;individ til et andet individ eller en privat grupper af personer, til andre form&#xe5;l end forskning. For eksempel e-mails, breve, telefonsamtaler, indl&#xe6;g p&#xe5; sociale medier med begr&#xe6;nset adgang.</skos:definition>
       <skos:prefLabel xml:lang="et">Suhtlus: isikutevaheline</skos:prefLabel>
       <skos:definition xml:lang="et">&#xdc;helt isikult teisele isikule v&#xf5;i isikute r&#xfc;hmale eraviisiliselt ning mitteteaduslikul eesm&#xe4;rgil edastatud teated. N&#xe4;iteks e-kirjad, kirjad, telefonivestlused, piiratud juurdep&#xe4;&#xe4;suga sotsiaalmeediapostitused.</skos:definition>
       <skos:prefLabel xml:lang="fi">Viestint&#xe4;: henkil&#xf6;iden v&#xe4;linen</skos:prefLabel>
@@ -510,8 +477,6 @@
       <skos:notation xml:lang="en">ResearchData</skos:notation>
       <skos:prefLabel xml:lang="en">Research data</skos:prefLabel>
       <skos:definition xml:lang="en">Pre-existing data; data that have already been collected and/or used for a different research project.</skos:definition>
-      <skos:prefLabel xml:lang="da">Forskningsdata</skos:prefLabel>
-      <skos:definition xml:lang="da">Allerede-eksisterende data; data, der allerede er indsamlet og/eller anvendt til et andet forskningsprojekt.</skos:definition>
       <skos:prefLabel xml:lang="et">Uuringuandmed</skos:prefLabel>
       <skos:definition xml:lang="et">Olemasolevad andmed; andmed, mis on juba kogutud ja/v&#xf5;i kasutatud m&#xf5;ne teise uuringu jaoks.</skos:definition>
       <skos:prefLabel xml:lang="fi">Tutkimusaineisto</skos:prefLabel>
@@ -541,8 +506,6 @@
       <skos:notation xml:lang="en">ResearchData.Published</skos:notation>
       <skos:prefLabel xml:lang="en">Research data: Published</skos:prefLabel>
       <skos:definition xml:lang="en">Pre-existing data that have been made available to the general public, or sections thereof.</skos:definition>
-      <skos:prefLabel xml:lang="da">Forskningsdata: Publiceret</skos:prefLabel>
-      <skos:definition xml:lang="da">Allerede-eksisterende data, der er gjort tilg&#xe6;ngelige for den generelle offentlighed, eller dele heraf.</skos:definition>
       <skos:prefLabel xml:lang="et">Uuringuandmed: avaldatud</skos:prefLabel>
       <skos:definition xml:lang="et">Olemasolevad andmed, mis on avalikkusele (v&#xf5;i osale avalikkusest) k&#xe4;ttesaadavaks tehtud.</skos:definition>
       <skos:prefLabel xml:lang="fi">Tutkimusaineisto: julkaistu</skos:prefLabel>
@@ -570,8 +533,6 @@
       <skos:notation xml:lang="en">ResearchData.Unpublished</skos:notation>
       <skos:prefLabel xml:lang="en">Research data: Unpublished</skos:prefLabel>
       <skos:definition xml:lang="en">Pre-existing data that have not been made available to the general public, or sections thereof.</skos:definition>
-      <skos:prefLabel xml:lang="da">Forskningsdata: Upubliceret</skos:prefLabel>
-      <skos:definition xml:lang="da">Allerede-eksisterende data, der ikke er gjort tilg&#xe6;ngelige for den generelle offentlighed, eller dele heraf.</skos:definition>
       <skos:prefLabel xml:lang="et">Uuringuandmed: avaldamata</skos:prefLabel>
       <skos:definition xml:lang="et">Olemasolevad andmed, mis ei ole avalikkusele (v&#xf5;i osale avalikkusest) k&#xe4;ttesaadavaks tehtud.</skos:definition>
       <skos:prefLabel xml:lang="fi">Tutkimusaineisto: julkaisematon</skos:prefLabel>
@@ -599,8 +560,6 @@
       <skos:notation xml:lang="en">PopulationGroup</skos:notation>
       <skos:prefLabel xml:lang="en">Population group</skos:prefLabel>
       <skos:definition xml:lang="en">Group of individuals that can be defined by one or several common characteristics: ethnicity, race, gender, age range, geographic location or distribution, level of education, income level or economic status, professional status, state of health or medical conditions, or belonging to specific communities (e.g., special interest groups, or social media), or networks, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Populationsgruppe</skos:prefLabel>
-      <skos:definition xml:lang="da">Gruppe af individer, der kan defineres af en eller flere f&#xe6;lles karakteristika: etnicitet, race, k&#xf8;n, alderssp&#xe6;nd, geografisk placering eller fordeling, uddannelsesniveau, indkomstniveau eller &#xf8;konomisk status, professionel status, helbredstilstand eller medicinske forhold, tilh&#xf8;rsforhold til specifikke f&#xe6;llesskaber (f.eks. s&#xe6;rlige interessegrupper eller sociale medier), eller netv&#xe6;rk, mm.</skos:definition>
       <skos:prefLabel xml:lang="et">Rahvastikur&#xfc;hm</skos:prefLabel>
       <skos:definition xml:lang="et">Rahvastikur&#xfc;hm, mida saab eristada &#xfc;he v&#xf5;i mitme tunnuse p&#xf5;hjal: rahvus, rass, sugu, vanuser&#xfc;hm, geograafiline asukoht v&#xf5;i paiknemine, haridustase, sissetuleku tase v&#xf5;i sotsiaal-majanduslik seisund, ametir&#xfc;hm v&#xf5;i -aste, tervislik seisund v&#xf5;i esinevad haigused, konkreetsesse kogukonda (nt huvir&#xfc;hmad v&#xf5;i sotsiaalmeedia-kogukonnad) v&#xf5;i v&#xf5;rgustikku kuulumine jne.</skos:definition>
       <skos:prefLabel xml:lang="fi">V&#xe4;est&#xf6;ryhm&#xe4;</skos:prefLabel>
@@ -628,8 +587,6 @@
       <skos:notation xml:lang="en">GeographicArea</skos:notation>
       <skos:prefLabel xml:lang="en">Geographic area</skos:prefLabel>
       <skos:definition xml:lang="en">An area of the Earth, demarcated for the purposes of administration, politics, environment, etc. The demarcation is identifiable via coordinates or other systems used to identify position precisely.</skos:definition>
-      <skos:prefLabel xml:lang="da">Geografisk omr&#xe5;de</skos:prefLabel>
-      <skos:definition xml:lang="da">Et omr&#xe5;de p&#xe5; jorden, afgr&#xe6;nset med henblik p&#xe5; administration, politik, milj&#xf8; mm. Afgr&#xe6;nsningen kan identificeres ved hj&#xe6;lp af koordinater eller andre systemer, der anvendes til at identificere position pr&#xe6;cist.</skos:definition>
       <skos:prefLabel xml:lang="et">Geograafiline piirkond</skos:prefLabel>
       <skos:definition xml:lang="et">Ala Maal, mis on piiritletav haldusjaotuse v&#xf5;i riigipiiride j&#xe4;rgi v&#xf5;i geograafiliselt. Piiritlemine on tuvastatav koordinaatide v&#xf5;i muude s&#xfc;steemide abil, mida kasutatakse t&#xe4;pse asukoha m&#xe4;&#xe4;ramiseks.</skos:definition>
       <skos:prefLabel xml:lang="fi">Maantieteellinen alue</skos:prefLabel>
@@ -657,8 +614,6 @@
       <skos:notation xml:lang="en">PhysicalObjects</skos:notation>
       <skos:prefLabel xml:lang="en">Physical objects</skos:prefLabel>
       <skos:definition xml:lang="en">Natural or man-made entities with spatial locations. For instance, works of art, constructions, rock samples, machines, etc. These are considered data sources if the data describe the physical characteristics of the given object rather than any information encoded in it.</skos:definition>
-      <skos:prefLabel xml:lang="da">Fysiske objekter</skos:prefLabel>
-      <skos:definition xml:lang="da">Naturlige eller menneskeskabte enheder med&#xa0;rumlige lokationer.&#xa0;For eksempel, kunstv&#xe6;rker, konstruktioner, stenpr&#xf8;ver, maskiner mm. Disse betragtes som datakilder, hvis dataene beskriver de fysiske karakteristika af det givne objekt frem for enhver information indkodet i det.</skos:definition>
       <skos:prefLabel xml:lang="et">F&#xfc;&#xfc;silised objektid</skos:prefLabel>
       <skos:definition xml:lang="et">Ruumilise asukohaga looduslikud v&#xf5;i tehislikud objektid. N&#xe4;iteks kunstiteosed, ehitised, kivimin&#xe4;idised, masinad jne. Need loetakse andmeallikateks, kui andmed kirjeldavad pigem antud objekti f&#xfc;&#xfc;silisi omadusi kui sinna kodeeritud informatsiooni.</skos:definition>
       <skos:prefLabel xml:lang="fi">Fyysiset objektit</skos:prefLabel>
@@ -686,8 +641,6 @@
       <skos:notation xml:lang="en">BiologicalSamples</skos:notation>
       <skos:prefLabel xml:lang="en">Biological samples</skos:prefLabel>
       <skos:definition xml:lang="en">Biological materials collected from living organisms, including, for example, biological specimens of human or animal organs, cells or tissues such as hair, muscle or tumor tissue, bodily fluids such as blood, urine, saliva, extracted material such as DNA and RNA, microorganisms, plant matter, etc. The source of the data are the samples themselves, not measurements and/or other tests applied to them.</skos:definition>
-      <skos:prefLabel xml:lang="da">Biologiske pr&#xf8;ver</skos:prefLabel>
-      <skos:definition xml:lang="da">Biologiske materialer indsamlet fra levende organismer, inkluderende, for eksempel, biologiske pr&#xf8;ver af menneske- eller dyreorganer, celler eller v&#xe6;v s&#xe5;som h&#xe5;r, muskel- eller tumorv&#xe6;v, kropsv&#xe6;sker s&#xe5;som blod, urin, spyt, ekstraheret materiale s&#xe5;som DNA og RNA, mikroorganismer, plantematerie, mm.&#xa0;Datakilden er pr&#xf8;verne i sig selv, ikke m&#xe5;linger og/eller andre test tillagt dem.</skos:definition>
       <skos:prefLabel xml:lang="et">Bioloogilised proovid</skos:prefLabel>
       <skos:definition xml:lang="et">Elusorganismidelt kogutud bioloogiline materjal, sealhulgas inimese v&#xf5;i loomade elundite, rakkude v&#xf5;i kudede bioloogilised proovid (nt juuksed/karvad, lihaste v&#xf5;i kasvajate koeproovid), kehavedelikud nagu veri, uriin, s&#xfc;lg, eraldatud ainete (nt DNA ja RNA) proovid, mikroorganismid, taimed jne. Andmete allikaks on proovid ise, mitte nendega l&#xe4;biviidavad m&#xf5;&#xf5;tmised ja/v&#xf5;i muud katsed.</skos:definition>
       <skos:prefLabel xml:lang="fi">Biologiset n&#xe4;ytteet</skos:prefLabel>
@@ -715,8 +668,6 @@
       <skos:notation xml:lang="en">Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use when the data source is known, but not found in the list.</skos:definition>
-      <skos:prefLabel xml:lang="da">Andet</skos:prefLabel>
-      <skos:definition xml:lang="da">Anvend, n&#xe5;r datakilden er kendt, men ikke findes i listen.</skos:definition>
       <skos:prefLabel xml:lang="et">Muu</skos:prefLabel>
       <skos:definition xml:lang="et">Kasutage, kui andmeallikas on teada, kuid puudub loendis.</skos:definition>
       <skos:prefLabel xml:lang="fi">Muu alkuper&#xe4;</skos:prefLabel>

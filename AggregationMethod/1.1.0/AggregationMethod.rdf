@@ -4,154 +4,129 @@
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:dcterms="http://purl.org/dc/terms/"
 >
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/"/>
       <skos:notation xml:lang="en">AggregationMethod</skos:notation>
       <dcterms:title xml:lang="en">Aggregation Method</dcterms:title>
       <dcterms:description xml:lang="en">Identifies the type of aggregation used to combine related categories, usually within a common branch of a hierarchy, to provide information at a broader level than the level at which detailed observations are taken. (From: The OECD Glossary of Statistical Terms)</dcterms:description>
       <skos:prefLabel xml:lang="en">Aggregation Method</skos:prefLabel>
-      <dcterms:title xml:lang="da">Aggregeringsmetode</dcterms:title>
-      <dcterms:description xml:lang="da">Identificerer den type aggregering, der anvendes til at kombinere relaterede kategorier, normalt inden for en f&#xe6;lles gren af et hierarki, til at tilvejebringe information p&#xe5; et bredere niveau end det, p&#xe5; hvilket detaljerede observationer er foretaget. (Fra: OECD-ordlisten med statistiske begreber)</dcterms:description>
-      <skos:prefLabel xml:lang="da">Aggregeringsmetode</skos:prefLabel>
       <dcterms:title xml:lang="no">Aggregeringsmetode</dcterms:title>
       <dcterms:description xml:lang="no">Identifiserer den type aggregering som brukes for &#xe5; kombinere relaterte kategorier, vanligvis innenfor en felles
 gren av et hierarki, for &#xe5; gi informasjon p&#xe5; et bredere niv&#xe5; enn det detaljerte niv&#xe5;et hvor observasjonene er tatt
 fra. (Fra: OECD-ordlisten med statistiske begreper)</dcterms:description>
       <skos:prefLabel xml:lang="no">Aggregeringsmetode</skos:prefLabel>
-      <owl:versionInfo>1.1.0</owl:versionInfo>
+      <owl:versionInfo>1.1.2</owl:versionInfo>
       <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
       <dcterms:rights>Copyright &#xa9;DDI Alliance 2019</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/a0ec870"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/7975ed0"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/e93f994"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/650be61"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/66851a3"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/8321e79"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/a1d0ec6"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/adaaee4"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/4dfc4f5"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/bdc1c84"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/6311ae1"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/a0ec870"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/7975ed0"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/e93f994"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/650be61"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/66851a3"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/8321e79"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/a1d0ec6"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/adaaee4"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/4dfc4f5"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/bdc1c84"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/6311ae1"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/a0ec870">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/a0ec870">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/"/>
       <skos:notation xml:lang="en">Sum</skos:notation>
       <skos:prefLabel xml:lang="en">Sum</skos:prefLabel>
       <skos:definition xml:lang="en">A value obtained as a result of adding two or more numbers (items/amounts).</skos:definition>
-      <skos:prefLabel xml:lang="da">Sum</skos:prefLabel>
-      <skos:definition xml:lang="da">En v&#xe6;rdi opn&#xe5;et som et resultat af tilf&#xf8;jelse af to eller flere tal (elementer/m&#xe6;ngder).</skos:definition>
       <skos:prefLabel xml:lang="no">Sum</skos:prefLabel>
       <skos:definition xml:lang="no">En verdi som er resultatet av &#xe5; legge til to eller flere tall (elementer/mengder).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/7975ed0">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/7975ed0">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/"/>
       <skos:notation xml:lang="en">ArithmeticMean</skos:notation>
       <skos:prefLabel xml:lang="en">Arithmetic mean</skos:prefLabel>
       <skos:definition xml:lang="en">Mathematical average of a set of values. The mean is calculated by adding up two or more values and dividing the total by their number. In social/political science, it is usually the sum of the measurements divided by the number of subjects, or cases.</skos:definition>
-      <skos:prefLabel xml:lang="da">Aritmetisk gennemsnit</skos:prefLabel>
-      <skos:definition xml:lang="da">Matematisk gennemsnit af et s&#xe6;t af v&#xe6;rdier. Gennemsnittet beregnes ved at tilf&#xf8;je to eller flere v&#xe6;rdier og dividere totalen med deres antal. I social/politisk videnskab er det som regel summen af m&#xe5;lingerne divideret med antallet af subjekter eller cases.</skos:definition>
       <skos:prefLabel xml:lang="no">Aritmetisk gjennomsnitt</skos:prefLabel>
       <skos:definition xml:lang="no">Det matematiske gjennomsnittet til et sett av verdier. Gjennomsnittet beregnes ved &#xe5; addere to eller flere verdier og dele summen p&#xe5; antallet verdier. I samfunnsvitenskapen er det som regel summen av m&#xe5;lingene delt p&#xe5; antall subjekter eller tilfeller.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/e93f994">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/e93f994">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/"/>
       <skos:notation xml:lang="en">Count</skos:notation>
       <skos:prefLabel xml:lang="en">Count</skos:prefLabel>
       <skos:definition xml:lang="en">Total number of units in a group of items.</skos:definition>
-      <skos:prefLabel xml:lang="da">Antal</skos:prefLabel>
-      <skos:definition xml:lang="da">Samlet antal af enheder i en gruppe af elementer.</skos:definition>
       <skos:prefLabel xml:lang="no">Antall</skos:prefLabel>
       <skos:definition xml:lang="no">Samlet antall enhenter i en gruppe av elementer</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/650be61">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/650be61">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/"/>
       <skos:notation xml:lang="en">Mode</skos:notation>
       <skos:prefLabel xml:lang="en">Mode</skos:prefLabel>
       <skos:definition xml:lang="en">The value that appears most often in a set of values.</skos:definition>
-      <skos:prefLabel xml:lang="da">Modus</skos:prefLabel>
-      <skos:definition xml:lang="da">Den v&#xe6;rdi, der oftest forekommer i et s&#xe6;t af v&#xe6;rdier.</skos:definition>
       <skos:prefLabel xml:lang="no">Modus</skos:prefLabel>
       <skos:definition xml:lang="no">Den verdien som forekommer mest i et sett av verdier.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/66851a3">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/66851a3">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/"/>
       <skos:notation xml:lang="en">Median</skos:notation>
       <skos:prefLabel xml:lang="en">Median</skos:prefLabel>
       <skos:definition xml:lang="en">The middle value in a series of values arranged sequentially from smallest to largest.</skos:definition>
-      <skos:prefLabel xml:lang="da">Median</skos:prefLabel>
-      <skos:definition xml:lang="da">Den midterste v&#xe6;rdi i en serie af v&#xe6;rdier arrangeret i r&#xe6;kkef&#xf8;lge fra mindst til st&#xf8;rst.</skos:definition>
       <skos:prefLabel xml:lang="no">Median</skos:prefLabel>
       <skos:definition xml:lang="no">Midtverdien i en serie av verdier som er arrangert i rekkef&#xf8;lge fra minst til st&#xf8;rst.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/8321e79">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/8321e79">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/"/>
       <skos:notation xml:lang="en">Maximum</skos:notation>
       <skos:prefLabel xml:lang="en">Maximum</skos:prefLabel>
       <skos:definition xml:lang="en">The highest value attained or recorded.</skos:definition>
-      <skos:prefLabel xml:lang="da">Maksimum</skos:prefLabel>
-      <skos:definition xml:lang="da">Den h&#xf8;jest opn&#xe5;ede eller registrerede v&#xe6;rdi.</skos:definition>
       <skos:prefLabel xml:lang="no">Maksimum</skos:prefLabel>
       <skos:definition xml:lang="no">Den h&#xf8;yeste oppn&#xe5;dde eller registrerte verdi.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/a1d0ec6">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/a1d0ec6">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/"/>
       <skos:notation xml:lang="en">Minimum</skos:notation>
       <skos:prefLabel xml:lang="en">Minimum</skos:prefLabel>
       <skos:definition xml:lang="en">The lowest value attained or recorded.</skos:definition>
-      <skos:prefLabel xml:lang="da">Minimum</skos:prefLabel>
-      <skos:definition xml:lang="da">Den lavest opn&#xe5;ede eller registrerede v&#xe6;rdi.</skos:definition>
       <skos:prefLabel xml:lang="no">Minimum</skos:prefLabel>
       <skos:definition xml:lang="no">Den laveste oppn&#xe5;dde eller registrerte verdi.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/adaaee4">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/adaaee4">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/"/>
       <skos:notation xml:lang="en">Percent</skos:notation>
       <skos:prefLabel xml:lang="en">Percent</skos:prefLabel>
       <skos:definition xml:lang="en">The number of parts out of 100. In mathematics, a percentage is a number of ratio expressed as a fraction of 100. Percentages are used to express how large one quantity is relative to another quantity.</skos:definition>
-      <skos:prefLabel xml:lang="da">Procent</skos:prefLabel>
-      <skos:definition xml:lang="da">Antallet af dele ud af 100. I matematik er en procentdel et forholdstal udtrykt som en br&#xf8;kdel af 100. Procentdele anvendes til at udtrykke, hvor stor en m&#xe6;ngde er i forhold til en anden.</skos:definition>
       <skos:prefLabel xml:lang="no">Prosent</skos:prefLabel>
       <skos:definition xml:lang="no">Antall deler av 100. I matematikk er en prosentdel et forholdstall som er uttrykket som en andel av 100. Prosentdel er brukt for &#xe5; uttrykke hvor stor en mengde er i forhold til en annen mengde.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/4dfc4f5">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/4dfc4f5">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/"/>
       <skos:notation xml:lang="en">CumulativePercent</skos:notation>
       <skos:prefLabel xml:lang="en">Cumulative percent</skos:prefLabel>
       <skos:definition xml:lang="en">The total of a frequency and all frequencies below it in a frequency distribution; the &quot;running total&quot; of frequencies [the maximum value is 100%].</skos:definition>
-      <skos:prefLabel xml:lang="da">Kumulativ procent</skos:prefLabel>
-      <skos:definition xml:lang="da">Summen af en frekvens og alle frekvenser under den i en frekvensfordeling; den &#x201d;l&#xf8;bende sum&#x201d; af frekvenser [den maksimale v&#xe6;rdi er 100%].</skos:definition>
       <skos:prefLabel xml:lang="no">Kumulativ prosent</skos:prefLabel>
       <skos:definition xml:lang="no">Summen av en frekvens og alle frekvenser under den i en frekvensfordeling; den &quot;l&#xf8;pende sum&quot; av frekvenser [den maksimale verdien er 100%].</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/bdc1c84">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/bdc1c84">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/"/>
       <skos:notation xml:lang="en">PercentileRank</skos:notation>
       <skos:prefLabel xml:lang="en">Percentile rank</skos:prefLabel>
       <skos:definition xml:lang="en">The percentile rank of a item is the percentage of items in its frequency distribution which are lower [cannot reach 100%].</skos:definition>
-      <skos:prefLabel xml:lang="da">Procentdel rang</skos:prefLabel>
-      <skos:definition xml:lang="da">Den procentdele rang af et element er procentdelen af elementer i dens frekvensfordeling, der er lavere [kan ikke n&#xe5; 100%].</skos:definition>
       <skos:prefLabel xml:lang="no">Persentil</skos:prefLabel>
       <skos:definition xml:lang="no">Persentil til en enhet er den prosentdelen av enheter i frekvensfordelingen som er lavere [kan ikke n&#xe5; 100%].</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/6311ae1">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/6311ae1">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/"/>
       <skos:notation xml:lang="en">Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use when the aggregation method is known, but not found in the list.</skos:definition>
-      <skos:prefLabel xml:lang="da">Andet</skos:prefLabel>
-      <skos:definition xml:lang="da">Anvend, n&#xe5;r aggregeringsmetoden er kendt, men ikke findes i listen.</skos:definition>
       <skos:prefLabel xml:lang="no">Annet</skos:prefLabel>
       <skos:definition xml:lang="no">Bruk n&#xe5;r aggregeringsmetoden er kjent, men ikke er p&#xe5; denne listen.</skos:definition>
    </rdf:Description>

@@ -11,9 +11,6 @@
       <dcterms:title xml:lang="en">Type of Instrument</dcterms:title>
       <dcterms:description xml:lang="en">Includes a typology of data collection instruments.</dcterms:description>
       <skos:prefLabel xml:lang="en">Type of Instrument</skos:prefLabel>
-      <dcterms:title xml:lang="da">Instrumenttype</dcterms:title>
-      <dcterms:description xml:lang="da">Indeholder en typologi af dataindsamlingsinstrumenter.</dcterms:description>
-      <skos:prefLabel xml:lang="da">Instrumenttype</skos:prefLabel>
       <dcterms:title xml:lang="fi">Keruuv&#xe4;line</dcterms:title>
       <dcterms:description xml:lang="fi">Tyyppiluokittelu tutkimusaineiston muodostamisessa k&#xe4;ytetyille keruuv&#xe4;lineille, -ohjeistuksille tai -suunnitelmille.</dcterms:description>
       <skos:prefLabel xml:lang="fi">Keruuv&#xe4;line</skos:prefLabel>
@@ -61,8 +58,6 @@
       <skos:notation xml:lang="en">Questionnaire</skos:notation>
       <skos:prefLabel xml:lang="en">Questionnaire</skos:prefLabel>
       <skos:definition xml:lang="en">Set of pre-determined questions presented to study participants.</skos:definition>
-      <skos:prefLabel xml:lang="da">Sp&#xf8;rgeskema</skos:prefLabel>
-      <skos:definition xml:lang="da">S&#xe6;t af forudbestemte sp&#xf8;rgsm&#xe5;l pr&#xe6;senteret for unders&#xf8;gelsesdeltagerne.</skos:definition>
       <skos:prefLabel xml:lang="fi">Lomake</skos:prefLabel>
       <skos:definition xml:lang="fi">Kysely- tai ilmoituslomake. Kysymykset ovat ennalta m&#xe4;&#xe4;riteltyj&#xe4;.</skos:definition>
       <skos:prefLabel xml:lang="fr">Questionnaire</skos:prefLabel>
@@ -93,8 +88,6 @@
       <skos:notation xml:lang="en">Questionnaire.Structured</skos:notation>
       <skos:prefLabel xml:lang="en">Structured questionnaire</skos:prefLabel>
       <skos:definition xml:lang="en">Set of pre-determined questions, a great majority of which are closed-ended, although there may be a small proportion of open-ended questions.</skos:definition>
-      <skos:prefLabel xml:lang="da">Struktureret sp&#xf8;rgeskema</skos:prefLabel>
-      <skos:definition xml:lang="da">S&#xe6;t af forudbestemte sp&#xf8;rgsm&#xe5;l, hvoraf en st&#xf8;rstedel er lukkede, selvom der kan v&#xe6;re en mindre del af &#xe5;bne sp&#xf8;rgsm&#xe5;l.</skos:definition>
       <skos:prefLabel xml:lang="fi">Strukturoitu lomake</skos:prefLabel>
       <skos:definition xml:lang="fi">Kysely- tai ilmoituslomake. Kysymykset ovat ennalta m&#xe4;&#xe4;riteltyj&#xe4;. Kysymyksiin on useimmiten laadittu valmiit vastausvaihtoehdot, joskin mukana saattaa olla pieni m&#xe4;&#xe4;r&#xe4; avokysymyksi&#xe4;.</skos:definition>
       <skos:prefLabel xml:lang="fr">Questionnaire structur&#xe9;</skos:prefLabel>
@@ -122,8 +115,6 @@
       <skos:notation xml:lang="en">Questionnaire.Semistructured</skos:notation>
       <skos:prefLabel xml:lang="en">Semi-structured questionnaire</skos:prefLabel>
       <skos:definition xml:lang="en">Set of pre-determined questions, a significant proportion of which are open-ended (roughly one third to two thirds), and the rest are closed-ended.</skos:definition>
-      <skos:prefLabel xml:lang="da">Semistruktueret sp&#xf8;rgeskema</skos:prefLabel>
-      <skos:definition xml:lang="da">S&#xe6;t af forudbestemte sp&#xf8;rgsm&#xe5;l, hvoraf en v&#xe6;sentlig del er &#xe5;bne (rundt regnet en til to tredjedele), og resten er lukkede.</skos:definition>
       <skos:prefLabel xml:lang="fi">Puolistrukturoitu lomake</skos:prefLabel>
       <skos:definition xml:lang="fi">Kysely- tai ilmoituslomake. Kysymykset ovat ennalta m&#xe4;&#xe4;riteltyj&#xe4;. Avokysymysten osuus on merkitt&#xe4;v&#xe4; ja vaihtelee suunnilleen kolmasosasta kahteen kolmasosaan. Lopuissa kysymyksiss&#xe4; on valmiit vastausvaihtoehdot.</skos:definition>
       <skos:prefLabel xml:lang="fr">Questionnaire semi-structur&#xe9;</skos:prefLabel>
@@ -151,8 +142,6 @@
       <skos:notation xml:lang="en">Questionnaire.Unstructured</skos:notation>
       <skos:prefLabel xml:lang="en">Unstructured questionnaire</skos:prefLabel>
       <skos:definition xml:lang="en">Set of pre-determined questions, a great majority of which are open-ended, although there may be a small proportion of close-ended questions.</skos:definition>
-      <skos:prefLabel xml:lang="da">Ustruktureret sp&#xf8;rgeskema</skos:prefLabel>
-      <skos:definition xml:lang="da">S&#xe6;t af forudbestemte sp&#xf8;rgsm&#xe5;l, hvoraf en st&#xf8;rstedel er &#xe5;bne, selvom der kan v&#xe6;re en mindre del af lukkede sp&#xf8;rgsm&#xe5;l.</skos:definition>
       <skos:prefLabel xml:lang="fi">Strukturoimaton lomake</skos:prefLabel>
       <skos:definition xml:lang="fi">Kysely- tai ilmoituslomake. Kysymykset ovat ennalta m&#xe4;&#xe4;riteltyj&#xe4;. Ne ovat useimmiten avokysymyksi&#xe4;, vaikkakin mukana saattaa olla pieni m&#xe4;&#xe4;r&#xe4; kysymyksi&#xe4;, joissa on valmiit vastausvaihtoehdot.</skos:definition>
       <skos:prefLabel xml:lang="fr">Questionnaire non structur&#xe9;</skos:prefLabel>
@@ -180,8 +169,6 @@
       <skos:notation xml:lang="en">InterviewSchemeAndThemes</skos:notation>
       <skos:prefLabel xml:lang="en">Interview scheme and/or themes</skos:prefLabel>
       <skos:definition xml:lang="en">Themes, topics, and/or questions used in an interview. Can vary between loosely defined themes to more exactly formulated questions. There is more flexibility than in an unstructured questionnaire regarding which questions are asked of each participant and how they are conveyed.</skos:definition>
-      <skos:prefLabel xml:lang="da">Interviewskema og/eller temaer</skos:prefLabel>
-      <skos:definition xml:lang="da">Temaer, emner, og/eller sp&#xf8;rgsm&#xe5;l anvendt i et interview. Kan variere mellem l&#xf8;st definerede temaer til mere pr&#xe6;cist formulerede sp&#xf8;rgsm&#xe5;l. Der er mere fleksibilitet end i et ustruktureret sp&#xf8;rgeskema i forhold til, hvilke sp&#xf8;rgsm&#xe5;l deltageren stilles, og hvordan de stilles.</skos:definition>
       <skos:prefLabel xml:lang="fi">Haastatteluteemat tai haastattelurunko</skos:prefLabel>
       <skos:definition xml:lang="fi">Haastattelututkimuksessa k&#xe4;ytetyt haastatteluteemat tai -kysymykset. Vaihtelevat v&#xe4;lj&#xe4;sti muotoilluista teemoista melko tarkasti muotoiltuihin kysymyksiin. J&#xe4;lkimm&#xe4;isess&#xe4; tapauksessa ero strukturoimattomaan lomakkeeseen on siin&#xe4;, ett&#xe4; kaikille osanottajille ei esitet&#xe4; kaikkia kysymyksi&#xe4; tai kysymysten muotoilu on vapaampaa.</skos:definition>
       <skos:prefLabel xml:lang="fr">Sch&#xe9;ma et / ou th&#xe8;mes d&apos;entretien</skos:prefLabel>
@@ -209,8 +196,6 @@
       <skos:notation xml:lang="en">DataCollectionGuidelines</skos:notation>
       <skos:prefLabel xml:lang="en">Data collection guidelines</skos:prefLabel>
       <skos:definition xml:lang="en">Directions or instructions regarding the methods and procedures to be used for collecting the data. Use a more specific term if possible.</skos:definition>
-      <skos:prefLabel xml:lang="da">Retningslinjer for dataindsamling</skos:prefLabel>
-      <skos:definition xml:lang="da">Retningslinjer eller instruktioner vedr&#xf8;rende metoder og procedurer, der b&#xf8;r anvendes til indsamling af dataene. Anvend et mere specifikt begreb, hvis muligt.</skos:definition>
       <skos:prefLabel xml:lang="fi">Aineistonkeruuohjeistus</skos:prefLabel>
       <skos:definition xml:lang="fi">Suunnitelma tai ohjeet, jotka m&#xe4;&#xe4;rittelev&#xe4;t aineistonkeruun menetelm&#xe4;t ja prosessit. K&#xe4;yt&#xe4; tarkempaa termi&#xe4; mik&#xe4;li mahdollista.</skos:definition>
       <skos:prefLabel xml:lang="fr">Consignes de collecte de donn&#xe9;es</skos:prefLabel>
@@ -242,8 +227,6 @@
       <skos:notation xml:lang="en">DataCollectionGuidelines.ObservationGuide</skos:notation>
       <skos:prefLabel xml:lang="en">Data collection guidelines: Observation guide</skos:prefLabel>
       <skos:definition xml:lang="en">Guidelines regarding what will be observed. Depending on the study design, an observation guide can be more or less structured, ranging from exact specifications and scales to loosely formulated ideas.</skos:definition>
-      <skos:prefLabel xml:lang="da">Retningslinjer for dataindsamling: Observationsguide</skos:prefLabel>
-      <skos:definition xml:lang="da">Retningslinjer for, hvad der vil blive observeret. Afh&#xe6;ngigt af unders&#xf8;gelsesdesign kan en observationsvejledning v&#xe6;re mere eller mindre struktureret, rangerende fra n&#xf8;jagtige specifikationer og skaleringer til l&#xf8;st formulerede id&#xe9;er.</skos:definition>
       <skos:prefLabel xml:lang="fi">Aineistonkeruuohjeistus: havainnointiohje tai -suunnitelma</skos:prefLabel>
       <skos:definition xml:lang="fi">Havainnointitutkimuksessa k&#xe4;ytetty suunnitelma siit&#xe4;, mit&#xe4; havainnoidaan. Tutkimusasetelmasta riippuen havainnointisuunnitelma voi olla enemm&#xe4;n tai v&#xe4;hemm&#xe4;n strukturoitu, vaihdellen tarkoista m&#xe4;&#xe4;rittelyist&#xe4; ja asteikoista v&#xe4;lj&#xe4;sti muotoiltuihin ideoihin.</skos:definition>
       <skos:prefLabel xml:lang="fr">Consignes de collecte de donn&#xe9;es : guide d&apos;observation</skos:prefLabel>
@@ -271,8 +254,6 @@
       <skos:notation xml:lang="en">DataCollectionGuidelines.DiscussionGuide</skos:notation>
       <skos:prefLabel xml:lang="en">Data collection guidelines: Discussion guide</skos:prefLabel>
       <skos:definition xml:lang="en">Guidelines for a group discussion. Depending on the study design, a discussion guide can be more or less structured, ranging from exactly formulated questions to general ideas on what to discuss. For example, a list of topics to be discussed in a focus group, or themes formulated by a researcher to direct a blog discussion, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Retningslinjer for dataindsamling: Diskussionsguide</skos:prefLabel>
-      <skos:definition xml:lang="da">Retningslinjer for en gruppediskussion. Afh&#xe6;ngigt af unders&#xf8;gelsesdesignet kan en diskussion v&#xe6;re mere eller mindre struktureret, rangererende fra pr&#xe6;cist formulerede sp&#xf8;rgsm&#xe5;l til generelle id&#xe9;er om, hvad man skal diskutere. For eksempel en liste over emner, der skal diskuteres i en fokusgruppe eller temaer formuleret af en forsker, der skal lede en blogdiskussion mm.</skos:definition>
       <skos:prefLabel xml:lang="fi">Aineistonkeruuohjeistus: keskusteluohje</skos:prefLabel>
       <skos:definition xml:lang="fi">Ryhm&#xe4;keskusteluun annetut ohjeet. Tutkimusasetelmasta riippuen saattavat olla enemm&#xe4;n tai v&#xe4;hemm&#xe4;n strukturoituja, vaihdellen v&#xe4;lj&#xe4;sti muotoilluista keskusteluteemoista tarkasti muotoiltuihin kysymyksiin. Esimerkkej&#xe4;: Lista keskustelun teemoista, tutkijan esille ottamat tarkat aiheet ja muu ohjaus blogikeskusteluun jne.</skos:definition>
       <skos:prefLabel xml:lang="fr">Consignes de collecte de donn&#xe9;es : guide de discussion</skos:prefLabel>
@@ -300,8 +281,6 @@
       <skos:notation xml:lang="en">DataCollectionGuidelines.SelfAdministeredWritingsGuide</skos:notation>
       <skos:prefLabel xml:lang="en">Data collection guidelines: Self-administered writings guide</skos:prefLabel>
       <skos:definition xml:lang="en">Guidelines regarding the desired, or expected content of self-written personal accounts or narratives from potential participants. The instructions can be supplied as part of the writing invitation or separately. For example, an invitation asking people suffering from a specific disease or disability to describe how it affects their feelings, social relations, and everyday life; or a writing invitation asking people to keep a diary of books read during a period of six months and the thoughts provoked by the books.</skos:definition>
-      <skos:prefLabel xml:lang="da">Retningslinjer for dataindsamling: Selvadministreret skriveguide</skos:prefLabel>
-      <skos:definition xml:lang="da">Retningslinjer vedr&#xf8;rende det &#xf8;nskede eller forventede indhold af selvskrevne, personlige beretninger eller fort&#xe6;llinger fra potentielle deltagere. Instruktionerne kan leveres som del af den skriftlige invitation eller separat. For eksempel en invitation, der beder folk, som lider af en specifik sygdom eller handicap om at beskrive, hvordan det p&#xe5;virker deres f&#xf8;lelser, sociale relationer og hverdagsliv; eller en skriftlig invitation, der beder folk om at holde en dagbog om b&#xf8;ger l&#xe6;st over seks m&#xe5;neder og de tanker, som b&#xf8;ger fremkalder.</skos:definition>
       <skos:prefLabel xml:lang="fi">Aineistonkeruuohjeistus: kirjoitusohje</skos:prefLabel>
       <skos:definition xml:lang="fi">Kirjoitusaineistojen ker&#xe4;&#xe4;mist&#xe4; varten annetut kirjoitusohjeet joko kirjoituskutsun osana tai erillisen&#xe4;. Esimerkkej&#xe4;: Kirjoituskutsussa pyydet&#xe4;&#xe4;n tietyn sairauden tai vamman omaavia ihmisi&#xe4;  kuvailemaan kuinka se vaikuttaa heid&#xe4;n tunteisiinsa, ihmissuhteisiinsa ja jokap&#xe4;iv&#xe4;iseen el&#xe4;m&#xe4;&#xe4;ns&#xe4;; ohjeistus lukup&#xe4;iv&#xe4;kirjalle, johon osanottaja kirjaa lukemansa kirjat ja niiden her&#xe4;tt&#xe4;m&#xe4;t ajatukset.</skos:definition>
       <skos:prefLabel xml:lang="fr">Consignes de collecte de donn&#xe9;es : guide des &#xe9;crits auto-administr&#xe9;s</skos:prefLabel>
@@ -329,8 +308,6 @@
       <skos:notation xml:lang="en">DataCollectionGuidelines.SecondaryDataCollectionGuide</skos:notation>
       <skos:prefLabel xml:lang="en">Data collection guidelines: Secondary data collection guide</skos:prefLabel>
       <skos:definition xml:lang="en">Guidelines specifying what data are to be collected from previously existing sources originally created for other purposes. For example, directions on how to select and code data from qualitative sources to create a quantitative dataset.</skos:definition>
-      <skos:prefLabel xml:lang="da">Retningslinjer for dataindsamling: Guide for indsamling af sekund&#xe6;rdata</skos:prefLabel>
-      <skos:definition xml:lang="da">Retningslinjer, der angiver, hvilke data, som skal indsamles fra tidligere eksisterende kilder oprindeligt skabt til andre form&#xe5;l. For eksempel vejledning til, hvordan man v&#xe6;lger og koder data fra kvalitative kilder for at oprette et kvantitativt datas&#xe6;t.</skos:definition>
       <skos:prefLabel xml:lang="fi">Aineistonkeruuohjeistus: poimintaohje tai -suunnitelma</skos:prefLabel>
       <skos:definition xml:lang="fi">Keruuohje tai -suunnitelma siit&#xe4;, miten tutkimusaineisto muodostetaan jo aiemmin olemassa olevasta, muuta tarkoitusta varten tehdyst&#xe4; l&#xe4;hdemateriaalista. Esimerkiksi ohje sanomalehtimateriaalin poimimiseksi tutkimukseen tai poiminta- ja k&#xe4;sittelyohjeet jos jostain kvalitatiivisesta l&#xe4;hdemateriaalista muodostetaan numeerinen aineisto.</skos:definition>
       <skos:prefLabel xml:lang="fr">Consignes de collecte de donn&#xe9;es : Guide de collecte de donn&#xe9;es secondaires</skos:prefLabel>
@@ -358,8 +335,6 @@
       <skos:notation xml:lang="en">ParticipantTasks</skos:notation>
       <skos:prefLabel xml:lang="en">Participant tasks</skos:prefLabel>
       <skos:definition xml:lang="en">A description of tasks that participants are asked to carry out as a part of the data collection process. For example, marking places on a map, taking photographs, telling a fairy tale, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Deltageropgaver</skos:prefLabel>
-      <skos:definition xml:lang="da">En beskrivelse af opgaver, som deltagerne bliver bedt om at udf&#xf8;re som en del af dataindsamlingsprocessen. For eksempel markering af steder p&#xe5; et kort, tage fotografier, fort&#xe6;lle et eventyr mm.</skos:definition>
       <skos:prefLabel xml:lang="fi">Osallistujateht&#xe4;v&#xe4;</skos:prefLabel>
       <skos:definition xml:lang="fi">Osanottajille annettu teht&#xe4;v&#xe4;nanto, joka on osa aineistonkeruuprosessia. Esimerkiksi: Lempipaikkojen merkitseminen virtuaalikarttaan, valokuvien ottaminen, vitsien tai satujen kertominen.</skos:definition>
       <skos:prefLabel xml:lang="fr">T&#xe2;ches des participants</skos:prefLabel>
@@ -387,8 +362,6 @@
       <skos:notation xml:lang="en">TechnicalInstruments</skos:notation>
       <skos:prefLabel xml:lang="en">Technical instrument(s)</skos:prefLabel>
       <skos:definition xml:lang="en">Instruments used to collect objective data like measurements, images, etc. For example, chronometers, scales, speedometers, blood pressure monitors, thermometers, x-ray machines, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Teknisk(e) instrument(er)</skos:prefLabel>
-      <skos:definition xml:lang="da">Instrumenter anvendt til at indsamle objektive data s&#xe5;som m&#xe5;linger, billeder mm. For eksempel kronometer, v&#xe6;gte, hastighedsm&#xe5;lere, blodtryksm&#xe5;lere, termometre, r&#xf8;ntgenapparater mm.</skos:definition>
       <skos:prefLabel xml:lang="fi">Tekniset keruuv&#xe4;lineet</skos:prefLabel>
       <skos:definition xml:lang="fi">Objektiivisten havaintojen ker&#xe4;&#xe4;miseen k&#xe4;ytetyt v&#xe4;lineet. Esimerkiksi verenpainemittarit, r&#xf6;ntgenkuvat, ajanmittaus, nopeus- ja l&#xe4;mp&#xf6;tilamittarit jne.</skos:definition>
       <skos:prefLabel xml:lang="fr">Instrument(s) technique(s)</skos:prefLabel>
@@ -416,8 +389,6 @@
       <skos:notation xml:lang="en">ProgrammingScript</skos:notation>
       <skos:prefLabel xml:lang="en">Programming script</skos:prefLabel>
       <skos:definition xml:lang="en">Programming script written in a data query language that is used to extract specific data, for instance from online social networks.</skos:definition>
-      <skos:prefLabel xml:lang="da">Programmeringsscript</skos:prefLabel>
-      <skos:definition xml:lang="da">Programmeringsscript skrevet p&#xe5; et programmeringssprog, der anvendes til at udtr&#xe6;kke specifikke data, eksempelvis fra online sociale netv&#xe6;rk.</skos:definition>
       <skos:prefLabel xml:lang="fi">Ohjelmointikoodi</skos:prefLabel>
       <skos:definition xml:lang="fi">Halutun kaltaista dataa on poimittu ohjelmallisesti, esimerkiksi sosiaalisesta mediasta tai muista verkkol&#xe4;hteist&#xe4;.</skos:definition>
       <skos:prefLabel xml:lang="fr">Script de programmation</skos:prefLabel>
@@ -445,8 +416,6 @@
       <skos:notation xml:lang="en">Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use when the type of instrument is known, but not found in the list.</skos:definition>
-      <skos:prefLabel xml:lang="da">Andet</skos:prefLabel>
-      <skos:definition xml:lang="da">Anvend, n&#xe5;r typen af instrument er kendt, men ikke findes i listen.</skos:definition>
       <skos:prefLabel xml:lang="fi">Muu keruuv&#xe4;line</skos:prefLabel>
       <skos:definition xml:lang="fi">K&#xe4;ytet&#xe4;&#xe4;n jos keruuv&#xe4;line on tiedossa mutta ei listassa.</skos:definition>
       <skos:prefLabel xml:lang="fr">Autre</skos:prefLabel>

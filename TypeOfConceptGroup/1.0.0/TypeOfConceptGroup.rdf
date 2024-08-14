@@ -4,7 +4,7 @@
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:dcterms="http://purl.org/dc/terms/"
 >
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.0/">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.2/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/"/>
       <skos:notation xml:lang="en">TypeOfConceptGroup</skos:notation>
@@ -14,34 +14,34 @@
       <dcterms:title xml:lang="no">Type konseptgruppe</dcterms:title>
       <dcterms:description xml:lang="no">Spesifiserer rasjonale for &#xe5; lage en konseptgruppe.</dcterms:description>
       <skos:prefLabel xml:lang="no">Type konseptgruppe</skos:prefLabel>
-      <owl:versionInfo>1.0.0</owl:versionInfo>
+      <owl:versionInfo>1.0.2</owl:versionInfo>
       <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
       <dcterms:rights>Copyright &#xa9;DDI Alliance 2020</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.0/9ef1541"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.0/39872cc"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.0/6311ae1"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.2/9ef1541"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.2/39872cc"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.2/6311ae1"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.0/9ef1541">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.2/9ef1541">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.2/"/>
       <skos:notation xml:lang="en">Administrative</skos:notation>
       <skos:prefLabel xml:lang="en">Administrative</skos:prefLabel>
       <skos:definition xml:lang="en">A concept group created for administrative purposes, for instance for subsetting or reorganizing data.</skos:definition>
       <skos:prefLabel xml:lang="no">Administrativ</skos:prefLabel>
       <skos:definition xml:lang="no">En konseptgruppe som lages for administrative form&#xe5;l, for eksempel for &#xe5; subsette eller reorganisere data.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.0/39872cc">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.2/39872cc">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.2/"/>
       <skos:notation xml:lang="en">Thematic</skos:notation>
       <skos:prefLabel xml:lang="en">Thematic</skos:prefLabel>
       <skos:definition xml:lang="en">A concept group created to bring together concepts reflecting the same general theme, or topic; for example, a group called &quot;Trust&quot; can include trust in institutions, trust in government, as well as interpersonal trust.</skos:definition>
       <skos:prefLabel xml:lang="no">Tematisk</skos:prefLabel>
       <skos:definition xml:lang="no">En konseptgruppe som lages for &#xe5; knytte sammen konsepter som gjenspeiler det samme generelle tema eller emne; for eksempel, en gruppe kalt &quot;Tillit&quot; kan inkludere tillit til institusjoner, tillit til styresmakter, s&#xe5; vel som mellommenneskelige tillit.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.0/6311ae1">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.2/6311ae1">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.0/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.2/"/>
       <skos:notation xml:lang="en">Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use when the type of concept group is known, but not found in the list.</skos:definition>

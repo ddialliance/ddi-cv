@@ -11,9 +11,6 @@
       <dcterms:title xml:lang="en">Time Method</dcterms:title>
       <dcterms:description xml:lang="en">Describes the time dimension of the data collection.</dcterms:description>
       <skos:prefLabel xml:lang="en">Time Method</skos:prefLabel>
-      <dcterms:title xml:lang="da">Tidsmetode</dcterms:title>
-      <dcterms:description xml:lang="da">Beskriver tidsdimensionen for dataindsamlingen.</dcterms:description>
-      <skos:prefLabel xml:lang="da">Tidsmetode</skos:prefLabel>
       <dcterms:title xml:lang="de">Erhebungsdesign</dcterms:title>
       <dcterms:description xml:lang="de">Beschreibt die zeitliche Dimension der Datenerhebung.</dcterms:description>
       <skos:prefLabel xml:lang="de">Erhebungsdesign</skos:prefLabel>
@@ -62,8 +59,6 @@
       <skos:notation xml:lang="en">Longitudinal</skos:notation>
       <skos:prefLabel xml:lang="en">Longitudinal</skos:prefLabel>
       <skos:definition xml:lang="en">Data collected repeatedly over time to allow studying change in a population. At least some of the questions or modules are repeated over waves. Use the broad term when none of the subterms is suitable.</skos:definition>
-      <skos:prefLabel xml:lang="da">Longitudinal</skos:prefLabel>
-      <skos:definition xml:lang="da">Data indsamlet gentagne gange over tid for at muligg&#xf8;re unders&#xf8;gelse af &#xe6;ndringer i en population. Mindst nogle af sp&#xf8;rgsm&#xe5;lene eller modulerne er gentaget i b&#xf8;lger. Anvend det brede begreb, n&#xe5;r ingen af underbegreberne er egnede.</skos:definition>
       <skos:prefLabel xml:lang="de">L&#xe4;ngsschnitt</skos:prefLabel>
       <skos:definition xml:lang="de">Daten, die zu mehreren Zeitpunkten erhoben wurden, um Ver&#xe4;nderungen innerhalb einer Population zu untersuchen. Mindestens einige der Fragen oder Module werden dabei in Wellen wiederholt abgefragt. Verwenden Sie diesen breit gefassten Begriff, wenn sich keiner der Unterbegriffe eignet.</skos:definition>
       <skos:prefLabel xml:lang="fi">Pitkitt&#xe4;isaineisto</skos:prefLabel>
@@ -96,8 +91,6 @@
       <skos:notation xml:lang="en">Longitudinal.CohortEventBased</skos:notation>
       <skos:prefLabel xml:lang="en">Longitudinal: Cohort/Event-based</skos:prefLabel>
       <skos:definition xml:lang="en">Data collected over time from the same cohort of respondents. The individuals in the cohort are connected in some way or have shared some significant experience within a given period. In some cases, the samples may differ between waves but are drawn from the same cohort. Examples: birth year, disease (clinical trials), common problem (intervention studies), education, employment, family formation, participation in an event.</skos:definition>
-      <skos:prefLabel xml:lang="da">Longitudinal: Kohorte/Begivenhedsbaseret</skos:prefLabel>
-      <skos:definition xml:lang="da">Data indsamlet over tid fra den samme kohorte af respondenter. Individerne i kohorten er forbundet p&#xe5; en eller anden m&#xe5;de eller har delt en betydelig h&#xe6;ndelse inden for en given periode. I nogle tilf&#xe6;lde kan stikpr&#xf8;verne adskille sig mellem b&#xf8;lgerne, men er udtrukket fra den samme kohorte. Eksempler: f&#xf8;dsels&#xe5;r, sygdom (kliniske fors&#xf8;g), f&#xe6;llesproblem (interventionsunders&#xf8;gelser), uddannelse, besk&#xe6;ftigelse, familiedannelse, deltagelse i en begivenhed.</skos:definition>
       <skos:prefLabel xml:lang="de">L&#xe4;ngsschnitt: Kohorte/Ereignisbasierte Daten</skos:prefLabel>
       <skos:definition xml:lang="de">Daten, die zu mehreren Zeitpunkten einer gleichbleibenden Kohorte erhoben wurden. Die Individuen der Kohorte sind in einer spezifischen Art und Weise miteinander verbunden oder teilen besondere Erfahrungen innerhalb eines bestimmten Zeitraums. In manchen F&#xe4;llen k&#xf6;nnen die Stichproben zwischen den Wellen variieren, werden jedoch aus derselben Kohorte gezogen. Beispiele: Geburtsjahr, Krankheit (klinische Studien), gemeinsames Problem (Interventionsstudien), Bildung, Besch&#xe4;ftigung, Familiengr&#xfc;ndung, Teilnahme an einer Veranstaltung.</skos:definition>
       <skos:prefLabel xml:lang="fi">Pitkitt&#xe4;isaineisto: kohortti/tapahtuma-aineisto</skos:prefLabel>
@@ -127,8 +120,6 @@
       <skos:notation xml:lang="en">Longitudinal.TrendRepeatedCrossSection</skos:notation>
       <skos:prefLabel xml:lang="en">Longitudinal: Trend/Repeated cross-section</skos:prefLabel>
       <skos:definition xml:lang="en">Data collected from different samples or different groups of people from the same population at several points in time, using at least partly the same set of questions/variables. Conclusions are drawn for the population. Examples: European Social Survey (ESS), national longitudinal crime surveys.</skos:definition>
-      <skos:prefLabel xml:lang="da">Longitudinal: Trend/Gentagne tv&#xe6;rsnit</skos:prefLabel>
-      <skos:definition xml:lang="da">Data indsamlet fra forskellige stikpr&#xf8;ver eller forskellige grupper af personer fra den samme population p&#xe5; flere tidspunkter, hvor der som minimum bruges delvist det samme s&#xe6;t af sp&#xf8;rgsm&#xe5;l/variable. Der drages konklusioner for populationen. Eksempler: European Social Survey (ESS), nationale longitudinale kriminalitetsunders&#xf8;gelser.</skos:definition>
       <skos:prefLabel xml:lang="de">L&#xe4;ngsschnitt: Trend/Wiederholter Querschnitt</skos:prefLabel>
       <skos:definition xml:lang="de">Daten, die zu mehreren Zeitpunkten aus unterschiedlichen Stichproben oder Personengruppen einer gleichen Population erhoben wurden, wobei zumindest teilweise die gleichen Fragen oder Variablen verwendet wurden. Die Schlussfolgerungen beziehen sich auf die Gesamtpopulation. Beispiele: European Social Survey (ESS), nationale L&#xe4;ngsschnittstudien &#xfc;ber Kriminalit&#xe4;t.</skos:definition>
       <skos:prefLabel xml:lang="fi">Pitkitt&#xe4;isaineisto: trendi/toistuva poikkileikkausaineisto</skos:prefLabel>
@@ -158,8 +149,6 @@
       <skos:notation xml:lang="en">Longitudinal.Panel</skos:notation>
       <skos:prefLabel xml:lang="en">Longitudinal: Panel</skos:prefLabel>
       <skos:definition xml:lang="en">Data collected over time from, or about, the same sample of respondents. Differs from cohort/event-based data in that the selection of respondents is not based on their being connected in some way or having shared some significant experience.</skos:definition>
-      <skos:prefLabel xml:lang="da">Longitudinal: Panel</skos:prefLabel>
-      <skos:definition xml:lang="da">Data indsamlet over tid fra, eller om, den samme stikpr&#xf8;ve af respondenter. Adskiller sig fra kohorte/begivenhedsbaserede data ved, at udv&#xe6;lgelsen af respondenter ikke baseres p&#xe5;, at de er forbundet p&#xe5; nogen m&#xe5;de eller har delt en betydelig oplevelse.</skos:definition>
       <skos:prefLabel xml:lang="de">L&#xe4;ngsschnitt: Panel</skos:prefLabel>
       <skos:definition xml:lang="de">Daten, die zu mehreren Zeitpunkten von einer gleichbleibenden Stichprobe erhoben wurden. Der Unterschied zu Kohorten - bzw. ereignisbezogenen Daten liegt darin, dass die Befragten keine Verbindung aufweisen oder bedeutende Erfahrungen teilen.</skos:definition>
       <skos:prefLabel xml:lang="fi">Pitkitt&#xe4;isaineisto: paneeliaineisto</skos:prefLabel>
@@ -191,8 +180,6 @@
       <skos:notation xml:lang="en">Longitudinal.Panel.Continuous</skos:notation>
       <skos:prefLabel xml:lang="en">Longitudinal: Panel: Continuous</skos:prefLabel>
       <skos:definition xml:lang="en">Data collected from a panel of respondents on a regular basis.</skos:definition>
-      <skos:prefLabel xml:lang="da">Longitudinal: Panel: Kontinuerlig</skos:prefLabel>
-      <skos:definition xml:lang="da">Data indsamlet fra et panel af respondenter p&#xe5; regelm&#xe6;ssig basis.</skos:definition>
       <skos:prefLabel xml:lang="de">L&#xe4;ngsschnitt: Panel: Kontinuierlich</skos:prefLabel>
       <skos:definition xml:lang="de">Daten, die von einer Gruppe von Befragten in regelm&#xe4;&#xdf;igen Abst&#xe4;nden erhoben werden.</skos:definition>
       <skos:prefLabel xml:lang="fi">Pitkitt&#xe4;isaineisto: jatkuva paneeliaineisto</skos:prefLabel>
@@ -222,8 +209,6 @@
       <skos:notation xml:lang="en">Longitudinal.Panel.Interval</skos:notation>
       <skos:prefLabel xml:lang="en">Longitudinal: Panel: Interval</skos:prefLabel>
       <skos:definition xml:lang="en">Data collected from a panel of respondents only when information is needed.</skos:definition>
-      <skos:prefLabel xml:lang="da">Longitudinal: Panel: Interval</skos:prefLabel>
-      <skos:definition xml:lang="da">Data indsamlet fra et panel af respondenter, kun n&#xe5;r information er n&#xf8;dvendig.</skos:definition>
       <skos:prefLabel xml:lang="de">L&#xe4;ngsschnitt: Panel: Intervalle</skos:prefLabel>
       <skos:definition xml:lang="de">Daten, die nur dann von einer Gruppe von Befragten erhoben werden, wenn Bedarf an Information besteht.</skos:definition>
       <skos:prefLabel xml:lang="fi">Pitkitt&#xe4;isaineisto: ajoittainen paneeliaineisto</skos:prefLabel>
@@ -253,8 +238,6 @@
       <skos:notation xml:lang="en">TimeSeries</skos:notation>
       <skos:prefLabel xml:lang="en">Time series</skos:prefLabel>
       <skos:definition xml:lang="en">Data collected repeatedly over time to study change in observations. These are typically &quot;objective&quot; measurements of phenomena that can be observed externally, as opposed to attitudes/opinions or feelings. Examples may include economic/financial indicators, natural/meteorological phenomena, vital statistics, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Tidsserier</skos:prefLabel>
-      <skos:definition xml:lang="da">Data indsamlet gentagne gange over tid for at studere &#xe6;ndringer i observationer. Disse er typisk &#x2019;objektive&#x2019; m&#xe5;linger af f&#xe6;nomener, der kan observeres udefra, i mods&#xe6;tning til holdninger/meninger eller f&#xf8;lelser. Eksempler kan inkludere &#xf8;konomiske/finansielle indikatorer, naturlige/meteorologiske f&#xe6;nomener, afg&#xf8;rende statistikker mm.</skos:definition>
       <skos:prefLabel xml:lang="de">Zeitreihen</skos:prefLabel>
       <skos:definition xml:lang="de">Daten, die in wiederholten Zeitabst&#xe4;nden gesammelt wurden, um Ver&#xe4;nderungen der Untersuchungseinheit zu untersuchen. Diese sind typischerweise &apos;objektive&apos; Messungen von Ph&#xe4;nomenen, die durch externe Beobachtung erhoben werden k&#xf6;nnen, im Gegensatz zu Einstellungen/Meinungen oder Emotionen. Beispiele sind &#xf6;konomische/finanzielle Indikatoren, nat&#xfc;rliche/meteorologische Ph&#xe4;nomene, Bev&#xf6;lkerungsstatistik, etc.</skos:definition>
       <skos:prefLabel xml:lang="fi">Aikasarja-aineisto</skos:prefLabel>
@@ -286,8 +269,6 @@
       <skos:notation xml:lang="en">TimeSeries.Continuous</skos:notation>
       <skos:prefLabel xml:lang="en">Time series: Continuous</skos:prefLabel>
       <skos:definition xml:lang="en">Measurements are taken at every instant in time. Examples: lie detectors, electrocardiograms, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Tidsserier: Kontinuerlig</skos:prefLabel>
-      <skos:definition xml:lang="da">M&#xe5;linger foretages hvert &#xf8;jeblik i tid. Eksempler: l&#xf8;gnedetektorer, elektrokardiogrammer (EKG) mm.</skos:definition>
       <skos:prefLabel xml:lang="de">Zeitreihen: Kontinuierlich</skos:prefLabel>
       <skos:definition xml:lang="de">Die Messungen erfolgen kontinuierlich zu jedem Zeitpunkt. Beispiele: L&#xfc;gendetektoren und Elektrokardiogramme, etc.</skos:definition>
       <skos:prefLabel xml:lang="fi">Aikasarja-aineisto: jatkuva</skos:prefLabel>
@@ -317,8 +298,6 @@
       <skos:notation xml:lang="en">TimeSeries.Discrete</skos:notation>
       <skos:prefLabel xml:lang="en">Time series: Discrete</skos:prefLabel>
       <skos:definition xml:lang="en">Measurements are taken at (usually regularly) spaced intervals. Examples: macroeconomics (weekly share prices, monthly profits, sales); meteorology (hourly temperature); measurements of individuals (blood pressure, weight, height); sociology (crime figures, employment figures), etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Tidsserier: Diskret</skos:prefLabel>
-      <skos:definition xml:lang="da">M&#xe5;linger foretages (normalt regelm&#xe6;ssigt) i tidsintervaller. Eksempler: makro&#xf8;konomi (ugentlige aktiekurser, m&#xe5;nedlige fortjenester, salg); meteorologi (timetemperatur); m&#xe5;linger af individer (blodtryk, v&#xe6;gt, h&#xf8;jde); sociologi (kriminalitetstal, besk&#xe6;ftigelsestal) mm.</skos:definition>
       <skos:prefLabel xml:lang="de">Zeitreihen: Diskret</skos:prefLabel>
       <skos:definition xml:lang="de">Die Messungen werden in (meist regelm&#xe4;&#xdf;igen) Abst&#xe4;nden durchgef&#xfc;hrt. Beispiele: Makro&#xf6;konomie (w&#xf6;chentliche Aktienkurse, Monatsgewinne, Umsatz); Meteorologie (st&#xfc;ndliche Temperatur); K&#xf6;rpermessungen (Blutdruck, Gewicht, H&#xf6;he) Soziologie (Verbrechen, Besch&#xe4;ftigungszahlen) usw.</skos:definition>
       <skos:prefLabel xml:lang="fi">Aikasarja-aineisto: diskreetti</skos:prefLabel>
@@ -348,8 +327,6 @@
       <skos:notation xml:lang="en">CrossSection</skos:notation>
       <skos:prefLabel xml:lang="en">Cross-section</skos:prefLabel>
       <skos:definition xml:lang="en">Data collected by observing subjects within the study period, without regard to changes over time. May include more than one collection event. Analysis of cross-sectional data often consists in comparing the differences and similarities among subjects.</skos:definition>
-      <skos:prefLabel xml:lang="da">Tv&#xe6;rsnit</skos:prefLabel>
-      <skos:definition xml:lang="da">Data indsamlet ved observation af subjekter inden for unders&#xf8;gelsesperioden uden hensyntagen til &#xe6;ndringer over tid. Kan inkludere mere end en indsamlingsbegivenhed. Analyse af tv&#xe6;rsnitdata best&#xe5;r ofte i sammenligning af forskellene og lighederne mellem subjekter.</skos:definition>
       <skos:prefLabel xml:lang="de">Querschnitt</skos:prefLabel>
       <skos:definition xml:lang="de">Daten, die zu einem Zeitpunkt erhoben wurden, ohne bei den Untersuchungseinheiten Ver&#xe4;nderungen &#xfc;ber die Zeit zu ber&#xfc;cksichtigen. Dabei kann die Erhebung auch mehrere &apos;Erhebungsereignisse&apos; umfassen, z. B. an mehreren Tagen innerhalb der Feldzeit durchgef&#xfc;hrt werden. Die Analyse der Querschnittsdaten besteht h&#xe4;ufig in der Untersuchung von Unterschieden und Gemeinsamkeiten der Befragten.</skos:definition>
       <skos:prefLabel xml:lang="fi">Poikkileikkausaineisto</skos:prefLabel>
@@ -379,8 +356,6 @@
       <skos:notation xml:lang="en">CrossSectionAdHocFollowUp</skos:notation>
       <skos:prefLabel xml:lang="en">Cross-section ad-hoc follow-up</skos:prefLabel>
       <skos:definition xml:lang="en">Data collected at one point in time to complete information collected in a previous cross-sectional study; the decision to collect follow-up data was not included in the original study design.</skos:definition>
-      <skos:prefLabel xml:lang="da">Tv&#xe6;rsnit ad-hoc-opf&#xf8;lgning</skos:prefLabel>
-      <skos:definition xml:lang="da">Data indsamlet p&#xe5; et tidspunkt for at f&#xe6;rdigg&#xf8;re information indsamlet i en tidligere tv&#xe6;rsnitunders&#xf8;gelse; beslutningen om at indsamle opf&#xf8;lgningsdata var ikke inkluderet i det originale unders&#xf8;gelsesdesign.</skos:definition>
       <skos:prefLabel xml:lang="de">Querschnitt: ad-hoc Nachuntersuchung</skos:prefLabel>
       <skos:definition xml:lang="de">Daten, die zu einem Zeitpunkt erhoben wurden, um eine fr&#xfc;here Querschnittsstudie zu vervollst&#xe4;ndigen; die Entscheidung der Erhebung von Follow-Up-Daten war in der urspr&#xfc;nglichen Studie nicht vorgesehen.</skos:definition>
       <skos:prefLabel xml:lang="fi">Poikkileikkausaineisto: t&#xe4;ydennys/seurantakeruu</skos:prefLabel>
@@ -410,8 +385,6 @@
       <skos:notation xml:lang="en">Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use if the time method is known, but not found in the list.</skos:definition>
-      <skos:prefLabel xml:lang="da">Andet</skos:prefLabel>
-      <skos:definition xml:lang="da">Anvend, hvis tidsmetoden er kendt, men ikke findes p&#xe5; listen.</skos:definition>
       <skos:prefLabel xml:lang="de">Andere</skos:prefLabel>
       <skos:definition xml:lang="de">Verwenden Sie diesen Begriff, wenn die zeitliche Dimension des Erhebungsdesigns bekannt, aber nicht in der Liste vertreten ist.</skos:definition>
       <skos:prefLabel xml:lang="fi">Muu aikaulottuvuus</skos:prefLabel>

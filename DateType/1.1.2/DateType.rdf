@@ -12,9 +12,6 @@
       <dcterms:description xml:lang="en">Specifies the type of date.
 </dcterms:description>
       <skos:prefLabel xml:lang="en">Date Type</skos:prefLabel>
-      <dcterms:title xml:lang="da">Datotype</dcterms:title>
-      <dcterms:description xml:lang="da">Specificerer datotypen.</dcterms:description>
-      <skos:prefLabel xml:lang="da">Datotype</skos:prefLabel>
       <dcterms:title xml:lang="et">Kuup&#xe4;eva t&#xfc;&#xfc;p</dcterms:title>
       <dcterms:description xml:lang="et">T&#xe4;psustab kuup&#xe4;eva t&#xfc;&#xfc;bi.</dcterms:description>
       <skos:prefLabel xml:lang="et">Kuup&#xe4;eva t&#xfc;&#xfc;p</skos:prefLabel>
@@ -42,8 +39,6 @@
       <skos:notation xml:lang="en">DateTime</skos:notation>
       <skos:prefLabel xml:lang="en">DateTime</skos:prefLabel>
       <skos:definition xml:lang="en">Used to specify a date and time in the form &quot;year, month, day, hour, minutes and seconds&quot; (YYYY-MM-DD hh:mm:ss). In a DateTime string expression, the time portion is preceded by a &quot;T&quot;, for example, 2018-02-22T13:00:00. A time zone specification may be included either by entering the UTC date and time followed by a &quot;Z&quot;, or by adding a positive or negative time after the stated time to indicate the offset from UTC time. For example, 1 pm U.S. Eastern Standard Time may be expressed as 2018-02-22T18:00:00Z, or as 2018-02-22T13:00:00-5:00.</skos:definition>
-      <skos:prefLabel xml:lang="da">DatoTid</skos:prefLabel>
-      <skos:definition xml:lang="da">Anvendt til at specificere en dato og tid i formen &quot;&#xe5;r, m&#xe5;ned, dag, time, minutter og sekunder&quot; (YYYY-MM-DD hh:mm:ss) I et DatoTid strengudtryk g&#xe5;r et &quot;T&quot; forud for tidsdelen, for eksempel 2018-02-22T13:00:00. En tidszonespecifikation kan v&#xe6;re inkluderet enten ved at indtaste UCT-dato og -tid efterfulgt af et &quot;Z&quot; eller ved at tilf&#xf8;je en positiv eller negativ tid efter den angivne tid for at indikere forskydningen fra UCT-tid. For eksempel kan 13:00 U.S. Eastern Standard Time udtrykkes som 2018-02-22T18:00:00Z eller som 2018-02-22T13:00:00-5:00.</skos:definition>
       <skos:prefLabel xml:lang="et">Kuup&#xe4;ev ja kellaaeg</skos:prefLabel>
       <skos:definition xml:lang="et">Kasutatakse kuup&#xe4;eva ja kellaaja m&#xe4;&#xe4;ramiseks kujul &quot;aasta, kuu, p&#xe4;ev, tunnid, minutid ja sekundid&quot; (YYYY-MM-DD hh:mm:ss). DateTime stringavaldises eelneb kellaajale t&#xe4;ht &quot;T&quot;, n&#xe4;iteks 2018-02-22T13:00:00. Ajav&#xf6;&#xf6;ndi t&#xe4;psustamiseks on kaks varianti: lisada UTC kuup&#xe4;ev ja kellaaeg, mille j&#xe4;rel on &quot;Z&quot;, v&#xf5;i lisada m&#xe4;rgitud ajale pluss- v&#xf5;i miinusm&#xe4;rgiga aeg, mis n&#xe4;itab nihet UTC ajast. N&#xe4;iteks kellaaega 13.00 USA idaosa standardaja j&#xe4;rgi saab v&#xe4;ljendada kujul 2018-02-22T18:00:00Z v&#xf5;i 2018-02-22T13:00:00-5:00.</skos:definition>
       <skos:prefLabel xml:lang="no">DateTime</skos:prefLabel>
@@ -56,8 +51,6 @@ etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempe
       <skos:notation xml:lang="en">Time</skos:notation>
       <skos:prefLabel xml:lang="en">Time</skos:prefLabel>
       <skos:definition xml:lang="en">Used to specify a time in the form &quot;hour, minutes and seconds&quot; (hh:mm:ss). A time zone specification may be included either by entering the UTC time followed by a &quot;Z&quot;, or by adding a positive or negative time after the stated time to indicate the offset from UTC time. For example, 1 pm U.S. Eastern Standard Time may be expressed as 18:00:00Z, or as 13:00:00-5:00.</skos:definition>
-      <skos:prefLabel xml:lang="da">Tid</skos:prefLabel>
-      <skos:definition xml:lang="da">Anvendt til at specificere en tid i formen &quot;time, minutter og sekunder&quot; (hh:mm:ss). En tidszonespecifikation kan v&#xe6;re inkluderet ved at indtaste UCT-tid efterfulgt af et &quot;Z&quot; eller ved at tilf&#xf8;je en positiv eller negativ tid efter den angivne tid for at indikere forskydningen fra UCT-tid. For eksempel kan 13:00 U.S. Eastern Standard Time udtrykkes som 18:00:00Z eller som13:00:00-5:00.</skos:definition>
       <skos:prefLabel xml:lang="et">Kellaaeg</skos:prefLabel>
       <skos:definition xml:lang="et">Kasutatakse aja m&#xe4;&#xe4;ramiseks kujul &quot;tunnid, minutid ja sekundid&quot; (hh:mm:ss). Ajav&#xf6;&#xf6;ndi saab t&#xe4;psustada kas sisestades UTC aja, millele j&#xe4;rgneb &quot;Z&quot;, v&#xf5;i lisades m&#xe4;rgitud ajale pluss- v&#xf5;i miinusm&#xe4;rgiga aja, mis n&#xe4;itab nihet UTC ajast. N&#xe4;iteks kellaaega 13.00 USA idaosa standardaja j&#xe4;rgi saab v&#xe4;ljendada kujul 18:00:00Z v&#xf5;i 13:00:00&#x2013;5:00.</skos:definition>
       <skos:prefLabel xml:lang="no">Tid</skos:prefLabel>
@@ -69,8 +62,6 @@ etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempe
       <skos:notation xml:lang="en">Date</skos:notation>
       <skos:prefLabel xml:lang="en">Date</skos:prefLabel>
       <skos:definition xml:lang="en">Used to specify a date in the form &quot;year, month, day&quot; (YYYY-MM-DD). A time zone specification may be included either by entering a UTC date followed by a &quot;Z&quot; or by adding a positive or negative time after the stated date to indicate the offset from UTC time. For example, February 20th, 2018 in Eastern Australia could be expressed as 2018-02-19Z, or as 2018-02-20+10:00.</skos:definition>
-      <skos:prefLabel xml:lang="da">Dato</skos:prefLabel>
-      <skos:definition xml:lang="da">Anvendt til at specificere en dato i formen &quot;&#xe5;r, m&#xe5;ned, dag&quot; (YYYY-MM-DD). En tidszonespecifikation kan v&#xe6;re inkluderet ved at indtaste UCT-dato efterfulgt af et &quot;Z&quot; eller ved at tilf&#xf8;je en positiv eller negativ tid efter den angivne tid for at indikere forskydningen fra UCT-tid. For eksempel kunne februar 20., 2018 i &#xd8;st-Australien udtrykkes som 2018-02-19Z eller som 2018-02-20+10.00.</skos:definition>
       <skos:prefLabel xml:lang="et">Kuup&#xe4;ev</skos:prefLabel>
       <skos:definition xml:lang="et">Kasutatakse kuup&#xe4;eva m&#xe4;&#xe4;ramiseks kujul &quot;aasta, kuu, p&#xe4;ev&quot; (YYYY-MM-DD). Ajav&#xf6;&#xf6;ndi saab t&#xe4;psustada kas sisestades UTC kuup&#xe4;eva, millele j&#xe4;rgneb &quot;Z&quot;, v&#xf5;i lisades m&#xe4;rgitud kuup&#xe4;eva j&#xe4;rele pluss- v&#xf5;i miinusm&#xe4;rgiga kellaaja, mis n&#xe4;itab nihet UTC ajast. N&#xe4;iteks kuup&#xe4;eva 20. veebruar 2018 Austraalia idaosa ajav&#xf6;&#xf6;ndis saab v&#xe4;ljendada kujul 2018-02-19Z v&#xf5;i 2018-02-20+10:00.</skos:definition>
       <skos:prefLabel xml:lang="no">Dato</skos:prefLabel>
@@ -82,8 +73,6 @@ etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempe
       <skos:notation xml:lang="en">GYearMonth</skos:notation>
       <skos:prefLabel xml:lang="en">YearMonth</skos:prefLabel>
       <skos:definition xml:lang="en">Defines a part of a date - the year and month (YYYY-MM).</skos:definition>
-      <skos:prefLabel xml:lang="da">&#xc5;rM&#xe5;ned</skos:prefLabel>
-      <skos:definition xml:lang="da">Definerer en del af en dato - &#xe5;ret og m&#xe5;ned (YYYY-MM).</skos:definition>
       <skos:prefLabel xml:lang="et">Aasta ja kuu</skos:prefLabel>
       <skos:definition xml:lang="et">M&#xe4;&#xe4;rab kuup&#xe4;eva osa &#x2013; aasta ja kuu (YYYY-MM).</skos:definition>
       <skos:prefLabel xml:lang="no">YearMonth</skos:prefLabel>
@@ -95,8 +84,6 @@ etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempe
       <skos:notation xml:lang="en">GYear</skos:notation>
       <skos:prefLabel xml:lang="en">Year</skos:prefLabel>
       <skos:definition xml:lang="en">Defines a part of a date - the year (YYYY).</skos:definition>
-      <skos:prefLabel xml:lang="da">&#xc5;r</skos:prefLabel>
-      <skos:definition xml:lang="da">Definerer en del af en dato - &#xe5;ret (YYYY).</skos:definition>
       <skos:prefLabel xml:lang="et">Aasta</skos:prefLabel>
       <skos:definition xml:lang="et">M&#xe4;&#xe4;rab kuup&#xe4;eva osa &#x2013; aasta (YYYY).</skos:definition>
       <skos:prefLabel xml:lang="no">&#xc5;r</skos:prefLabel>
@@ -108,8 +95,6 @@ etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempe
       <skos:notation xml:lang="en">GMonthDay</skos:notation>
       <skos:prefLabel xml:lang="en">MonthDay</skos:prefLabel>
       <skos:definition xml:lang="en">Defines a part of a date - the month and day (MM-DD).</skos:definition>
-      <skos:prefLabel xml:lang="da">M&#xe5;nedDag</skos:prefLabel>
-      <skos:definition xml:lang="da">Definerer en del af en dato - m&#xe5;neden og dag (MM-DD).</skos:definition>
       <skos:prefLabel xml:lang="et">Kuu ja p&#xe4;ev</skos:prefLabel>
       <skos:definition xml:lang="et">M&#xe4;&#xe4;rab kuup&#xe4;eva osa &#x2013; kuu ja p&#xe4;ev (MM-DD).</skos:definition>
       <skos:prefLabel xml:lang="no">MonthDay</skos:prefLabel>
@@ -121,8 +106,6 @@ etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempe
       <skos:notation xml:lang="en">GDay</skos:notation>
       <skos:prefLabel xml:lang="en">Day</skos:prefLabel>
       <skos:definition xml:lang="en">Defines a part of a date - the day (DD).</skos:definition>
-      <skos:prefLabel xml:lang="da">Dag</skos:prefLabel>
-      <skos:definition xml:lang="da">Definerer en del af en dato - dagen (DD).</skos:definition>
       <skos:prefLabel xml:lang="et">P&#xe4;ev</skos:prefLabel>
       <skos:definition xml:lang="et">M&#xe4;&#xe4;rab kuup&#xe4;eva osa &#x2013; p&#xe4;ev (DD).</skos:definition>
       <skos:prefLabel xml:lang="no">Dag</skos:prefLabel>
@@ -134,8 +117,6 @@ etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempe
       <skos:notation xml:lang="en">GMonth</skos:notation>
       <skos:prefLabel xml:lang="en">Month</skos:prefLabel>
       <skos:definition xml:lang="en">Defines a part of a date - the month (MM).</skos:definition>
-      <skos:prefLabel xml:lang="da">M&#xe5;ned</skos:prefLabel>
-      <skos:definition xml:lang="da">Definerer en del af en dato - m&#xe5;neden (MM).</skos:definition>
       <skos:prefLabel xml:lang="et">Kuu</skos:prefLabel>
       <skos:definition xml:lang="et">M&#xe4;&#xe4;rab kuup&#xe4;eva osa &#x2013; kuu (MM).</skos:definition>
       <skos:prefLabel xml:lang="no">M&#xe5;ned</skos:prefLabel>
@@ -147,8 +128,6 @@ etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempe
       <skos:notation xml:lang="en">Duration</skos:notation>
       <skos:prefLabel xml:lang="en">Duration</skos:prefLabel>
       <skos:definition xml:lang="en">Used to specify a time period or interval in the form &quot;number of years, number of months, number of days, number of hours, number of minutes, and number of seconds, preceded by a &quot;P&quot; (PnYnMnDTnHnMnS). The letter &quot;T&quot; indicates the start of the time section. For example, P5Y2M10DT15H stands for a period of five years, two months, 10 days, and 15 hours. A period preceded by the minus sign (&quot;-&quot;) will indicate a negative duration, for example, -P10D stands for a period of minus 10 days.</skos:definition>
-      <skos:prefLabel xml:lang="da">Varighed</skos:prefLabel>
-      <skos:definition xml:lang="da">Anvendt til at specificere en tidsperiode eller interval i formen &quot;antal af &#xe5;r, antal af m&#xe5;neder, antal af dage, antal af timer, antal af minutter og antal af sekunder, forudg&#xe5;et af et &quot;P&quot; (PnYnMnDTnHnMnS). Bogstavet &quot;T&quot; indikerer starten p&#xe5; tidsdelen. For eksempel st&#xe5;r P5Y2M10DT15H for en periode p&#xe5; fem &#xe5;r, to m&#xe5;neder, 10 dage og 15 timer. En periode med minustegnet foran (&quot;-&quot;) vil indikere en negativ varighed, for eksempel st&#xe5;r -P10D for en periode p&#xe5; minus 10 dage.</skos:definition>
       <skos:prefLabel xml:lang="et">Periood</skos:prefLabel>
       <skos:definition xml:lang="et">Kasutatakse ajaperioodi v&#xf5;i intervalli m&#xe4;&#xe4;ramiseks kujul &quot;aastate arv, kuude arv, p&#xe4;evade arv, tundide arv, minutite arv ja sekundite arv&quot;, millele eelneb &quot;P&quot; (PnYnMnDTnHnMnS). T&#xe4;ht &quot;T&quot; n&#xe4;itab kellaaja &#xfc;hikute algust. N&#xe4;iteks P5Y2M10DT15H t&#xe4;histab ajavahemikku viis aastat, kaks kuud, 10 p&#xe4;eva ja 15 tundi. Periood, mille ees on miinusm&#xe4;rk (&quot;-&quot;), n&#xe4;itab negatiivset kestust; n&#xe4;iteks -P10D t&#xe4;histab perioodi &#x201c;miinus 10 p&#xe4;eva&#x201d;.</skos:definition>
       <skos:prefLabel xml:lang="no">Varighet</skos:prefLabel>
@@ -160,8 +139,6 @@ etter den angitte tiden for &#xe5; indikere forskyvning fra UTC tid. For eksempe
       <skos:notation xml:lang="en">Timespan</skos:notation>
       <skos:prefLabel xml:lang="en">Timespan</skos:prefLabel>
       <skos:definition xml:lang="en">The TimeSpan structure represents a length of time (duration of time or elapsed time), and may be expressed as start/end, start/duration, or duration/end. Start, end, and duration are documented using the designated DateTime structures. Examples: start/end 2018-02-22T13:00:00/2018-02-22T14:30:00; start/duration 2018-02-Approved: The TimeSpan structure represents a length of time (duration of time or elapsed time), and may be expressed as start/end, start/duration, or duration/end. Start, end, and duration are documented using the designated DateTime structures. Examples: start/end 2018-02-22T13:00:00/2018-02-22T14:30:00; start/duration 2018-02-22T13:00:00/1H30M; duration/end 1H20M/2018-02-22T14:30:00. For start/end expressions, if any element is missing from the end value, it is assumed to be the same as for the start value, including the time zone if used. For example, a two-hour meeting on 14 Dec 2007 can be represented as 2007-12-14T13:30:00/15:30:00, or 2007-12-14T13:30:00/2H.</skos:definition>
-      <skos:prefLabel xml:lang="da">Tidsrum</skos:prefLabel>
-      <skos:definition xml:lang="da">Tidsrumssktrukturen repr&#xe6;senterer en varighed af tid (varighed af tid eller forl&#xf8;bet tid) og kan udtrykkes som start/slut, start/varighed eller varighed/slut. Start, slut og varighed er dokumenteret ved brug af de angivne DatoTid-strukturer. Eksempler: start/slut 2018-02-22T13:00:00/2018-02-22T14:30:00; start/varighed 2018-02-Approved: Tidsrumssktrukturen repr&#xe6;senterer en varighed af tid (varighed af tid eller forl&#xf8;bet tid) og kan udtrykkes som start/slut, start/varighed eller varighed/slut. Start, slut og varighed er dokumenteret ved brug af de angivne DatoTid-strukturer. Eksempler: start/slut 2018-02-22T13:00:00/2018-02-22T14:30:00; start/varighed 2018-02-22T13:00:00/1H30M; varighed/slut 1H20M/2018-02-22T14:30:00. Hvis noget element mangler fra slutv&#xe6;rdien for start/slut-udtryk, antages det at v&#xe6;re det samme som for startv&#xe6;rdien, inklusiv tidszonen, hvis den er anvendt. For eksempel kan et to-timers m&#xf8;de den 14. Dec 2007 repr&#xe6;senteres som 2007-12-14T13:30:00/15:30:00 eller 2007-12-14T13:30:00/2H.</skos:definition>
       <skos:prefLabel xml:lang="et">Ajal&#xf5;ik</skos:prefLabel>
       <skos:definition xml:lang="et">Ajal&#xf5;igu struktuur t&#xe4;histab teatud ajaperioodi (kestust v&#xf5;i kulunud aega) ja seda v&#xf5;ib v&#xe4;ljendada kui algus/l&#xf5;pp, algus/kestus v&#xf5;i kestus/l&#xf5;pp. Algus, l&#xf5;pp ja kestus dokumenteeritakse etteantud DateTime struktuuride abil. N&#xe4;ited: algus/l&#xf5;pp 2018-02-22T13:00:00/2018-02-22T14:30:00; algus/kestus 2018-02-22T13:00:00/1H30M; kestus/l&#xf5;pp 1H20K/2018-02-22T14:30:00. Kui algus/l&#xf5;pp struktuuriga avaldiste puhul on l&#xf5;ppv&#xe4;&#xe4;rtusest m&#xf5;ni element puudu, eeldatakse, et see on sama, mis algusv&#xe4;&#xe4;rtuse puhul, kaasa arvatud ajav&#xf6;&#xf6;nd, kui seda kasutatakse. N&#xe4;iteks 14. detsembril 2007 toimuvat kahetunnist koosolekut v&#xf5;ib t&#xe4;histada kui 2007-12-14T13:30:00/15:30:00 v&#xf5;i 2007-12-14T13:30:00/2H.</skos:definition>
       <skos:prefLabel xml:lang="no">Tidsrom</skos:prefLabel>
@@ -174,8 +151,6 @@ Eksempler: start/slutt 2018-02-22T13:00:00/2018-02-22T14:30:00; start/varighet 2
       <skos:notation xml:lang="en">Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use if the date type is known, but not found in the list.</skos:definition>
-      <skos:prefLabel xml:lang="da">Andet</skos:prefLabel>
-      <skos:definition xml:lang="da">Anvend, hvis datotypen er kendt, men ikke findes p&#xe5; listen.</skos:definition>
       <skos:prefLabel xml:lang="et">Muu</skos:prefLabel>
       <skos:definition xml:lang="et">Kasutada, kui kuup&#xe4;eva t&#xfc;&#xfc;p on teada, kuid puudub loetelus.</skos:definition>
       <skos:prefLabel xml:lang="no">Annen</skos:prefLabel>

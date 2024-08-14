@@ -11,9 +11,6 @@
       <dcterms:title xml:lang="en">General Data Format</dcterms:title>
       <dcterms:description xml:lang="en">Describes the physical format(s) of the data documented in the logical product(s) of a study unit.</dcterms:description>
       <skos:prefLabel xml:lang="en">General Data Format</skos:prefLabel>
-      <dcterms:title xml:lang="da">Generelt dataformat</dcterms:title>
-      <dcterms:description xml:lang="da">Beskriver de(t) fysiske format(er) af den data, der er dokumenteret i de(t) logiske produkt(er) i en studieenhed.</dcterms:description>
-      <skos:prefLabel xml:lang="da">Generelt dataformat</skos:prefLabel>
       <dcterms:title xml:lang="de">Art des Datenformats</dcterms:title>
       <dcterms:description xml:lang="de">Beschreibt das Format der Daten, die in den logischen Produkten einer Studie dokumentiert sind.</dcterms:description>
       <skos:prefLabel xml:lang="de">Art des Datenformats</skos:prefLabel>
@@ -64,8 +61,6 @@
       <skos:notation xml:lang="en">Numeric</skos:notation>
       <skos:prefLabel xml:lang="en">Numeric</skos:prefLabel>
       <skos:definition xml:lang="en">Data consisting largely of values expressed as digits from 0 to 9 and, optionally, signs for negative values, decimal points, or letters only when intended to represent numbers (for example, A-F or a-f in hexadecimal).</skos:definition>
-      <skos:prefLabel xml:lang="da">Numerisk</skos:prefLabel>
-      <skos:definition xml:lang="da">Data best&#xe5;ende i st&#xf8;rstedelen af v&#xe6;rdier udtrykt som cifre fra 0 til 9 og, eventuelt, tegn for negative v&#xe6;rdier, decimaler, eller bogstaver, n&#xe5;r de kun har til form&#xe5;l at repr&#xe6;sentere tal (for eksempel, A-F eller a-f i hexadecimal).</skos:definition>
       <skos:prefLabel xml:lang="de">Numerisch</skos:prefLabel>
       <skos:definition xml:lang="de">Daten, die weitestgehend aus Werten bestehen, die durchZiffern von 0 bis 9 ausgedr&#xfc;ckt werden und gegebenenfalls Zeichen f&#xfc;r negative Werte, Dezimalkommata oder Buchstaben, mit denen beabsichtigt wird, Zahlen zu repr&#xe4;sentieren (z. B. A-F oder a-f in Hexadezimal).</skos:definition>
       <skos:prefLabel xml:lang="fi">Numeerinen</skos:prefLabel>
@@ -93,8 +88,6 @@
       <skos:notation xml:lang="en">Text</skos:notation>
       <skos:prefLabel xml:lang="en">Text</skos:prefLabel>
       <skos:definition xml:lang="en">Data consisting largely of text, including letters, numbers, and special characters or symbols used in writing for punctuation, abbreviation, etc. For example, interview transcriptions, narratives or essays written by study participants, newspaper articles, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Tekst</skos:prefLabel>
-      <skos:definition xml:lang="da">Data best&#xe5;ende i st&#xf8;rstedelen af tekst, inklusiv bogstaver, tal, og specialtegn eller -symboler anvendt i skrift til tegns&#xe6;tning, forkortelser mm. For eksempel, transskribering af interviews, beretninger eller essays skrevet af studiedeltagere, avisartikler mm.</skos:definition>
       <skos:prefLabel xml:lang="de">Text</skos:prefLabel>
       <skos:definition xml:lang="de">Daten, die weitestgehend aus Text bestehen, einschlie&#xdf;lich Buchstaben, Ziffern und Sonderzeichen oder Symbolen, die schriftlich f&#xfc;r Interpunktion, Abk&#xfc;rzung usw. verwendet werden. Zum Beispiel Interviewtranskriptionen, Erz&#xe4;hlungen oder Essays, die von Studienteilnehmern verfasst wurden, Zeitungsartikeln usw.</skos:definition>
       <skos:prefLabel xml:lang="fi">Teksti</skos:prefLabel>
@@ -122,8 +115,6 @@
       <skos:notation xml:lang="en">StillImage</skos:notation>
       <skos:prefLabel xml:lang="en">Still image</skos:prefLabel>
       <skos:definition xml:lang="en">Static images, such as graphs, drawings, photographs, diagnostic/medical images like X-rays, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Stillbillede</skos:prefLabel>
-      <skos:definition xml:lang="da">Statiske billeder, s&#xe5;som grafer, tegninger, fotografier, diagnostiske/medicinske billeder&#xa0;som r&#xf8;ntgen mm.</skos:definition>
       <skos:prefLabel xml:lang="de">Unbewegtes Bild</skos:prefLabel>
       <skos:definition xml:lang="de">Statische Bilder wie Graphen, Zeichnungen, Fotografien, diagnostische/medizinische Bilder wie R&#xf6;ntgenbilder usw.</skos:definition>
       <skos:prefLabel xml:lang="fi">Kuva</skos:prefLabel>
@@ -151,8 +142,6 @@
       <skos:notation xml:lang="en">Geospatial</skos:notation>
       <skos:prefLabel xml:lang="en">Geospatial</skos:prefLabel>
       <skos:definition xml:lang="en">Geospatial data are any type of data with spatial coordinates that allow them to be mapped to the Earth&apos;s surface. They can represent physical objects, discrete areas or continuous surfaces. Discrete geospatial data are usually represented using vector data consisting of points, lines and polygons, while continuous geospatial data are usually represented by raster data, consisting of a grid of cells that each has its own value. Any number of applications in a wide range of areas produce geospatial data, such as GIS, Remote Sensing equipment, GPS units, archaeological total stations, manual mapping and computer-aided design (CAD), in a number of formats, including images, vector, text, and tabular data. Vector-based geospatial data include tables listing archaeological sites along with their coordinates, text-based files (e.g. XML) containing coordinates and topology for historic road networks, voting figures for political parties by administrative area. Raster-based geospatial data include satellite images, aerial photographs, scanned maps, and digital maps of elevations, vegetation, land-use, sea surface temperatures, air pollution, soil-types, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Geospatial</skos:prefLabel>
-      <skos:definition xml:lang="da">Geospatial data er enhver type af data med rumlige koordinater, der tillader dem at blive kortlagt p&#xe5; jordens overflade. De kan repr&#xe6;sentere fysiske genstande, diskrete omr&#xe5;der eller kontinuerlige overflader. Diskrete geospatiale data er som regel repr&#xe6;senteret ved brug af vektordata best&#xe5;ende af punkter, linjer og polygoner, mens kontinuerlige geospatial data som regel er repr&#xe6;senteret af rasterdatabest&#xe5;ende af et net af celler, der hver har sin egen v&#xe6;rdi. Ethvert antal af applikationer p&#xe5; en bred vifte af omr&#xe5;der producerer geospatiale data, s&#xe5;som GIS, fjernregistrering, GPS-enheder, ark&#xe6;ologiske totalstationer, manuel kortl&#xe6;gning og computer-aided design (CAD), i en r&#xe6;kke af formater, inklusiv billeder, vektor, tekst og tabeldata. Vektorbaserede geospatiale data inkluderer tabeller, der lister ark&#xe6;ologiske steder sammen med deres koordinater, tekstbaserede filer (f.eks. XML) indeholdende koordinater og topologi for historiske netv&#xe6;rk af veje, tal for v&#xe6;lgeradf&#xe6;rd hos politiske partier efter administrative omr&#xe5;der. Rasterbaserede geospatiale data inkluderer satellitbilleder, luftfotos, indscannede kort, og digitale kort over h&#xe6;vninger, vegetation, arealanvendelse, havoverfladetemperaturer, luftforurening, jordtyper mm.</skos:definition>
       <skos:prefLabel xml:lang="de">Geodaten</skos:prefLabel>
       <skos:definition xml:lang="de">Geodaten sind jegliche Arten von Daten mit r&#xe4;umlichen Koordinaten, wodurchdieseauf der Erdoberfl&#xe4;che abgebildet werdenk&#xf6;nnen.Sie k&#xf6;nnen physische Objekte, diskrete Fl&#xe4;chen oder durchgehende Fl&#xe4;chen darstellen. Diskrete Geodaten werden in der Regel unter Verwendung von Vektordaten aus Punkten, Linien und Polygonen dargestellt, w&#xe4;hrend kontinuierliche Geodaten in der Regel durch Rasterdaten repr&#xe4;sentiert werden, bestehend aus einem Gitter von Zellen, die jeweils ihren eigenen Wert haben.Eine beliebige Anzahl von Anwendungenin einer Vielzahl von Bereichen produziert Geodaten, wie GIS, Fernerkundungsger&#xe4;te, GPS-Ger&#xe4;te, arch&#xe4;ologische Totalstationen, manuelle Kartierung und computergest&#xfc;tztes Design (CAD) in einer Reihe von Formaten, einschlie&#xdf;lich Bilder, Vektoren, Text und tabellarischen Daten. Vektor-basierte Geodaten enthalten Tabellen, die arch&#xe4;ologische St&#xe4;tten zusammen mit ihren Koordinaten verzeichnen, textbasierte Dateien (z. B. XML), die Koordinaten und Topologie f&#xfc;r historische Stra&#xdf;ennetze enthalten, Abstimmungszahlen f&#xfc;r politische Parteien von Verwaltungsgebieten. Rasterbasierte Geodaten umfassen Satellitenbilder, Luftbilder, gescannte Karten und digitale Karten von H&#xf6;hen, Vegetation, Landnutzung, Meeresoberfl&#xe4;chentemperaturen, Luftverschmutzung, Bodenarten usw.</skos:definition>
       <skos:prefLabel xml:lang="fi">Paikkatieto</skos:prefLabel>
@@ -180,8 +169,6 @@
       <skos:notation xml:lang="en">Audio</skos:notation>
       <skos:prefLabel xml:lang="en">Audio</skos:prefLabel>
       <skos:definition xml:lang="en">Recorded sound, including voice, music, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Lyd</skos:prefLabel>
-      <skos:definition xml:lang="da">Optaget lyd, inklusiv stemme, musik mm.</skos:definition>
       <skos:prefLabel xml:lang="de">Audio</skos:prefLabel>
       <skos:definition xml:lang="de">Aufgezeichneter Ton, inkl. Stimme, Musik, etc.</skos:definition>
       <skos:prefLabel xml:lang="fi">Audio</skos:prefLabel>
@@ -209,8 +196,6 @@
       <skos:notation xml:lang="en">Video</skos:notation>
       <skos:prefLabel xml:lang="en">Video</skos:prefLabel>
       <skos:definition xml:lang="en">Moving images. May include films, animation, digital recordings, visual output from simulations, recorded television programs, etc. May be mute or may include synchronized sound.</skos:definition>
-      <skos:prefLabel xml:lang="da">Video</skos:prefLabel>
-      <skos:definition xml:lang="da">Bev&#xe6;gelige billeder. Kan inkludere film, animation, digitale optagelser, visuelt output fra simulationer, optagede TV-programmer mm. Kan v&#xe6;re p&#xe5;&#xa0;lydl&#xf8;s eller&#xa0;kan inkludere synkroniseret lyd.</skos:definition>
       <skos:prefLabel xml:lang="de">Video</skos:prefLabel>
       <skos:definition xml:lang="de">Bewegte Bilder. Das k&#xf6;nnen Filme, Animationen, digitale Aufnahmen, visuelle Ausgabe von Simulationen, aufgezeichnete Fernsehprogramme, etc. sein. Sie k&#xf6;nnen stumm sein oder synchroniserten Ton haben.</skos:definition>
       <skos:prefLabel xml:lang="fi">Video</skos:prefLabel>
@@ -238,8 +223,6 @@
       <skos:notation xml:lang="en">Software</skos:notation>
       <skos:prefLabel xml:lang="en">Software</skos:prefLabel>
       <skos:definition xml:lang="en">Computer program(s) in source code (human-readable) or compiled form.</skos:definition>
-      <skos:prefLabel xml:lang="da">Software</skos:prefLabel>
-      <skos:definition xml:lang="da">Computerprogram(mer) i kildekode (menneskel&#xe6;sbar) eller kompileret form.</skos:definition>
       <skos:prefLabel xml:lang="de">Software</skos:prefLabel>
       <skos:definition xml:lang="de">Computerprogramm(e) im Quellcode (menschenlesbar) oder in kompilierter Form.</skos:definition>
       <skos:prefLabel xml:lang="fi">Ohjelmisto</skos:prefLabel>
@@ -267,8 +250,6 @@
       <skos:notation xml:lang="en">InteractiveResource</skos:notation>
       <skos:prefLabel xml:lang="en">Interactive resource</skos:prefLabel>
       <skos:definition xml:lang="en">A resource requiring interaction from the user to be understood, executed, or experienced. For example, training modules, query/response portals, files that require action from the user, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">Interaktiv ressource</skos:prefLabel>
-      <skos:definition xml:lang="da">En ressource, der kr&#xe6;ver interaktion fra brugeren for at blive forst&#xe5;et, udf&#xf8;rt, eller oplevet. For eksempel tr&#xe6;ningsmoduler, portaler for sp&#xf8;rgsm&#xe5;l og svar, filer, der kr&#xe6;ver handling fra brugeren mm.</skos:definition>
       <skos:prefLabel xml:lang="de">Interaktive Ressource</skos:prefLabel>
       <skos:definition xml:lang="de">Eine Ressource, die eine Interaktion vom Benutzer erfordert, um verstanden, ausgef&#xfc;hrt oder erfahrenwerden zu k&#xf6;nnen. Zum Beispiel Trainingsmodule, Abfrage- /Antwortportale, Dateien, die vom Benutzer eine Aktion erfordern, etc.</skos:definition>
       <skos:prefLabel xml:lang="fi">Vuorovaikutteinen</skos:prefLabel>
@@ -296,8 +277,6 @@
       <skos:notation xml:lang="en">ThreeD</skos:notation>
       <skos:prefLabel xml:lang="en">3D</skos:prefLabel>
       <skos:definition xml:lang="en">Virtual three-dimensional representations of objects, architecture, places, etc.</skos:definition>
-      <skos:prefLabel xml:lang="da">3D</skos:prefLabel>
-      <skos:definition xml:lang="da">Virtuelle tredimensionelle repr&#xe6;sentationer af objekter, arkitektur, steder mm.</skos:definition>
       <skos:prefLabel xml:lang="de">Dreidimensional</skos:prefLabel>
       <skos:definition xml:lang="de">Virtuelle dreidimensionale Darstellungen von Objekten, Architektur, Orten usw.</skos:definition>
       <skos:prefLabel xml:lang="fi">3D</skos:prefLabel>
@@ -325,8 +304,6 @@
       <skos:notation xml:lang="en">Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use when the kind of data format is known, but not found in the list.</skos:definition>
-      <skos:prefLabel xml:lang="da">Andet</skos:prefLabel>
-      <skos:definition xml:lang="da">Anvend, n&#xe5;r typen af dataformat er kendt, men ikke fundet i listen.</skos:definition>
       <skos:prefLabel xml:lang="de">Andere</skos:prefLabel>
       <skos:definition xml:lang="de">Verwenden Sie diese Kategorie, wenn die Art des Datenformats bekannt, aber nicht in der Liste vertreten ist.</skos:definition>
       <skos:prefLabel xml:lang="fi">Muu aineistoformaatti</skos:prefLabel>

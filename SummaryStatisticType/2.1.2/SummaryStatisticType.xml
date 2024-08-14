@@ -11,7 +11,6 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/</r:UserID>
          <r:Label>
             <r:Content xml:lang="en">Summary Statistic Type</r:Content>
-            <r:Content xml:lang="da">Typen af sammenfattende statistik</r:Content>
             <r:Content xml:lang="fi">Tilastollisen tunnusluvun tyyppi</r:Content>
             <r:Content xml:lang="it">Tipo di statistiche riassuntive</r:Content>
             <r:Content xml:lang="nl">Type samenvattende statistieken</r:Content>
@@ -23,7 +22,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Specifies the type of summary statistic. Summary statistics are a single number representation of the characteristics of a set of values.</r:Content>
-            <r:Content xml:lang="da">Specificerer typen af sammenfattende statistik. Sammenfattende statistik er en repræsentation af et sæt af værdiers karakteristika ved hjælp af et enkelt tal.</r:Content>
             <r:Content xml:lang="fi">Tilastolliset tunnusluvut kuvaavat tietyn arvojoukon, esimerkiksi otoksen havaintojen sisältämää informaatiota. Usein tunnusluvut ovat nimensä mukaisesti yksittäisiä lukuja.</r:Content>
             <r:Content xml:lang="it">Specifica il tipo di statistica riassuntiva. Tali statistiche sono una rappresentazione sintetica delle caratteristiche di un insieme di valori.</r:Content>
             <r:Content xml:lang="nl">Beschrijft het type samenvattende statistieken. Samenvattende statistieken worden gebruikt om een ​​reeks waarnemingen samen te vatten in een getal.</r:Content>
@@ -616,7 +614,6 @@
          <l:CategoryName>ArithmeticMean</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Arithmetic mean</r:Content>
-            <r:Content xml:lang="da">Aritmetisk gennemsnit</r:Content>
             <r:Content xml:lang="fi">Aritmeettinen keskiarvo</r:Content>
             <r:Content xml:lang="it">Media aritmetica</r:Content>
             <r:Content xml:lang="nl">Rekenkundig gemiddelde</r:Content>
@@ -628,7 +625,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Mathematical average of a set of values. The mean is calculated by adding up two or more values and dividing the total by their number. In social/political science, it is usually the sum of the measurements divided by the number of subjects, or cases.</r:Content>
-            <r:Content xml:lang="da">Matematisk gennemsnit af et sæt af værdier. Gennemsnittet beregnes ved at sammenlægge to eller flere værdier og dividere summen med antallet af værdier. I samfundsvidenskab er det normalt summen af målingerne divideret med antallet af subjekter eller cases.</r:Content>
             <r:Content xml:lang="fi">Arvojen matemaattinen keskiarvo. Keskiarvo lasketaan laskemalla kaksi tai useampi arvo yhteen ja jakamalla saatu summa arvojen määrällä. Yhteiskuntatieteissä keskiarvo on yleensä mittaustulosten summa jaettuna vastaajien/tapausten määrällä.</r:Content>
             <r:Content xml:lang="it">Media matematica di un insieme di valori. La media è calcolata sommando tutti i  valori e dividendo la somma per il loro numero. Nell'ambito delle scienze sociali/politiche identifica il valore medio della misura (ad esempio la somma dei punteggi diviso il numero di unità per cui il punteggio è disponibile).</r:Content>
             <r:Content xml:lang="nl"/>
@@ -649,7 +645,6 @@
          <l:CategoryName>GeometricMean</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Geometric mean</r:Content>
-            <r:Content xml:lang="da">Geometrisk gennemsnit</r:Content>
             <r:Content xml:lang="fi">Geometrinen keskiarvo</r:Content>
             <r:Content xml:lang="it">Media geometrica</r:Content>
             <r:Content xml:lang="nl">Meetkundig gemiddelde</r:Content>
@@ -661,7 +656,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Average value of all data if extracting the nth root of the product of all (n) values. Rarely used in social sciences.</r:Content>
-            <r:Content xml:lang="da">Gennemsnitsværdien af alle data, hvis n’te rod tages af produktet af alle (n) værdier. Anvendes sjældent i samfundsvidenskab.</r:Content>
             <r:Content xml:lang="fi">Keskiluku, jossa otetaan n. juuri kaikkien (n) arvojen tulosta. Käytetään harvoin yhteiskuntatieteissä.</r:Content>
             <r:Content xml:lang="it">Valore medio di tutti i dati se si estrae l'ennesima radice del prodotto di tutti i valori (n). Utilizzata raramente nelle scienze sociali.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -682,7 +676,6 @@
          <l:CategoryName>HarmonicMean</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Harmonic mean</r:Content>
-            <r:Content xml:lang="da">Harmonisk gennemsnit</r:Content>
             <r:Content xml:lang="fi">Harmoninen keskiarvo</r:Content>
             <r:Content xml:lang="it">Media armonica</r:Content>
             <r:Content xml:lang="nl">Harmonisch gemiddelde</r:Content>
@@ -694,7 +687,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Average value of all data if calculating the reciprocal of the arithmetic mean of the reciprocal of values. Rarely used in social sciences.</r:Content>
-            <r:Content xml:lang="da">Gennemsnitlig værdi af alle data ved beregning af den reciprokke af det aritmetiske gennemsnit af den reciprokke af værdier. Anvendes sjældent i samfundsvidenskab.</r:Content>
             <r:Content xml:lang="fi">Keskiluku, jossa lasketaan arvojen käänteislukujen aritmeettisen keskiarvon käänteisluku. Käytetään harvoin yhteiskuntatieteissä.</r:Content>
             <r:Content xml:lang="it">Valore medio di tutti i dati se si calcola il reciproco della media aritmetica del reciproco dei valori. Utilizzata raramente nelle scienze sociali.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -715,7 +707,6 @@
          <l:CategoryName>TrimmedMean</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Trimmed mean</r:Content>
-            <r:Content xml:lang="da">Trimmet gennemsnit</r:Content>
             <r:Content xml:lang="fi">Leikattu keskiarvo</r:Content>
             <r:Content xml:lang="it">Media troncata</r:Content>
             <r:Content xml:lang="nl">Getrimd gemiddelde</r:Content>
@@ -727,7 +718,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The (arithmetic) mean calculated after discarding given parts of observations at the high and low end (e.g., interquartile mean when the lowest 25% and the highest 25% are discarded, and the mean of the remaining values is calculated).</r:Content>
-            <r:Content xml:lang="da">Det (aritmetiske) gennemsnit beregnet efter frasortering af givne observationer i den høje og den lave ende (fx interkvartil gennemsnit, når de laveste 25 % og de højeste 25 % er frasorteret, og gennemsnittet af de resterende værdier beregnes).</r:Content>
             <r:Content xml:lang="fi">(Aritmeettinen) keskiarvo, joka lasketaan sen jälkeen, kun tietty osa havaintoarvoista on jätetty pois (leikattu) (esim. kvartiilivälin keskiarvo, jossa ylä- ja alakvartiileille eli ylimpään ja alimpaan 25 %:iin asettuvat havaintoarvot jätetään pois ja jäljelle jäävistä arvoista lasketaan keskiarvo).</r:Content>
             <r:Content xml:lang="it">La media (aritmetica) calcolata senza considerare parte delle osservazioni che nella sequenza ordinata si trovano  all'estremità  superiore e inferiore (ad esempio, la media interquartile è calcolata sulle osservazioni centrali della distribuzione ordinata eludendo il  25% di quelle più basse ed il 25% di quelle più alte).</r:Content>
             <r:Content xml:lang="nl"/>
@@ -748,7 +738,6 @@
          <l:CategoryName>StandardErrorOfMean</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Standard error of the mean</r:Content>
-            <r:Content xml:lang="da">Standardfejl for gennemsnittet</r:Content>
             <r:Content xml:lang="fi">Keskiarvon keskivirhe</r:Content>
             <r:Content xml:lang="it">Errore standard della media</r:Content>
             <r:Content xml:lang="nl">Standaardfout</r:Content>
@@ -760,7 +749,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Provides an estimate of how much the sample mean differs from the actual mean of the population.</r:Content>
-            <r:Content xml:lang="da">Giver et estimate på, hvor meget stikprøvens gennemsnit afgiver fra populationens faktiske gennemsnit.</r:Content>
             <r:Content xml:lang="fi">Antaa arvion siitä, kuinka paljon otoksesta saatu keskiarvo poikkeaa väestön tosiasiallisesta keskiarvosta.</r:Content>
             <r:Content xml:lang="it">Fornisce una stima di quanto la media campionaria differisce dalla media effettiva della popolazione.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -781,7 +769,6 @@
          <l:CategoryName>Mode</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Mode</r:Content>
-            <r:Content xml:lang="da">Modus</r:Content>
             <r:Content xml:lang="fi">Moodi</r:Content>
             <r:Content xml:lang="it">Moda</r:Content>
             <r:Content xml:lang="nl">Modus</r:Content>
@@ -793,7 +780,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The most frequently observed data value (Statistics Canada).</r:Content>
-            <r:Content xml:lang="da">Den hyppigst observerede dataværdi (Statistics Canada).</r:Content>
             <r:Content xml:lang="fi">Moodi ilmoittaa, mikä on muuttujan jakauman huippukohta eli eniten tapauksia sisältävä luokka (Tilastokeskus).</r:Content>
             <r:Content xml:lang="it">Valore a cui corrisponde la massima frequenza.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -814,7 +800,6 @@
          <l:CategoryName>Median</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Median</r:Content>
-            <r:Content xml:lang="da">Median</r:Content>
             <r:Content xml:lang="fi">Mediaani</r:Content>
             <r:Content xml:lang="it">Mediana</r:Content>
             <r:Content xml:lang="nl">Mediaan</r:Content>
@@ -826,7 +811,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The middle value in a set of values arranged in ascending order. Half of the values fall below the median, and half above it. If the set has an even number of values, the median will be the average of the two middle ones.</r:Content>
-            <r:Content xml:lang="da">Den midterste værdi i et sæt af værdier arrangeret i stigende rækkefølge. Halvdelen af værdier falder under medianen og halvdelen over den. Hvis sættet har et lige antal af værdier, vil medianen være gennemsnittet af de to midterste.</r:Content>
             <r:Content xml:lang="fi">Jakauman keskimmäinen havaintoarvo, kun havainnot on järjestetty suuruusjärjestykseen (Tilastokeskus). Puolet jakauman arvoista sijoittuu mediaanin alle ja puolet sen ylle.</r:Content>
             <r:Content xml:lang="it">Il valore medio di un insieme di valori disposti in ordine crescente. Metà dei valori si trova al di sotto della mediana e metà al di sopra di essa. Se l'insieme ha un numero pari di valori, la mediana sarà pari alla media dei due valori centrali.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -847,7 +831,6 @@
          <l:CategoryName>ValidCases</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Valid cases</r:Content>
-            <r:Content xml:lang="da">Gyldige cases</r:Content>
             <r:Content xml:lang="fi">Validit havainnot</r:Content>
             <r:Content xml:lang="it">Casi validi</r:Content>
             <r:Content xml:lang="nl">Geldige gevallen</r:Content>
@@ -859,7 +842,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Cases with observations which are considered to be valid, i.e., providing substantial information and to be included for calculation.</r:Content>
-            <r:Content xml:lang="da">Cases med observationer, der betragtes som gyldige, dvs. giver substantiel information og inkluderes i beregning.</r:Content>
             <r:Content xml:lang="fi">Havainnot, joiden katsotaan olevan valideja tai 'oikeita', eli ne tarjoavat olennaista tietoa ja sisällytetään analyyseihin.</r:Content>
             <r:Content xml:lang="it">Valori considerati ammissibili per lo studio, e che pertanto forniscono informazioni sostanziali nelle analisi dei dati.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -880,7 +862,6 @@
          <l:CategoryName>InvalidCases</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Invalid cases</r:Content>
-            <r:Content xml:lang="da">Ugyldige cases</r:Content>
             <r:Content xml:lang="fi">Puuttuvat havainnot</r:Content>
             <r:Content xml:lang="it">Casi non validi</r:Content>
             <r:Content xml:lang="nl">Ongeldige gevallen</r:Content>
@@ -892,7 +873,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Cases which are considered/defined as "missing" (e.g., not ascertained, not applicable, etc.), usually excluded from calculation.</r:Content>
-            <r:Content xml:lang="da">Cases, der betragtes/defineres som “manglende” (fx. ikke fastslået, ikke anvendelig etc.), som regel udeladt fra beregning.</r:Content>
             <r:Content xml:lang="fi">Havainnot, joiden katsotaan olevan puuttuvia (esim. tyhjäksi jätetty vastaus, näppäilyvirhe jne.) ja jotka yleensä jätetään huomioimatta analyyseissä.</r:Content>
             <r:Content xml:lang="it">Valori non considerati ammissibili per lo studio (ad esempio, non accertati, non applicabili, ecc.) e che pertanto vengono esclusi  nelle analisi dei dati.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -913,7 +893,6 @@
          <l:CategoryName>Minimum</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Minimum</r:Content>
-            <r:Content xml:lang="da">Minimum</r:Content>
             <r:Content xml:lang="fi">Minimi</r:Content>
             <r:Content xml:lang="it">Minimo</r:Content>
             <r:Content xml:lang="nl">Minimum</r:Content>
@@ -925,7 +904,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The lowest valid value in a variable.</r:Content>
-            <r:Content xml:lang="da">Den lavest gyldige værdi i en variabel.</r:Content>
             <r:Content xml:lang="fi">Alin validi muuttujan arvo.</r:Content>
             <r:Content xml:lang="it">Il valore valido più basso assunto da una variabile.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -946,7 +924,6 @@
          <l:CategoryName>Maximum</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Maximum</r:Content>
-            <r:Content xml:lang="da">Maksimum</r:Content>
             <r:Content xml:lang="fi">Maksimi</r:Content>
             <r:Content xml:lang="it">Massimo</r:Content>
             <r:Content xml:lang="nl">Maximum</r:Content>
@@ -958,7 +935,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The highest valid value in a variable.</r:Content>
-            <r:Content xml:lang="da">Den højest gyldige værdi i en variabel.</r:Content>
             <r:Content xml:lang="fi">Ylin validi muuttujan arvo.</r:Content>
             <r:Content xml:lang="it">Il valore valido più alto assunto da una variabile.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -979,7 +955,6 @@
          <l:CategoryName>Range</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Range</r:Content>
-            <r:Content xml:lang="da">Variationsbredde</r:Content>
             <r:Content xml:lang="fi">Vaihteluväli</r:Content>
             <r:Content xml:lang="it">Intervallo</r:Content>
             <r:Content xml:lang="nl">Bereik</r:Content>
@@ -991,7 +966,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The range of valid values, i.e., all values that fall between the lowest and highest valid values.</r:Content>
-            <r:Content xml:lang="da">Afstanden mellem gyldige værdier, dvs., alle værdier, der falder mellem de laveste og højeste gyldige værdier.</r:Content>
             <r:Content xml:lang="fi">Validien arvojen vaihteluväli, eli alimman ja ylimmän arvon väliin asettuvat arvot, ts. muuttujan suurimman ja pienimmän arvon välimatka.</r:Content>
             <r:Content xml:lang="it">L'intervallo di valori validi, ossia tutti i valori compresi tra il più basso e il più alto dei valori validi.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1012,7 +986,6 @@
          <l:CategoryName>Sum</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Sum</r:Content>
-            <r:Content xml:lang="da">Sum</r:Content>
             <r:Content xml:lang="fi">Summa</r:Content>
             <r:Content xml:lang="it">Somma</r:Content>
             <r:Content xml:lang="nl">Som</r:Content>
@@ -1024,7 +997,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The sum or total of the values, across all valid cases.</r:Content>
-            <r:Content xml:lang="da">Summen af værdierne på tværs af alle gyldige cases.</r:Content>
             <r:Content xml:lang="fi">Kaikkien validien havaintojen arvojen summa.</r:Content>
             <r:Content xml:lang="it">La somma o il totale dei valori di tutti i casi validi.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1045,7 +1017,6 @@
          <l:CategoryName>Variance</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Variance</r:Content>
-            <r:Content xml:lang="da">Varians</r:Content>
             <r:Content xml:lang="fi">Varianssi</r:Content>
             <r:Content xml:lang="it">Varianza</r:Content>
             <r:Content xml:lang="nl">Variantie</r:Content>
@@ -1057,7 +1028,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The variance is the mean square deviation of the variable around the average value. It reflects the dispersion of a frequency distribution around its mean (OECD Glossary of Statistics).</r:Content>
-            <r:Content xml:lang="da">Variansen er den gennemsnitlige kvadratafvigelse for variable omkring gennemsnitsværdien. Den afspejler frekvensfordelingens spredning omkring dens gennemsnit (OECD Glossary of Statistics)</r:Content>
             <r:Content xml:lang="fi">Varianssi ilmoittaa miten suuria keskimäärin ovat neliöidyt poikkeamat keskiarvosta (Tilastokeskus). Varianssi kuvaa jakauman hajontaa odotusarvon ympärillä.</r:Content>
             <r:Content xml:lang="it">La varianza di una variabile è lo scarto quadratico medio dal valore medio. Riflette la dispersione di una distribuzione di frequenza attorno alla sua media.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1078,7 +1048,6 @@
          <l:CategoryName>StandardDeviation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Standard deviation</r:Content>
-            <r:Content xml:lang="da">Standardafvigelse</r:Content>
             <r:Content xml:lang="fi">Keskihajonta</r:Content>
             <r:Content xml:lang="it">Deviazione standard</r:Content>
             <r:Content xml:lang="nl">Standaardafwijking</r:Content>
@@ -1090,7 +1059,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Indicates the degree to which individuals within the sample differ from the sample mean.</r:Content>
-            <r:Content xml:lang="da">Angiver den grad, hvormed individerne i stikprøven afviger fra stikprøvens gennemsnit.</r:Content>
             <r:Content xml:lang="fi">Luku, joka mittaa missä määrin otoksen yksiköiden arvot eroavat koko otoksen keskiarvosta.</r:Content>
             <r:Content xml:lang="it">Indica il grado in cui gli individui all'interno del campione differiscono dalla media campionaria.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1111,7 +1079,6 @@
          <l:CategoryName>CoefficientOfVariation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Coefficient of variation</r:Content>
-            <r:Content xml:lang="da">Variationskoefficient</r:Content>
             <r:Content xml:lang="fi">Variaatiokerroin</r:Content>
             <r:Content xml:lang="it">Coefficiente di variazione</r:Content>
             <r:Content xml:lang="nl">Variatiecoëfficiënt</r:Content>
@@ -1123,7 +1090,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Standard deviation divided by the mean.</r:Content>
-            <r:Content xml:lang="da">Standardafvigelse divideret med gennemsnittet.</r:Content>
             <r:Content xml:lang="fi">Keskihajonta jaettuna keskiarvolla.</r:Content>
             <r:Content xml:lang="it">Deviazione standard divisa per la media.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1144,7 +1110,6 @@
          <l:CategoryName>AverageAbsoluteDeviation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Average absolute deviation</r:Content>
-            <r:Content xml:lang="da">Gennemsnitlig numerisk afvigelse</r:Content>
             <r:Content xml:lang="fi">Absoluuttinen keskipoikkeama</r:Content>
             <r:Content xml:lang="it">Deviazione media assoluta</r:Content>
             <r:Content xml:lang="nl">Gemiddelde absolute afwijking</r:Content>
@@ -1156,7 +1121,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The average of the absolute differences between each value and the overall mean. Measure of statistical dispersion around the mean, alternative to Standard Deviation.</r:Content>
-            <r:Content xml:lang="da">Gennemsnittet af de numeriske forskelle mellem hver værdi og det samlede gennemsnit. Mål for statistisk spredning omkring gennemsnittet, alternativt til standardafvigelse.</r:Content>
             <r:Content xml:lang="fi">Kunkin yksittäisen arvon ja kaikkien arvojen keskiarvon välisten poikkeamien keskiarvo. Hajontaluku, joka kuvaa arvojen vaihtelua keskiarvon ympärillä. Vaihtoehto keskihajonnalle.</r:Content>
             <r:Content xml:lang="it">La media delle differenze assolute tra ciascun valore e la media complessiva. Misura la dispersione statistica attorno alla media, alternativa alla deviazione standard.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1177,7 +1141,6 @@
          <l:CategoryName>MedianAbsoluteDeviation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Median absolute deviation</r:Content>
-            <r:Content xml:lang="da">Median numerisk afvigelse</r:Content>
             <r:Content xml:lang="fi">Mediaanin absoluuttinen keskipoikkeama</r:Content>
             <r:Content xml:lang="it">Deviazione mediana assoluta</r:Content>
             <r:Content xml:lang="nl">Mediaan absolute afwijking</r:Content>
@@ -1189,7 +1152,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The median absolute deviation from the median. Measure of statistical dispersion around the median.</r:Content>
-            <r:Content xml:lang="da">Medianens numeriske afvigelse fra median. Måling af statistisk spredning omkring medianen.</r:Content>
             <r:Content xml:lang="fi">Keskipoikkeama mediaanista. Hajontaluku, joka kuvaa arvojen vaihtelua mediaanin ympärillä.</r:Content>
             <r:Content xml:lang="it">La deviazione mediana assoluta dalla mediana. Misura la dispersione statistica intorno alla mediana.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1210,7 +1172,6 @@
          <l:CategoryName>FirstQuartile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">First quartile</r:Content>
-            <r:Content xml:lang="da">Første kvartil</r:Content>
             <r:Content xml:lang="fi">Ensimmäinen kvartiili</r:Content>
             <r:Content xml:lang="it">Primo quartile</r:Content>
             <r:Content xml:lang="nl">Eerste kwartiel</r:Content>
@@ -1222,7 +1183,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The first of three values which separate the total frequency of a distribution into four equal parts.</r:Content>
-            <r:Content xml:lang="da">Den første af tre værdier, der adskiller den samlede frekvensfordeling i fire lige dele.</r:Content>
             <r:Content xml:lang="fi">Alakvartiili. Ensimmäinen kolmesta arvosta, jotka jakavat jakauman neljään yhtä suureen osaan. Jakauman arvoista 25 % on siis pienempiä tai yhtä suuria kuin ensimmäinen kvartiili.</r:Content>
             <r:Content xml:lang="it">Il primo dei tre valori che suddividono la frequenza totale di una distribuzione in quattro parti uguali.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1243,7 +1203,6 @@
          <l:CategoryName>SecondQuartile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Second quartile</r:Content>
-            <r:Content xml:lang="da">Anden kvartil</r:Content>
             <r:Content xml:lang="fi">Toinen kvartiili</r:Content>
             <r:Content xml:lang="it">Secondo quartile</r:Content>
             <r:Content xml:lang="nl">Tweede kwartiel</r:Content>
@@ -1255,7 +1214,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The second of three values which separate the total frequency of a distribution into four equal parts (= median).</r:Content>
-            <r:Content xml:lang="da">Den anden af tre værdier, der adskiller den samlede frekvensfordeling i fire lige dele (=median).</r:Content>
             <r:Content xml:lang="fi">Toinen kvartiili eli mediaani. Toinen kolmesta arvosta, jotka jakavat jakauman neljään yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il secondo dei tre valori che suddividono la frequenza totale di una distribuzione in quattro parti uguali (= mediana).</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1276,7 +1234,6 @@
          <l:CategoryName>ThirdQuartile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Third quartile</r:Content>
-            <r:Content xml:lang="da">Tredje kvartil</r:Content>
             <r:Content xml:lang="fi">Kolmas kvartiili</r:Content>
             <r:Content xml:lang="it">Terzo quartile</r:Content>
             <r:Content xml:lang="nl">Derde kwartiel</r:Content>
@@ -1288,7 +1245,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The third of three values which separate the total frequency of a distribution into four equal parts.</r:Content>
-            <r:Content xml:lang="da">Den tredje af tre værdier, der adskiller den samlede frekvensfordeling i fire lige store dele.</r:Content>
             <r:Content xml:lang="fi">Yläkvartiili. Kolmas kolmesta arvosta, jotka jakavat jakauman neljään yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il terzo dei tre valori che suddividono la frequenza totale di una distribuzione in quattro parti uguali.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1309,7 +1265,6 @@
          <l:CategoryName>InterquartileRange</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Interquartile range</r:Content>
-            <r:Content xml:lang="da">Afstanden mellem 1. og 3. kvartil</r:Content>
             <r:Content xml:lang="fi">Kvartiiliväli</r:Content>
             <r:Content xml:lang="it">Differenza interquartile</r:Content>
             <r:Content xml:lang="nl">Interkwartielafstand</r:Content>
@@ -1321,7 +1276,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The range between the first and third quartile values.</r:Content>
-            <r:Content xml:lang="da">Afstanden mellem 1. og 3. kvartils værdier.</r:Content>
             <r:Content xml:lang="fi">Väli alakvartiilista (ensimmäinen kvartiili) yläkvartiiliin (kolmas kvartiili).</r:Content>
             <r:Content xml:lang="it">L'intervallo tra il primo e il terzo quartile.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1342,7 +1296,6 @@
          <l:CategoryName>FirstQuintile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">First quintile</r:Content>
-            <r:Content xml:lang="da">Første kvintil</r:Content>
             <r:Content xml:lang="fi">Ensimmäinen kvintiili</r:Content>
             <r:Content xml:lang="it">Primo quintile</r:Content>
             <r:Content xml:lang="nl">Eerste kwintiel</r:Content>
@@ -1354,7 +1307,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The first of four values which separate the total frequency of a distribution into five equal parts.</r:Content>
-            <r:Content xml:lang="da">Den første af fire værdier, der adskiller den samlede frekvensfordeling i fem lige dele.</r:Content>
             <r:Content xml:lang="fi">Ensimmäinen neljästä arvosta, jotka jakavat jakauman viiteen yhtä suureen osaan. Jakauman arvoista 20 % on siis pienempiä tai yhtä suuria kuin ensmmäinen kvintiili.</r:Content>
             <r:Content xml:lang="it">Il primo dei quattro valori che suddividono la frequenza totale di una distribuzione in cinque parti uguali.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1375,7 +1327,6 @@
          <l:CategoryName>SecondQuintile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Second quintile</r:Content>
-            <r:Content xml:lang="da">Anden kvintil</r:Content>
             <r:Content xml:lang="fi">Toinen kvintiili</r:Content>
             <r:Content xml:lang="it">Secondo quintile</r:Content>
             <r:Content xml:lang="nl">Tweede kwintiel</r:Content>
@@ -1387,7 +1338,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The second of four values which separate the total frequency of a distribution into five equal parts.</r:Content>
-            <r:Content xml:lang="da">Den anden af fire værdier, der adskiller den samlede frekvensfordeling i fem lige dele.</r:Content>
             <r:Content xml:lang="fi">Toinen neljästä arvosta, jotka jakavat jakauman viiteen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il secondo dei quattro valori che suddividono la frequenza totale di una distribuzione in cinque parti uguali.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1408,7 +1358,6 @@
          <l:CategoryName>ThirdQuintile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Third quintile</r:Content>
-            <r:Content xml:lang="da">Tredje kvintil</r:Content>
             <r:Content xml:lang="fi">Kolmas kvintiili</r:Content>
             <r:Content xml:lang="it">Terzo quintile</r:Content>
             <r:Content xml:lang="nl">Derde kwintiel</r:Content>
@@ -1420,7 +1369,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The third of four values which separate the total frequency of a distribution into five equal parts.</r:Content>
-            <r:Content xml:lang="da">Den tredje af fire værdier, der adskiller den samlede frekvensfordeling i fem lige dele.</r:Content>
             <r:Content xml:lang="fi">Kolmas neljästä arvosta, jotka jakavat jakauman viiteen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il terzo dei quattro valori che suddividono la frequenza totale di una distribuzione in cinque parti uguali.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1441,7 +1389,6 @@
          <l:CategoryName>FourthQuintile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Fourth quintile</r:Content>
-            <r:Content xml:lang="da">Fjerde kvintil</r:Content>
             <r:Content xml:lang="fi">Neljäs kvintiili</r:Content>
             <r:Content xml:lang="it">Quarto quintile</r:Content>
             <r:Content xml:lang="nl">Vierde kwintiel</r:Content>
@@ -1453,7 +1400,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The fourth of four values which separate the total frequency of a distribution into five equal parts.</r:Content>
-            <r:Content xml:lang="da">Den fjerde af fire værdier, der adskiller den samlede frekvensfordeling i fem lige dele.</r:Content>
             <r:Content xml:lang="fi">Neljäs neljästä arvosta, jotka jakavat jakauman viiteen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il quarto dei quattro valori che suddividono la frequenza totale di una distribuzione in cinque parti uguali.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1474,7 +1420,6 @@
          <l:CategoryName>InterquintileRange</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Interquintile range</r:Content>
-            <r:Content xml:lang="da">Afstanden mellem 1. og 4. kvintil</r:Content>
             <r:Content xml:lang="fi">Kvintiiliväli</r:Content>
             <r:Content xml:lang="it">Ampiezza interquintile</r:Content>
             <r:Content xml:lang="nl">Interkwintielafstand</r:Content>
@@ -1486,7 +1431,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The range between the first and fourth quintile values.</r:Content>
-            <r:Content xml:lang="da">Afstanden mellem 1. og 4. kvintils værdier.</r:Content>
             <r:Content xml:lang="fi">Väli ensimmäisestä kvintiilistä neljänteen kvintiiliin.</r:Content>
             <r:Content xml:lang="it">L'intervallo tra il primo e il quarto quintile.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1507,7 +1451,6 @@
          <l:CategoryName>FirstDecile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">First decile</r:Content>
-            <r:Content xml:lang="da">Første decil</r:Content>
             <r:Content xml:lang="fi">Ensimmäinen desiili</r:Content>
             <r:Content xml:lang="it">Primo decile</r:Content>
             <r:Content xml:lang="nl">Eerste deciel</r:Content>
@@ -1519,7 +1462,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The first of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
-            <r:Content xml:lang="da">Den første af ni værdier, der adskiller den samlede frekvensfordeling i ti lige dele.</r:Content>
             <r:Content xml:lang="fi">Ensimmäinen yhdeksästä arvosta, jotka jakavat jakauman kymmeneen yhtä suureen osaan. Jakauman arvoista 10 % on siis pienempiä tai yhtä suuria kuin ensimmäinen desiili.</r:Content>
             <r:Content xml:lang="it">Il primo dei nove valori che suddividono la frequenza totale di una distribuzione in dieci parti uguali.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1540,7 +1482,6 @@
          <l:CategoryName>SecondDecile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Second decile</r:Content>
-            <r:Content xml:lang="da">Anden decil</r:Content>
             <r:Content xml:lang="fi">Toinen desiili</r:Content>
             <r:Content xml:lang="it">Secondo decile</r:Content>
             <r:Content xml:lang="nl">Tweede deciel</r:Content>
@@ -1552,7 +1493,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The second of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
-            <r:Content xml:lang="da">Den anden af ni værdier, der adskiller den samlede frekvensfordeling i ti lige dele.</r:Content>
             <r:Content xml:lang="fi">Toinen yhdeksästä arvosta, jotka jakavat jakauman kymmeneen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il secondo dei nove valori che suddividono la frequenza totale di una distribuzione in dieci parti uguali.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1573,7 +1513,6 @@
          <l:CategoryName>ThirdDecile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Third decile</r:Content>
-            <r:Content xml:lang="da">Tredje decil</r:Content>
             <r:Content xml:lang="fi">Kolmas desiili</r:Content>
             <r:Content xml:lang="it">Terzo decile</r:Content>
             <r:Content xml:lang="nl">Derde deciel</r:Content>
@@ -1585,7 +1524,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The third of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
-            <r:Content xml:lang="da">Den tredje af ni værdier, der adskiller den samlede frekvensfordeling i ti lige dele.</r:Content>
             <r:Content xml:lang="fi">Kolmas yhdeksästä arvosta, jotka jakavat jakauman kymmeneen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il terzo dei nove valori che suddividono la frequenza totale di una distribuzione in dieci parti uguali.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1606,7 +1544,6 @@
          <l:CategoryName>FourthDecile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Fourth decile</r:Content>
-            <r:Content xml:lang="da">Fjerde decil</r:Content>
             <r:Content xml:lang="fi">Neljäs desiili</r:Content>
             <r:Content xml:lang="it">Quarto decile</r:Content>
             <r:Content xml:lang="nl">Vierde deciel</r:Content>
@@ -1618,7 +1555,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The fourth of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
-            <r:Content xml:lang="da">Den fjerde af ni værdier, der adskiller den samlede frekvensfordeling i ti lige dele.</r:Content>
             <r:Content xml:lang="fi">Neljäs yhdeksästä arvosta, jotka jakavat jakauman kymmeneen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il quarto dei nove valori che suddividono la frequenza totale di una distribuzione in dieci parti uguali.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1639,7 +1575,6 @@
          <l:CategoryName>FifthDecile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Fifth decile</r:Content>
-            <r:Content xml:lang="da">Femte decil</r:Content>
             <r:Content xml:lang="fi">Viides desiili</r:Content>
             <r:Content xml:lang="it">Quinto decile</r:Content>
             <r:Content xml:lang="nl">Vijfde deciel</r:Content>
@@ -1651,7 +1586,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The fifth of nine values which separate the total frequency of a distribution into ten equal parts (= median).</r:Content>
-            <r:Content xml:lang="da">Den femte af ni værdier, der adskiller den samlede frekvensfordeling i ti lige dele (=median).</r:Content>
             <r:Content xml:lang="fi">Viides yhdeksästä arvosta, jotka jakavat jakauman kymmeneen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il quinto dei nove valori che suddividono la frequenza totale di una distribuzione in dieci parti uguali (= mediana).</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1672,7 +1606,6 @@
          <l:CategoryName>SixthDecile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Sixth decile</r:Content>
-            <r:Content xml:lang="da">Sjette decil</r:Content>
             <r:Content xml:lang="fi">Kuudes desiili</r:Content>
             <r:Content xml:lang="it">Sesto decile</r:Content>
             <r:Content xml:lang="nl">Zesde deciel</r:Content>
@@ -1684,7 +1617,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The sixth of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
-            <r:Content xml:lang="da">Den sjette af ni værdier, der adskiller den samlede frekvensfordeling i ti lige dele.</r:Content>
             <r:Content xml:lang="fi">Kuudes yhdeksästä arvosta, jotka jakavat jakauman kymmeneen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il sesto dei nove valori che suddividono la frequenza totale di una distribuzione in dieci parti uguali.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1705,7 +1637,6 @@
          <l:CategoryName>SeventhDecile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Seventh decile</r:Content>
-            <r:Content xml:lang="da">Syvende decil</r:Content>
             <r:Content xml:lang="fi">Seitsemäs desiili</r:Content>
             <r:Content xml:lang="it">Settimo decile</r:Content>
             <r:Content xml:lang="nl">Zevende deciel</r:Content>
@@ -1717,7 +1648,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The seventh of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
-            <r:Content xml:lang="da">Den syvende af ni værdier, der adskiller den samlede frekvensfordeling i ti lige dele.</r:Content>
             <r:Content xml:lang="fi">Seitsemäs yhdeksästä arvosta, jotka jakavat jakauman kymmeneen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il settimo dei nove valori che suddividono la frequenza totale di una distribuzione in dieci parti uguali.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1738,7 +1668,6 @@
          <l:CategoryName>EighthDecile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Eighth decile</r:Content>
-            <r:Content xml:lang="da">Ottende decil</r:Content>
             <r:Content xml:lang="fi">Kahdeksas desiili</r:Content>
             <r:Content xml:lang="it">Ottavo decile</r:Content>
             <r:Content xml:lang="nl">Achste deciel</r:Content>
@@ -1750,7 +1679,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The eighth of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
-            <r:Content xml:lang="da">Den ottende af ni værdier, der adskiller den samlede frekvensfordeling i ti lige dele.</r:Content>
             <r:Content xml:lang="fi">Kahdeksas yhdeksästä arvosta, jotka jakavat jakauman kymmeneen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">L'ottavo dei nove valori che suddividono la frequenza totale di una distribuzione in dieci parti uguali.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1771,7 +1699,6 @@
          <l:CategoryName>NinthDecile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Ninth decile</r:Content>
-            <r:Content xml:lang="da">Niende decil</r:Content>
             <r:Content xml:lang="fi">Yhdeksäs desiili</r:Content>
             <r:Content xml:lang="it">Nono decile</r:Content>
             <r:Content xml:lang="nl">Negende deciel</r:Content>
@@ -1783,7 +1710,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The ninth of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
-            <r:Content xml:lang="da">Den niende af ni værdier, der adskiller den samlede frekvensfordeling i ti lige dele.</r:Content>
             <r:Content xml:lang="fi">Yhdeksäs yhdeksästä arvosta, jotka jakavat jakauman kymmeneen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il nono dei nove valori che suddividono la frequenza totale di una distribuzione in dieci parti uguali.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1804,7 +1730,6 @@
          <l:CategoryName>InterdecileRange</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Interdecile range</r:Content>
-            <r:Content xml:lang="da">Afstanden mellem 1. og 9. decil</r:Content>
             <r:Content xml:lang="fi">Desiiliväli</r:Content>
             <r:Content xml:lang="it">Ampiezza interdecile</r:Content>
             <r:Content xml:lang="nl">Interdicielafstand</r:Content>
@@ -1816,7 +1741,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">The range between the first and ninth decile values.</r:Content>
-            <r:Content xml:lang="da">Afstanden mellem 1. og 9. decilers værdier.</r:Content>
             <r:Content xml:lang="fi">Väli ensimmäisestä desiilistä yhdeksänteen desiiliin.</r:Content>
             <r:Content xml:lang="it">L'intervallo tra il primo e il nono decile.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1837,7 +1761,6 @@
          <l:CategoryName>OtherPercentile</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other percentile</r:Content>
-            <r:Content xml:lang="da">Andre typer af percentiler</r:Content>
             <r:Content xml:lang="fi">Muu persentiili</r:Content>
             <r:Content xml:lang="it">Altri percentili</r:Content>
             <r:Content xml:lang="nl">Ander percentiel</r:Content>
@@ -1849,7 +1772,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">A percentile not covered by any of the other percentile terms.</r:Content>
-            <r:Content xml:lang="da">Et percentil, der ikke er dækket af nogen af de andre percentilbetingelser.</r:Content>
             <r:Content xml:lang="fi">Persentiili, joka ei sovi muihin fraktiilitermeihin.</r:Content>
             <r:Content xml:lang="it">Un percentile non coperto da nessuno degli altri percentili indicati.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1870,7 +1792,6 @@
          <l:CategoryName>Beta1</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Skewness</r:Content>
-            <r:Content xml:lang="da">Skævhed</r:Content>
             <r:Content xml:lang="fi">Vinous</r:Content>
             <r:Content xml:lang="it">Indice di asimmetria</r:Content>
             <r:Content xml:lang="nl">Scheefheid</r:Content>
@@ -1882,7 +1803,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">A measure for the asymmetry of a probability distribution of a variable.</r:Content>
-            <r:Content xml:lang="da">Et mål for asymmetri af en variabels sandsynlighedsfordeling.</r:Content>
             <r:Content xml:lang="fi">Muuttujan todennäköisyysjakauman epäsymmetrisyyttä kuvaava käsite.</r:Content>
             <r:Content xml:lang="it">Una misura dell'asimmetria di una distribuzione di probabilità di una variabile.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1903,7 +1823,6 @@
          <l:CategoryName>Beta2</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Kurtosis</r:Content>
-            <r:Content xml:lang="da">Kurtosis</r:Content>
             <r:Content xml:lang="fi">Huipukkuus</r:Content>
             <r:Content xml:lang="it">Curtosi</r:Content>
             <r:Content xml:lang="nl">Kurtosis</r:Content>
@@ -1915,7 +1834,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">A measure for the "peakedness" of a probability distribution of a variable.</r:Content>
-            <r:Content xml:lang="da">Et mål for “spidsheden” af en variabels sandsynlighedsfordeling.</r:Content>
             <r:Content xml:lang="fi">Muuttujan todennäköisyysjakauman huipukkuutta kuvaava käsite.</r:Content>
             <r:Content xml:lang="it">Una misura del "picco" di una distribuzione di probabilità di una variabile.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1936,7 +1854,6 @@
          <l:CategoryName>ShapiroWilk</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Shapiro-Wilk</r:Content>
-            <r:Content xml:lang="da">Shapiro-Wilk- test</r:Content>
             <r:Content xml:lang="fi">Shapiron–Wilkin testi</r:Content>
             <r:Content xml:lang="it">Test di Shapiro-Wilk</r:Content>
             <r:Content xml:lang="nl">Shapiro-Wilk</r:Content>
@@ -1948,7 +1865,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Normality test statistics.</r:Content>
-            <r:Content xml:lang="da">Statistisk normalitetstest.</r:Content>
             <r:Content xml:lang="fi">Eräs jakauman normaaliuden testeistä.</r:Content>
             <r:Content xml:lang="it">Test di normalità statistica.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -1969,7 +1885,6 @@
          <l:CategoryName>PercentageOfValidCases</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Percentage of valid cases</r:Content>
-            <r:Content xml:lang="da">Andelen af valide cases</r:Content>
             <r:Content xml:lang="fi">Validien havaintoyksiköiden prosentuaalinen osuus</r:Content>
             <r:Content xml:lang="it">Percentuale di casi validi</r:Content>
             <r:Content xml:lang="nl">Percentage geldige gevallen</r:Content>
@@ -1981,7 +1896,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Indicates the percentage of valid cases of the total number of cases.</r:Content>
-            <r:Content xml:lang="da">Indikerer procentdelen af gyldige cases i det samlede antal af cases.</r:Content>
             <r:Content xml:lang="fi">Ilmaisee validien havaintoyksiköiden prosenttiosuuden kaikista havaintoyksiköistä.</r:Content>
             <r:Content xml:lang="it">Indica la percentuale di casi validi sul numero totale dei casi.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -2002,7 +1916,6 @@
          <l:CategoryName>PercentageOfInvalidCases</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Percentage of invalid cases</r:Content>
-            <r:Content xml:lang="da">Andelen af ugyldige cases</r:Content>
             <r:Content xml:lang="fi">Puuttuvien havaintoyksiköiden prosentuaalinen osuus</r:Content>
             <r:Content xml:lang="it">Percentuale di casi non validi</r:Content>
             <r:Content xml:lang="nl">Percentage ongeldige gevallen</r:Content>
@@ -2014,7 +1927,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Indicates the percentage of invalid cases of the total number of cases.</r:Content>
-            <r:Content xml:lang="da">Indikerer procentdelen af ugyldige cases i det samlede antal af cases.</r:Content>
             <r:Content xml:lang="fi">Ilmaisee puuttuvien havaintoyksiköiden prosenttiosuuden kaikista havaintoyksiköistä.</r:Content>
             <r:Content xml:lang="it">Indica la percentuale di casi non validi sul numero totale dei casi.</r:Content>
             <r:Content xml:lang="nl"/>
@@ -2035,7 +1947,6 @@
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>
-            <r:Content xml:lang="da">Andet</r:Content>
             <r:Content xml:lang="fi">Muu tunnusluku</r:Content>
             <r:Content xml:lang="it">Altro</r:Content>
             <r:Content xml:lang="nl">Anders</r:Content>
@@ -2047,7 +1958,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Use if the summary statistic type is known, but not found in the list.</r:Content>
-            <r:Content xml:lang="da">Anvend, hvis den summariske statistiktype er kendt, men ikke findes på listen.</r:Content>
             <r:Content xml:lang="fi">Käytä, mikäli tilastollisen tunnusluvun tyyppi on tiedossa, mutta ei listassa.</r:Content>
             <r:Content xml:lang="it">Utilizzare se il tipo di statistica riassuntiva è conosciuto, ma non è presente nell'elenco.</r:Content>
             <r:Content xml:lang="nl"/>

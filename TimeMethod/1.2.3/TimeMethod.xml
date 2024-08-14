@@ -11,7 +11,6 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TimeMethod/1.2.3/</r:UserID>
          <r:Label>
             <r:Content xml:lang="en">Time Method</r:Content>
-            <r:Content xml:lang="da">Tidsmetode</r:Content>
             <r:Content xml:lang="de">Erhebungsdesign</r:Content>
             <r:Content xml:lang="fi">Tutkimuksen aikaulottuvuus</r:Content>
             <r:Content xml:lang="fr">Méthode temporelle</r:Content>
@@ -26,7 +25,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Describes the time dimension of the data collection.</r:Content>
-            <r:Content xml:lang="da">Beskriver tidsdimensionen for dataindsamlingen.</r:Content>
             <r:Content xml:lang="de">Beschreibt die zeitliche Dimension der Datenerhebung.</r:Content>
             <r:Content xml:lang="fi">Aineistonkeruun aikaulottuvuus.</r:Content>
             <r:Content xml:lang="fr">Décrit la dimension temporelle de la collecte des données</r:Content>
@@ -206,7 +204,6 @@
          <l:CategoryName>Longitudinal</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Longitudinal</r:Content>
-            <r:Content xml:lang="da">Longitudinal</r:Content>
             <r:Content xml:lang="de">Längsschnitt</r:Content>
             <r:Content xml:lang="fi">Pitkittäisaineisto</r:Content>
             <r:Content xml:lang="fr">Longitudinale</r:Content>
@@ -221,7 +218,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Data collected repeatedly over time to allow studying change in a population. At least some of the questions or modules are repeated over waves. Use the broad term when none of the subterms is suitable.</r:Content>
-            <r:Content xml:lang="da">Data indsamlet gentagne gange over tid for at muliggøre undersøgelse af ændringer i en population. Mindst nogle af spørgsmålene eller modulerne er gentaget i bølger. Anvend det brede begreb, når ingen af underbegreberne er egnede.</r:Content>
             <r:Content xml:lang="de">Daten, die zu mehreren Zeitpunkten erhoben wurden, um Veränderungen innerhalb einer Population zu untersuchen. Mindestens einige der Fragen oder Module werden dabei in Wellen wiederholt abgefragt. Verwenden Sie diesen breit gefassten Begriff, wenn sich keiner der Unterbegriffe eignet.</r:Content>
             <r:Content xml:lang="fi">Dataa on kerätty toistuvasti populaatiossa tapahtuvan muutoksen tutkimiseksi. Ainakin osa kysymyksistä tai moduuleista on toistettu eri keruuaalloissa, mikä mahdollistaa ajallisen vertailun. Ylätermi, jota käytetään mikäli aineistoa ei pysty luokittelemaan mihinkään pitkittäistutkimuksen alaluokkaan.</r:Content>
             <r:Content xml:lang="fr">Données collectées à plusieurs reprises au fil du temps pour permettre d'étudier les changements dans une population. Au moins certaines des questions ou modules sont répétés au fil des vagues. Utilisez ce terme quand aucun des sous-termes ne convient.</r:Content>
@@ -245,7 +241,6 @@
          <l:CategoryName>Longitudinal.CohortEventBased</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Longitudinal: Cohort/Event-based</r:Content>
-            <r:Content xml:lang="da">Longitudinal: Kohorte/Begivenhedsbaseret</r:Content>
             <r:Content xml:lang="de">Längsschnitt: Kohorte/Ereignisbasierte Daten</r:Content>
             <r:Content xml:lang="fi">Pitkittäisaineisto: kohortti/tapahtuma-aineisto</r:Content>
             <r:Content xml:lang="fr">Longitudinale : cohorte / basée sur un événement</r:Content>
@@ -260,7 +255,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Data collected over time from the same cohort of respondents. The individuals in the cohort are connected in some way or have shared some significant experience within a given period. In some cases, the samples may differ between waves but are drawn from the same cohort. Examples: birth year, disease (clinical trials), common problem (intervention studies), education, employment, family formation, participation in an event.</r:Content>
-            <r:Content xml:lang="da">Data indsamlet over tid fra den samme kohorte af respondenter. Individerne i kohorten er forbundet på en eller anden måde eller har delt en betydelig hændelse inden for en given periode. I nogle tilfælde kan stikprøverne adskille sig mellem bølgerne, men er udtrukket fra den samme kohorte. Eksempler: fødselsår, sygdom (kliniske forsøg), fællesproblem (interventionsundersøgelser), uddannelse, beskæftigelse, familiedannelse, deltagelse i en begivenhed.</r:Content>
             <r:Content xml:lang="de">Daten, die zu mehreren Zeitpunkten einer gleichbleibenden Kohorte erhoben wurden. Die Individuen der Kohorte sind in einer spezifischen Art und Weise miteinander verbunden oder teilen besondere Erfahrungen innerhalb eines bestimmten Zeitraums. In manchen Fällen können die Stichproben zwischen den Wellen variieren, werden jedoch aus derselben Kohorte gezogen. Beispiele: Geburtsjahr, Krankheit (klinische Studien), gemeinsames Problem (Interventionsstudien), Bildung, Beschäftigung, Familiengründung, Teilnahme an einer Veranstaltung.</r:Content>
             <r:Content xml:lang="fi">Dataa kerätään toistuvasti henkilöistä, joita yhdistää jokin tekijä tai kokemus. Voi myös olla eri otos eri vuosina mutta samasta kohortista. Ainakin osa kysymyksistä tai moduuleista on toistettu eri keruuaalloissa. Havaintoyksiköitä yhdistäviä tekijöitä voivat olla: syntymävuosi, sairaus (kliiniset tutkimukset), yhteinen ongelma (interventiotutkimukset), aloitusvuosi samassa koulutuspaikassa, työ, perhemuoto, osanotto johonkin tapahtumaan.</r:Content>
             <r:Content xml:lang="fr">Données collectées au fil du temps auprès d'une même cohorte de répondants. Les individus de la cohorte sont connectés d'une certaine façon ou ont partagés une expérience significative durant une période donnée. Dans certains cas, les échantillons peuvent différer entre les vagues mais sont tirés depuis la même cohorte. Exemples : année de naissance, pathologie (essais cliniques), problème commun (études d'intervention), éducation, emploi, composition familiale, participation à un événement.</r:Content>
@@ -284,7 +278,6 @@
          <l:CategoryName>Longitudinal.TrendRepeatedCrossSection</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Longitudinal: Trend/Repeated cross-section</r:Content>
-            <r:Content xml:lang="da">Longitudinal: Trend/Gentagne tværsnit</r:Content>
             <r:Content xml:lang="de">Längsschnitt: Trend/Wiederholter Querschnitt</r:Content>
             <r:Content xml:lang="fi">Pitkittäisaineisto: trendi/toistuva poikkileikkausaineisto</r:Content>
             <r:Content xml:lang="fr">Longitudinale : tendance / transversale répétée</r:Content>
@@ -299,7 +292,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Data collected from different samples or different groups of people from the same population at several points in time, using at least partly the same set of questions/variables. Conclusions are drawn for the population. Examples: European Social Survey (ESS), national longitudinal crime surveys.</r:Content>
-            <r:Content xml:lang="da">Data indsamlet fra forskellige stikprøver eller forskellige grupper af personer fra den samme population på flere tidspunkter, hvor der som minimum bruges delvist det samme sæt af spørgsmål/variable. Der drages konklusioner for populationen. Eksempler: European Social Survey (ESS), nationale longitudinale kriminalitetsundersøgelser.</r:Content>
             <r:Content xml:lang="de">Daten, die zu mehreren Zeitpunkten aus unterschiedlichen Stichproben oder Personengruppen einer gleichen Population erhoben wurden, wobei zumindest teilweise die gleichen Fragen oder Variablen verwendet wurden. Die Schlussfolgerungen beziehen sich auf die Gesamtpopulation. Beispiele: European Social Survey (ESS), nationale Längsschnittstudien über Kriminalität.</r:Content>
             <r:Content xml:lang="fi">Dataa on kerätty toistuvasti samasta populaatiosta mutta ei samalta vastaajajoukolta, käyttäen ainakin osittain samoja kysymyksiä/muuttujia. Johtopäätökset koskevat populaatiota. Esimerkiksi: asennetutkimukset, kansalliset toistetut rikosuhritutkimukset.</r:Content>
             <r:Content xml:lang="fr">Données collectées auprès de différents échantillons ou différents groupes de personnes issues de la même population à plusieurs moments, utilisant au moins partiellement le même ensemble de questions / variables. Des conclusions sont tirées pour la population. Exemples : Enquête sociale européenne (ESS), des enquêtes nationales longitudinales sur la criminalité.</r:Content>
@@ -323,7 +315,6 @@
          <l:CategoryName>Longitudinal.Panel</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Longitudinal: Panel</r:Content>
-            <r:Content xml:lang="da">Longitudinal: Panel</r:Content>
             <r:Content xml:lang="de">Längsschnitt: Panel</r:Content>
             <r:Content xml:lang="fi">Pitkittäisaineisto: paneeliaineisto</r:Content>
             <r:Content xml:lang="fr">Longitudinale : panel</r:Content>
@@ -338,7 +329,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Data collected over time from, or about, the same sample of respondents. Differs from cohort/event-based data in that the selection of respondents is not based on their being connected in some way or having shared some significant experience.</r:Content>
-            <r:Content xml:lang="da">Data indsamlet over tid fra, eller om, den samme stikprøve af respondenter. Adskiller sig fra kohorte/begivenhedsbaserede data ved, at udvælgelsen af respondenter ikke baseres på, at de er forbundet på nogen måde eller har delt en betydelig oplevelse.</r:Content>
             <r:Content xml:lang="de">Daten, die zu mehreren Zeitpunkten von einer gleichbleibenden Stichprobe erhoben wurden. Der Unterschied zu Kohorten - bzw. ereignisbezogenen Daten liegt darin, dass die Befragten keine Verbindung aufweisen oder bedeutende Erfahrungen teilen.</r:Content>
             <r:Content xml:lang="fi">Dataa on kerätty useamman kerran samoilta vastaajilta samoista aihealueista pidemmän aikavälin (vuosien) kuluessa, mikä mahdollistaa ajallisen vertailun. Poikkeaa kohortti/tapahtuma-aineistosta siten, että vastaajajoukkoa ei yhdistä mikään tietty tekijä tai kokemus.</r:Content>
             <r:Content xml:lang="fr">Données collectées au fil du temps auprès, ou à peu près, du même échantillon de répondants. Diffèrent des données de cohorte dans le fait que la sélection des répondants n'est pas basée sur le fait qu'ils sont liés d'une façon ou d'un d'autre ou qu'ils ont partagé une expérience significative.</r:Content>
@@ -362,7 +352,6 @@
          <l:CategoryName>Longitudinal.Panel.Continuous</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Longitudinal: Panel: Continuous</r:Content>
-            <r:Content xml:lang="da">Longitudinal: Panel: Kontinuerlig</r:Content>
             <r:Content xml:lang="de">Längsschnitt: Panel: Kontinuierlich</r:Content>
             <r:Content xml:lang="fi">Pitkittäisaineisto: jatkuva paneeliaineisto</r:Content>
             <r:Content xml:lang="fr">Longitudinale : panel : continu</r:Content>
@@ -377,7 +366,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Data collected from a panel of respondents on a regular basis.</r:Content>
-            <r:Content xml:lang="da">Data indsamlet fra et panel af respondenter på regelmæssig basis.</r:Content>
             <r:Content xml:lang="de">Daten, die von einer Gruppe von Befragten in regelmäßigen Abständen erhoben werden.</r:Content>
             <r:Content xml:lang="fi">Paneeliaineisto kerätään säännöllisin väliajoin.</r:Content>
             <r:Content xml:lang="fr">Données recueillies auprès d'un panel de répondant sur une base régulière.</r:Content>
@@ -401,7 +389,6 @@
          <l:CategoryName>Longitudinal.Panel.Interval</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Longitudinal: Panel: Interval</r:Content>
-            <r:Content xml:lang="da">Longitudinal: Panel: Interval</r:Content>
             <r:Content xml:lang="de">Längsschnitt: Panel: Intervalle</r:Content>
             <r:Content xml:lang="fi">Pitkittäisaineisto: ajoittainen paneeliaineisto</r:Content>
             <r:Content xml:lang="fr">Longitudinale : panel : intervalle</r:Content>
@@ -416,7 +403,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Data collected from a panel of respondents only when information is needed.</r:Content>
-            <r:Content xml:lang="da">Data indsamlet fra et panel af respondenter, kun når information er nødvendig.</r:Content>
             <r:Content xml:lang="de">Daten, die nur dann von einer Gruppe von Befragten erhoben werden, wenn Bedarf an Information besteht.</r:Content>
             <r:Content xml:lang="fi">Paneeliaineisto kerätään vain silloin, kun tietoa tarvitaan.</r:Content>
             <r:Content xml:lang="fr">Données collectées auprès d'un panel de répondants seulement lorsque des informations sont nécessaires.</r:Content>
@@ -440,7 +426,6 @@
          <l:CategoryName>TimeSeries</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Time series</r:Content>
-            <r:Content xml:lang="da">Tidsserier</r:Content>
             <r:Content xml:lang="de">Zeitreihen</r:Content>
             <r:Content xml:lang="fi">Aikasarja-aineisto</r:Content>
             <r:Content xml:lang="fr">Série temporelle</r:Content>
@@ -455,7 +440,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Data collected repeatedly over time to study change in observations. These are typically "objective" measurements of phenomena that can be observed externally, as opposed to attitudes/opinions or feelings. Examples may include economic/financial indicators, natural/meteorological phenomena, vital statistics, etc.</r:Content>
-            <r:Content xml:lang="da">Data indsamlet gentagne gange over tid for at studere ændringer i observationer. Disse er typisk ’objektive’ målinger af fænomener, der kan observeres udefra, i modsætning til holdninger/meninger eller følelser. Eksempler kan inkludere økonomiske/finansielle indikatorer, naturlige/meteorologiske fænomener, afgørende statistikker mm.</r:Content>
             <r:Content xml:lang="de">Daten, die in wiederholten Zeitabständen gesammelt wurden, um Veränderungen der Untersuchungseinheit zu untersuchen. Diese sind typischerweise 'objektive' Messungen von Phänomenen, die durch externe Beobachtung erhoben werden können, im Gegensatz zu Einstellungen/Meinungen oder Emotionen. Beispiele sind ökonomische/finanzielle Indikatoren, natürliche/meteorologische Phänomene, Bevölkerungsstatistik, etc.</r:Content>
             <r:Content xml:lang="fi">Dataa kerätty havaintoyksiköstä useilta eri ajanjaksoilta havainnossa tapahtuvan muutoksen tutkimiseksi. Yleensä viittaa 'objektiivisiin' mittauksiin ilmiöistä, joita voidaan havainnoida ulkoisesti eli ei asenteiden tai tuntemusten tutkimiseen. Esimerkiksi taloudelliset indikaattorit, luonnonilmiöt, väestönmuutostekijät (kuolemat, syntymät, sairastavuus, avioliitot ja -erot) yms.</r:Content>
             <r:Content xml:lang="fr">Données collectées à plusieurs reprises au fil du temps pour étudier les changements dans les observations. Celles-ci sont typiquement des mesures "objectives" de phénomènes qui peuvent être observé de l'extérieur, comme l'opposition attitudes / opinions ou sentiments. Les exemples peuvent inclure des indicateurs économiques / financiers, de phénomènes naturels / météorologiques, de statistiques de l'état civil, etc.</r:Content>
@@ -479,7 +463,6 @@
          <l:CategoryName>TimeSeries.Continuous</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Time series: Continuous</r:Content>
-            <r:Content xml:lang="da">Tidsserier: Kontinuerlig</r:Content>
             <r:Content xml:lang="de">Zeitreihen: Kontinuierlich</r:Content>
             <r:Content xml:lang="fi">Aikasarja-aineisto: jatkuva</r:Content>
             <r:Content xml:lang="fr">Série temporelle : continue</r:Content>
@@ -494,7 +477,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Measurements are taken at every instant in time. Examples: lie detectors, electrocardiograms, etc.</r:Content>
-            <r:Content xml:lang="da">Målinger foretages hvert øjeblik i tid. Eksempler: løgnedetektorer, elektrokardiogrammer (EKG) mm.</r:Content>
             <r:Content xml:lang="de">Die Messungen erfolgen kontinuierlich zu jedem Zeitpunkt. Beispiele: Lügendetektoren und Elektrokardiogramme, etc.</r:Content>
             <r:Content xml:lang="fi">Mittaus on havaintoperiodin aikana jatkuvaa, esim. valheenpaljastuskoneet, EKG (sydänkäyrä) jne.</r:Content>
             <r:Content xml:lang="fr">Les mesures sont prises à chaque instant dans le temps. Exemple : détecteurs de mensonges, électrocardiogrammes, etc.</r:Content>
@@ -518,7 +500,6 @@
          <l:CategoryName>TimeSeries.Discrete</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Time series: Discrete</r:Content>
-            <r:Content xml:lang="da">Tidsserier: Diskret</r:Content>
             <r:Content xml:lang="de">Zeitreihen: Diskret</r:Content>
             <r:Content xml:lang="fi">Aikasarja-aineisto: diskreetti</r:Content>
             <r:Content xml:lang="fr">Série temporelle : discrète</r:Content>
@@ -533,7 +514,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Measurements are taken at (usually regularly) spaced intervals. Examples: macroeconomics (weekly share prices, monthly profits, sales); meteorology (hourly temperature); measurements of individuals (blood pressure, weight, height); sociology (crime figures, employment figures), etc.</r:Content>
-            <r:Content xml:lang="da">Målinger foretages (normalt regelmæssigt) i tidsintervaller. Eksempler: makroøkonomi (ugentlige aktiekurser, månedlige fortjenester, salg); meteorologi (timetemperatur); målinger af individer (blodtryk, vægt, højde); sociologi (kriminalitetstal, beskæftigelsestal) mm.</r:Content>
             <r:Content xml:lang="de">Die Messungen werden in (meist regelmäßigen) Abständen durchgeführt. Beispiele: Makroökonomie (wöchentliche Aktienkurse, Monatsgewinne, Umsatz); Meteorologie (stündliche Temperatur); Körpermessungen (Blutdruck, Gewicht, Höhe) Soziologie (Verbrechen, Beschäftigungszahlen) usw.</r:Content>
             <r:Content xml:lang="fi">Havaintoperiodin aikana havaintoja mitataan erillisinä ajanhetkinä, usein tasaisin väliajoin. Esimerkiksi makrotaloustieteessä (kuukausittaiset myynnit, vuotuinen bruttokansantuote), meteorologiassa (järviveden lämpötila), sosiologiassa (vuosittaiset rikosluvut), ihmisiin kohdistuvissa mittauksissa (verenpaine, paino, pituus).</r:Content>
             <r:Content xml:lang="fr">Les mesures sont prises (habituellement régulièrement) à des intervalles espacés. Exemples : macroéconomie (cours hebdomadaires des actions ; bénéfices, ventes mensuels) ; météorologie (température horaire) ; mesures des individus (pression sanguine, poids, taille) ; sociologie (taux de criminalité, taux d'emploi), etc.</r:Content>
@@ -557,7 +537,6 @@
          <l:CategoryName>CrossSection</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Cross-section</r:Content>
-            <r:Content xml:lang="da">Tværsnit</r:Content>
             <r:Content xml:lang="de">Querschnitt</r:Content>
             <r:Content xml:lang="fi">Poikkileikkausaineisto</r:Content>
             <r:Content xml:lang="fr">Transversale</r:Content>
@@ -572,7 +551,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Data collected by observing subjects within the study period, without regard to changes over time. May include more than one collection event. Analysis of cross-sectional data often consists in comparing the differences and similarities among subjects.</r:Content>
-            <r:Content xml:lang="da">Data indsamlet ved observation af subjekter inden for undersøgelsesperioden uden hensyntagen til ændringer over tid. Kan inkludere mere end en indsamlingsbegivenhed. Analyse af tværsnitdata består ofte i sammenligning af forskellene og lighederne mellem subjekter.</r:Content>
             <r:Content xml:lang="de">Daten, die zu einem Zeitpunkt erhoben wurden, ohne bei den Untersuchungseinheiten Veränderungen über die Zeit zu berücksichtigen. Dabei kann die Erhebung auch mehrere 'Erhebungsereignisse' umfassen, z. B. an mehreren Tagen innerhalb der Feldzeit durchgeführt werden. Die Analyse der Querschnittsdaten besteht häufig in der Untersuchung von Unterschieden und Gemeinsamkeiten der Befragten.</r:Content>
             <r:Content xml:lang="fi">Dataa on kerätty vain tietyn tutkimusajankohdan sisällä. Useimmiten tehdään yksi aineistonkeruu mutta joissakin tapauksissa on saatettu kerätä dataa useammassa jaksossa saman tutkimusajankohdan sisällä. Aineiston avulla ei ole tarkoitus tutkia ajallista muutosta vaan esimerkiksi havaintoyksiköiden välisiä eroavaisuuksia tai samankaltaisuuksia tiettynä ajankohtana.</r:Content>
             <r:Content xml:lang="fr">Données collectées par observation de sujets pendant la période d'étude, sans prendre en compte les changements au fil du temps. Peut inclure plus d'une collection d'événements. L'analyse de données transversales consiste souvent à comparer les différences et les similitudes entre des sujets.</r:Content>
@@ -596,7 +574,6 @@
          <l:CategoryName>CrossSectionAdHocFollowUp</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Cross-section ad-hoc follow-up</r:Content>
-            <r:Content xml:lang="da">Tværsnit ad-hoc-opfølgning</r:Content>
             <r:Content xml:lang="de">Querschnitt: ad-hoc Nachuntersuchung</r:Content>
             <r:Content xml:lang="fi">Poikkileikkausaineisto: täydennys/seurantakeruu</r:Content>
             <r:Content xml:lang="fr">Transversale ponctuelle complémentaire</r:Content>
@@ -611,7 +588,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Data collected at one point in time to complete information collected in a previous cross-sectional study; the decision to collect follow-up data was not included in the original study design.</r:Content>
-            <r:Content xml:lang="da">Data indsamlet på et tidspunkt for at færdiggøre information indsamlet i en tidligere tværsnitundersøgelse; beslutningen om at indsamle opfølgningsdata var ikke inkluderet i det originale undersøgelsesdesign.</r:Content>
             <r:Content xml:lang="de">Daten, die zu einem Zeitpunkt erhoben wurden, um eine frühere Querschnittsstudie zu vervollständigen; die Entscheidung der Erhebung von Follow-Up-Daten war in der ursprünglichen Studie nicht vorgesehen.</r:Content>
             <r:Content xml:lang="fi">Aineistoa kerätään tietojen täydentämiseksi saman tutkimuksen sisällä tai seurantatutkimuksena. Täydennys- tai uusintakeruu ei ole sisältynyt alkuperäiseen tutkimussuunnitelmaan.</r:Content>
             <r:Content xml:lang="fr">Données collectées à un moment donné pour compléter des informations collectées dans une étude transversale précédente ; la décision de collecter ces données complémentaires n'étaient pas incluse dans la conception initiale de l'étude.</r:Content>
@@ -635,7 +611,6 @@
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>
-            <r:Content xml:lang="da">Andet</r:Content>
             <r:Content xml:lang="de">Andere</r:Content>
             <r:Content xml:lang="fi">Muu aikaulottuvuus</r:Content>
             <r:Content xml:lang="fr">Autre</r:Content>
@@ -650,7 +625,6 @@
          </r:Label>
          <r:Description>
             <r:Content xml:lang="en">Use if the time method is known, but not found in the list.</r:Content>
-            <r:Content xml:lang="da">Anvend, hvis tidsmetoden er kendt, men ikke findes på listen.</r:Content>
             <r:Content xml:lang="de">Verwenden Sie diesen Begriff, wenn die zeitliche Dimension des Erhebungsdesigns bekannt, aber nicht in der Liste vertreten ist.</r:Content>
             <r:Content xml:lang="fi">Käytä mikäli aineiston aikaulottuvuustyyppi on tiedossa, mutta ei sanastossa.</r:Content>
             <r:Content xml:lang="fr">Utilisez si la méthode temporelle est connue, mais pas présente dans la liste.</r:Content>

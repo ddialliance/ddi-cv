@@ -11,9 +11,6 @@
       <dcterms:title xml:lang="en">Summary Statistic Type</dcterms:title>
       <dcterms:description xml:lang="en">Specifies the type of summary statistic. Summary statistics are a single number representation of the characteristics of a set of values.</dcterms:description>
       <skos:prefLabel xml:lang="en">Summary Statistic Type</skos:prefLabel>
-      <dcterms:title xml:lang="da">Typen af sammenfattende statistik</dcterms:title>
-      <dcterms:description xml:lang="da">Specificerer typen af sammenfattende statistik. Sammenfattende statistik er en repr&#xe6;sentation af et s&#xe6;t af v&#xe6;rdiers karakteristika ved hj&#xe6;lp af et enkelt tal.</dcterms:description>
-      <skos:prefLabel xml:lang="da">Typen af sammenfattende statistik</skos:prefLabel>
       <dcterms:title xml:lang="fi">Tilastollisen tunnusluvun tyyppi</dcterms:title>
       <dcterms:description xml:lang="fi">Tilastolliset tunnusluvut kuvaavat tietyn arvojoukon, esimerkiksi otoksen havaintojen sis&#xe4;lt&#xe4;m&#xe4;&#xe4; informaatiota. Usein tunnusluvut ovat nimens&#xe4; mukaisesti yksitt&#xe4;isi&#xe4; lukuja.</dcterms:description>
       <skos:prefLabel xml:lang="fi">Tilastollisen tunnusluvun tyyppi</skos:prefLabel>
@@ -92,8 +89,6 @@
       <skos:notation xml:lang="en">ArithmeticMean</skos:notation>
       <skos:prefLabel xml:lang="en">Arithmetic mean</skos:prefLabel>
       <skos:definition xml:lang="en">Mathematical average of a set of values. The mean is calculated by adding up two or more values and dividing the total by their number. In social/political science, it is usually the sum of the measurements divided by the number of subjects, or cases.</skos:definition>
-      <skos:prefLabel xml:lang="da">Aritmetisk gennemsnit</skos:prefLabel>
-      <skos:definition xml:lang="da">Matematisk gennemsnit af et s&#xe6;t af v&#xe6;rdier. Gennemsnittet beregnes ved at sammenl&#xe6;gge to eller flere v&#xe6;rdier og dividere summen med antallet af v&#xe6;rdier. I samfundsvidenskab er det normalt summen af m&#xe5;lingerne divideret med antallet af subjekter eller cases.</skos:definition>
       <skos:prefLabel xml:lang="fi">Aritmeettinen keskiarvo</skos:prefLabel>
       <skos:definition xml:lang="fi">Arvojen matemaattinen keskiarvo. Keskiarvo lasketaan laskemalla kaksi tai useampi arvo yhteen ja jakamalla saatu summa arvojen m&#xe4;&#xe4;r&#xe4;ll&#xe4;. Yhteiskuntatieteiss&#xe4; keskiarvo on yleens&#xe4; mittaustulosten summa jaettuna vastaajien/tapausten m&#xe4;&#xe4;r&#xe4;ll&#xe4;.</skos:definition>
       <skos:prefLabel xml:lang="it">Media aritmetica</skos:prefLabel>
@@ -117,8 +112,6 @@
       <skos:notation xml:lang="en">GeometricMean</skos:notation>
       <skos:prefLabel xml:lang="en">Geometric mean</skos:prefLabel>
       <skos:definition xml:lang="en">Average value of all data if extracting the nth root of the product of all (n) values. Rarely used in social sciences.</skos:definition>
-      <skos:prefLabel xml:lang="da">Geometrisk gennemsnit</skos:prefLabel>
-      <skos:definition xml:lang="da">Gennemsnitsv&#xe6;rdien af alle data, hvis n&#x2019;te rod tages af produktet af alle (n) v&#xe6;rdier. Anvendes sj&#xe6;ldent i samfundsvidenskab.</skos:definition>
       <skos:prefLabel xml:lang="fi">Geometrinen keskiarvo</skos:prefLabel>
       <skos:definition xml:lang="fi">Keskiluku, jossa otetaan n. juuri kaikkien (n) arvojen tulosta. K&#xe4;ytet&#xe4;&#xe4;n harvoin yhteiskuntatieteiss&#xe4;.</skos:definition>
       <skos:prefLabel xml:lang="it">Media geometrica</skos:prefLabel>
@@ -142,8 +135,6 @@
       <skos:notation xml:lang="en">HarmonicMean</skos:notation>
       <skos:prefLabel xml:lang="en">Harmonic mean</skos:prefLabel>
       <skos:definition xml:lang="en">Average value of all data if calculating the reciprocal of the arithmetic mean of the reciprocal of values. Rarely used in social sciences.</skos:definition>
-      <skos:prefLabel xml:lang="da">Harmonisk gennemsnit</skos:prefLabel>
-      <skos:definition xml:lang="da">Gennemsnitlig v&#xe6;rdi af alle data ved beregning af den reciprokke af det aritmetiske gennemsnit af den reciprokke af v&#xe6;rdier. Anvendes sj&#xe6;ldent i samfundsvidenskab.</skos:definition>
       <skos:prefLabel xml:lang="fi">Harmoninen keskiarvo</skos:prefLabel>
       <skos:definition xml:lang="fi">Keskiluku, jossa lasketaan arvojen k&#xe4;&#xe4;nteislukujen aritmeettisen keskiarvon k&#xe4;&#xe4;nteisluku. K&#xe4;ytet&#xe4;&#xe4;n harvoin yhteiskuntatieteiss&#xe4;.</skos:definition>
       <skos:prefLabel xml:lang="it">Media armonica</skos:prefLabel>
@@ -167,8 +158,6 @@
       <skos:notation xml:lang="en">TrimmedMean</skos:notation>
       <skos:prefLabel xml:lang="en">Trimmed mean</skos:prefLabel>
       <skos:definition xml:lang="en">The (arithmetic) mean calculated after discarding given parts of observations at the high and low end (e.g., interquartile mean when the lowest 25% and the highest 25% are discarded, and the mean of the remaining values is calculated).</skos:definition>
-      <skos:prefLabel xml:lang="da">Trimmet gennemsnit</skos:prefLabel>
-      <skos:definition xml:lang="da">Det (aritmetiske) gennemsnit beregnet efter frasortering af givne observationer i den h&#xf8;je og den lave ende (fx interkvartil gennemsnit, n&#xe5;r de laveste 25 % og de h&#xf8;jeste 25 % er frasorteret, og gennemsnittet af de resterende v&#xe6;rdier beregnes).</skos:definition>
       <skos:prefLabel xml:lang="fi">Leikattu keskiarvo</skos:prefLabel>
       <skos:definition xml:lang="fi">(Aritmeettinen) keskiarvo, joka lasketaan sen j&#xe4;lkeen, kun tietty osa havaintoarvoista on j&#xe4;tetty pois (leikattu) (esim. kvartiiliv&#xe4;lin keskiarvo, jossa yl&#xe4;- ja alakvartiileille eli ylimp&#xe4;&#xe4;n ja alimpaan 25 %:iin asettuvat havaintoarvot j&#xe4;tet&#xe4;&#xe4;n pois ja j&#xe4;ljelle j&#xe4;&#xe4;vist&#xe4; arvoista lasketaan keskiarvo).</skos:definition>
       <skos:prefLabel xml:lang="it">Media troncata</skos:prefLabel>
@@ -192,8 +181,6 @@
       <skos:notation xml:lang="en">StandardErrorOfMean</skos:notation>
       <skos:prefLabel xml:lang="en">Standard error of the mean</skos:prefLabel>
       <skos:definition xml:lang="en">Provides an estimate of how much the sample mean differs from the actual mean of the population.</skos:definition>
-      <skos:prefLabel xml:lang="da">Standardfejl for gennemsnittet</skos:prefLabel>
-      <skos:definition xml:lang="da">Giver et estimate p&#xe5;, hvor meget stikpr&#xf8;vens gennemsnit afgiver fra populationens faktiske gennemsnit.</skos:definition>
       <skos:prefLabel xml:lang="fi">Keskiarvon keskivirhe</skos:prefLabel>
       <skos:definition xml:lang="fi">Antaa arvion siit&#xe4;, kuinka paljon otoksesta saatu keskiarvo poikkeaa v&#xe4;est&#xf6;n tosiasiallisesta keskiarvosta.</skos:definition>
       <skos:prefLabel xml:lang="it">Errore standard della media</skos:prefLabel>
@@ -217,8 +204,6 @@
       <skos:notation xml:lang="en">Mode</skos:notation>
       <skos:prefLabel xml:lang="en">Mode</skos:prefLabel>
       <skos:definition xml:lang="en">The most frequently observed data value (Statistics Canada).</skos:definition>
-      <skos:prefLabel xml:lang="da">Modus</skos:prefLabel>
-      <skos:definition xml:lang="da">Den hyppigst observerede datav&#xe6;rdi (Statistics Canada).</skos:definition>
       <skos:prefLabel xml:lang="fi">Moodi</skos:prefLabel>
       <skos:definition xml:lang="fi">Moodi ilmoittaa, mik&#xe4; on muuttujan jakauman huippukohta eli eniten tapauksia sis&#xe4;lt&#xe4;v&#xe4; luokka (Tilastokeskus).</skos:definition>
       <skos:prefLabel xml:lang="it">Moda</skos:prefLabel>
@@ -242,8 +227,6 @@
       <skos:notation xml:lang="en">Median</skos:notation>
       <skos:prefLabel xml:lang="en">Median</skos:prefLabel>
       <skos:definition xml:lang="en">The middle value in a set of values arranged in ascending order. Half of the values fall below the median, and half above it. If the set has an even number of values, the median will be the average of the two middle ones.</skos:definition>
-      <skos:prefLabel xml:lang="da">Median</skos:prefLabel>
-      <skos:definition xml:lang="da">Den midterste v&#xe6;rdi i et s&#xe6;t af v&#xe6;rdier arrangeret i stigende r&#xe6;kkef&#xf8;lge. Halvdelen af v&#xe6;rdier falder under medianen og halvdelen over den. Hvis s&#xe6;ttet har et lige antal af v&#xe6;rdier, vil medianen v&#xe6;re gennemsnittet af de to midterste.</skos:definition>
       <skos:prefLabel xml:lang="fi">Mediaani</skos:prefLabel>
       <skos:definition xml:lang="fi">Jakauman keskimm&#xe4;inen havaintoarvo, kun havainnot on j&#xe4;rjestetty suuruusj&#xe4;rjestykseen (Tilastokeskus). Puolet jakauman arvoista sijoittuu mediaanin alle ja puolet sen ylle.</skos:definition>
       <skos:prefLabel xml:lang="it">Mediana</skos:prefLabel>
@@ -267,8 +250,6 @@
       <skos:notation xml:lang="en">ValidCases</skos:notation>
       <skos:prefLabel xml:lang="en">Valid cases</skos:prefLabel>
       <skos:definition xml:lang="en">Cases with observations which are considered to be valid, i.e., providing substantial information and to be included for calculation.</skos:definition>
-      <skos:prefLabel xml:lang="da">Gyldige cases</skos:prefLabel>
-      <skos:definition xml:lang="da">Cases med observationer, der betragtes som gyldige, dvs. giver substantiel information og inkluderes i beregning.</skos:definition>
       <skos:prefLabel xml:lang="fi">Validit havainnot</skos:prefLabel>
       <skos:definition xml:lang="fi">Havainnot, joiden katsotaan olevan valideja tai &apos;oikeita&apos;, eli ne tarjoavat olennaista tietoa ja sis&#xe4;llytet&#xe4;&#xe4;n analyyseihin.</skos:definition>
       <skos:prefLabel xml:lang="it">Casi validi</skos:prefLabel>
@@ -292,8 +273,6 @@
       <skos:notation xml:lang="en">InvalidCases</skos:notation>
       <skos:prefLabel xml:lang="en">Invalid cases</skos:prefLabel>
       <skos:definition xml:lang="en">Cases which are considered/defined as &quot;missing&quot; (e.g., not ascertained, not applicable, etc.), usually excluded from calculation.</skos:definition>
-      <skos:prefLabel xml:lang="da">Ugyldige cases</skos:prefLabel>
-      <skos:definition xml:lang="da">Cases, der betragtes/defineres som &#x201c;manglende&#x201d; (fx. ikke fastsl&#xe5;et, ikke anvendelig etc.), som regel udeladt fra beregning.</skos:definition>
       <skos:prefLabel xml:lang="fi">Puuttuvat havainnot</skos:prefLabel>
       <skos:definition xml:lang="fi">Havainnot, joiden katsotaan olevan puuttuvia (esim. tyhj&#xe4;ksi j&#xe4;tetty vastaus, n&#xe4;pp&#xe4;ilyvirhe jne.) ja jotka yleens&#xe4; j&#xe4;tet&#xe4;&#xe4;n huomioimatta analyyseiss&#xe4;.</skos:definition>
       <skos:prefLabel xml:lang="it">Casi non validi</skos:prefLabel>
@@ -317,8 +296,6 @@
       <skos:notation xml:lang="en">Minimum</skos:notation>
       <skos:prefLabel xml:lang="en">Minimum</skos:prefLabel>
       <skos:definition xml:lang="en">The lowest valid value in a variable.</skos:definition>
-      <skos:prefLabel xml:lang="da">Minimum</skos:prefLabel>
-      <skos:definition xml:lang="da">Den lavest gyldige v&#xe6;rdi i en variabel.</skos:definition>
       <skos:prefLabel xml:lang="fi">Minimi</skos:prefLabel>
       <skos:definition xml:lang="fi">Alin validi muuttujan arvo.</skos:definition>
       <skos:prefLabel xml:lang="it">Minimo</skos:prefLabel>
@@ -342,8 +319,6 @@
       <skos:notation xml:lang="en">Maximum</skos:notation>
       <skos:prefLabel xml:lang="en">Maximum</skos:prefLabel>
       <skos:definition xml:lang="en">The highest valid value in a variable.</skos:definition>
-      <skos:prefLabel xml:lang="da">Maksimum</skos:prefLabel>
-      <skos:definition xml:lang="da">Den h&#xf8;jest gyldige v&#xe6;rdi i en variabel.</skos:definition>
       <skos:prefLabel xml:lang="fi">Maksimi</skos:prefLabel>
       <skos:definition xml:lang="fi">Ylin validi muuttujan arvo.</skos:definition>
       <skos:prefLabel xml:lang="it">Massimo</skos:prefLabel>
@@ -367,8 +342,6 @@
       <skos:notation xml:lang="en">Range</skos:notation>
       <skos:prefLabel xml:lang="en">Range</skos:prefLabel>
       <skos:definition xml:lang="en">The range of valid values, i.e., all values that fall between the lowest and highest valid values.</skos:definition>
-      <skos:prefLabel xml:lang="da">Variationsbredde</skos:prefLabel>
-      <skos:definition xml:lang="da">Afstanden mellem gyldige v&#xe6;rdier, dvs., alle v&#xe6;rdier, der falder mellem de laveste og h&#xf8;jeste gyldige v&#xe6;rdier.</skos:definition>
       <skos:prefLabel xml:lang="fi">Vaihteluv&#xe4;li</skos:prefLabel>
       <skos:definition xml:lang="fi">Validien arvojen vaihteluv&#xe4;li, eli alimman ja ylimm&#xe4;n arvon v&#xe4;liin asettuvat arvot, ts. muuttujan suurimman ja pienimm&#xe4;n arvon v&#xe4;limatka.</skos:definition>
       <skos:prefLabel xml:lang="it">Intervallo</skos:prefLabel>
@@ -392,8 +365,6 @@
       <skos:notation xml:lang="en">Sum</skos:notation>
       <skos:prefLabel xml:lang="en">Sum</skos:prefLabel>
       <skos:definition xml:lang="en">The sum or total of the values, across all valid cases.</skos:definition>
-      <skos:prefLabel xml:lang="da">Sum</skos:prefLabel>
-      <skos:definition xml:lang="da">Summen af v&#xe6;rdierne p&#xe5; tv&#xe6;rs af alle gyldige cases.</skos:definition>
       <skos:prefLabel xml:lang="fi">Summa</skos:prefLabel>
       <skos:definition xml:lang="fi">Kaikkien validien havaintojen arvojen summa.</skos:definition>
       <skos:prefLabel xml:lang="it">Somma</skos:prefLabel>
@@ -417,8 +388,6 @@
       <skos:notation xml:lang="en">Variance</skos:notation>
       <skos:prefLabel xml:lang="en">Variance</skos:prefLabel>
       <skos:definition xml:lang="en">The variance is the mean square deviation of the variable around the average value. It reflects the dispersion of a frequency distribution around its mean (OECD Glossary of Statistics).</skos:definition>
-      <skos:prefLabel xml:lang="da">Varians</skos:prefLabel>
-      <skos:definition xml:lang="da">Variansen er den gennemsnitlige kvadratafvigelse for variable omkring gennemsnitsv&#xe6;rdien. Den afspejler frekvensfordelingens spredning omkring dens gennemsnit (OECD Glossary of Statistics)</skos:definition>
       <skos:prefLabel xml:lang="fi">Varianssi</skos:prefLabel>
       <skos:definition xml:lang="fi">Varianssi ilmoittaa miten suuria keskim&#xe4;&#xe4;rin ovat neli&#xf6;idyt poikkeamat keskiarvosta (Tilastokeskus). Varianssi kuvaa jakauman hajontaa odotusarvon ymp&#xe4;rill&#xe4;.</skos:definition>
       <skos:prefLabel xml:lang="it">Varianza</skos:prefLabel>
@@ -442,8 +411,6 @@
       <skos:notation xml:lang="en">StandardDeviation</skos:notation>
       <skos:prefLabel xml:lang="en">Standard deviation</skos:prefLabel>
       <skos:definition xml:lang="en">Indicates the degree to which individuals within the sample differ from the sample mean.</skos:definition>
-      <skos:prefLabel xml:lang="da">Standardafvigelse</skos:prefLabel>
-      <skos:definition xml:lang="da">Angiver den grad, hvormed individerne i stikpr&#xf8;ven afviger fra stikpr&#xf8;vens gennemsnit.</skos:definition>
       <skos:prefLabel xml:lang="fi">Keskihajonta</skos:prefLabel>
       <skos:definition xml:lang="fi">Luku, joka mittaa miss&#xe4; m&#xe4;&#xe4;rin otoksen yksik&#xf6;iden arvot eroavat koko otoksen keskiarvosta.</skos:definition>
       <skos:prefLabel xml:lang="it">Deviazione standard</skos:prefLabel>
@@ -467,8 +434,6 @@
       <skos:notation xml:lang="en">CoefficientOfVariation</skos:notation>
       <skos:prefLabel xml:lang="en">Coefficient of variation</skos:prefLabel>
       <skos:definition xml:lang="en">Standard deviation divided by the mean.</skos:definition>
-      <skos:prefLabel xml:lang="da">Variationskoefficient</skos:prefLabel>
-      <skos:definition xml:lang="da">Standardafvigelse divideret med gennemsnittet.</skos:definition>
       <skos:prefLabel xml:lang="fi">Variaatiokerroin</skos:prefLabel>
       <skos:definition xml:lang="fi">Keskihajonta jaettuna keskiarvolla.</skos:definition>
       <skos:prefLabel xml:lang="it">Coefficiente di variazione</skos:prefLabel>
@@ -492,8 +457,6 @@
       <skos:notation xml:lang="en">AverageAbsoluteDeviation</skos:notation>
       <skos:prefLabel xml:lang="en">Average absolute deviation</skos:prefLabel>
       <skos:definition xml:lang="en">The average of the absolute differences between each value and the overall mean. Measure of statistical dispersion around the mean, alternative to Standard Deviation.</skos:definition>
-      <skos:prefLabel xml:lang="da">Gennemsnitlig numerisk afvigelse</skos:prefLabel>
-      <skos:definition xml:lang="da">Gennemsnittet af de numeriske forskelle mellem hver v&#xe6;rdi og det samlede gennemsnit. M&#xe5;l for statistisk spredning omkring gennemsnittet, alternativt til standardafvigelse.</skos:definition>
       <skos:prefLabel xml:lang="fi">Absoluuttinen keskipoikkeama</skos:prefLabel>
       <skos:definition xml:lang="fi">Kunkin yksitt&#xe4;isen arvon ja kaikkien arvojen keskiarvon v&#xe4;listen poikkeamien keskiarvo. Hajontaluku, joka kuvaa arvojen vaihtelua keskiarvon ymp&#xe4;rill&#xe4;. Vaihtoehto keskihajonnalle.</skos:definition>
       <skos:prefLabel xml:lang="it">Deviazione media assoluta</skos:prefLabel>
@@ -517,8 +480,6 @@
       <skos:notation xml:lang="en">MedianAbsoluteDeviation</skos:notation>
       <skos:prefLabel xml:lang="en">Median absolute deviation</skos:prefLabel>
       <skos:definition xml:lang="en">The median absolute deviation from the median. Measure of statistical dispersion around the median.</skos:definition>
-      <skos:prefLabel xml:lang="da">Median numerisk afvigelse</skos:prefLabel>
-      <skos:definition xml:lang="da">Medianens numeriske afvigelse fra median. M&#xe5;ling af statistisk spredning omkring medianen.</skos:definition>
       <skos:prefLabel xml:lang="fi">Mediaanin absoluuttinen keskipoikkeama</skos:prefLabel>
       <skos:definition xml:lang="fi">Keskipoikkeama mediaanista. Hajontaluku, joka kuvaa arvojen vaihtelua mediaanin ymp&#xe4;rill&#xe4;.</skos:definition>
       <skos:prefLabel xml:lang="it">Deviazione mediana assoluta</skos:prefLabel>
@@ -542,8 +503,6 @@
       <skos:notation xml:lang="en">FirstQuartile</skos:notation>
       <skos:prefLabel xml:lang="en">First quartile</skos:prefLabel>
       <skos:definition xml:lang="en">The first of three values which separate the total frequency of a distribution into four equal parts.</skos:definition>
-      <skos:prefLabel xml:lang="da">F&#xf8;rste kvartil</skos:prefLabel>
-      <skos:definition xml:lang="da">Den f&#xf8;rste af tre v&#xe6;rdier, der adskiller den samlede frekvensfordeling i fire lige dele.</skos:definition>
       <skos:prefLabel xml:lang="fi">Ensimm&#xe4;inen kvartiili</skos:prefLabel>
       <skos:definition xml:lang="fi">Alakvartiili. Ensimm&#xe4;inen kolmesta arvosta, jotka jakavat jakauman nelj&#xe4;&#xe4;n yht&#xe4; suureen osaan. Jakauman arvoista 25 % on siis pienempi&#xe4; tai yht&#xe4; suuria kuin ensimm&#xe4;inen kvartiili.</skos:definition>
       <skos:prefLabel xml:lang="it">Primo quartile</skos:prefLabel>
@@ -567,8 +526,6 @@
       <skos:notation xml:lang="en">SecondQuartile</skos:notation>
       <skos:prefLabel xml:lang="en">Second quartile</skos:prefLabel>
       <skos:definition xml:lang="en">The second of three values which separate the total frequency of a distribution into four equal parts (= median).</skos:definition>
-      <skos:prefLabel xml:lang="da">Anden kvartil</skos:prefLabel>
-      <skos:definition xml:lang="da">Den anden af tre v&#xe6;rdier, der adskiller den samlede frekvensfordeling i fire lige dele (=median).</skos:definition>
       <skos:prefLabel xml:lang="fi">Toinen kvartiili</skos:prefLabel>
       <skos:definition xml:lang="fi">Toinen kvartiili eli mediaani. Toinen kolmesta arvosta, jotka jakavat jakauman nelj&#xe4;&#xe4;n yht&#xe4; suureen osaan.</skos:definition>
       <skos:prefLabel xml:lang="it">Secondo quartile</skos:prefLabel>
@@ -592,8 +549,6 @@
       <skos:notation xml:lang="en">ThirdQuartile</skos:notation>
       <skos:prefLabel xml:lang="en">Third quartile</skos:prefLabel>
       <skos:definition xml:lang="en">The third of three values which separate the total frequency of a distribution into four equal parts.</skos:definition>
-      <skos:prefLabel xml:lang="da">Tredje kvartil</skos:prefLabel>
-      <skos:definition xml:lang="da">Den tredje af tre v&#xe6;rdier, der adskiller den samlede frekvensfordeling i fire lige store dele.</skos:definition>
       <skos:prefLabel xml:lang="fi">Kolmas kvartiili</skos:prefLabel>
       <skos:definition xml:lang="fi">Yl&#xe4;kvartiili. Kolmas kolmesta arvosta, jotka jakavat jakauman nelj&#xe4;&#xe4;n yht&#xe4; suureen osaan.</skos:definition>
       <skos:prefLabel xml:lang="it">Terzo quartile</skos:prefLabel>
@@ -617,8 +572,6 @@
       <skos:notation xml:lang="en">InterquartileRange</skos:notation>
       <skos:prefLabel xml:lang="en">Interquartile range</skos:prefLabel>
       <skos:definition xml:lang="en">The range between the first and third quartile values.</skos:definition>
-      <skos:prefLabel xml:lang="da">Afstanden mellem 1. og 3. kvartil</skos:prefLabel>
-      <skos:definition xml:lang="da">Afstanden mellem 1. og 3. kvartils v&#xe6;rdier.</skos:definition>
       <skos:prefLabel xml:lang="fi">Kvartiiliv&#xe4;li</skos:prefLabel>
       <skos:definition xml:lang="fi">V&#xe4;li alakvartiilista (ensimm&#xe4;inen kvartiili) yl&#xe4;kvartiiliin (kolmas kvartiili).</skos:definition>
       <skos:prefLabel xml:lang="it">Differenza interquartile</skos:prefLabel>
@@ -642,8 +595,6 @@
       <skos:notation xml:lang="en">FirstQuintile</skos:notation>
       <skos:prefLabel xml:lang="en">First quintile</skos:prefLabel>
       <skos:definition xml:lang="en">The first of four values which separate the total frequency of a distribution into five equal parts.</skos:definition>
-      <skos:prefLabel xml:lang="da">F&#xf8;rste kvintil</skos:prefLabel>
-      <skos:definition xml:lang="da">Den f&#xf8;rste af fire v&#xe6;rdier, der adskiller den samlede frekvensfordeling i fem lige dele.</skos:definition>
       <skos:prefLabel xml:lang="fi">Ensimm&#xe4;inen kvintiili</skos:prefLabel>
       <skos:definition xml:lang="fi">Ensimm&#xe4;inen nelj&#xe4;st&#xe4; arvosta, jotka jakavat jakauman viiteen yht&#xe4; suureen osaan. Jakauman arvoista 20 % on siis pienempi&#xe4; tai yht&#xe4; suuria kuin ensmm&#xe4;inen kvintiili.</skos:definition>
       <skos:prefLabel xml:lang="it">Primo quintile</skos:prefLabel>
@@ -667,8 +618,6 @@
       <skos:notation xml:lang="en">SecondQuintile</skos:notation>
       <skos:prefLabel xml:lang="en">Second quintile</skos:prefLabel>
       <skos:definition xml:lang="en">The second of four values which separate the total frequency of a distribution into five equal parts.</skos:definition>
-      <skos:prefLabel xml:lang="da">Anden kvintil</skos:prefLabel>
-      <skos:definition xml:lang="da">Den anden af fire v&#xe6;rdier, der adskiller den samlede frekvensfordeling i fem lige dele.</skos:definition>
       <skos:prefLabel xml:lang="fi">Toinen kvintiili</skos:prefLabel>
       <skos:definition xml:lang="fi">Toinen nelj&#xe4;st&#xe4; arvosta, jotka jakavat jakauman viiteen yht&#xe4; suureen osaan.</skos:definition>
       <skos:prefLabel xml:lang="it">Secondo quintile</skos:prefLabel>
@@ -692,8 +641,6 @@
       <skos:notation xml:lang="en">ThirdQuintile</skos:notation>
       <skos:prefLabel xml:lang="en">Third quintile</skos:prefLabel>
       <skos:definition xml:lang="en">The third of four values which separate the total frequency of a distribution into five equal parts.</skos:definition>
-      <skos:prefLabel xml:lang="da">Tredje kvintil</skos:prefLabel>
-      <skos:definition xml:lang="da">Den tredje af fire v&#xe6;rdier, der adskiller den samlede frekvensfordeling i fem lige dele.</skos:definition>
       <skos:prefLabel xml:lang="fi">Kolmas kvintiili</skos:prefLabel>
       <skos:definition xml:lang="fi">Kolmas nelj&#xe4;st&#xe4; arvosta, jotka jakavat jakauman viiteen yht&#xe4; suureen osaan.</skos:definition>
       <skos:prefLabel xml:lang="it">Terzo quintile</skos:prefLabel>
@@ -717,8 +664,6 @@
       <skos:notation xml:lang="en">FourthQuintile</skos:notation>
       <skos:prefLabel xml:lang="en">Fourth quintile</skos:prefLabel>
       <skos:definition xml:lang="en">The fourth of four values which separate the total frequency of a distribution into five equal parts.</skos:definition>
-      <skos:prefLabel xml:lang="da">Fjerde kvintil</skos:prefLabel>
-      <skos:definition xml:lang="da">Den fjerde af fire v&#xe6;rdier, der adskiller den samlede frekvensfordeling i fem lige dele.</skos:definition>
       <skos:prefLabel xml:lang="fi">Nelj&#xe4;s kvintiili</skos:prefLabel>
       <skos:definition xml:lang="fi">Nelj&#xe4;s nelj&#xe4;st&#xe4; arvosta, jotka jakavat jakauman viiteen yht&#xe4; suureen osaan.</skos:definition>
       <skos:prefLabel xml:lang="it">Quarto quintile</skos:prefLabel>
@@ -742,8 +687,6 @@
       <skos:notation xml:lang="en">InterquintileRange</skos:notation>
       <skos:prefLabel xml:lang="en">Interquintile range</skos:prefLabel>
       <skos:definition xml:lang="en">The range between the first and fourth quintile values.</skos:definition>
-      <skos:prefLabel xml:lang="da">Afstanden mellem 1. og 4. kvintil</skos:prefLabel>
-      <skos:definition xml:lang="da">Afstanden mellem 1. og 4. kvintils v&#xe6;rdier.</skos:definition>
       <skos:prefLabel xml:lang="fi">Kvintiiliv&#xe4;li</skos:prefLabel>
       <skos:definition xml:lang="fi">V&#xe4;li ensimm&#xe4;isest&#xe4; kvintiilist&#xe4; nelj&#xe4;nteen kvintiiliin.</skos:definition>
       <skos:prefLabel xml:lang="it">Ampiezza interquintile</skos:prefLabel>
@@ -767,8 +710,6 @@
       <skos:notation xml:lang="en">FirstDecile</skos:notation>
       <skos:prefLabel xml:lang="en">First decile</skos:prefLabel>
       <skos:definition xml:lang="en">The first of nine values which separate the total frequency of a distribution into ten equal parts.</skos:definition>
-      <skos:prefLabel xml:lang="da">F&#xf8;rste decil</skos:prefLabel>
-      <skos:definition xml:lang="da">Den f&#xf8;rste af ni v&#xe6;rdier, der adskiller den samlede frekvensfordeling i ti lige dele.</skos:definition>
       <skos:prefLabel xml:lang="fi">Ensimm&#xe4;inen desiili</skos:prefLabel>
       <skos:definition xml:lang="fi">Ensimm&#xe4;inen yhdeks&#xe4;st&#xe4; arvosta, jotka jakavat jakauman kymmeneen yht&#xe4; suureen osaan. Jakauman arvoista 10 % on siis pienempi&#xe4; tai yht&#xe4; suuria kuin ensimm&#xe4;inen desiili.</skos:definition>
       <skos:prefLabel xml:lang="it">Primo decile</skos:prefLabel>
@@ -792,8 +733,6 @@
       <skos:notation xml:lang="en">SecondDecile</skos:notation>
       <skos:prefLabel xml:lang="en">Second decile</skos:prefLabel>
       <skos:definition xml:lang="en">The second of nine values which separate the total frequency of a distribution into ten equal parts.</skos:definition>
-      <skos:prefLabel xml:lang="da">Anden decil</skos:prefLabel>
-      <skos:definition xml:lang="da">Den anden af ni v&#xe6;rdier, der adskiller den samlede frekvensfordeling i ti lige dele.</skos:definition>
       <skos:prefLabel xml:lang="fi">Toinen desiili</skos:prefLabel>
       <skos:definition xml:lang="fi">Toinen yhdeks&#xe4;st&#xe4; arvosta, jotka jakavat jakauman kymmeneen yht&#xe4; suureen osaan.</skos:definition>
       <skos:prefLabel xml:lang="it">Secondo decile</skos:prefLabel>
@@ -817,8 +756,6 @@
       <skos:notation xml:lang="en">ThirdDecile</skos:notation>
       <skos:prefLabel xml:lang="en">Third decile</skos:prefLabel>
       <skos:definition xml:lang="en">The third of nine values which separate the total frequency of a distribution into ten equal parts.</skos:definition>
-      <skos:prefLabel xml:lang="da">Tredje decil</skos:prefLabel>
-      <skos:definition xml:lang="da">Den tredje af ni v&#xe6;rdier, der adskiller den samlede frekvensfordeling i ti lige dele.</skos:definition>
       <skos:prefLabel xml:lang="fi">Kolmas desiili</skos:prefLabel>
       <skos:definition xml:lang="fi">Kolmas yhdeks&#xe4;st&#xe4; arvosta, jotka jakavat jakauman kymmeneen yht&#xe4; suureen osaan.</skos:definition>
       <skos:prefLabel xml:lang="it">Terzo decile</skos:prefLabel>
@@ -842,8 +779,6 @@
       <skos:notation xml:lang="en">FourthDecile</skos:notation>
       <skos:prefLabel xml:lang="en">Fourth decile</skos:prefLabel>
       <skos:definition xml:lang="en">The fourth of nine values which separate the total frequency of a distribution into ten equal parts.</skos:definition>
-      <skos:prefLabel xml:lang="da">Fjerde decil</skos:prefLabel>
-      <skos:definition xml:lang="da">Den fjerde af ni v&#xe6;rdier, der adskiller den samlede frekvensfordeling i ti lige dele.</skos:definition>
       <skos:prefLabel xml:lang="fi">Nelj&#xe4;s desiili</skos:prefLabel>
       <skos:definition xml:lang="fi">Nelj&#xe4;s yhdeks&#xe4;st&#xe4; arvosta, jotka jakavat jakauman kymmeneen yht&#xe4; suureen osaan.</skos:definition>
       <skos:prefLabel xml:lang="it">Quarto decile</skos:prefLabel>
@@ -867,8 +802,6 @@
       <skos:notation xml:lang="en">FifthDecile</skos:notation>
       <skos:prefLabel xml:lang="en">Fifth decile</skos:prefLabel>
       <skos:definition xml:lang="en">The fifth of nine values which separate the total frequency of a distribution into ten equal parts (= median).</skos:definition>
-      <skos:prefLabel xml:lang="da">Femte decil</skos:prefLabel>
-      <skos:definition xml:lang="da">Den femte af ni v&#xe6;rdier, der adskiller den samlede frekvensfordeling i ti lige dele (=median).</skos:definition>
       <skos:prefLabel xml:lang="fi">Viides desiili</skos:prefLabel>
       <skos:definition xml:lang="fi">Viides yhdeks&#xe4;st&#xe4; arvosta, jotka jakavat jakauman kymmeneen yht&#xe4; suureen osaan.</skos:definition>
       <skos:prefLabel xml:lang="it">Quinto decile</skos:prefLabel>
@@ -892,8 +825,6 @@
       <skos:notation xml:lang="en">SixthDecile</skos:notation>
       <skos:prefLabel xml:lang="en">Sixth decile</skos:prefLabel>
       <skos:definition xml:lang="en">The sixth of nine values which separate the total frequency of a distribution into ten equal parts.</skos:definition>
-      <skos:prefLabel xml:lang="da">Sjette decil</skos:prefLabel>
-      <skos:definition xml:lang="da">Den sjette af ni v&#xe6;rdier, der adskiller den samlede frekvensfordeling i ti lige dele.</skos:definition>
       <skos:prefLabel xml:lang="fi">Kuudes desiili</skos:prefLabel>
       <skos:definition xml:lang="fi">Kuudes yhdeks&#xe4;st&#xe4; arvosta, jotka jakavat jakauman kymmeneen yht&#xe4; suureen osaan.</skos:definition>
       <skos:prefLabel xml:lang="it">Sesto decile</skos:prefLabel>
@@ -917,8 +848,6 @@
       <skos:notation xml:lang="en">SeventhDecile</skos:notation>
       <skos:prefLabel xml:lang="en">Seventh decile</skos:prefLabel>
       <skos:definition xml:lang="en">The seventh of nine values which separate the total frequency of a distribution into ten equal parts.</skos:definition>
-      <skos:prefLabel xml:lang="da">Syvende decil</skos:prefLabel>
-      <skos:definition xml:lang="da">Den syvende af ni v&#xe6;rdier, der adskiller den samlede frekvensfordeling i ti lige dele.</skos:definition>
       <skos:prefLabel xml:lang="fi">Seitsem&#xe4;s desiili</skos:prefLabel>
       <skos:definition xml:lang="fi">Seitsem&#xe4;s yhdeks&#xe4;st&#xe4; arvosta, jotka jakavat jakauman kymmeneen yht&#xe4; suureen osaan.</skos:definition>
       <skos:prefLabel xml:lang="it">Settimo decile</skos:prefLabel>
@@ -942,8 +871,6 @@
       <skos:notation xml:lang="en">EighthDecile</skos:notation>
       <skos:prefLabel xml:lang="en">Eighth decile</skos:prefLabel>
       <skos:definition xml:lang="en">The eighth of nine values which separate the total frequency of a distribution into ten equal parts.</skos:definition>
-      <skos:prefLabel xml:lang="da">Ottende decil</skos:prefLabel>
-      <skos:definition xml:lang="da">Den ottende af ni v&#xe6;rdier, der adskiller den samlede frekvensfordeling i ti lige dele.</skos:definition>
       <skos:prefLabel xml:lang="fi">Kahdeksas desiili</skos:prefLabel>
       <skos:definition xml:lang="fi">Kahdeksas yhdeks&#xe4;st&#xe4; arvosta, jotka jakavat jakauman kymmeneen yht&#xe4; suureen osaan.</skos:definition>
       <skos:prefLabel xml:lang="it">Ottavo decile</skos:prefLabel>
@@ -967,8 +894,6 @@
       <skos:notation xml:lang="en">NinthDecile</skos:notation>
       <skos:prefLabel xml:lang="en">Ninth decile</skos:prefLabel>
       <skos:definition xml:lang="en">The ninth of nine values which separate the total frequency of a distribution into ten equal parts.</skos:definition>
-      <skos:prefLabel xml:lang="da">Niende decil</skos:prefLabel>
-      <skos:definition xml:lang="da">Den niende af ni v&#xe6;rdier, der adskiller den samlede frekvensfordeling i ti lige dele.</skos:definition>
       <skos:prefLabel xml:lang="fi">Yhdeks&#xe4;s desiili</skos:prefLabel>
       <skos:definition xml:lang="fi">Yhdeks&#xe4;s yhdeks&#xe4;st&#xe4; arvosta, jotka jakavat jakauman kymmeneen yht&#xe4; suureen osaan.</skos:definition>
       <skos:prefLabel xml:lang="it">Nono decile</skos:prefLabel>
@@ -992,8 +917,6 @@
       <skos:notation xml:lang="en">InterdecileRange</skos:notation>
       <skos:prefLabel xml:lang="en">Interdecile range</skos:prefLabel>
       <skos:definition xml:lang="en">The range between the first and ninth decile values.</skos:definition>
-      <skos:prefLabel xml:lang="da">Afstanden mellem 1. og 9. decil</skos:prefLabel>
-      <skos:definition xml:lang="da">Afstanden mellem 1. og 9. decilers v&#xe6;rdier.</skos:definition>
       <skos:prefLabel xml:lang="fi">Desiiliv&#xe4;li</skos:prefLabel>
       <skos:definition xml:lang="fi">V&#xe4;li ensimm&#xe4;isest&#xe4; desiilist&#xe4; yhdeks&#xe4;nteen desiiliin.</skos:definition>
       <skos:prefLabel xml:lang="it">Ampiezza interdecile</skos:prefLabel>
@@ -1017,8 +940,6 @@
       <skos:notation xml:lang="en">OtherPercentile</skos:notation>
       <skos:prefLabel xml:lang="en">Other percentile</skos:prefLabel>
       <skos:definition xml:lang="en">A percentile not covered by any of the other percentile terms.</skos:definition>
-      <skos:prefLabel xml:lang="da">Andre typer af percentiler</skos:prefLabel>
-      <skos:definition xml:lang="da">Et percentil, der ikke er d&#xe6;kket af nogen af de andre percentilbetingelser.</skos:definition>
       <skos:prefLabel xml:lang="fi">Muu persentiili</skos:prefLabel>
       <skos:definition xml:lang="fi">Persentiili, joka ei sovi muihin fraktiilitermeihin.</skos:definition>
       <skos:prefLabel xml:lang="it">Altri percentili</skos:prefLabel>
@@ -1042,8 +963,6 @@
       <skos:notation xml:lang="en">Beta1</skos:notation>
       <skos:prefLabel xml:lang="en">Skewness</skos:prefLabel>
       <skos:definition xml:lang="en">A measure for the asymmetry of a probability distribution of a variable.</skos:definition>
-      <skos:prefLabel xml:lang="da">Sk&#xe6;vhed</skos:prefLabel>
-      <skos:definition xml:lang="da">Et m&#xe5;l for asymmetri af en variabels sandsynlighedsfordeling.</skos:definition>
       <skos:prefLabel xml:lang="fi">Vinous</skos:prefLabel>
       <skos:definition xml:lang="fi">Muuttujan todenn&#xe4;k&#xf6;isyysjakauman ep&#xe4;symmetrisyytt&#xe4; kuvaava k&#xe4;site.</skos:definition>
       <skos:prefLabel xml:lang="it">Indice di asimmetria</skos:prefLabel>
@@ -1067,8 +986,6 @@
       <skos:notation xml:lang="en">Beta2</skos:notation>
       <skos:prefLabel xml:lang="en">Kurtosis</skos:prefLabel>
       <skos:definition xml:lang="en">A measure for the &quot;peakedness&quot; of a probability distribution of a variable.</skos:definition>
-      <skos:prefLabel xml:lang="da">Kurtosis</skos:prefLabel>
-      <skos:definition xml:lang="da">Et m&#xe5;l for &#x201c;spidsheden&#x201d; af en variabels sandsynlighedsfordeling.</skos:definition>
       <skos:prefLabel xml:lang="fi">Huipukkuus</skos:prefLabel>
       <skos:definition xml:lang="fi">Muuttujan todenn&#xe4;k&#xf6;isyysjakauman huipukkuutta kuvaava k&#xe4;site.</skos:definition>
       <skos:prefLabel xml:lang="it">Curtosi</skos:prefLabel>
@@ -1092,8 +1009,6 @@
       <skos:notation xml:lang="en">ShapiroWilk</skos:notation>
       <skos:prefLabel xml:lang="en">Shapiro-Wilk</skos:prefLabel>
       <skos:definition xml:lang="en">Normality test statistics.</skos:definition>
-      <skos:prefLabel xml:lang="da">Shapiro-Wilk- test</skos:prefLabel>
-      <skos:definition xml:lang="da">Statistisk normalitetstest.</skos:definition>
       <skos:prefLabel xml:lang="fi">Shapiron&#x2013;Wilkin testi</skos:prefLabel>
       <skos:definition xml:lang="fi">Er&#xe4;s jakauman normaaliuden testeist&#xe4;.</skos:definition>
       <skos:prefLabel xml:lang="it">Test di Shapiro-Wilk</skos:prefLabel>
@@ -1117,8 +1032,6 @@
       <skos:notation xml:lang="en">PercentageOfValidCases</skos:notation>
       <skos:prefLabel xml:lang="en">Percentage of valid cases</skos:prefLabel>
       <skos:definition xml:lang="en">Indicates the percentage of valid cases of the total number of cases.</skos:definition>
-      <skos:prefLabel xml:lang="da">Andelen af valide cases</skos:prefLabel>
-      <skos:definition xml:lang="da">Indikerer procentdelen af gyldige cases i det samlede antal af cases.</skos:definition>
       <skos:prefLabel xml:lang="fi">Validien havaintoyksik&#xf6;iden prosentuaalinen osuus</skos:prefLabel>
       <skos:definition xml:lang="fi">Ilmaisee validien havaintoyksik&#xf6;iden prosenttiosuuden kaikista havaintoyksik&#xf6;ist&#xe4;.</skos:definition>
       <skos:prefLabel xml:lang="it">Percentuale di casi validi</skos:prefLabel>
@@ -1142,8 +1055,6 @@
       <skos:notation xml:lang="en">PercentageOfInvalidCases</skos:notation>
       <skos:prefLabel xml:lang="en">Percentage of invalid cases</skos:prefLabel>
       <skos:definition xml:lang="en">Indicates the percentage of invalid cases of the total number of cases.</skos:definition>
-      <skos:prefLabel xml:lang="da">Andelen af ugyldige cases</skos:prefLabel>
-      <skos:definition xml:lang="da">Indikerer procentdelen af ugyldige cases i det samlede antal af cases.</skos:definition>
       <skos:prefLabel xml:lang="fi">Puuttuvien havaintoyksik&#xf6;iden prosentuaalinen osuus</skos:prefLabel>
       <skos:definition xml:lang="fi">Ilmaisee puuttuvien havaintoyksik&#xf6;iden prosenttiosuuden kaikista havaintoyksik&#xf6;ist&#xe4;.</skos:definition>
       <skos:prefLabel xml:lang="it">Percentuale di casi non validi</skos:prefLabel>
@@ -1167,8 +1078,6 @@
       <skos:notation xml:lang="en">Other</skos:notation>
       <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
       <skos:definition xml:lang="en">Use if the summary statistic type is known, but not found in the list.</skos:definition>
-      <skos:prefLabel xml:lang="da">Andet</skos:prefLabel>
-      <skos:definition xml:lang="da">Anvend, hvis den summariske statistiktype er kendt, men ikke findes p&#xe5; listen.</skos:definition>
       <skos:prefLabel xml:lang="fi">Muu tunnusluku</skos:prefLabel>
       <skos:definition xml:lang="fi">K&#xe4;yt&#xe4;, mik&#xe4;li tilastollisen tunnusluvun tyyppi on tiedossa, mutta ei listassa.</skos:definition>
       <skos:prefLabel xml:lang="it">Altro</skos:prefLabel>

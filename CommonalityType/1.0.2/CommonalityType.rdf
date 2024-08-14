@@ -11,9 +11,6 @@
       <dcterms:title xml:lang="en">Commonality Type</dcterms:title>
       <dcterms:description xml:lang="en">Describes the degree of similarity between two items or schemes (collections of items).</dcterms:description>
       <skos:prefLabel xml:lang="en">Commonality Type</skos:prefLabel>
-      <dcterms:title xml:lang="da">Type af ensartethed</dcterms:title>
-      <dcterms:description xml:lang="da">Beskriver graden af lighed mellem to elementer eller skemaer (samling af elementer).</dcterms:description>
-      <skos:prefLabel xml:lang="da">Type af ensartethed</skos:prefLabel>
       <dcterms:title xml:lang="no">Type ensartethet</dcterms:title>
       <dcterms:description xml:lang="no">Beskriver graden av likhet mellom to elementer eller skjemaer (samling av elementer)</dcterms:description>
       <skos:prefLabel xml:lang="no">Type ensartethet</skos:prefLabel>
@@ -36,8 +33,6 @@
       <skos:notation xml:lang="en">Identical</skos:notation>
       <skos:prefLabel xml:lang="en">Identical</skos:prefLabel>
       <skos:definition xml:lang="en">Use when the compared items have identical content. For variables, for example, all the elements of a variable description (name, label, question text, category values and codes, universe, concept) will be identical in form.</skos:definition>
-      <skos:prefLabel xml:lang="da">Identisk</skos:prefLabel>
-      <skos:definition xml:lang="da">Anvend n&#xe5;r de sammenlignede elementer har identisk indhold. For variable, for eksempel, vil alle elementer af en variabelbeskrivelse (navn, label, sp&#xf8;rgsm&#xe5;lstekst, kategoriv&#xe6;rdier og koder, univers, begreb) v&#xe6;re identisk i form.</skos:definition>
       <skos:prefLabel xml:lang="no">Identisk</skos:prefLabel>
       <skos:definition xml:lang="no">Bruk n&#xe5;r de sammenliknede elementene har identisk innhold. For variabler, for eksempel, alle elementene av en variabelbeskrivelse (navn, label, sp&#xf8;rsm&#xe5;lstekst, kategoriverdier og koder, univers og begrep) vil v&#xe6;re identiske i form.</skos:definition>
       <skos:prefLabel xml:lang="pt">Id&#xea;ntico</skos:prefLabel>
@@ -51,8 +46,6 @@
       <skos:notation xml:lang="en">Some</skos:notation>
       <skos:prefLabel xml:lang="en">Some</skos:prefLabel>
       <skos:definition xml:lang="en">Use when the compared items have similar but not identical content. For variables, for example, some of the elements of a variable description (name, label, question text, category values and codes, universe, concept) will be identical in form, while others will be different.</skos:definition>
-      <skos:prefLabel xml:lang="da">Nogen</skos:prefLabel>
-      <skos:definition xml:lang="da">Anvend n&#xe5;r de sammenlignede elementer har lignende, men ikke identisk indhold. For variable, for eksempel, vil nogle elementer af en variabelbeskrivelse (navn, label, sp&#xf8;rgsm&#xe5;lstekst, kategoriv&#xe6;rdier og koder, univers, begreb) v&#xe6;re identisk i form, mens andre vil v&#xe6;re forskellige.</skos:definition>
       <skos:prefLabel xml:lang="no">Noen</skos:prefLabel>
       <skos:definition xml:lang="no">Bruk n&#xe5;r de sammenliknede elementene har like, men ikke identisk innhold. For variabler, for eksempel, noen av elementene i en variabelbeskrivelse (navn, label, sp&#xf8;rsm&#xe5;lstekst, kategorieverdier og koder, univers, begrep) vil ha identisk form, mens andre vil v&#xe6;re forskjellige.</skos:definition>
       <skos:prefLabel xml:lang="pt">Algum</skos:prefLabel>
@@ -66,8 +59,6 @@
       <skos:notation xml:lang="en">None</skos:notation>
       <skos:prefLabel xml:lang="en">None</skos:prefLabel>
       <skos:definition xml:lang="en">Normally not used, as it would not be expected to compare items that have nothing in common. This term was necessary to complete the commonality range, and may be used in special cases, as determined by user needs (for instance, when comparability was expected, but not found).</skos:definition>
-      <skos:prefLabel xml:lang="da">Ingen</skos:prefLabel>
-      <skos:definition xml:lang="da">Normalt ikke anvendt, da det ikke vil forventes at sammenligne elementer, der ikke har noget til f&#xe6;lles. Dette udtryk var n&#xf8;dvendigt for at f&#xe6;rdigg&#xf8;re r&#xe6;kkevidden af ensartethed og m&#xe5; anvendes i specielle tilf&#xe6;lde, som bestemmes af brugerbehov (for eksempel, n&#xe5;r sammenlignelighed var forventet, men ikke fundet).</skos:definition>
       <skos:prefLabel xml:lang="no">Ingen</skos:prefLabel>
       <skos:definition xml:lang="no">Vanligvis ikke brukt ettersom en ikke forventer at en sammenlikner elementer som ikke har noe til felles. Dette utrykket var n&#xf8;dvendig for &#xe5; fullf&#xf8;re typene av ensartethet og kan bli brukt i spesielle tilfeller som bestemmes av brukerbehov (for eksempel, n&#xe5;r sammenliknbarhet var forventet, men ikke funnet).</skos:definition>
       <skos:prefLabel xml:lang="pt">Nenhum</skos:prefLabel>

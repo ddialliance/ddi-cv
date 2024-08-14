@@ -8,7 +8,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/</r:UserID>
          <r:Label>
             <r:Content xml:lang="en">Mode Of Collection</r:Content>
             <r:Content xml:lang="da">Indsamlingsmetode</r:Content>
@@ -37,7 +37,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-cb20d17-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/cb20d17</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/cb20d17</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-cb20d17-Category</r:ID>
@@ -50,7 +50,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-9f669a4-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/9f669a4</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/9f669a4</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-9f669a4-Category</r:ID>
@@ -63,7 +63,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-89e4fb4-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/89e4fb4</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/89e4fb4</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-89e4fb4-Category</r:ID>
@@ -76,7 +76,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-e477963-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/e477963</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/e477963</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-e477963-Category</r:ID>
@@ -89,7 +89,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-ae68e25-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/ae68e25</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/ae68e25</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-ae68e25-Category</r:ID>
@@ -102,7 +102,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-1498dd4-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/1498dd4</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/1498dd4</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-1498dd4-Category</r:ID>
@@ -115,7 +115,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-b0b2868-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/b0b2868</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/b0b2868</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-b0b2868-Category</r:ID>
@@ -128,7 +128,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-1af2bfa-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/1af2bfa</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/1af2bfa</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-1af2bfa-Category</r:ID>
@@ -141,7 +141,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-35e4248-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/35e4248</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/35e4248</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-35e4248-Category</r:ID>
@@ -154,7 +154,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-69a46ca-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/69a46ca</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/69a46ca</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-69a46ca-Category</r:ID>
@@ -167,7 +167,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-6255fce-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/6255fce</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/6255fce</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-6255fce-Category</r:ID>
@@ -180,7 +180,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-ddaefe8-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/ddaefe8</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/ddaefe8</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-ddaefe8-Category</r:ID>
@@ -193,7 +193,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-557586d-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/557586d</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/557586d</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-557586d-Category</r:ID>
@@ -206,7 +206,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-e48ace5-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/e48ace5</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/e48ace5</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-e48ace5-Category</r:ID>
@@ -219,7 +219,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-9ec957d-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/9ec957d</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/9ec957d</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-9ec957d-Category</r:ID>
@@ -232,7 +232,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-00b3692-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/00b3692</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/00b3692</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-00b3692-Category</r:ID>
@@ -245,7 +245,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-2b4ef44-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/2b4ef44</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/2b4ef44</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-2b4ef44-Category</r:ID>
@@ -258,7 +258,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-4da1255-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/4da1255</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/4da1255</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-4da1255-Category</r:ID>
@@ -271,7 +271,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-08e658a-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/08e658a</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/08e658a</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-08e658a-Category</r:ID>
@@ -284,7 +284,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-fe226ad-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/fe226ad</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/fe226ad</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-fe226ad-Category</r:ID>
@@ -297,7 +297,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-e5bef42-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/e5bef42</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/e5bef42</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-e5bef42-Category</r:ID>
@@ -310,7 +310,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-9e67a7c-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/9e67a7c</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/9e67a7c</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-9e67a7c-Category</r:ID>
@@ -323,7 +323,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-c680d43-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/c680d43</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/c680d43</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-c680d43-Category</r:ID>
@@ -336,7 +336,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-bdc4aac-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/bdc4aac</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/bdc4aac</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-bdc4aac-Category</r:ID>
@@ -349,7 +349,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-3cee522-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/3cee522</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/3cee522</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-3cee522-Category</r:ID>
@@ -362,7 +362,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-8245871-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/8245871</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/8245871</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-8245871-Category</r:ID>
@@ -375,7 +375,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-e679c7f-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/e679c7f</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/e679c7f</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-e679c7f-Category</r:ID>
@@ -388,7 +388,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-2a58349-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/2a58349</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/2a58349</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-2a58349-Category</r:ID>
@@ -401,7 +401,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-68b02fb-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/68b02fb</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/68b02fb</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-68b02fb-Category</r:ID>
@@ -414,7 +414,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-40b8b0c-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/40b8b0c</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/40b8b0c</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-40b8b0c-Category</r:ID>
@@ -427,7 +427,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-05aeba4-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/05aeba4</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/05aeba4</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-05aeba4-Category</r:ID>
@@ -440,7 +440,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-28a60a6-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/28a60a6</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/28a60a6</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-28a60a6-Category</r:ID>
@@ -453,7 +453,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-5ff61de-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/5ff61de</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/5ff61de</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-5ff61de-Category</r:ID>
@@ -466,7 +466,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-ed0d083-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/ed0d083</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/ed0d083</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-ed0d083-Category</r:ID>
@@ -479,7 +479,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-c5564d2-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/c5564d2</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/c5564d2</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-c5564d2-Category</r:ID>
@@ -492,7 +492,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-4848ed5-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/4848ed5</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/4848ed5</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-4848ed5-Category</r:ID>
@@ -505,7 +505,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-df9aac3-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/df9aac3</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/df9aac3</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-df9aac3-Category</r:ID>
@@ -518,7 +518,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-6decc77-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/6decc77</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/6decc77</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-6decc77-Category</r:ID>
@@ -531,7 +531,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-2906121-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/2906121</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/2906121</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-2906121-Category</r:ID>
@@ -544,7 +544,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-d9ceca6-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/d9ceca6</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/d9ceca6</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-d9ceca6-Category</r:ID>
@@ -557,7 +557,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-4f502b5-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/4f502b5</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/4f502b5</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-4f502b5-Category</r:ID>
@@ -570,7 +570,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-38ceaa4-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/38ceaa4</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/38ceaa4</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-38ceaa4-Category</r:ID>
@@ -583,7 +583,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-4b9776b-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/4b9776b</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/4b9776b</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-4b9776b-Category</r:ID>
@@ -596,7 +596,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-c2a25a6-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/c2a25a6</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/c2a25a6</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-c2a25a6-Category</r:ID>
@@ -609,7 +609,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-27daf03-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/27daf03</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/27daf03</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-27daf03-Category</r:ID>
@@ -622,7 +622,7 @@
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ModeOfCollection-6311ae1-Code</r:ID>
             <r:Version>3.0.0</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/6311ae1</r:UserID>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/6311ae1</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ModeOfCollection-6311ae1-Category</r:ID>
@@ -638,7 +638,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-cb20d17-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/cb20d17</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/cb20d17</r:UserID>
          <l:CategoryName>Interview</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Interview</r:Content>
@@ -671,7 +671,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-9f669a4-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/9f669a4</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/9f669a4</r:UserID>
          <l:CategoryName>Interview.FaceToFace</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Face-to-face interview</r:Content>
@@ -704,7 +704,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-89e4fb4-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/89e4fb4</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/89e4fb4</r:UserID>
          <l:CategoryName>Interview.FaceToFace.CAPIorCAMI</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Face-to-face interview: Computer-assisted (CAPI/CAMI)</r:Content>
@@ -737,7 +737,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-e477963-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/e477963</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/e477963</r:UserID>
          <l:CategoryName>Interview.FaceToFace.PAPI</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Face-to-face interview: Paper-and-pencil (PAPI)</r:Content>
@@ -770,7 +770,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-ae68e25-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/ae68e25</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/ae68e25</r:UserID>
          <l:CategoryName>Interview.Telephone</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Telephone interview</r:Content>
@@ -803,7 +803,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-1498dd4-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/1498dd4</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/1498dd4</r:UserID>
          <l:CategoryName>Interview.Telephone.CATI</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Telephone interview: Computer-assisted (CATI)</r:Content>
@@ -836,7 +836,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-b0b2868-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/b0b2868</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/b0b2868</r:UserID>
          <l:CategoryName>Interview.Email</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">E-mail interview</r:Content>
@@ -869,7 +869,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-1af2bfa-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/1af2bfa</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/1af2bfa</r:UserID>
          <l:CategoryName>Interview.WebBased</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Web-based interview</r:Content>
@@ -902,7 +902,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-35e4248-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/35e4248</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/35e4248</r:UserID>
          <l:CategoryName>SelfAdministeredQuestionnaire</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Self-administered questionnaire</r:Content>
@@ -935,7 +935,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-69a46ca-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/69a46ca</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/69a46ca</r:UserID>
          <l:CategoryName>SelfAdministeredQuestionnaire.Email</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Self-administered questionnaire: E-mail</r:Content>
@@ -968,7 +968,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-6255fce-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/6255fce</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/6255fce</r:UserID>
          <l:CategoryName>SelfAdministeredQuestionnaire.Paper</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Self-administered questionnaire: Paper</r:Content>
@@ -1001,7 +1001,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-ddaefe8-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/ddaefe8</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/ddaefe8</r:UserID>
          <l:CategoryName>SelfAdministeredQuestionnaire.SMSorMMS</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Self-administered questionnaire: Messaging (SMS/MMS)</r:Content>
@@ -1034,7 +1034,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-557586d-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/557586d</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/557586d</r:UserID>
          <l:CategoryName>SelfAdministeredQuestionnaire.CAWI</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Self-administered questionnaire: Web-based (CAWI)</r:Content>
@@ -1067,7 +1067,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-e48ace5-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/e48ace5</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/e48ace5</r:UserID>
          <l:CategoryName>SelfAdministeredQuestionnaire.CASI</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Self-administered questionnaire: Computer-assisted (CASI)</r:Content>
@@ -1100,7 +1100,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-9ec957d-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/9ec957d</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/9ec957d</r:UserID>
          <l:CategoryName>FocusGroup</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Focus group</r:Content>
@@ -1133,7 +1133,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-00b3692-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/00b3692</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/00b3692</r:UserID>
          <l:CategoryName>FocusGroup.FaceToFace</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Face-to-face focus group</r:Content>
@@ -1166,7 +1166,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-2b4ef44-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/2b4ef44</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/2b4ef44</r:UserID>
          <l:CategoryName>FocusGroup.Telephone</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Telephone focus group</r:Content>
@@ -1199,7 +1199,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-4da1255-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/4da1255</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/4da1255</r:UserID>
          <l:CategoryName>FocusGroup.Online</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Online focus group</r:Content>
@@ -1232,7 +1232,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-08e658a-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/08e658a</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/08e658a</r:UserID>
          <l:CategoryName>SelfAdministeredWritingsAndDiaries</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Self-administered writings and/or diaries</r:Content>
@@ -1265,7 +1265,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-fe226ad-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/fe226ad</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/fe226ad</r:UserID>
          <l:CategoryName>SelfAdministeredWritingsAndDiaries.Email</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Self-administered writings and/or diaries: E-mail</r:Content>
@@ -1298,7 +1298,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-e5bef42-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/e5bef42</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/e5bef42</r:UserID>
          <l:CategoryName>SelfAdministeredWritingsAndDiaries.Paper</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Self-administered writings and/or diaries: Paper</r:Content>
@@ -1331,7 +1331,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-9e67a7c-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/9e67a7c</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/9e67a7c</r:UserID>
          <l:CategoryName>SelfAdministeredWritingsAndDiaries.WebBased</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Self-administered writings and/or diaries: Web-based</r:Content>
@@ -1364,7 +1364,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-c680d43-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/c680d43</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/c680d43</r:UserID>
          <l:CategoryName>Observation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Observation</r:Content>
@@ -1397,7 +1397,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-bdc4aac-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/bdc4aac</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/bdc4aac</r:UserID>
          <l:CategoryName>Observation.Field</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Field observation</r:Content>
@@ -1430,7 +1430,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-e679c7f-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/e679c7f</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/e679c7f</r:UserID>
          <l:CategoryName>Observation.Laboratory</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Laboratory observation</r:Content>
@@ -1463,7 +1463,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-2a58349-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/2a58349</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/2a58349</r:UserID>
          <l:CategoryName>Observation.Laboratory.Participant</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Participant laboratory observation</r:Content>
@@ -1496,7 +1496,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-40b8b0c-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/40b8b0c</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/40b8b0c</r:UserID>
          <l:CategoryName>Observation.ComputerBased</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Computer-based observation</r:Content>
@@ -1529,7 +1529,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-3cee522-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/3cee522</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/3cee522</r:UserID>
          <l:CategoryName>Observation.Field.Participant</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Participant field observation</r:Content>
@@ -1562,7 +1562,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-8245871-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/8245871</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/8245871</r:UserID>
          <l:CategoryName>Observation.Field.Nonparticipant</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Non-participant field observation</r:Content>
@@ -1595,7 +1595,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-68b02fb-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/68b02fb</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/68b02fb</r:UserID>
          <l:CategoryName>Observation.Laboratory.Nonparticipant</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Non-participant laboratory observation</r:Content>
@@ -1628,7 +1628,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-05aeba4-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/05aeba4</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/05aeba4</r:UserID>
          <l:CategoryName>Experiment</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Experiment</r:Content>
@@ -1661,7 +1661,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-28a60a6-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/28a60a6</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/28a60a6</r:UserID>
          <l:CategoryName>Experiment.Laboratory</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Laboratory experiment</r:Content>
@@ -1694,7 +1694,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-5ff61de-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/5ff61de</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/5ff61de</r:UserID>
          <l:CategoryName>Experiment.FieldIntervention</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Field/Intervention experiment</r:Content>
@@ -1727,7 +1727,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-ed0d083-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/ed0d083</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/ed0d083</r:UserID>
          <l:CategoryName>Experiment.WebBased</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Web-based experiment</r:Content>
@@ -1760,7 +1760,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-c5564d2-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/c5564d2</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/c5564d2</r:UserID>
          <l:CategoryName>Recording</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Recording</r:Content>
@@ -1793,7 +1793,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-4848ed5-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/4848ed5</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/4848ed5</r:UserID>
          <l:CategoryName>ContentCoding</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Content coding</r:Content>
@@ -1826,7 +1826,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-df9aac3-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/df9aac3</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/df9aac3</r:UserID>
          <l:CategoryName>Transcription</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Transcription</r:Content>
@@ -1859,7 +1859,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-6decc77-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/6decc77</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/6decc77</r:UserID>
          <l:CategoryName>CompilationSynthesis</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Compilation/Synthesis</r:Content>
@@ -1892,7 +1892,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-2906121-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/2906121</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/2906121</r:UserID>
          <l:CategoryName>Summary</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Summary</r:Content>
@@ -1925,7 +1925,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-d9ceca6-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/d9ceca6</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/d9ceca6</r:UserID>
          <l:CategoryName>Aggregation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Aggregation</r:Content>
@@ -1958,7 +1958,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-4f502b5-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/4f502b5</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/4f502b5</r:UserID>
          <l:CategoryName>Simulation</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Simulation</r:Content>
@@ -1991,7 +1991,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-38ceaa4-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/38ceaa4</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/38ceaa4</r:UserID>
          <l:CategoryName>MeasurementsAndTests</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Measurements and tests</r:Content>
@@ -2024,7 +2024,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-4b9776b-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/4b9776b</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/4b9776b</r:UserID>
          <l:CategoryName>MeasurementsAndTests.Educational</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Educational measurements and tests</r:Content>
@@ -2057,7 +2057,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-c2a25a6-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/c2a25a6</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/c2a25a6</r:UserID>
          <l:CategoryName>MeasurementsAndTests.Physical</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Physical measurements and tests</r:Content>
@@ -2090,7 +2090,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-27daf03-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/27daf03</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/27daf03</r:UserID>
          <l:CategoryName>MeasurementsAndTests.Psychological</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Psychological measurements and tests</r:Content>
@@ -2123,7 +2123,7 @@
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ModeOfCollection-6311ae1-Category</r:ID>
          <r:Version>3.0.0</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0/6311ae1</r:UserID>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ModeOfCollection/3.0.0/6311ae1</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>
