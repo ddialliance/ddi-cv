@@ -7,29 +7,29 @@
       <l:CodeList>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>CommonalityType</r:ID>
-         <r:Version>1.0.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/</r:UserID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.0/</r:UserID>
          <r:Label>
+            <r:Content xml:lang="pt">Tipo de convergência/uniformidade</r:Content>
             <r:Content xml:lang="en">Commonality Type</r:Content>
             <r:Content xml:lang="no">Type ensartethet</r:Content>
-            <r:Content xml:lang="pt">Tipo de convergência/uniformidade</r:Content>
             <r:Content xml:lang="sr">Vrste sličnosti</r:Content>
          </r:Label>
          <r:Description>
+            <r:Content xml:lang="pt">Descreve o grau de similitude entre dois itens ou esquemas.</r:Content>
             <r:Content xml:lang="en">Describes the degree of similarity between two items or schemes (collections of items).</r:Content>
             <r:Content xml:lang="no">Beskriver graden av likhet mellom to elementer eller skjemaer (samling av elementer)</r:Content>
-            <r:Content xml:lang="pt">Descreve o grau de similitude entre dois itens ou esquemas.</r:Content>
             <r:Content xml:lang="sr">Opisuje stepen sličnosti između dve stavke, predmeta ili šeme (zbirke stavki).</r:Content>
          </r:Description>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>CommonalityType-b100297-Code</r:ID>
-            <r:Version>1.0.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/b100297</r:UserID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.0/b100297</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>CommonalityType-b100297-Category</r:ID>
-               <r:Version>1.0.2</r:Version>
+               <r:Version>1.0.1</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Identical</r:Value>
@@ -37,12 +37,12 @@
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>CommonalityType-695c6ae-Code</r:ID>
-            <r:Version>1.0.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/695c6ae</r:UserID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.0/695c6ae</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>CommonalityType-695c6ae-Category</r:ID>
-               <r:Version>1.0.2</r:Version>
+               <r:Version>1.0.1</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Some</r:Value>
@@ -50,12 +50,12 @@
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>CommonalityType-6adf97f-Code</r:ID>
-            <r:Version>1.0.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/6adf97f</r:UserID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.0/6adf97f</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>CommonalityType-6adf97f-Category</r:ID>
-               <r:Version>1.0.2</r:Version>
+               <r:Version>1.0.1</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>None</r:Value>
@@ -66,19 +66,19 @@
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>CommonalityType-b100297-Category</r:ID>
-         <r:Version>1.0.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/b100297</r:UserID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.0/b100297</r:UserID>
          <l:CategoryName>Identical</l:CategoryName>
          <r:Label>
+            <r:Content xml:lang="pt">Idêntico</r:Content>
             <r:Content xml:lang="en">Identical</r:Content>
             <r:Content xml:lang="no">Identisk</r:Content>
-            <r:Content xml:lang="pt">Idêntico</r:Content>
             <r:Content xml:lang="sr">Istovetno / identično</r:Content>
          </r:Label>
          <r:Description>
+            <r:Content xml:lang="pt">Usar quando os itens comparados têm conteúdo idêntico. Para variáveis, por exemplo, todos os elementos da descrição de uma variável (nome da variável, label, texto da questão, valores e códigos de categoria, universo, conceito) serão idênticos na forma.</r:Content>
             <r:Content xml:lang="en">Use when the compared items have identical content. For variables, for example, all the elements of a variable description (name, label, question text, category values and codes, universe, concept) will be identical in form.</r:Content>
             <r:Content xml:lang="no">Bruk når de sammenliknede elementene har identisk innhold. For variabler, for eksempel, alle elementene av en variabelbeskrivelse (navn, label, spørsmålstekst, kategoriverdier og koder, univers og begrep) vil være identiske i form.</r:Content>
-            <r:Content xml:lang="pt">Usar quando os itens comparados têm conteúdo idêntico. Para variáveis, por exemplo, todos os elementos da descrição de uma variável (nome da variável, label, texto da questão, valores e códigos de categoria, universo, conceito) serão idênticos na forma.</r:Content>
             <r:Content xml:lang="sr">Koristite kada stavke koje poredite imaju identičan sadržaj. Na primer, za promenljive, svi elementi opisa promenljive (naziv, oznaka, tekst pitanja, vrednosti kategorije i kodovi, univerzum, koncept) su istovetni (identični).</r:Content>
          </r:Description>
       </l:Category>
@@ -87,19 +87,19 @@
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>CommonalityType-695c6ae-Category</r:ID>
-         <r:Version>1.0.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/695c6ae</r:UserID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.0/695c6ae</r:UserID>
          <l:CategoryName>Some</l:CategoryName>
          <r:Label>
+            <r:Content xml:lang="pt">Algum</r:Content>
             <r:Content xml:lang="en">Some</r:Content>
             <r:Content xml:lang="no">Noen</r:Content>
-            <r:Content xml:lang="pt">Algum</r:Content>
             <r:Content xml:lang="sr">Delimično</r:Content>
          </r:Label>
          <r:Description>
+            <r:Content xml:lang="pt">Usar quando os itens comparados têm conteúdo semelhante, mas não idêntico. Para variáveis, por exemplo, alguns dos elementos da descrição de uma variável (nome da variável, label, texto da questão, valores e códigos de categoria, universo, conceito) serão idênticos na forma, enquanto outros serão diferentes.</r:Content>
             <r:Content xml:lang="en">Use when the compared items have similar but not identical content. For variables, for example, some of the elements of a variable description (name, label, question text, category values and codes, universe, concept) will be identical in form, while others will be different.</r:Content>
             <r:Content xml:lang="no">Bruk når de sammenliknede elementene har like, men ikke identisk innhold. For variabler, for eksempel, noen av elementene i en variabelbeskrivelse (navn, label, spørsmålstekst, kategorieverdier og koder, univers, begrep) vil ha identisk form, mens andre vil være forskjellige.</r:Content>
-            <r:Content xml:lang="pt">Usar quando os itens comparados têm conteúdo semelhante, mas não idêntico. Para variáveis, por exemplo, alguns dos elementos da descrição de uma variável (nome da variável, label, texto da questão, valores e códigos de categoria, universo, conceito) serão idênticos na forma, enquanto outros serão diferentes.</r:Content>
             <r:Content xml:lang="sr">Koristite kada stavke koje poredite imaju sličan, ali ne identičan sadržaj. Na primer, za promenljive, neki elementi opisa promenljive (naziv, oznaka, tekst pitanja, vrednosti kategorije i kodovi, populacija, koncept) će biti istovetni (identični) po obliku, dok će drugi biti različiti.</r:Content>
          </r:Description>
       </l:Category>
@@ -108,19 +108,19 @@
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>CommonalityType-6adf97f-Category</r:ID>
-         <r:Version>1.0.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/6adf97f</r:UserID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.0/6adf97f</r:UserID>
          <l:CategoryName>None</l:CategoryName>
          <r:Label>
+            <r:Content xml:lang="pt">Nenhum</r:Content>
             <r:Content xml:lang="en">None</r:Content>
             <r:Content xml:lang="no">Ingen</r:Content>
-            <r:Content xml:lang="pt">Nenhum</r:Content>
             <r:Content xml:lang="sr">Neuporedivo</r:Content>
          </r:Label>
          <r:Description>
+            <r:Content xml:lang="pt">Normalmente não é usado, pois não seria esperado comparar itens que não têm nada em comum. Este termo foi necessário para completar as diferentes possibilidades de grau de similitude entre os itens e pode ser usado em casos especiais, consoante as necessidades do utilizador (por exemplo, quando a comparabilidade era expectável, mas não foi encontrada).</r:Content>
             <r:Content xml:lang="en">Normally not used, as it would not be expected to compare items that have nothing in common. This term was necessary to complete the commonality range, and may be used in special cases, as determined by user needs (for instance, when comparability was expected, but not found).</r:Content>
             <r:Content xml:lang="no">Vanligvis ikke brukt ettersom en ikke forventer at en sammenlikner elementer som ikke har noe til felles. Dette utrykket var nødvendig for å fullføre typene av ensartethet og kan bli brukt i spesielle tilfeller som bestemmes av brukerbehov (for eksempel, når sammenliknbarhet var forventet, men ikke funnet).</r:Content>
-            <r:Content xml:lang="pt">Normalmente não é usado, pois não seria esperado comparar itens que não têm nada em comum. Este termo foi necessário para completar as diferentes possibilidades de grau de similitude entre os itens e pode ser usado em casos especiais, consoante as necessidades do utilizador (por exemplo, quando a comparabilidade era expectável, mas não foi encontrada).</r:Content>
             <r:Content xml:lang="sr">Obično se ne koristi, jer se ne bi moglo očekivati poređenje stavki koji nemaju ništa zajedničko. Ovaj izraz je bio neophodan za kompletiranje opšteg raspona i može se upotrebljavati u posebnim slučajevima, prema potrebama korisnika (na primer, kada se uporedivost očekivala, ali nije pronađena).</r:Content>
          </r:Description>
       </l:Category>

@@ -7,8 +7,8 @@
       <l:CodeList>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod</r:ID>
-         <r:Version>1.1.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/</r:UserID>
+         <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/</r:UserID>
          <r:Label>
             <r:Content xml:lang="en">Aggregation Method</r:Content>
             <r:Content xml:lang="no">Aggregeringsmetode</r:Content>
@@ -22,12 +22,12 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-a0ec870-Code</r:ID>
-            <r:Version>1.1.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/a0ec870</r:UserID>
+            <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/a0ec870</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-a0ec870-Category</r:ID>
-               <r:Version>1.1.2</r:Version>
+               <r:Version>1.1.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Sum</r:Value>
@@ -35,12 +35,12 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-7975ed0-Code</r:ID>
-            <r:Version>1.1.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/7975ed0</r:UserID>
+            <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/7975ed0</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-7975ed0-Category</r:ID>
-               <r:Version>1.1.2</r:Version>
+               <r:Version>1.1.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>ArithmeticMean</r:Value>
@@ -48,12 +48,12 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-e93f994-Code</r:ID>
-            <r:Version>1.1.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/e93f994</r:UserID>
+            <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/e93f994</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-e93f994-Category</r:ID>
-               <r:Version>1.1.2</r:Version>
+               <r:Version>1.1.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Count</r:Value>
@@ -61,12 +61,12 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-650be61-Code</r:ID>
-            <r:Version>1.1.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/650be61</r:UserID>
+            <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/650be61</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-650be61-Category</r:ID>
-               <r:Version>1.1.2</r:Version>
+               <r:Version>1.1.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Mode</r:Value>
@@ -74,12 +74,12 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-66851a3-Code</r:ID>
-            <r:Version>1.1.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/66851a3</r:UserID>
+            <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/66851a3</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-66851a3-Category</r:ID>
-               <r:Version>1.1.2</r:Version>
+               <r:Version>1.1.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Median</r:Value>
@@ -87,12 +87,12 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-8321e79-Code</r:ID>
-            <r:Version>1.1.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/8321e79</r:UserID>
+            <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/8321e79</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-8321e79-Category</r:ID>
-               <r:Version>1.1.2</r:Version>
+               <r:Version>1.1.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Maximum</r:Value>
@@ -100,12 +100,12 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-a1d0ec6-Code</r:ID>
-            <r:Version>1.1.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/a1d0ec6</r:UserID>
+            <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/a1d0ec6</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-a1d0ec6-Category</r:ID>
-               <r:Version>1.1.2</r:Version>
+               <r:Version>1.1.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Minimum</r:Value>
@@ -113,12 +113,12 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-adaaee4-Code</r:ID>
-            <r:Version>1.1.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/adaaee4</r:UserID>
+            <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/adaaee4</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-adaaee4-Category</r:ID>
-               <r:Version>1.1.2</r:Version>
+               <r:Version>1.1.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Percent</r:Value>
@@ -126,12 +126,12 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-4dfc4f5-Code</r:ID>
-            <r:Version>1.1.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/4dfc4f5</r:UserID>
+            <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/4dfc4f5</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-4dfc4f5-Category</r:ID>
-               <r:Version>1.1.2</r:Version>
+               <r:Version>1.1.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>CumulativePercent</r:Value>
@@ -139,12 +139,12 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-bdc1c84-Code</r:ID>
-            <r:Version>1.1.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/bdc1c84</r:UserID>
+            <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/bdc1c84</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-bdc1c84-Category</r:ID>
-               <r:Version>1.1.2</r:Version>
+               <r:Version>1.1.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>PercentileRank</r:Value>
@@ -152,12 +152,12 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>AggregationMethod-6311ae1-Code</r:ID>
-            <r:Version>1.1.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/6311ae1</r:UserID>
+            <r:Version>1.1.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/6311ae1</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>AggregationMethod-6311ae1-Category</r:ID>
-               <r:Version>1.1.2</r:Version>
+               <r:Version>1.1.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Other</r:Value>
@@ -168,8 +168,8 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-a0ec870-Category</r:ID>
-         <r:Version>1.1.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/a0ec870</r:UserID>
+         <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/a0ec870</r:UserID>
          <l:CategoryName>Sum</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Sum</r:Content>
@@ -185,8 +185,8 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-7975ed0-Category</r:ID>
-         <r:Version>1.1.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/7975ed0</r:UserID>
+         <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/7975ed0</r:UserID>
          <l:CategoryName>ArithmeticMean</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Arithmetic mean</r:Content>
@@ -202,8 +202,8 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-e93f994-Category</r:ID>
-         <r:Version>1.1.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/e93f994</r:UserID>
+         <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/e93f994</r:UserID>
          <l:CategoryName>Count</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Count</r:Content>
@@ -219,8 +219,8 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-650be61-Category</r:ID>
-         <r:Version>1.1.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/650be61</r:UserID>
+         <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/650be61</r:UserID>
          <l:CategoryName>Mode</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Mode</r:Content>
@@ -236,8 +236,8 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-66851a3-Category</r:ID>
-         <r:Version>1.1.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/66851a3</r:UserID>
+         <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/66851a3</r:UserID>
          <l:CategoryName>Median</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Median</r:Content>
@@ -253,8 +253,8 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-8321e79-Category</r:ID>
-         <r:Version>1.1.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/8321e79</r:UserID>
+         <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/8321e79</r:UserID>
          <l:CategoryName>Maximum</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Maximum</r:Content>
@@ -270,8 +270,8 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-a1d0ec6-Category</r:ID>
-         <r:Version>1.1.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/a1d0ec6</r:UserID>
+         <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/a1d0ec6</r:UserID>
          <l:CategoryName>Minimum</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Minimum</r:Content>
@@ -287,8 +287,8 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-adaaee4-Category</r:ID>
-         <r:Version>1.1.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/adaaee4</r:UserID>
+         <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/adaaee4</r:UserID>
          <l:CategoryName>Percent</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Percent</r:Content>
@@ -304,8 +304,8 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-4dfc4f5-Category</r:ID>
-         <r:Version>1.1.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/4dfc4f5</r:UserID>
+         <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/4dfc4f5</r:UserID>
          <l:CategoryName>CumulativePercent</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Cumulative percent</r:Content>
@@ -321,8 +321,8 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-bdc1c84-Category</r:ID>
-         <r:Version>1.1.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/bdc1c84</r:UserID>
+         <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/bdc1c84</r:UserID>
          <l:CategoryName>PercentileRank</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Percentile rank</r:Content>
@@ -338,8 +338,8 @@ fra. (Fra: OECD-ordlisten med statistiske begreper)</r:Content>
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>AggregationMethod-6311ae1-Category</r:ID>
-         <r:Version>1.1.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.2/6311ae1</r:UserID>
+         <r:Version>1.1.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/AggregationMethod/1.1.0/6311ae1</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>

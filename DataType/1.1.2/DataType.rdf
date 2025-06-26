@@ -8,12 +8,12 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/"/>
       <skos:notation xml:lang="en">DataType</skos:notation>
-      <dcterms:title xml:lang="en">Data Type</dcterms:title>
-      <dcterms:description xml:lang="en">Identifies the type of data, which has a bearing on the acceptable data values, the operations that can be performed with the data, and the ways in which the data are stored.</dcterms:description>
-      <skos:prefLabel xml:lang="en">Data Type</skos:prefLabel>
       <dcterms:title xml:lang="et">Andmet&#xfc;&#xfc;p</dcterms:title>
       <dcterms:description xml:lang="et">T&#xe4;psustab andmete t&#xfc;&#xfc;bi, millest s&#xf5;ltuvad lubatavad v&#xe4;&#xe4;rtused, andmetega teha lubatud tehted ning andmete talletamise viisid.</dcterms:description>
       <skos:prefLabel xml:lang="et">Andmet&#xfc;&#xfc;p</skos:prefLabel>
+      <dcterms:title xml:lang="en">Data Type</dcterms:title>
+      <dcterms:description xml:lang="en">Identifies the type of data, which has a bearing on the acceptable data values, the operations that can be performed with the data, and the ways in which the data are stored.</dcterms:description>
+      <skos:prefLabel xml:lang="en">Data Type</skos:prefLabel>
       <dcterms:title xml:lang="no">Data type</dcterms:title>
       <dcterms:description xml:lang="no">Identifisering av datatypen som har betydning for akseptable dataverdier, operasjoner som kan bli gjennomf&#xf8;rt p&#xe5; dataene og hvordan data kan bli lagret.</dcterms:description>
       <skos:prefLabel xml:lang="no">Data type</skos:prefLabel>
@@ -57,10 +57,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">String</skos:notation>
-      <skos:prefLabel xml:lang="en">String</skos:prefLabel>
-      <skos:definition xml:lang="en">Finite sequences of characters. A character is an atomic unit of written communication; it is not further specified except to note that every character has a corresponding Universal Character Set code point (which is an integer).</skos:definition>
       <skos:prefLabel xml:lang="et">String</skos:prefLabel>
       <skos:definition xml:lang="et">M&#xe4;rkide jada, piiratud pikkusega. M&#xe4;rk on v&#xe4;ikseim osake kirjalikus kommunikatsioonis; m&#xe4;rke v&#xe4;iksemaks ei jagata, kuid igale m&#xe4;rgile vastab universaalses koodim&#xe4;rgistikus (Universal Character Set) oma kood (mis on t&#xe4;isarv).</skos:definition>
+      <skos:prefLabel xml:lang="en">String</skos:prefLabel>
+      <skos:definition xml:lang="en">Finite sequences of characters. A character is an atomic unit of written communication; it is not further specified except to note that every character has a corresponding Universal Character Set code point (which is an integer).</skos:definition>
       <skos:prefLabel xml:lang="no">Streng</skos:prefLabel>
       <skos:definition xml:lang="no">Endelig sekvens av tegn. Et tegn er en atomenhet for skriftlig kommunikasjon; det er ikke n&#xe6;rmere spesifisert, bortsett fra &#xe5; merke seg at hvert tegn har et tilsvarende Universal Character Set-kodepunkt (som er et heltall).</skos:definition>
    </rdf:Description>
@@ -68,10 +68,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">NormalizedString</skos:notation>
-      <skos:prefLabel xml:lang="en">Normalized string</skos:prefLabel>
-      <skos:definition xml:lang="en">Type of string in which any occurrence of whitespace (including tabs, line feeds, and carriage returns) is replaced by a single space.</skos:definition>
       <skos:prefLabel xml:lang="et">Normaliseeritud string</skos:prefLabel>
       <skos:definition xml:lang="et">String alamt&#xfc;&#xfc;p, milles k&#xf5;ik erim&#xe4;rgid (sh tabeldusm&#xe4;rgid, reavahetused ja kursori reaalgusesse toomised) on asendatud &#xfc;he t&#xfc;hikuga.</skos:definition>
+      <skos:prefLabel xml:lang="en">Normalized string</skos:prefLabel>
+      <skos:definition xml:lang="en">Type of string in which any occurrence of whitespace (including tabs, line feeds, and carriage returns) is replaced by a single space.</skos:definition>
       <skos:prefLabel xml:lang="no">Normalisert streng</skos:prefLabel>
       <skos:definition xml:lang="no">En type streng hvor alle forekomster av hvitt mellomrom (inkludert tabulator, linjeskift og vognretur) blir erstattet av et enkelt mellomrom.</skos:definition>
    </rdf:Description>
@@ -79,10 +79,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">Boolean</skos:notation>
-      <skos:prefLabel xml:lang="en">Boolean</skos:prefLabel>
-      <skos:definition xml:lang="en">True or false. Can be represented by 1 and 0 correspondingly.</skos:definition>
       <skos:prefLabel xml:lang="et">Boolean</skos:prefLabel>
       <skos:definition xml:lang="et">T&#xf5;ene v&#xf5;i v&#xe4;&#xe4;r. V&#xf5;ib olla esitatud ka vastavalt 1 v&#xf5;i 0.</skos:definition>
+      <skos:prefLabel xml:lang="en">Boolean</skos:prefLabel>
+      <skos:definition xml:lang="en">True or false. Can be represented by 1 and 0 correspondingly.</skos:definition>
       <skos:prefLabel xml:lang="no">Boolsk</skos:prefLabel>
       <skos:definition xml:lang="no">Sant eller usant. Kan v&#xe6;re representert av 1 og 0 henholdsvis.</skos:definition>
    </rdf:Description>
@@ -90,10 +90,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">Decimal</skos:notation>
-      <skos:prefLabel xml:lang="en">Decimal</skos:prefLabel>
-      <skos:definition xml:lang="en">A subset of real numbers, which can be represented by a finite-length sequence of decimal digits (0-9) separated by a period as a decimal indicator. An optional leading sign is allowed. If the sign is omitted, &quot;+&quot; is assumed. Leading and trailing zeroes are optional. If the fractional part is zero, the period and following zero(es) can be omitted. For example: -1.23, 12678967.543233, +100000.00, 210.</skos:definition>
       <skos:prefLabel xml:lang="et">K&#xfc;mnendarv</skos:prefLabel>
       <skos:definition xml:lang="et">Reaalarvude osahulk, kus k&#xfc;mnends&#xfc;steemis on numbritest (0-9) moodustatud kindla pikkusega j&#xe4;rjendid ja k&#xfc;mnendkoha eraldajaks on punkt. (IT terministandardi s&#xf5;nastik: S&#xf5;ltuvalt eri kokkulepetest v&#xf5;idakse eri maades k&#xfc;mnendkoma esitada komaga, punktiga v&#xf5;i numbrite poolk&#xf5;rgusel asuva punktiga.) Lubatud on pluss-/miinusm&#xe4;rk arvu ees. M&#xe4;rgi puudumisel loetakse vaikimisi m&#xe4;rgiks &quot;+&quot;. V&#xf5;ib kasutada ees- ja l&#xf5;punulle. Kui murdosa on null, v&#xf5;ib punkti ja j&#xe4;rgneva(d) nulli(d) &#xe4;ra j&#xe4;tta. N&#xe4;iteks: -1.23, 12678967.543233, +100000.00, 210.</skos:definition>
+      <skos:prefLabel xml:lang="en">Decimal</skos:prefLabel>
+      <skos:definition xml:lang="en">A subset of real numbers, which can be represented by a finite-length sequence of decimal digits (0-9) separated by a period as a decimal indicator. An optional leading sign is allowed. If the sign is omitted, &quot;+&quot; is assumed. Leading and trailing zeroes are optional. If the fractional part is zero, the period and following zero(es) can be omitted. For example: -1.23, 12678967.543233, +100000.00, 210.</skos:definition>
       <skos:prefLabel xml:lang="no">Desimal</skos:prefLabel>
       <skos:definition xml:lang="no">En delmengde av reelle tall som kan bli representert av en endelig sekvens av desimaltall (0-9) adskilt med et punktum som desimalindikator. Et alternativ tegn f&#xf8;r desimalindikatoren er tillatt. Hvis tegnet er utelatt, antas &quot;+&quot;. F&#xf8;rende og etterf&#xf8;lgende nuller er valgfri. Hvis br&#xf8;kdelen er null, kan punktumet og f&#xf8;lgende null(er) bli utelatt. For eksempel: -1.23, 12678967.543233, +100000.00, 210.</skos:definition>
    </rdf:Description>
@@ -101,10 +101,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">Integer</skos:notation>
-      <skos:prefLabel xml:lang="en">Integer</skos:prefLabel>
-      <skos:definition xml:lang="en">Whole numbers, the infinite set of integers, no minimum or maximum value.</skos:definition>
       <skos:prefLabel xml:lang="et">T&#xe4;isarv</skos:prefLabel>
       <skos:definition xml:lang="et">T&#xe4;isarvud, t&#xe4;isarvude l&#xf5;pmatu hulk ilma minimaalse v&#xf5;i maksimaalse v&#xe4;&#xe4;rtuseta.</skos:definition>
+      <skos:prefLabel xml:lang="en">Integer</skos:prefLabel>
+      <skos:definition xml:lang="en">Whole numbers, the infinite set of integers, no minimum or maximum value.</skos:definition>
       <skos:prefLabel xml:lang="no">Heltall</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall, det uendelige settet med heltall, ingen minimum eller maksimum verdi.</skos:definition>
    </rdf:Description>
@@ -112,10 +112,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">PositiveInteger</skos:notation>
-      <skos:prefLabel xml:lang="en">Positive integer</skos:prefLabel>
-      <skos:definition xml:lang="en">Whole numbers greater than 0.</skos:definition>
       <skos:prefLabel xml:lang="et">Positiivne t&#xe4;isarv</skos:prefLabel>
       <skos:definition xml:lang="et">Nullist suuremad t&#xe4;isarvud. (Tavaliselt arvestatakse 0 positiivseks t&#xe4;isarvuks)</skos:definition>
+      <skos:prefLabel xml:lang="en">Positive integer</skos:prefLabel>
+      <skos:definition xml:lang="en">Whole numbers greater than 0.</skos:definition>
       <skos:prefLabel xml:lang="no">Positive heltall</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall st&#xf8;rre enn 0.</skos:definition>
    </rdf:Description>
@@ -123,10 +123,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">NegativeInteger</skos:notation>
-      <skos:prefLabel xml:lang="en">Negative integer</skos:prefLabel>
-      <skos:definition xml:lang="en">Whole numbers less than 0.</skos:definition>
       <skos:prefLabel xml:lang="et">Negatiivne t&#xe4;isarv</skos:prefLabel>
       <skos:definition xml:lang="et">Nullist v&#xe4;iksemad t&#xe4;isarvud.</skos:definition>
+      <skos:prefLabel xml:lang="en">Negative integer</skos:prefLabel>
+      <skos:definition xml:lang="en">Whole numbers less than 0.</skos:definition>
       <skos:prefLabel xml:lang="no">Negative heltall</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall mindre enn 0.</skos:definition>
    </rdf:Description>
@@ -134,10 +134,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">NonNegativeInteger</skos:notation>
-      <skos:prefLabel xml:lang="en">Non-negative integer</skos:prefLabel>
-      <skos:definition xml:lang="en">Whole numbers greater than -1.</skos:definition>
       <skos:prefLabel xml:lang="et">Mitte negatiivne t&#xe4;isarv</skos:prefLabel>
       <skos:definition xml:lang="et">T&#xe4;isarvud, mis on suuremad kui -1.</skos:definition>
+      <skos:prefLabel xml:lang="en">Non-negative integer</skos:prefLabel>
+      <skos:definition xml:lang="en">Whole numbers greater than -1.</skos:definition>
       <skos:prefLabel xml:lang="no">Ikke-negative heltall</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall st&#xf8;rre enn -1.</skos:definition>
    </rdf:Description>
@@ -145,10 +145,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">NonPositiveInteger</skos:notation>
-      <skos:prefLabel xml:lang="en">Non-positive integer</skos:prefLabel>
-      <skos:definition xml:lang="en">Whole numbers less than 1.</skos:definition>
       <skos:prefLabel xml:lang="et">Mitte positiivne t&#xe4;isarv</skos:prefLabel>
       <skos:definition xml:lang="et">T&#xe4;isarvud, mis on v&#xe4;iksemad kui 1. (Tavaliselt arvestatakse 0 positiivseks t&#xe4;isarvuks)</skos:definition>
+      <skos:prefLabel xml:lang="en">Non-positive integer</skos:prefLabel>
+      <skos:definition xml:lang="en">Whole numbers less than 1.</skos:definition>
       <skos:prefLabel xml:lang="no">Ikke-positive heltall</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall mindre enn 1.</skos:definition>
    </rdf:Description>
@@ -156,10 +156,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">Long</skos:notation>
-      <skos:prefLabel xml:lang="en">Long</skos:prefLabel>
-      <skos:definition xml:lang="en">Whole numbers in the range -9223372036854775808 .. 9223372036854775807.</skos:definition>
       <skos:prefLabel xml:lang="et">Pikk t&#xe4;isarv</skos:prefLabel>
       <skos:definition xml:lang="et">T&#xe4;isarvud vahemikus -9223372036854775808 kuni 9223372036854775807.</skos:definition>
+      <skos:prefLabel xml:lang="en">Long</skos:prefLabel>
+      <skos:definition xml:lang="en">Whole numbers in the range -9223372036854775808 .. 9223372036854775807.</skos:definition>
       <skos:prefLabel xml:lang="no">Long</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall i rekkevidden -9223372036854775808 .. 9223372036854775807.</skos:definition>
    </rdf:Description>
@@ -167,10 +167,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">Int</skos:notation>
-      <skos:prefLabel xml:lang="en">Int</skos:prefLabel>
-      <skos:definition xml:lang="en">Whole numbers in the range -2147483648 .. 2147483647.</skos:definition>
       <skos:prefLabel xml:lang="et">Int</skos:prefLabel>
       <skos:definition xml:lang="et">T&#xe4;isarvud vahemikus -2147483648 kuni 2147483647.</skos:definition>
+      <skos:prefLabel xml:lang="en">Int</skos:prefLabel>
+      <skos:definition xml:lang="en">Whole numbers in the range -2147483648 .. 2147483647.</skos:definition>
       <skos:prefLabel xml:lang="no">Int</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall i rekkevidden -2147483648 .. 2147483647.</skos:definition>
    </rdf:Description>
@@ -178,10 +178,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">Short</skos:notation>
-      <skos:prefLabel xml:lang="en">Short</skos:prefLabel>
-      <skos:definition xml:lang="en">Whole numbers in the range -32768 .. 32767.</skos:definition>
       <skos:prefLabel xml:lang="et">L&#xfc;hike t&#xe4;isarv</skos:prefLabel>
       <skos:definition xml:lang="et">T&#xe4;isarvud vahemikus -32768 kuni 32767.</skos:definition>
+      <skos:prefLabel xml:lang="en">Short</skos:prefLabel>
+      <skos:definition xml:lang="en">Whole numbers in the range -32768 .. 32767.</skos:definition>
       <skos:prefLabel xml:lang="no">Short</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall i rekkevidden -32768 .. 32767.</skos:definition>
    </rdf:Description>
@@ -189,10 +189,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">Byte</skos:notation>
-      <skos:prefLabel xml:lang="en">Byte</skos:prefLabel>
-      <skos:definition xml:lang="en">Whole numbers in the range -128 .. 127.</skos:definition>
       <skos:prefLabel xml:lang="et">Bait</skos:prefLabel>
       <skos:definition xml:lang="et">T&#xe4;isarvud vahemikus -128 kuni 127.</skos:definition>
+      <skos:prefLabel xml:lang="en">Byte</skos:prefLabel>
+      <skos:definition xml:lang="en">Whole numbers in the range -128 .. 127.</skos:definition>
       <skos:prefLabel xml:lang="no">Byte</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall i rekkevidden -128 .. 127.</skos:definition>
    </rdf:Description>
@@ -200,10 +200,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">UnsignedLong</skos:notation>
-      <skos:prefLabel xml:lang="en">Unsigned long</skos:prefLabel>
-      <skos:definition xml:lang="en">Whole numbers in the range 0 .. 18446744073709551615.</skos:definition>
       <skos:prefLabel xml:lang="et">M&#xe4;rgita pikk t&#xe4;isarv</skos:prefLabel>
       <skos:definition xml:lang="et">T&#xe4;isarvud vahemikus 0 kuni 18446744073709551615.</skos:definition>
+      <skos:prefLabel xml:lang="en">Unsigned long</skos:prefLabel>
+      <skos:definition xml:lang="en">Whole numbers in the range 0 .. 18446744073709551615.</skos:definition>
       <skos:prefLabel xml:lang="no">Unsigned long</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall i rekkevidden 0 .. 18446744073709551615.</skos:definition>
    </rdf:Description>
@@ -211,10 +211,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">UnsignedInt</skos:notation>
-      <skos:prefLabel xml:lang="en">Unsigned int</skos:prefLabel>
-      <skos:definition xml:lang="en">Whole numbers in the range 0 .. 4294967295.</skos:definition>
       <skos:prefLabel xml:lang="et">M&#xe4;rgita Int</skos:prefLabel>
       <skos:definition xml:lang="et">T&#xe4;isarvud vahemikus 0 kuni 4294967295.</skos:definition>
+      <skos:prefLabel xml:lang="en">Unsigned int</skos:prefLabel>
+      <skos:definition xml:lang="en">Whole numbers in the range 0 .. 4294967295.</skos:definition>
       <skos:prefLabel xml:lang="no">Unsigned int</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall i rekkevidden 0 .. 4294967295.</skos:definition>
    </rdf:Description>
@@ -222,10 +222,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">UnsignedShort</skos:notation>
-      <skos:prefLabel xml:lang="en">Unsigned short</skos:prefLabel>
-      <skos:definition xml:lang="en">Whole numbers in the range 0 .. 65535.</skos:definition>
       <skos:prefLabel xml:lang="et">M&#xe4;rgita l&#xfc;hike t&#xe4;isarv</skos:prefLabel>
       <skos:definition xml:lang="et">T&#xe4;isarvud vahemikus 0 kuni 65535.</skos:definition>
+      <skos:prefLabel xml:lang="en">Unsigned short</skos:prefLabel>
+      <skos:definition xml:lang="en">Whole numbers in the range 0 .. 65535.</skos:definition>
       <skos:prefLabel xml:lang="no">Unsigned short</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall i rekkevidden 0 .. 65535.</skos:definition>
    </rdf:Description>
@@ -233,10 +233,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">UnsignedByte</skos:notation>
-      <skos:prefLabel xml:lang="en">Unsigned byte</skos:prefLabel>
-      <skos:definition xml:lang="en">Whole numbers in the range 0 .. 255 (system dependent).</skos:definition>
       <skos:prefLabel xml:lang="et">M&#xe4;rgita bait</skos:prefLabel>
       <skos:definition xml:lang="et">T&#xe4;isarvud vahemikus 0 kuni 255 (s&#xf5;ltuvalt s&#xfc;steemist).</skos:definition>
+      <skos:prefLabel xml:lang="en">Unsigned byte</skos:prefLabel>
+      <skos:definition xml:lang="en">Whole numbers in the range 0 .. 255 (system dependent).</skos:definition>
       <skos:prefLabel xml:lang="no">Unsigned byte</skos:prefLabel>
       <skos:definition xml:lang="no">Hele tall i rekkevidden 0 .. 255 (systemavhengig).</skos:definition>
    </rdf:Description>
@@ -244,10 +244,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">Float</skos:notation>
-      <skos:prefLabel xml:lang="en">Float</skos:prefLabel>
-      <skos:definition xml:lang="en">Single-precision 32-bit floating point type: The basic value space of float consists of the values m*2^e, where m is an integer whose absolute value is less than 2^24, and e is an integer between -149 and 104, inclusive. In addition, it also contains the following three special values: positive and negative infinity and not-a-number (NaN). The special values positive and negative infinity and not-a-number have lexical representations INF, -INF and NaN, respectively. Lexical representations for zero may take a positive or negative sign. For example, -1E4, 1267.43233E12, 12.78e-2, 12 , -0, 0 and INF are all legal literals for float.</skos:definition>
       <skos:prefLabel xml:lang="et">Ujukomaga arv</skos:prefLabel>
       <skos:definition xml:lang="et">Lihtt&#xe4;psusega 32-bitine ujukomaarv: ujukomaarvu v&#xe4;&#xe4;rtusvahemik koosneb v&#xe4;&#xe4;rtustest m*2^e, kus m on t&#xe4;isarv absoluutv&#xe4;&#xe4;rtusega alla 2^24 ning e on t&#xe4;isarv vahemikus -149 kuni 104 k.a. Lisaks v&#xf5;ib sellisel ujukomaarvul olla kolm eriv&#xe4;&#xe4;rtust: pluss ja miinus l&#xf5;pmatus ning m&#xe4;&#xe4;ramatus (NaN, not-a-number). Neid eriv&#xe4;&#xe4;rtusi t&#xe4;histavad vastavalt INF, -INF ja NaN. Null v&#xf5;ib s&#xf5;nes olla pluss- v&#xf5;i miinusm&#xe4;rgiga. N&#xe4;iteks -1E4, 1267.43233E12, 12.78e-2, 12 , -0, 0 ja INF on k&#xf5;ik ujukomaarvude lubatud literaalid.</skos:definition>
+      <skos:prefLabel xml:lang="en">Float</skos:prefLabel>
+      <skos:definition xml:lang="en">Single-precision 32-bit floating point type: The basic value space of float consists of the values m*2^e, where m is an integer whose absolute value is less than 2^24, and e is an integer between -149 and 104, inclusive. In addition, it also contains the following three special values: positive and negative infinity and not-a-number (NaN). The special values positive and negative infinity and not-a-number have lexical representations INF, -INF and NaN, respectively. Lexical representations for zero may take a positive or negative sign. For example, -1E4, 1267.43233E12, 12.78e-2, 12 , -0, 0 and INF are all legal literals for float.</skos:definition>
       <skos:prefLabel xml:lang="no">Float</skos:prefLabel>
       <skos:definition xml:lang="no">Single-precision 32-bit floating point type: Den grunnleggende verdirekkevidden til en float best&#xe5;r av verdiene m*2^e, hvor m er et heltall med absolutt verdi mindre enn 2^24 og e er et heltall mellom -149 og 104. I tillegg inneholder det ogs&#xe5; tre spesialverdier: positiv og negativ uendelig og not-a-number (NaN). Spesialverdiene positiv og negativ uendelig og not-a-number har leksikalsk representasjon INF, -INF og NaN, henholdsvis. Leksikalske representasjoner for null kan ha positivt eller negativt fortegn. For eksempel, -1E4, 1267.43233E12, 12.78e-2. -0. 0 og INF er alle lovlige uttrykk for float.</skos:definition>
    </rdf:Description>
@@ -255,10 +255,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">Double</skos:notation>
-      <skos:prefLabel xml:lang="en">Double</skos:prefLabel>
-      <skos:definition xml:lang="en">Double-precision 64-bit floating point type. The basic value space of double consists of the values m*2^e, where m is an integer whose absolute value is less than 2^53, and e is an integer between -1075 and 970, inclusive. In addition to the basic value space described above, the value space of double also contains the following three special values: positive and negative infinity and not-a-number (NaN). The special values positive and negative infinity and not-a-number have lexical representations INF, -INF and NaN, respectively. Lexical representations for zero may take a positive or negative sign. For example, -1E4, 1267.43233E12, 12.78e-2, 12 , -0, 0 and INF are all legal literals for double.</skos:definition>
       <skos:prefLabel xml:lang="et">Kahekordne ujukomaga arv</skos:prefLabel>
       <skos:definition xml:lang="et">Topeltt&#xe4;psusega 64-bitine ujukomaarv: topeltt&#xe4;psusega ujukomaarvu v&#xe4;&#xe4;rtusvahemik koosneb v&#xe4;&#xe4;rtustest m*2^e, kus m on t&#xe4;isarv absoluutv&#xe4;&#xe4;rtusega alla 2^53 ning e on t&#xe4;isarv vahemikus -1075 kuni 970 k.a. Lisaks eeltoodud v&#xe4;&#xe4;rtusvahemikule v&#xf5;ib topeltt&#xe4;psusega ujukomaarvul olla kolm eriv&#xe4;&#xe4;rtust: pluss ja miinus l&#xf5;pmatus ning m&#xe4;&#xe4;ramatus (NaN, not-a-number). Neid eriv&#xe4;&#xe4;rtusi t&#xe4;histavad vastavalt INF, -INF ja NaN. Null v&#xf5;ib olla s&#xf5;nes pluss- v&#xf5;i miinusm&#xe4;rgiga. N&#xe4;iteks -1E4, 1267.43233E12, 12.78e-2, 12 , -0, 0 ja INF on k&#xf5;ik topeltt&#xe4;psusega ujukomaarvude lubatud literaalid.</skos:definition>
+      <skos:prefLabel xml:lang="en">Double</skos:prefLabel>
+      <skos:definition xml:lang="en">Double-precision 64-bit floating point type. The basic value space of double consists of the values m*2^e, where m is an integer whose absolute value is less than 2^53, and e is an integer between -1075 and 970, inclusive. In addition to the basic value space described above, the value space of double also contains the following three special values: positive and negative infinity and not-a-number (NaN). The special values positive and negative infinity and not-a-number have lexical representations INF, -INF and NaN, respectively. Lexical representations for zero may take a positive or negative sign. For example, -1E4, 1267.43233E12, 12.78e-2, 12 , -0, 0 and INF are all legal literals for double.</skos:definition>
       <skos:prefLabel xml:lang="no">Double</skos:prefLabel>
       <skos:definition xml:lang="no">Double-precision 64-bit floating point type. Den grunnleggende verdirekkevidden til en double best&#xe5;r av verdiene m*2^e, hvor m er et heltall med absolutt verdi mindre enn 2^53, og e er et heltall mellom -1075 og 970. I tillegg til de grunnleggende verdiene beskrevet ovenfor, inneholder ogs&#xe5; verdirekkevidden til double ogs&#xe5; de f&#xf8;lgende tre spesialverdiene: positiv og negativ uendelig og not-a-number (NaN). Spesialverdiene positiv og negativ uendelig og not-a-number har leksikalske representasjon INF, -INF og NaN, henholdsvis. Leksikalske representasjoner for null kan ha positivt eller negativt fortegn. For eksempel, -1E4, 1267.43233E12, 12.78e-2, 12, -0, 0 og INF er alle lovlige uttrykk for double.</skos:definition>
    </rdf:Description>
@@ -266,10 +266,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">DateTime</skos:notation>
-      <skos:prefLabel xml:lang="en">DateTime</skos:prefLabel>
-      <skos:definition xml:lang="en">Integer-valued year, month, day, hour and minute, plus decimal-valued second property, and time zone hour and minute (e.g., 2002-10-10T12:00:00-05:00).</skos:definition>
       <skos:prefLabel xml:lang="et">Kuup&#xe4;ev ja aeg</skos:prefLabel>
       <skos:definition xml:lang="et">Aasta, kuu, p&#xe4;ev, tunnid ja minutid t&#xe4;isarvudena lisaks sekundid k&#xfc;mnendarvuna ning ajav&#xf6;&#xf6;ndi tunnid ja minutid (nt 2002-10-10T12:00:00-05:00).</skos:definition>
+      <skos:prefLabel xml:lang="en">DateTime</skos:prefLabel>
+      <skos:definition xml:lang="en">Integer-valued year, month, day, hour and minute, plus decimal-valued second property, and time zone hour and minute (e.g., 2002-10-10T12:00:00-05:00).</skos:definition>
       <skos:prefLabel xml:lang="no">DateTime</skos:prefLabel>
       <skos:definition xml:lang="no">Heltall verdi &#xe5;r, m&#xe5;ned, dag, time og minutt, pluss desimalverdi av sekunders egenskaper, og tidssone, time og minutt. (f.eks., 2002-10-10T12:00:00-05:00).</skos:definition>
    </rdf:Description>
@@ -277,10 +277,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">Time</skos:notation>
-      <skos:prefLabel xml:lang="en">Time</skos:prefLabel>
-      <skos:definition xml:lang="en">Left-truncated dateTime, e.g., 13:20:00-05:00 (1:20 pm for Eastern Standard Time U.S.).</skos:definition>
       <skos:prefLabel xml:lang="et">Aeg</skos:prefLabel>
       <skos:definition xml:lang="et">Vasakult l&#xf5;igatud DateTime v&#xe4;&#xe4;rtus, nt 13:20:00-05:00 (1:20 pm ajav&#xf6;&#xf6;ndis Eastern Standard Time U.S.).</skos:definition>
+      <skos:prefLabel xml:lang="en">Time</skos:prefLabel>
+      <skos:definition xml:lang="en">Left-truncated dateTime, e.g., 13:20:00-05:00 (1:20 pm for Eastern Standard Time U.S.).</skos:definition>
       <skos:prefLabel xml:lang="no">Tid</skos:prefLabel>
       <skos:definition xml:lang="no">Venstre avkortet dateTime, f.eks., 13:20:00-05:00 (13:20 for Eastern Standard Time U.S.).</skos:definition>
    </rdf:Description>
@@ -288,10 +288,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">Date</skos:notation>
-      <skos:prefLabel xml:lang="en">Date</skos:prefLabel>
-      <skos:definition xml:lang="en">Integer-valued year, month, day, and time zone hour and minutes, e.g., 2003-06-30-05:00 (30 June 2003 Eastern Standard Time U.S.).</skos:definition>
       <skos:prefLabel xml:lang="et">Kuup&#xe4;ev</skos:prefLabel>
       <skos:definition xml:lang="et">Aasta, kuu, p&#xe4;ev t&#xe4;isarvudena ning ajav&#xf6;&#xf6;ndi tunnid ja minutid, nt 2003-06-30-05:00 (30. juuni 2003 ajav&#xf6;&#xf6;ndis Eastern Standard Time U.S.).</skos:definition>
+      <skos:prefLabel xml:lang="en">Date</skos:prefLabel>
+      <skos:definition xml:lang="en">Integer-valued year, month, day, and time zone hour and minutes, e.g., 2003-06-30-05:00 (30 June 2003 Eastern Standard Time U.S.).</skos:definition>
       <skos:prefLabel xml:lang="no">Dato</skos:prefLabel>
       <skos:definition xml:lang="no">Heltall verdi &#xe5;r, m&#xe5;ned, dag og tidssone time og minutter, f.eks., 2003-06-30-05:00 (30 Juni 2003 Eastern Standard Time U.S.).</skos:definition>
    </rdf:Description>
@@ -299,10 +299,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">GYearMonth</skos:notation>
-      <skos:prefLabel xml:lang="en">YearMonth</skos:prefLabel>
-      <skos:definition xml:lang="en">Integer-valued year and month, e.g., 2004-11.</skos:definition>
       <skos:prefLabel xml:lang="et">Aasta ja kuu</skos:prefLabel>
       <skos:definition xml:lang="et">Aasta ja kuu numbriliste v&#xe4;&#xe4;rtustena (osana kuup&#xe4;evast), nt 2004-11.</skos:definition>
+      <skos:prefLabel xml:lang="en">YearMonth</skos:prefLabel>
+      <skos:definition xml:lang="en">Integer-valued year and month, e.g., 2004-11.</skos:definition>
       <skos:prefLabel xml:lang="no">YearMonth</skos:prefLabel>
       <skos:definition xml:lang="no">Heltall verdi &#xe5;r og m&#xe5;ned, f.eks., 2004-11.</skos:definition>
    </rdf:Description>
@@ -310,10 +310,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">GYear</skos:notation>
-      <skos:prefLabel xml:lang="en">Year</skos:prefLabel>
-      <skos:definition xml:lang="en">Integer-valued year, e.g., 2005.</skos:definition>
       <skos:prefLabel xml:lang="et">Aasta</skos:prefLabel>
       <skos:definition xml:lang="et">Aasta numbrilise v&#xe4;&#xe4;rtusena, nt 2005.</skos:definition>
+      <skos:prefLabel xml:lang="en">Year</skos:prefLabel>
+      <skos:definition xml:lang="en">Integer-valued year, e.g., 2005.</skos:definition>
       <skos:prefLabel xml:lang="no">&#xc5;r</skos:prefLabel>
       <skos:definition xml:lang="no">Heltall verdi &#xe5;r, f.eks., 2005.</skos:definition>
    </rdf:Description>
@@ -321,10 +321,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">GMonthDay</skos:notation>
-      <skos:prefLabel xml:lang="en">MonthDay</skos:prefLabel>
-      <skos:definition xml:lang="en">Integer-valued month and day, e.g., 12-31.</skos:definition>
       <skos:prefLabel xml:lang="et">Kuu ja p&#xe4;ev</skos:prefLabel>
       <skos:definition xml:lang="et">Kuu ja p&#xe4;ev numbriliste v&#xe4;&#xe4;rtustena (osana kuup&#xe4;evast), nt 12-31.</skos:definition>
+      <skos:prefLabel xml:lang="en">MonthDay</skos:prefLabel>
+      <skos:definition xml:lang="en">Integer-valued month and day, e.g., 12-31.</skos:definition>
       <skos:prefLabel xml:lang="no">MonthDay</skos:prefLabel>
       <skos:definition xml:lang="no">Heltall verdi m&#xe5;ned og dag, f.eks., 12-31.</skos:definition>
    </rdf:Description>
@@ -332,10 +332,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">GDay</skos:notation>
-      <skos:prefLabel xml:lang="en">Day</skos:prefLabel>
-      <skos:definition xml:lang="en">Integer-valued day, e.g., 24.</skos:definition>
       <skos:prefLabel xml:lang="et">P&#xe4;ev</skos:prefLabel>
       <skos:definition xml:lang="et">P&#xe4;ev numbrilise v&#xe4;&#xe4;rtusena, nt 24.</skos:definition>
+      <skos:prefLabel xml:lang="en">Day</skos:prefLabel>
+      <skos:definition xml:lang="en">Integer-valued day, e.g., 24.</skos:definition>
       <skos:prefLabel xml:lang="no">Dag</skos:prefLabel>
       <skos:definition xml:lang="no">Heltall verdi dag, f.eks., 24.</skos:definition>
    </rdf:Description>
@@ -343,10 +343,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">GMonth</skos:notation>
-      <skos:prefLabel xml:lang="en">Month</skos:prefLabel>
-      <skos:definition xml:lang="en">Integer-valued month, e.g., 03.</skos:definition>
       <skos:prefLabel xml:lang="et">Kuu</skos:prefLabel>
       <skos:definition xml:lang="et">Kuu numbrilise v&#xe4;&#xe4;rtusena, nt 03.</skos:definition>
+      <skos:prefLabel xml:lang="en">Month</skos:prefLabel>
+      <skos:definition xml:lang="en">Integer-valued month, e.g., 03.</skos:definition>
       <skos:prefLabel xml:lang="no">M&#xe5;ned</skos:prefLabel>
       <skos:definition xml:lang="no">Heltall verdi, f.eks., 03.</skos:definition>
    </rdf:Description>
@@ -354,10 +354,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">Duration</skos:notation>
-      <skos:prefLabel xml:lang="en">Duration</skos:prefLabel>
-      <skos:definition xml:lang="en">A duration of time. The value space of &quot;duration&quot; is a six-dimensional space in which the coordinates designate the Gregorian year, month, day, hour, minute, and second components as defined in ISO 8601. These components are ordered in their significance by their order of appearance as year, month, day, hour, minute, and second. The lexical representation of duration is the extended format PnYnMnDTnHnMnS, where P is the flag for duration (i.e., Period) and is constant, nY represents the number of years, nM the number of months, nD the number of days, T is the date/time separator, nH the number of hours, nM the number of minutes and nS the number of seconds. The number of seconds can include decimal digits to arbitrary precision. For example, to indicate a duration of 1 year, 2 months, 3 days, 10 hours, and 30 minutes, one would write: &quot;P1Y2M3DT10H30M.&quot; An optional preceding minus sign (&quot;-&quot;) is allowed, to indicate a negative duration: a duration of minus 120 days would be indicated as: &quot;-P120D&quot; (from: http://www.w3.org/TR/xmlschema-2/#duration).</skos:definition>
       <skos:prefLabel xml:lang="et">Periood</skos:prefLabel>
       <skos:definition xml:lang="et">Ajaperiood. &quot;Perioodi&quot; v&#xe4;&#xe4;rtusvahemik on kuuem&#xf5;&#xf5;tmeline: koordinaadid t&#xe4;histavad aastat, kuud, p&#xe4;eva, tunde, minuteid ja sekundeid Gregoriuse kalendri j&#xe4;rgi (vastavalt standardile ISO 8601). Need elemendid esitatakse j&#xe4;rjekorras suuremast v&#xe4;iksemani: aasta, kuu, p&#xe4;ev, tund, minut, sekund. Perioodi s&#xf5;ne on kujul PnYnMnDTnHnMnS, kus P m&#xe4;rgib Perioodi ja on konstant, nY v&#xe4;ljendab aastate arvu, nM kuude arvu, nD p&#xe4;evade arvu, T eraldab kuup&#xe4;eva ja kellaaega, nH v&#xe4;ljendab tundide arvu,  nM minutite arvu ja nS sekundite arvu. Sekundite arv v&#xf5;ib olla v&#xe4;ljendatud ka k&#xfc;mnendarvuna, et lisada v&#xe4;&#xe4;rtusele tinglikku t&#xe4;psust. N&#xe4;iteks, kui periood on 1 aasta, 2 kuud, 3 p&#xe4;eva, 10 tundi ja 30 minutit, kirjutatakse see &quot;P1Y2M3DT10H30M&quot;. Lubatud on miinusm&#xe4;rk (&quot;-&quot;) v&#xe4;&#xe4;rtuse ees, kui on vaja v&#xe4;ljendada negatiivset perioodi: ajaperiood miinus 120 p&#xe4;eva kirjutatakse siis &quot;-P120D&quot; (allikas: http://www.w3.org/TR/xmlschema-2/#duration). Ajaperiood. &quot;Perioodi&quot; v&#xe4;&#xe4;rtusvahemik on kuuem&#xf5;&#xf5;tmeline: koordinaadid t&#xe4;histavad aastat, kuud, p&#xe4;eva, tunde, minuteid ja sekundeid Gregoriuse kalendri j&#xe4;rgi (vastavalt standardile ISO 8601). Need elemendid esitatakse j&#xe4;rjekorras suuremast v&#xe4;iksemani: aasta, kuu, p&#xe4;ev, tund, minut, sekund. Perioodi s&#xf5;ne on kujul PnYnMnDTnHnMnS, kus P m&#xe4;rgib Perioodi ja on konstant, nY v&#xe4;ljendab aastate arvu, nM kuude arvu, nD p&#xe4;evade arvu, T eraldab kuup&#xe4;eva ja kellaaega, nH v&#xe4;ljendab tundide arvu,  nM minutite arvu ja nS sekundite arvu. Sekundite arv v&#xf5;ib olla v&#xe4;ljendatud ka k&#xfc;mnendarvuna, et lisada v&#xe4;&#xe4;rtusele tinglikku t&#xe4;psust. N&#xe4;iteks, kui periood on 1 aasta, 2 kuud, 3 p&#xe4;eva, 10 tundi ja 30 minutit, kirjutatakse see &quot;P1Y2M3DT10H30M&quot;. Lubatud on miinusm&#xe4;rk (&quot;-&quot;) v&#xe4;&#xe4;rtuse ees, kui on vaja v&#xe4;ljendada negatiivset perioodi: ajaperiood miinus 120 p&#xe4;eva kirjutatakse siis &quot;-P120D&quot; (allikas: http://www.w3.org/TR/xmlschema-2/#duration).</skos:definition>
+      <skos:prefLabel xml:lang="en">Duration</skos:prefLabel>
+      <skos:definition xml:lang="en">A duration of time. The value space of &quot;duration&quot; is a six-dimensional space in which the coordinates designate the Gregorian year, month, day, hour, minute, and second components as defined in ISO 8601. These components are ordered in their significance by their order of appearance as year, month, day, hour, minute, and second. The lexical representation of duration is the extended format PnYnMnDTnHnMnS, where P is the flag for duration (i.e., Period) and is constant, nY represents the number of years, nM the number of months, nD the number of days, T is the date/time separator, nH the number of hours, nM the number of minutes and nS the number of seconds. The number of seconds can include decimal digits to arbitrary precision. For example, to indicate a duration of 1 year, 2 months, 3 days, 10 hours, and 30 minutes, one would write: &quot;P1Y2M3DT10H30M.&quot; An optional preceding minus sign (&quot;-&quot;) is allowed, to indicate a negative duration: a duration of minus 120 days would be indicated as: &quot;-P120D&quot; (from: http://www.w3.org/TR/xmlschema-2/#duration).</skos:definition>
       <skos:prefLabel xml:lang="no">Varighet</skos:prefLabel>
       <skos:definition xml:lang="no">En varighet av tid. Verdirekkevidden til &quot;varighet&quot; er i seks dimensjoner som koordinerer det Gregorianske &#xe5;r, m&#xe5;ned, dag, time, minutt og sekund komponenter som er definert i ISO 8601. Disse komponentene er arrangert etter signifikans gjennom rekkef&#xf8;lgen &#xe5;r, m&#xe5;ned, dag, time, minutt og sekund. Den leksikalske representasjonen av varighet er i det utvidede formatet PnYnMnDTnHnMnS, hvor P er flagget for varighet (i.e., Period) og er konstant, nY representerer antall
 &#xe5;r, nM antall m&#xe5;neder, nD antall dager, T er dato/tid skilletegn, nH antall timer, nM antall minutter og nS antall sekunder. Antallet sekunder kan inkludere desimaltall til skj&#xf8;nnsmessig presisjon. For eksempel, for &#xe5; indikere en varighet p&#xe5; 1 &#xe5;r, 2 m&#xe5;neder, 3 dager, 10 timer og 30 minutter kan en skrive: &quot;P1Y2M3T10H30M.&quot; En valgfri foranledende minustegn (&quot;-&quot;) er tillatt, for &#xe5; indikere negativ varighet: en varighet p&#xe5; minus 120 dager vil bli indikert som &quot;-P120D&quot; (fra: http://www.w3.org/TR/xmlschema-2/#duration).</skos:definition>
@@ -366,10 +366,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">HexBinary</skos:notation>
-      <skos:prefLabel xml:lang="en">hexBinary</skos:prefLabel>
-      <skos:definition xml:lang="en">Even-lengthed sequence of hexadecimal digits representing an N times 8-bit integer.</skos:definition>
       <skos:prefLabel xml:lang="et">Hexbinaarne</skos:prefLabel>
       <skos:definition xml:lang="et">Paarisarvuline kuueteistk&#xfc;mnendnumbrite j&#xe4;rjend, mis v&#xe4;ljendab N korda 8-bitist t&#xe4;isarvu.</skos:definition>
+      <skos:prefLabel xml:lang="en">hexBinary</skos:prefLabel>
+      <skos:definition xml:lang="en">Even-lengthed sequence of hexadecimal digits representing an N times 8-bit integer.</skos:definition>
       <skos:prefLabel xml:lang="no">hexBinary</skos:prefLabel>
       <skos:definition xml:lang="no">Jevnlange sekvenser av heksadesimal sifre som representerer et N ganger 8-bit heltall.</skos:definition>
    </rdf:Description>
@@ -377,10 +377,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">Base64Binary</skos:notation>
-      <skos:prefLabel xml:lang="en">base64Binary</skos:prefLabel>
-      <skos:definition xml:lang="en">Sequence of multiples of four base64 digits, where each 4-tuple represents a 24-bit integer. Each digit (a-z, A-Z, 0-9, +, /) represents a 6-bit integer between 0 and 63.</skos:definition>
       <skos:prefLabel xml:lang="et">Base64-binaarne</skos:prefLabel>
       <skos:definition xml:lang="et">Neljast base64 m&#xe4;rgist koosnevate r&#xfc;hmade jada, kus iga nelik vastab 24-bitisele t&#xe4;isarvule. Iga m&#xe4;rk (a-z, A-Z, 0-9, +, /) t&#xe4;histab 6-bitist t&#xe4;isarvu vahemikus 0 kuni 63.</skos:definition>
+      <skos:prefLabel xml:lang="en">base64Binary</skos:prefLabel>
+      <skos:definition xml:lang="en">Sequence of multiples of four base64 digits, where each 4-tuple represents a 24-bit integer. Each digit (a-z, A-Z, 0-9, +, /) represents a 6-bit integer between 0 and 63.</skos:definition>
       <skos:prefLabel xml:lang="no">base64Binary</skos:prefLabel>
       <skos:definition xml:lang="no">Sekvens av multipler av fire base64 sifre, hvor hver 4-tuppel representerer et 24-bit heltall. Hvert siffer (a-z, A-Z, 0-9, +, /) representerer et 6-bit heltall mellom 0 og 63.</skos:definition>
    </rdf:Description>
@@ -388,10 +388,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">AnyURI</skos:notation>
-      <skos:prefLabel xml:lang="en">anyURI</skos:prefLabel>
-      <skos:definition xml:lang="en">A Uniform Resource Identifier such as ftp, http or mailto, e.g., http://www.w3.org/TR/xmlschema-2.</skos:definition>
       <skos:prefLabel xml:lang="et">URI</skos:prefLabel>
       <skos:definition xml:lang="et">&#xdc;htne ressursiidentifikaator, n&#xe4;iteks ftp, http v&#xf5;i mailto (vaata nt http://www.w3.org/TR/xmlschema-2).</skos:definition>
+      <skos:prefLabel xml:lang="en">anyURI</skos:prefLabel>
+      <skos:definition xml:lang="en">A Uniform Resource Identifier such as ftp, http or mailto, e.g., http://www.w3.org/TR/xmlschema-2.</skos:definition>
       <skos:prefLabel xml:lang="no">anyURI</skos:prefLabel>
       <skos:definition xml:lang="no">En Uniform Resource Identifier som ftp, http eller mailto, f.eks., http://www.w3.org/TR/xmlschema-2.</skos:definition>
    </rdf:Description>
@@ -399,10 +399,10 @@
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
       <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/DataType/1.1.2/"/>
       <skos:notation xml:lang="en">Other</skos:notation>
-      <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
-      <skos:definition xml:lang="en">Use if the data type is known, but not found in the list.</skos:definition>
       <skos:prefLabel xml:lang="et">Muu</skos:prefLabel>
       <skos:definition xml:lang="et">Kasutada, kui andmet&#xfc;&#xfc;p on teada, kuid puudub loendis.</skos:definition>
+      <skos:prefLabel xml:lang="en">Other</skos:prefLabel>
+      <skos:definition xml:lang="en">Use if the data type is known, but not found in the list.</skos:definition>
       <skos:prefLabel xml:lang="no">Annet</skos:prefLabel>
       <skos:definition xml:lang="no">Bruk hvis datatypen er kjent, men ikke er p&#xe5; listen.</skos:definition>
    </rdf:Description>

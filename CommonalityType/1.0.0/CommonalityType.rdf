@@ -4,65 +4,65 @@
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xmlns:dcterms="http://purl.org/dc/terms/"
 >
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.0/">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
       <dcterms:isVersionOf rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/"/>
       <skos:notation xml:lang="en">CommonalityType</skos:notation>
+      <dcterms:title xml:lang="pt">Tipo de converg&#xea;ncia/uniformidade</dcterms:title>
+      <dcterms:description xml:lang="pt">Descreve o grau de similitude entre dois itens ou esquemas.</dcterms:description>
+      <skos:prefLabel xml:lang="pt">Tipo de converg&#xea;ncia/uniformidade</skos:prefLabel>
       <dcterms:title xml:lang="en">Commonality Type</dcterms:title>
       <dcterms:description xml:lang="en">Describes the degree of similarity between two items or schemes (collections of items).</dcterms:description>
       <skos:prefLabel xml:lang="en">Commonality Type</skos:prefLabel>
       <dcterms:title xml:lang="no">Type ensartethet</dcterms:title>
       <dcterms:description xml:lang="no">Beskriver graden av likhet mellom to elementer eller skjemaer (samling av elementer)</dcterms:description>
       <skos:prefLabel xml:lang="no">Type ensartethet</skos:prefLabel>
-      <dcterms:title xml:lang="pt">Tipo de converg&#xea;ncia/uniformidade</dcterms:title>
-      <dcterms:description xml:lang="pt">Descreve o grau de similitude entre dois itens ou esquemas.</dcterms:description>
-      <skos:prefLabel xml:lang="pt">Tipo de converg&#xea;ncia/uniformidade</skos:prefLabel>
       <dcterms:title xml:lang="sr">Vrste sli&#x10d;nosti</dcterms:title>
       <dcterms:description xml:lang="sr">Opisuje stepen sli&#x10d;nosti izme&#x111;u dve stavke, predmeta ili &#x161;eme (zbirke stavki).</dcterms:description>
       <skos:prefLabel xml:lang="sr">Vrste sli&#x10d;nosti</skos:prefLabel>
-      <owl:versionInfo>1.0.2</owl:versionInfo>
+      <owl:versionInfo>1.0.1</owl:versionInfo>
       <dcterms:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
       <dcterms:rights>Copyright &#xa9;DDI Alliance 2019</dcterms:rights>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/b100297"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/695c6ae"/>
-      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/6adf97f"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.0/b100297"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.0/695c6ae"/>
+      <skos:hasTopConcept rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.0/6adf97f"/>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/b100297">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.0/b100297">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.0/"/>
       <skos:notation xml:lang="en">Identical</skos:notation>
+      <skos:prefLabel xml:lang="pt">Id&#xea;ntico</skos:prefLabel>
+      <skos:definition xml:lang="pt">Usar quando os itens comparados t&#xea;m conte&#xfa;do id&#xea;ntico. Para vari&#xe1;veis, por exemplo, todos os elementos da descri&#xe7;&#xe3;o de uma vari&#xe1;vel (nome da vari&#xe1;vel, label, texto da quest&#xe3;o, valores e c&#xf3;digos de categoria, universo, conceito) ser&#xe3;o id&#xea;nticos na forma.</skos:definition>
       <skos:prefLabel xml:lang="en">Identical</skos:prefLabel>
       <skos:definition xml:lang="en">Use when the compared items have identical content. For variables, for example, all the elements of a variable description (name, label, question text, category values and codes, universe, concept) will be identical in form.</skos:definition>
       <skos:prefLabel xml:lang="no">Identisk</skos:prefLabel>
       <skos:definition xml:lang="no">Bruk n&#xe5;r de sammenliknede elementene har identisk innhold. For variabler, for eksempel, alle elementene av en variabelbeskrivelse (navn, label, sp&#xf8;rsm&#xe5;lstekst, kategoriverdier og koder, univers og begrep) vil v&#xe6;re identiske i form.</skos:definition>
-      <skos:prefLabel xml:lang="pt">Id&#xea;ntico</skos:prefLabel>
-      <skos:definition xml:lang="pt">Usar quando os itens comparados t&#xea;m conte&#xfa;do id&#xea;ntico. Para vari&#xe1;veis, por exemplo, todos os elementos da descri&#xe7;&#xe3;o de uma vari&#xe1;vel (nome da vari&#xe1;vel, label, texto da quest&#xe3;o, valores e c&#xf3;digos de categoria, universo, conceito) ser&#xe3;o id&#xea;nticos na forma.</skos:definition>
       <skos:prefLabel xml:lang="sr">Istovetno / identi&#x10d;no</skos:prefLabel>
       <skos:definition xml:lang="sr">Koristite kada stavke koje poredite imaju identi&#x10d;an sadr&#x17e;aj. Na primer, za promenljive, svi elementi opisa promenljive (naziv, oznaka, tekst pitanja, vrednosti kategorije i kodovi, univerzum, koncept) su istovetni (identi&#x10d;ni).</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/695c6ae">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.0/695c6ae">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.0/"/>
       <skos:notation xml:lang="en">Some</skos:notation>
+      <skos:prefLabel xml:lang="pt">Algum</skos:prefLabel>
+      <skos:definition xml:lang="pt">Usar quando os itens comparados t&#xea;m conte&#xfa;do semelhante, mas n&#xe3;o id&#xea;ntico. Para vari&#xe1;veis, por exemplo, alguns dos elementos da descri&#xe7;&#xe3;o de uma vari&#xe1;vel (nome da vari&#xe1;vel, label, texto da quest&#xe3;o, valores e c&#xf3;digos de categoria, universo, conceito) ser&#xe3;o id&#xea;nticos na forma, enquanto outros ser&#xe3;o diferentes.</skos:definition>
       <skos:prefLabel xml:lang="en">Some</skos:prefLabel>
       <skos:definition xml:lang="en">Use when the compared items have similar but not identical content. For variables, for example, some of the elements of a variable description (name, label, question text, category values and codes, universe, concept) will be identical in form, while others will be different.</skos:definition>
       <skos:prefLabel xml:lang="no">Noen</skos:prefLabel>
       <skos:definition xml:lang="no">Bruk n&#xe5;r de sammenliknede elementene har like, men ikke identisk innhold. For variabler, for eksempel, noen av elementene i en variabelbeskrivelse (navn, label, sp&#xf8;rsm&#xe5;lstekst, kategorieverdier og koder, univers, begrep) vil ha identisk form, mens andre vil v&#xe6;re forskjellige.</skos:definition>
-      <skos:prefLabel xml:lang="pt">Algum</skos:prefLabel>
-      <skos:definition xml:lang="pt">Usar quando os itens comparados t&#xea;m conte&#xfa;do semelhante, mas n&#xe3;o id&#xea;ntico. Para vari&#xe1;veis, por exemplo, alguns dos elementos da descri&#xe7;&#xe3;o de uma vari&#xe1;vel (nome da vari&#xe1;vel, label, texto da quest&#xe3;o, valores e c&#xf3;digos de categoria, universo, conceito) ser&#xe3;o id&#xea;nticos na forma, enquanto outros ser&#xe3;o diferentes.</skos:definition>
       <skos:prefLabel xml:lang="sr">Delimi&#x10d;no</skos:prefLabel>
       <skos:definition xml:lang="sr">Koristite kada stavke koje poredite imaju sli&#x10d;an, ali ne identi&#x10d;an sadr&#x17e;aj. Na primer, za promenljive, neki elementi opisa promenljive (naziv, oznaka, tekst pitanja, vrednosti kategorije i kodovi, populacija, koncept) c&#x301;e biti istovetni (identi&#x10d;ni) po obliku, dok c&#x301;e drugi biti razli&#x10d;iti.</skos:definition>
    </rdf:Description>
-   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/6adf97f">
+   <rdf:Description rdf:about="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.0/6adf97f">
       <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
-      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.2/"/>
+      <skos:inScheme rdf:resource="http://rdf-vocabulary.ddialliance.org/cv/CommonalityType/1.0.0/"/>
       <skos:notation xml:lang="en">None</skos:notation>
+      <skos:prefLabel xml:lang="pt">Nenhum</skos:prefLabel>
+      <skos:definition xml:lang="pt">Normalmente n&#xe3;o &#xe9; usado, pois n&#xe3;o seria esperado comparar itens que n&#xe3;o t&#xea;m nada em comum. Este termo foi necess&#xe1;rio para completar as diferentes possibilidades de grau de similitude entre os itens e pode ser usado em casos especiais, consoante as necessidades do utilizador (por exemplo, quando a comparabilidade era expect&#xe1;vel, mas n&#xe3;o foi encontrada).</skos:definition>
       <skos:prefLabel xml:lang="en">None</skos:prefLabel>
       <skos:definition xml:lang="en">Normally not used, as it would not be expected to compare items that have nothing in common. This term was necessary to complete the commonality range, and may be used in special cases, as determined by user needs (for instance, when comparability was expected, but not found).</skos:definition>
       <skos:prefLabel xml:lang="no">Ingen</skos:prefLabel>
       <skos:definition xml:lang="no">Vanligvis ikke brukt ettersom en ikke forventer at en sammenlikner elementer som ikke har noe til felles. Dette utrykket var n&#xf8;dvendig for &#xe5; fullf&#xf8;re typene av ensartethet og kan bli brukt i spesielle tilfeller som bestemmes av brukerbehov (for eksempel, n&#xe5;r sammenliknbarhet var forventet, men ikke funnet).</skos:definition>
-      <skos:prefLabel xml:lang="pt">Nenhum</skos:prefLabel>
-      <skos:definition xml:lang="pt">Normalmente n&#xe3;o &#xe9; usado, pois n&#xe3;o seria esperado comparar itens que n&#xe3;o t&#xea;m nada em comum. Este termo foi necess&#xe1;rio para completar as diferentes possibilidades de grau de similitude entre os itens e pode ser usado em casos especiais, consoante as necessidades do utilizador (por exemplo, quando a comparabilidade era expect&#xe1;vel, mas n&#xe3;o foi encontrada).</skos:definition>
       <skos:prefLabel xml:lang="sr">Neuporedivo</skos:prefLabel>
       <skos:definition xml:lang="sr">Obi&#x10d;no se ne koristi, jer se ne bi moglo o&#x10d;ekivati pore&#x111;enje stavki koji nemaju ni&#x161;ta zajedni&#x10d;ko. Ovaj izraz je bio neophodan za kompletiranje op&#x161;teg raspona i mo&#x17e;e se upotrebljavati u posebnim slu&#x10d;ajevima, prema potrebama korisnika (na primer, kada se uporedivost o&#x10d;ekivala, ali nije prona&#x111;ena).</skos:definition>
    </rdf:Description>

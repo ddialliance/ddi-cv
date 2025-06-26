@@ -10,26 +10,26 @@
          <r:Version>2.1.2</r:Version>
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/</r:UserID>
          <r:Label>
-            <r:Content xml:lang="en">Summary Statistic Type</r:Content>
+            <r:Content xml:lang="sl">Vrsta zbirne statistike</r:Content>
+            <r:Content xml:lang="sv">Typ av sammanfattande statistik</r:Content>
             <r:Content xml:lang="fi">Tilastollisen tunnusluvun tyyppi</r:Content>
             <r:Content xml:lang="it">Tipo di statistiche riassuntive</r:Content>
+            <r:Content xml:lang="pt">Tipo de estatística sumária</r:Content>
+            <r:Content xml:lang="en">Summary Statistic Type</r:Content>
             <r:Content xml:lang="nl">Type samenvattende statistieken</r:Content>
             <r:Content xml:lang="no">Oppsummerende statistikk type</r:Content>
-            <r:Content xml:lang="pt">Tipo de estatística sumária</r:Content>
-            <r:Content xml:lang="sl">Vrsta zbirne statistike</r:Content>
             <r:Content xml:lang="sr">Vrsta zbirne statistike</r:Content>
-            <r:Content xml:lang="sv">Typ av sammanfattande statistik</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Specifies the type of summary statistic. Summary statistics are a single number representation of the characteristics of a set of values.</r:Content>
+            <r:Content xml:lang="sl">Določa vrsto zbirne statistike. Zbirna statistika je številka, s katero predstavimo značilnosti niza vrednosti.</r:Content>
+            <r:Content xml:lang="sv">Anger typ av sammanfattande statistik. Sammanfattande statistik är ett enda värde som representerar egenskaperna hos en mängd värden.</r:Content>
             <r:Content xml:lang="fi">Tilastolliset tunnusluvut kuvaavat tietyn arvojoukon, esimerkiksi otoksen havaintojen sisältämää informaatiota. Usein tunnusluvut ovat nimensä mukaisesti yksittäisiä lukuja.</r:Content>
             <r:Content xml:lang="it">Specifica il tipo di statistica riassuntiva. Tali statistiche sono una rappresentazione sintetica delle caratteristiche di un insieme di valori.</r:Content>
+            <r:Content xml:lang="pt">Especifica o tipo de estatística sumária. As estatísticas sumárias são medidas/números/valores usados para descrever as características de um conjunto de dados.</r:Content>
+            <r:Content xml:lang="en">Specifies the type of summary statistic. Summary statistics are a single number representation of the characteristics of a set of values.</r:Content>
             <r:Content xml:lang="nl">Beschrijft het type samenvattende statistieken. Samenvattende statistieken worden gebruikt om een ​​reeks waarnemingen samen te vatten in een getal.</r:Content>
             <r:Content xml:lang="no">Spesifiserer typen av oppsummerende statistikk. Oppsummerende statisitkk er en representasjon av et sett verdiers karakteristika representert ved et enkelt tall.</r:Content>
-            <r:Content xml:lang="pt">Especifica o tipo de estatística sumária. As estatísticas sumárias são medidas/números/valores usados para descrever as características de um conjunto de dados.</r:Content>
-            <r:Content xml:lang="sl">Določa vrsto zbirne statistike. Zbirna statistika je številka, s katero predstavimo značilnosti niza vrednosti.</r:Content>
             <r:Content xml:lang="sr">Određuje vrstu zbirne statistike. Zbirna statistika predstavlja jednoznačan broj karakteristika skupa vrednosti. </r:Content>
-            <r:Content xml:lang="sv">Anger typ av sammanfattande statistik. Sammanfattande statistik är ett enda värde som representerar egenskaperna hos en mängd värden.</r:Content>
          </r:Description>
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
@@ -613,26 +613,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/7975ed0</r:UserID>
          <l:CategoryName>ArithmeticMean</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Arithmetic mean</r:Content>
+            <r:Content xml:lang="sl">Aritmetična sredina</r:Content>
+            <r:Content xml:lang="sv">Aritmetiskt medelvärde</r:Content>
             <r:Content xml:lang="fi">Aritmeettinen keskiarvo</r:Content>
             <r:Content xml:lang="it">Media aritmetica</r:Content>
+            <r:Content xml:lang="pt">Média aritmética</r:Content>
+            <r:Content xml:lang="en">Arithmetic mean</r:Content>
             <r:Content xml:lang="nl">Rekenkundig gemiddelde</r:Content>
             <r:Content xml:lang="no">Aritmetisk gjennomsnitt</r:Content>
-            <r:Content xml:lang="pt">Média aritmética</r:Content>
-            <r:Content xml:lang="sl">Aritmetična sredina</r:Content>
             <r:Content xml:lang="sr">Aritmetička sredina</r:Content>
-            <r:Content xml:lang="sv">Aritmetiskt medelvärde</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Mathematical average of a set of values. The mean is calculated by adding up two or more values and dividing the total by their number. In social/political science, it is usually the sum of the measurements divided by the number of subjects, or cases.</r:Content>
+            <r:Content xml:lang="sl">Matematično povprečje množice vrednosti. Aritmetična sredina se izračuna tako, da se vsota dveh ali več vrednosti deli s številom vrednosti. V družbslovju/ politiologiji je običajno vsota meritev, deljena s številom udeležencev oziroma enot.</r:Content>
+            <r:Content xml:lang="sv">Det matematiska medelvärdet av en uppsättning värden. Medelvärdet beräknas genom att addera två eller flera värden och dividera summan med antalet värden. I samhällsvetenskap är det oftast summan av mätningarna dividerat med antalet subjekt eller fall.</r:Content>
             <r:Content xml:lang="fi">Arvojen matemaattinen keskiarvo. Keskiarvo lasketaan laskemalla kaksi tai useampi arvo yhteen ja jakamalla saatu summa arvojen määrällä. Yhteiskuntatieteissä keskiarvo on yleensä mittaustulosten summa jaettuna vastaajien/tapausten määrällä.</r:Content>
             <r:Content xml:lang="it">Media matematica di un insieme di valori. La media è calcolata sommando tutti i  valori e dividendo la somma per il loro numero. Nell'ambito delle scienze sociali/politiche identifica il valore medio della misura (ad esempio la somma dei punteggi diviso il numero di unità per cui il punteggio è disponibile).</r:Content>
+            <r:Content xml:lang="pt">Média matemática de um conjunto de valores. A média é calculada por meio da soma de dois ou mais valores, dividindo o total pelo seu número. Nas ciências sociais e políticas, geralmente é a soma das observações dividida pelo número de sujeitos, ou casos.</r:Content>
+            <r:Content xml:lang="en">Mathematical average of a set of values. The mean is calculated by adding up two or more values and dividing the total by their number. In social/political science, it is usually the sum of the measurements divided by the number of subjects, or cases.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Matematisk gjennomsnitt av et sett av verdier. Gjennomsnittet beregnes ved å legge sammen to eller flere verdier, og dele summen på antallet verdier. I samfunns-/statsvitenskap er det vanligvis summen av målingene delt på antall enheter eller tilfeller.</r:Content>
-            <r:Content xml:lang="pt">Média matemática de um conjunto de valores. A média é calculada por meio da soma de dois ou mais valores, dividindo o total pelo seu número. Nas ciências sociais e políticas, geralmente é a soma das observações dividida pelo número de sujeitos, ou casos.</r:Content>
-            <r:Content xml:lang="sl">Matematično povprečje množice vrednosti. Aritmetična sredina se izračuna tako, da se vsota dveh ali več vrednosti deli s številom vrednosti. V družbslovju/ politiologiji je običajno vsota meritev, deljena s številom udeležencev oziroma enot.</r:Content>
             <r:Content xml:lang="sr">Aritmetička sredina, srednja vrednost ili prosek je mera centralne tendencija skupa ili uzorka. Srednja vrednost izračunava se sabiranjem dve ili više vrednosti i deljenjem dobijenog zbira sa brojem elemenata u skupu ili uzorku. U društvenim naukama to je obično zbir mera (npr. visina plate ili visina učenika) podeljen sa brojem predmeta ili slučajeva (npr. broj zaposlenih, broj učenika).</r:Content>
-            <r:Content xml:lang="sv">Det matematiska medelvärdet av en uppsättning värden. Medelvärdet beräknas genom att addera två eller flera värden och dividera summan med antalet värden. I samhällsvetenskap är det oftast summan av mätningarna dividerat med antalet subjekt eller fall.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -644,26 +644,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/cd8ebb0</r:UserID>
          <l:CategoryName>GeometricMean</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Geometric mean</r:Content>
+            <r:Content xml:lang="sl">Geometrijska sredina</r:Content>
+            <r:Content xml:lang="sv">Geometriskt medelvärde</r:Content>
             <r:Content xml:lang="fi">Geometrinen keskiarvo</r:Content>
             <r:Content xml:lang="it">Media geometrica</r:Content>
+            <r:Content xml:lang="pt">Média geométrica</r:Content>
+            <r:Content xml:lang="en">Geometric mean</r:Content>
             <r:Content xml:lang="nl">Meetkundig gemiddelde</r:Content>
             <r:Content xml:lang="no">Geometrisk gjennomsnitt</r:Content>
-            <r:Content xml:lang="pt">Média geométrica</r:Content>
-            <r:Content xml:lang="sl">Geometrijska sredina</r:Content>
             <r:Content xml:lang="sr">Geometrijska sredina</r:Content>
-            <r:Content xml:lang="sv">Geometriskt medelvärde</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Average value of all data if extracting the nth root of the product of all (n) values. Rarely used in social sciences.</r:Content>
+            <r:Content xml:lang="sl">Povprečna vrednost vseh podatkov, če izpeljemo n-ti koren zmnožka vseh (n) vrednosti. V družboslovju se redko uporablja.</r:Content>
+            <r:Content xml:lang="sv">Medelvärdet av samtliga värden som man får genom att ta den n:te roten av produkten av alla (n) värden. Används sällan inom samhällsvetenskap.</r:Content>
             <r:Content xml:lang="fi">Keskiluku, jossa otetaan n. juuri kaikkien (n) arvojen tulosta. Käytetään harvoin yhteiskuntatieteissä.</r:Content>
             <r:Content xml:lang="it">Valore medio di tutti i dati se si estrae l'ennesima radice del prodotto di tutti i valori (n). Utilizzata raramente nelle scienze sociali.</r:Content>
+            <r:Content xml:lang="pt">Valor médio de todos os dados, extraindo a raiz n-ésima do produto de todos (n) os elementos. Raramente é usada nas ciências sociais.</r:Content>
+            <r:Content xml:lang="en">Average value of all data if extracting the nth root of the product of all (n) values. Rarely used in social sciences.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Gjennomsnittsverdi for alle data når en finner den n-te rot til alle (n) verdiene. Sjeldent brukt i samfunnsfag.</r:Content>
-            <r:Content xml:lang="pt">Valor médio de todos os dados, extraindo a raiz n-ésima do produto de todos (n) os elementos. Raramente é usada nas ciências sociais.</r:Content>
-            <r:Content xml:lang="sl">Povprečna vrednost vseh podatkov, če izpeljemo n-ti koren zmnožka vseh (n) vrednosti. V družboslovju se redko uporablja.</r:Content>
             <r:Content xml:lang="sr">Geometrijska sredina je mera centralne tendencije koja se računa kao n-ti koren proizvoda svih elemenata skupa podataka. Retko se koristi u društvenim naukama.</r:Content>
-            <r:Content xml:lang="sv">Medelvärdet av samtliga värden som man får genom att ta den n:te roten av produkten av alla (n) värden. Används sällan inom samhällsvetenskap.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -675,26 +675,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/71996c9</r:UserID>
          <l:CategoryName>HarmonicMean</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Harmonic mean</r:Content>
+            <r:Content xml:lang="sl">Harmonična sredina</r:Content>
+            <r:Content xml:lang="sv">Harmoniskt medelvärde</r:Content>
             <r:Content xml:lang="fi">Harmoninen keskiarvo</r:Content>
             <r:Content xml:lang="it">Media armonica</r:Content>
+            <r:Content xml:lang="pt">Média harmónica (ou média subcontrária)</r:Content>
+            <r:Content xml:lang="en">Harmonic mean</r:Content>
             <r:Content xml:lang="nl">Harmonisch gemiddelde</r:Content>
             <r:Content xml:lang="no">Harmonisk gjennomsnitt</r:Content>
-            <r:Content xml:lang="pt">Média harmónica (ou média subcontrária)</r:Content>
-            <r:Content xml:lang="sl">Harmonična sredina</r:Content>
             <r:Content xml:lang="sr">Harmonijska sredina</r:Content>
-            <r:Content xml:lang="sv">Harmoniskt medelvärde</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Average value of all data if calculating the reciprocal of the arithmetic mean of the reciprocal of values. Rarely used in social sciences.</r:Content>
+            <r:Content xml:lang="sl">Povprečna vrednost vseh podatkov, če izračunamo obratno vrednost aritmetične sredine obratnih vrednosti. V družboslovju se redko uporablja.</r:Content>
+            <r:Content xml:lang="sv">Medelvärdet av samtliga värden som fås genom att beräkna det inverterade aritmetiska medelvärdet av summan av alla inverterade värden. Används sällan inom samhällsvetenskap.</r:Content>
             <r:Content xml:lang="fi">Keskiluku, jossa lasketaan arvojen käänteislukujen aritmeettisen keskiarvon käänteisluku. Käytetään harvoin yhteiskuntatieteissä.</r:Content>
             <r:Content xml:lang="it">Valore medio di tutti i dati se si calcola il reciproco della media aritmetica del reciproco dei valori. Utilizzata raramente nelle scienze sociali.</r:Content>
+            <r:Content xml:lang="pt">Valor médio de todos os dados calculado como a razão entre o número de elementos e a soma do inverso desses elementos, ou seja, como a recíproca da média aritmética dos recíprocos dos valores. Raramente é usada nas ciências sociais.</r:Content>
+            <r:Content xml:lang="en">Average value of all data if calculating the reciprocal of the arithmetic mean of the reciprocal of values. Rarely used in social sciences.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Gjennomsnittsverdi av alle data hvis man beregener det tilsvarende av det aritmetiske gjennomsnittet av tilsvarende verdier. Sjelden brukt i samfunnsvitenskap.</r:Content>
-            <r:Content xml:lang="pt">Valor médio de todos os dados calculado como a razão entre o número de elementos e a soma do inverso desses elementos, ou seja, como a recíproca da média aritmética dos recíprocos dos valores. Raramente é usada nas ciências sociais.</r:Content>
-            <r:Content xml:lang="sl">Povprečna vrednost vseh podatkov, če izračunamo obratno vrednost aritmetične sredine obratnih vrednosti. V družboslovju se redko uporablja.</r:Content>
             <r:Content xml:lang="sr">Harmonijska sredina je recipročna vrednost aritmetičke sredine recipročnih vrednosti skupa elemenata.</r:Content>
-            <r:Content xml:lang="sv">Medelvärdet av samtliga värden som fås genom att beräkna det inverterade aritmetiska medelvärdet av summan av alla inverterade värden. Används sällan inom samhällsvetenskap.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -706,26 +706,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/17ff276</r:UserID>
          <l:CategoryName>TrimmedMean</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Trimmed mean</r:Content>
+            <r:Content xml:lang="sl">Modificirana aritemtična sredina</r:Content>
+            <r:Content xml:lang="sv">Trunkerat medelvärde</r:Content>
             <r:Content xml:lang="fi">Leikattu keskiarvo</r:Content>
             <r:Content xml:lang="it">Media troncata</r:Content>
+            <r:Content xml:lang="pt">Média aparada</r:Content>
+            <r:Content xml:lang="en">Trimmed mean</r:Content>
             <r:Content xml:lang="nl">Getrimd gemiddelde</r:Content>
             <r:Content xml:lang="no">Trimmet gjennomsnitt</r:Content>
-            <r:Content xml:lang="pt">Média aparada</r:Content>
-            <r:Content xml:lang="sl">Modificirana aritemtična sredina</r:Content>
             <r:Content xml:lang="sr">Skraćena srednja vrednosti</r:Content>
-            <r:Content xml:lang="sv">Trunkerat medelvärde</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The (arithmetic) mean calculated after discarding given parts of observations at the high and low end (e.g., interquartile mean when the lowest 25% and the highest 25% are discarded, and the mean of the remaining values is calculated).</r:Content>
+            <r:Content xml:lang="sl">(Aritmetična) sredina, izračunana po odstranitvi najvišjih in najnižjih vrednosti opazovanj (npr. interkvartilna sredina, kjer odstranimo najnižjih 25% in najvišjih 25% vrednosti, nato pa izračunamo aritmetično sredino preostalih vrednosti).</r:Content>
+            <r:Content xml:lang="sv">Det aritmetiska medelvärdet beräknat efter att man tagit bort givna delar av de höga och låga observationerna (t.ex. medelvärdet för kvartilavståndet, när de lägsta 25 % och de högsta 25 % räknats bort och medelvärdet av de återstående värdena beräknas).</r:Content>
             <r:Content xml:lang="fi">(Aritmeettinen) keskiarvo, joka lasketaan sen jälkeen, kun tietty osa havaintoarvoista on jätetty pois (leikattu) (esim. kvartiilivälin keskiarvo, jossa ylä- ja alakvartiileille eli ylimpään ja alimpaan 25 %:iin asettuvat havaintoarvot jätetään pois ja jäljelle jäävistä arvoista lasketaan keskiarvo).</r:Content>
             <r:Content xml:lang="it">La media (aritmetica) calcolata senza considerare parte delle osservazioni che nella sequenza ordinata si trovano  all'estremità  superiore e inferiore (ad esempio, la media interquartile è calcolata sulle osservazioni centrali della distribuzione ordinata eludendo il  25% di quelle più basse ed il 25% di quelle più alte).</r:Content>
+            <r:Content xml:lang="pt">A média (aritmética) calculada após excluir determinada percentagem dos valores mais altos e mais baixos (por exemplo, a média interquartil quando os 25% mais baixos e os 25% mais altos são descartados e a média dos valores restantes é calculada).</r:Content>
+            <r:Content xml:lang="en">The (arithmetic) mean calculated after discarding given parts of observations at the high and low end (e.g., interquartile mean when the lowest 25% and the highest 25% are discarded, and the mean of the remaining values is calculated).</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Det (aritmetiske) gjennomsnittet beregnet etter å ha fjernet deler av observasjonene ved den høye og den lave enden (f.eks. interkvartilgjennomsnittet når de laveste 25% og de høyeste 25% fjernes, og gjennomsnittet av de gjenværende verdier beregnes).</r:Content>
-            <r:Content xml:lang="pt">A média (aritmética) calculada após excluir determinada percentagem dos valores mais altos e mais baixos (por exemplo, a média interquartil quando os 25% mais baixos e os 25% mais altos são descartados e a média dos valores restantes é calculada).</r:Content>
-            <r:Content xml:lang="sl">(Aritmetična) sredina, izračunana po odstranitvi najvišjih in najnižjih vrednosti opazovanj (npr. interkvartilna sredina, kjer odstranimo najnižjih 25% in najvišjih 25% vrednosti, nato pa izračunamo aritmetično sredino preostalih vrednosti).</r:Content>
             <r:Content xml:lang="sr">(Aritmetička) srednja vrednost izračunata nakon odbacivanja ekstremnih vrednosti u skupu ili uzorku, tzv. autlajera (npr. Interkvartilna srednja vrednost kada se odbace najniža 25% i najviša 25%, a izračunava se srednja vrednost preostalih vrednosti).</r:Content>
-            <r:Content xml:lang="sv">Det aritmetiska medelvärdet beräknat efter att man tagit bort givna delar av de höga och låga observationerna (t.ex. medelvärdet för kvartilavståndet, när de lägsta 25 % och de högsta 25 % räknats bort och medelvärdet av de återstående värdena beräknas).</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -737,26 +737,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/2c03973</r:UserID>
          <l:CategoryName>StandardErrorOfMean</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Standard error of the mean</r:Content>
+            <r:Content xml:lang="sl">Standardna napaka aritmetične sredine</r:Content>
+            <r:Content xml:lang="sv">Standardfel för medelvärdet</r:Content>
             <r:Content xml:lang="fi">Keskiarvon keskivirhe</r:Content>
             <r:Content xml:lang="it">Errore standard della media</r:Content>
+            <r:Content xml:lang="pt">Erro padrão da média</r:Content>
+            <r:Content xml:lang="en">Standard error of the mean</r:Content>
             <r:Content xml:lang="nl">Standaardfout</r:Content>
             <r:Content xml:lang="no">Standardfeil for gjennomsnittet</r:Content>
-            <r:Content xml:lang="pt">Erro padrão da média</r:Content>
-            <r:Content xml:lang="sl">Standardna napaka aritmetične sredine</r:Content>
             <r:Content xml:lang="sr">Standardna greška srednje vrednosti</r:Content>
-            <r:Content xml:lang="sv">Standardfel för medelvärdet</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Provides an estimate of how much the sample mean differs from the actual mean of the population.</r:Content>
+            <r:Content xml:lang="sl">Standardna napaka (aritmetične) sredine.</r:Content>
+            <r:Content xml:lang="sv">Ger en uppskattning av hur mycket medelvärdet för ett urval avviker från medelvärdet för hela populationen.</r:Content>
             <r:Content xml:lang="fi">Antaa arvion siitä, kuinka paljon otoksesta saatu keskiarvo poikkeaa väestön tosiasiallisesta keskiarvosta.</r:Content>
             <r:Content xml:lang="it">Fornisce una stima di quanto la media campionaria differisce dalla media effettiva della popolazione.</r:Content>
+            <r:Content xml:lang="pt">Fornece uma estimativa de quanto a média da amostra difere da média real da população.</r:Content>
+            <r:Content xml:lang="en">Provides an estimate of how much the sample mean differs from the actual mean of the population.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Gir et estimat av hvor mye utvalgets gjennomsnitt varierer fra det faktiske populasjonsgjennomsnittet.</r:Content>
-            <r:Content xml:lang="pt">Fornece uma estimativa de quanto a média da amostra difere da média real da população.</r:Content>
-            <r:Content xml:lang="sl">Standardna napaka (aritmetične) sredine.</r:Content>
             <r:Content xml:lang="sr">Daje procenu koliko se prosečna vrednost uzorka razlikuje od stvarne prosečne vrednosti populacije.</r:Content>
-            <r:Content xml:lang="sv">Ger en uppskattning av hur mycket medelvärdet för ett urval avviker från medelvärdet för hela populationen.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -768,26 +768,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/650be61</r:UserID>
          <l:CategoryName>Mode</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Mode</r:Content>
+            <r:Content xml:lang="sl">Modus (Mo)</r:Content>
+            <r:Content xml:lang="sv">Typvärde</r:Content>
             <r:Content xml:lang="fi">Moodi</r:Content>
             <r:Content xml:lang="it">Moda</r:Content>
+            <r:Content xml:lang="pt">Moda</r:Content>
+            <r:Content xml:lang="en">Mode</r:Content>
             <r:Content xml:lang="nl">Modus</r:Content>
             <r:Content xml:lang="no">Modus</r:Content>
-            <r:Content xml:lang="pt">Moda</r:Content>
-            <r:Content xml:lang="sl">Modus (Mo)</r:Content>
             <r:Content xml:lang="sr">Modus</r:Content>
-            <r:Content xml:lang="sv">Typvärde</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The most frequently observed data value (Statistics Canada).</r:Content>
+            <r:Content xml:lang="sl">Najpogosteje izmerjena vrednost podatkov (Statistics Canada).</r:Content>
+            <r:Content xml:lang="sv">Det mest frekvent observerade datavärdet.</r:Content>
             <r:Content xml:lang="fi">Moodi ilmoittaa, mikä on muuttujan jakauman huippukohta eli eniten tapauksia sisältävä luokka (Tilastokeskus).</r:Content>
             <r:Content xml:lang="it">Valore a cui corrisponde la massima frequenza.</r:Content>
+            <r:Content xml:lang="pt">O valor observado com mais frequência num conjunto de dados.</r:Content>
+            <r:Content xml:lang="en">The most frequently observed data value (Statistics Canada).</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Verdien som er observert flest ganger.</r:Content>
-            <r:Content xml:lang="pt">O valor observado com mais frequência num conjunto de dados.</r:Content>
-            <r:Content xml:lang="sl">Najpogosteje izmerjena vrednost podatkov (Statistics Canada).</r:Content>
             <r:Content xml:lang="sr">Vrednost koja se u skupu ili uzorku najčešće pojavljuje.</r:Content>
-            <r:Content xml:lang="sv">Det mest frekvent observerade datavärdet.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -799,26 +799,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/66851a3</r:UserID>
          <l:CategoryName>Median</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Median</r:Content>
+            <r:Content xml:lang="sl">Mediana (Mdn)</r:Content>
+            <r:Content xml:lang="sv">Median</r:Content>
             <r:Content xml:lang="fi">Mediaani</r:Content>
             <r:Content xml:lang="it">Mediana</r:Content>
+            <r:Content xml:lang="pt">Mediana</r:Content>
+            <r:Content xml:lang="en">Median</r:Content>
             <r:Content xml:lang="nl">Mediaan</r:Content>
             <r:Content xml:lang="no">Median</r:Content>
-            <r:Content xml:lang="pt">Mediana</r:Content>
-            <r:Content xml:lang="sl">Mediana (Mdn)</r:Content>
             <r:Content xml:lang="sr">Medijana</r:Content>
-            <r:Content xml:lang="sv">Median</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The middle value in a set of values arranged in ascending order. Half of the values fall below the median, and half above it. If the set has an even number of values, the median will be the average of the two middle ones.</r:Content>
+            <r:Content xml:lang="sl">Vrednosti, pod katerimi in nad katerimi je polovica vrednosti porazdelitve (50. percentil).</r:Content>
+            <r:Content xml:lang="sv">Värdena som ligger mellan övre och undre hälften av värdena i en fördelning (50: e percentilen).</r:Content>
             <r:Content xml:lang="fi">Jakauman keskimmäinen havaintoarvo, kun havainnot on järjestetty suuruusjärjestykseen (Tilastokeskus). Puolet jakauman arvoista sijoittuu mediaanin alle ja puolet sen ylle.</r:Content>
             <r:Content xml:lang="it">Il valore medio di un insieme di valori disposti in ordine crescente. Metà dei valori si trova al di sotto della mediana e metà al di sopra di essa. Se l'insieme ha un numero pari di valori, la mediana sarà pari alla media dei due valori centrali.</r:Content>
+            <r:Content xml:lang="pt">O valor do meio de um conjunto de dados organizado por ordem ascendente. Metade dos valores estão abaixo da mediana e a outra metade acima. Se o conjunto tiver um número par de valores, a mediana será a média dos dois valores do meio.</r:Content>
+            <r:Content xml:lang="en">The middle value in a set of values arranged in ascending order. Half of the values fall below the median, and half above it. If the set has an even number of values, the median will be the average of the two middle ones.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Midtverdien i et sett av verdier arrangert i stigende rekkefølge. Halvparten av verdiene er under medianen og halvparten over den. Hvis antallet verdier i settet er et partall vil medianen være gjennomsnittet av de to midterste verdiene.</r:Content>
-            <r:Content xml:lang="pt">O valor do meio de um conjunto de dados organizado por ordem ascendente. Metade dos valores estão abaixo da mediana e a outra metade acima. Se o conjunto tiver um número par de valores, a mediana será a média dos dois valores do meio.</r:Content>
-            <r:Content xml:lang="sl">Vrednosti, pod katerimi in nad katerimi je polovica vrednosti porazdelitve (50. percentil).</r:Content>
             <r:Content xml:lang="sr">Medijana razdvaja gornju polovinu skupa ili uzorka, od donje polovine, pri čemu vrednosti moraju biti raspoređene u rastućem nizu. Ukoliko skup ima parni broj vrednosti, središnja vrednost (medijana) će biti prosek dve središnje vrednosti.</r:Content>
-            <r:Content xml:lang="sv">Värdena som ligger mellan övre och undre hälften av värdena i en fördelning (50: e percentilen).</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -830,26 +830,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/c646dd8</r:UserID>
          <l:CategoryName>ValidCases</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Valid cases</r:Content>
+            <r:Content xml:lang="sl">Veljavne enote</r:Content>
+            <r:Content xml:lang="sv">Giltiga fall</r:Content>
             <r:Content xml:lang="fi">Validit havainnot</r:Content>
             <r:Content xml:lang="it">Casi validi</r:Content>
+            <r:Content xml:lang="pt">Casos válidos</r:Content>
+            <r:Content xml:lang="en">Valid cases</r:Content>
             <r:Content xml:lang="nl">Geldige gevallen</r:Content>
             <r:Content xml:lang="no">Gyldige tilfeller</r:Content>
-            <r:Content xml:lang="pt">Casos válidos</r:Content>
-            <r:Content xml:lang="sl">Veljavne enote</r:Content>
             <r:Content xml:lang="sr">Ispravni (validni) slučajevi</r:Content>
-            <r:Content xml:lang="sv">Giltiga fall</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Cases with observations which are considered to be valid, i.e., providing substantial information and to be included for calculation.</r:Content>
+            <r:Content xml:lang="sl">Enote z opazovanji, ki jih štejemo za veljavne, npr. prinašajo bistvene informacije in jih vključimo v analizo.</r:Content>
+            <r:Content xml:lang="sv">Fall med observationer som anses vara giltiga, dvs. ger betydande information och ska ingå i beräkningar.</r:Content>
             <r:Content xml:lang="fi">Havainnot, joiden katsotaan olevan valideja tai 'oikeita', eli ne tarjoavat olennaista tietoa ja sisällytetään analyyseihin.</r:Content>
             <r:Content xml:lang="it">Valori considerati ammissibili per lo studio, e che pertanto forniscono informazioni sostanziali nelle analisi dei dati.</r:Content>
+            <r:Content xml:lang="pt">Casos com observações consideradas válidas, isto é, fornecendo informações substanciais e a serem incluídas nos cálculos.</r:Content>
+            <r:Content xml:lang="en">Cases with observations which are considered to be valid, i.e., providing substantial information and to be included for calculation.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Observerte tilfeller som er ansett for å være gyldige, dvs. gir vesentlig informasjon og skal inngå i beregninger.</r:Content>
-            <r:Content xml:lang="pt">Casos com observações consideradas válidas, isto é, fornecendo informações substanciais e a serem incluídas nos cálculos.</r:Content>
-            <r:Content xml:lang="sl">Enote z opazovanji, ki jih štejemo za veljavne, npr. prinašajo bistvene informacije in jih vključimo v analizo.</r:Content>
             <r:Content xml:lang="sr">Slučajevi sa opservacijama za koja se smatra da su ispravni, tj. da daju značajne informacije i da mogu biti uključeni se u dalju analizu.</r:Content>
-            <r:Content xml:lang="sv">Fall med observationer som anses vara giltiga, dvs. ger betydande information och ska ingå i beräkningar.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -861,26 +861,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/6459c62</r:UserID>
          <l:CategoryName>InvalidCases</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Invalid cases</r:Content>
+            <r:Content xml:lang="sl">Neveljavne enote</r:Content>
+            <r:Content xml:lang="sv">Ogiltiga fall</r:Content>
             <r:Content xml:lang="fi">Puuttuvat havainnot</r:Content>
             <r:Content xml:lang="it">Casi non validi</r:Content>
+            <r:Content xml:lang="pt">Casos inválidos</r:Content>
+            <r:Content xml:lang="en">Invalid cases</r:Content>
             <r:Content xml:lang="nl">Ongeldige gevallen</r:Content>
             <r:Content xml:lang="no">Ugyldige tilfeller</r:Content>
-            <r:Content xml:lang="pt">Casos inválidos</r:Content>
-            <r:Content xml:lang="sl">Neveljavne enote</r:Content>
             <r:Content xml:lang="sr">Neispravni (nevalidni) slučajevi</r:Content>
-            <r:Content xml:lang="sv">Ogiltiga fall</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Cases which are considered/defined as "missing" (e.g., not ascertained, not applicable, etc.), usually excluded from calculation.</r:Content>
+            <r:Content xml:lang="sl">Enote, ki jih obravnavamo/opredelimo kot 'manjkajoče' (npr. niso določene, se ne uporabljajo, itd.), običajno so izključene iz analiz.</r:Content>
+            <r:Content xml:lang="sv">Fall som betraktas/definieras som "saknade" (t.ex. inte fastställda, inte tillämpliga osv.), vanligtvis uteslutna ur beräkningar.</r:Content>
             <r:Content xml:lang="fi">Havainnot, joiden katsotaan olevan puuttuvia (esim. tyhjäksi jätetty vastaus, näppäilyvirhe jne.) ja jotka yleensä jätetään huomioimatta analyyseissä.</r:Content>
             <r:Content xml:lang="it">Valori non considerati ammissibili per lo studio (ad esempio, non accertati, non applicabili, ecc.) e che pertanto vengono esclusi  nelle analisi dei dati.</r:Content>
+            <r:Content xml:lang="pt">Casos considerados ou definidos como "missing values" (por exemplo, dados não apurados, não aplicáveis, etc.), geralmente excluídos dos cálculos.</r:Content>
+            <r:Content xml:lang="en">Cases which are considered/defined as "missing" (e.g., not ascertained, not applicable, etc.), usually excluded from calculation.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Observerte tilfeller som er ansett/definert som 'missing' (f.eks. ikke konstantert, ikke aktuelle etc.), vanligvis fjernet fra beregningene.</r:Content>
-            <r:Content xml:lang="pt">Casos considerados ou definidos como "missing values" (por exemplo, dados não apurados, não aplicáveis, etc.), geralmente excluídos dos cálculos.</r:Content>
-            <r:Content xml:lang="sl">Enote, ki jih obravnavamo/opredelimo kot 'manjkajoče' (npr. niso določene, se ne uporabljajo, itd.), običajno so izključene iz analiz.</r:Content>
             <r:Content xml:lang="sr">Slučajevi koji se smatraju / definišu kao "nedostajući" (npr. nisu utvrđeni, nisu primenljivi, itd.), najčešće se isključuju iz analize.</r:Content>
-            <r:Content xml:lang="sv">Fall som betraktas/definieras som "saknade" (t.ex. inte fastställda, inte tillämpliga osv.), vanligtvis uteslutna ur beräkningar.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -892,26 +892,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/a1d0ec6</r:UserID>
          <l:CategoryName>Minimum</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Minimum</r:Content>
+            <r:Content xml:lang="sl">Minimum</r:Content>
+            <r:Content xml:lang="sv">Minimum</r:Content>
             <r:Content xml:lang="fi">Minimi</r:Content>
             <r:Content xml:lang="it">Minimo</r:Content>
+            <r:Content xml:lang="pt">Mínimo</r:Content>
+            <r:Content xml:lang="en">Minimum</r:Content>
             <r:Content xml:lang="nl">Minimum</r:Content>
             <r:Content xml:lang="no">Minimum</r:Content>
-            <r:Content xml:lang="pt">Mínimo</r:Content>
-            <r:Content xml:lang="sl">Minimum</r:Content>
             <r:Content xml:lang="sr">Minimum</r:Content>
-            <r:Content xml:lang="sv">Minimum</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The lowest valid value in a variable.</r:Content>
+            <r:Content xml:lang="sl">Najnižja veljavna vrednost spremenljivke.</r:Content>
+            <r:Content xml:lang="sv">Det lägsta giltiga värdet i en variabel.</r:Content>
             <r:Content xml:lang="fi">Alin validi muuttujan arvo.</r:Content>
             <r:Content xml:lang="it">Il valore valido più basso assunto da una variabile.</r:Content>
+            <r:Content xml:lang="pt">O menor valor válido de uma variável.</r:Content>
+            <r:Content xml:lang="en">The lowest valid value in a variable.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Den laveste gyldige verdien i en variabel.</r:Content>
-            <r:Content xml:lang="pt">O menor valor válido de uma variável.</r:Content>
-            <r:Content xml:lang="sl">Najnižja veljavna vrednost spremenljivke.</r:Content>
             <r:Content xml:lang="sr">Najniža ispravna vrednost promenljive.</r:Content>
-            <r:Content xml:lang="sv">Det lägsta giltiga värdet i en variabel.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -923,26 +923,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/8321e79</r:UserID>
          <l:CategoryName>Maximum</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Maximum</r:Content>
+            <r:Content xml:lang="sl">Maksimum</r:Content>
+            <r:Content xml:lang="sv">Maximum</r:Content>
             <r:Content xml:lang="fi">Maksimi</r:Content>
             <r:Content xml:lang="it">Massimo</r:Content>
+            <r:Content xml:lang="pt">Máximo</r:Content>
+            <r:Content xml:lang="en">Maximum</r:Content>
             <r:Content xml:lang="nl">Maximum</r:Content>
             <r:Content xml:lang="no">Maksimum</r:Content>
-            <r:Content xml:lang="pt">Máximo</r:Content>
-            <r:Content xml:lang="sl">Maksimum</r:Content>
             <r:Content xml:lang="sr">Maksimum</r:Content>
-            <r:Content xml:lang="sv">Maximum</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The highest valid value in a variable.</r:Content>
+            <r:Content xml:lang="sl">Najvišja veljavna vrednost spremenljivke.</r:Content>
+            <r:Content xml:lang="sv">Det högsta giltiga värdet i en variabel.</r:Content>
             <r:Content xml:lang="fi">Ylin validi muuttujan arvo.</r:Content>
             <r:Content xml:lang="it">Il valore valido più alto assunto da una variabile.</r:Content>
+            <r:Content xml:lang="pt">O maior valor válido de uma variável.</r:Content>
+            <r:Content xml:lang="en">The highest valid value in a variable.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Den høyeste gyldige verdien i en variabel.</r:Content>
-            <r:Content xml:lang="pt">O maior valor válido de uma variável.</r:Content>
-            <r:Content xml:lang="sl">Najvišja veljavna vrednost spremenljivke.</r:Content>
             <r:Content xml:lang="sr">Najviša ispravna vrednost promenljive.</r:Content>
-            <r:Content xml:lang="sv">Det högsta giltiga värdet i en variabel.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -954,26 +954,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/87ba2ec</r:UserID>
          <l:CategoryName>Range</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Range</r:Content>
+            <r:Content xml:lang="sl">Rang</r:Content>
+            <r:Content xml:lang="sv">Variationsvidd</r:Content>
             <r:Content xml:lang="fi">Vaihteluväli</r:Content>
             <r:Content xml:lang="it">Intervallo</r:Content>
+            <r:Content xml:lang="pt">Intervalo</r:Content>
+            <r:Content xml:lang="en">Range</r:Content>
             <r:Content xml:lang="nl">Bereik</r:Content>
             <r:Content xml:lang="no">Variasjonsbredde</r:Content>
-            <r:Content xml:lang="pt">Intervalo</r:Content>
-            <r:Content xml:lang="sl">Rang</r:Content>
             <r:Content xml:lang="sr">Raspon / opseg</r:Content>
-            <r:Content xml:lang="sv">Variationsvidd</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The range of valid values, i.e., all values that fall between the lowest and highest valid values.</r:Content>
+            <r:Content xml:lang="sl">Razpon veljavnih vrednosti, to je vseh vrednosti med najnižjo in najvišjo veljavno vrednostjo.</r:Content>
+            <r:Content xml:lang="sv">Variationsvidden av giltiga värden, dvs. alla värden som faller mellan det lägsta och det högsta giltiga värdet.</r:Content>
             <r:Content xml:lang="fi">Validien arvojen vaihteluväli, eli alimman ja ylimmän arvon väliin asettuvat arvot, ts. muuttujan suurimman ja pienimmän arvon välimatka.</r:Content>
             <r:Content xml:lang="it">L'intervallo di valori validi, ossia tutti i valori compresi tra il più basso e il più alto dei valori validi.</r:Content>
+            <r:Content xml:lang="pt">O intervalo de valores válidos, ou seja, todos os valores que se encontram entre os valores válidos mais baixo e mais alto.</r:Content>
+            <r:Content xml:lang="en">The range of valid values, i.e., all values that fall between the lowest and highest valid values.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Variasjonsbredden av gyldige verdier, dvs. alle verdier som befinner seg mellom den høyeste og laveste gyldige verdien.</r:Content>
-            <r:Content xml:lang="pt">O intervalo de valores válidos, ou seja, todos os valores que se encontram entre os valores válidos mais baixo e mais alto.</r:Content>
-            <r:Content xml:lang="sl">Razpon veljavnih vrednosti, to je vseh vrednosti med najnižjo in najvišjo veljavno vrednostjo.</r:Content>
             <r:Content xml:lang="sr">Raspon ispravnih vrednosti, tj. razlika između najviše i najniže vrednosti u skupu ili uzorku.</r:Content>
-            <r:Content xml:lang="sv">Variationsvidden av giltiga värden, dvs. alla värden som faller mellan det lägsta och det högsta giltiga värdet.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -985,26 +985,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/a0ec870</r:UserID>
          <l:CategoryName>Sum</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Sum</r:Content>
+            <r:Content xml:lang="sl">Vsota</r:Content>
+            <r:Content xml:lang="sv">Summa</r:Content>
             <r:Content xml:lang="fi">Summa</r:Content>
             <r:Content xml:lang="it">Somma</r:Content>
+            <r:Content xml:lang="pt">Soma</r:Content>
+            <r:Content xml:lang="en">Sum</r:Content>
             <r:Content xml:lang="nl">Som</r:Content>
             <r:Content xml:lang="no">Sum</r:Content>
-            <r:Content xml:lang="pt">Soma</r:Content>
-            <r:Content xml:lang="sl">Vsota</r:Content>
             <r:Content xml:lang="sr">Zbir</r:Content>
-            <r:Content xml:lang="sv">Summa</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The sum or total of the values, across all valid cases.</r:Content>
+            <r:Content xml:lang="sl">Vsota vrednosti na vseh veljavnih enotah.</r:Content>
+            <r:Content xml:lang="sv">Summan av värden för alla giltiga fall.</r:Content>
             <r:Content xml:lang="fi">Kaikkien validien havaintojen arvojen summa.</r:Content>
             <r:Content xml:lang="it">La somma o il totale dei valori di tutti i casi validi.</r:Content>
+            <r:Content xml:lang="pt">A soma ou o total dos valores, considerando os casos válidos.</r:Content>
+            <r:Content xml:lang="en">The sum or total of the values, across all valid cases.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Summen eller totalen av verdiene på tvers av alle gyldige tilfeller.</r:Content>
-            <r:Content xml:lang="pt">A soma ou o total dos valores, considerando os casos válidos.</r:Content>
-            <r:Content xml:lang="sl">Vsota vrednosti na vseh veljavnih enotah.</r:Content>
             <r:Content xml:lang="sr">Zbir ili ukupna vrednost svih vrednosti ispravnih (validnih) elemenata skupa ili uzroka.</r:Content>
-            <r:Content xml:lang="sv">Summan av värden för alla giltiga fall.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1016,26 +1016,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/700bc90</r:UserID>
          <l:CategoryName>Variance</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Variance</r:Content>
+            <r:Content xml:lang="sl">Varianca (s2)</r:Content>
+            <r:Content xml:lang="sv">Varians</r:Content>
             <r:Content xml:lang="fi">Varianssi</r:Content>
             <r:Content xml:lang="it">Varianza</r:Content>
+            <r:Content xml:lang="pt">Variância</r:Content>
+            <r:Content xml:lang="en">Variance</r:Content>
             <r:Content xml:lang="nl">Variantie</r:Content>
             <r:Content xml:lang="no">Varians</r:Content>
-            <r:Content xml:lang="pt">Variância</r:Content>
-            <r:Content xml:lang="sl">Varianca (s2)</r:Content>
             <r:Content xml:lang="sr">Varijansa</r:Content>
-            <r:Content xml:lang="sv">Varians</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The variance is the mean square deviation of the variable around the average value. It reflects the dispersion of a frequency distribution around its mean (OECD Glossary of Statistics).</r:Content>
+            <r:Content xml:lang="sl">Varianca je srednji kvadratni odklon spremenljivke okoli povprečne vrednosti. Odraža razpršenost frekvenčne porazdelitve okoli aritmetične sredine (OECD Glossary of Statistics).</r:Content>
+            <r:Content xml:lang="sv">Variansen är genomsnittet för en variabels kvadrerade avvikelser från sitt medelvärde. Det återspeglar spridningen av en frekvensfördelning runt medelvärdet.</r:Content>
             <r:Content xml:lang="fi">Varianssi ilmoittaa miten suuria keskimäärin ovat neliöidyt poikkeamat keskiarvosta (Tilastokeskus). Varianssi kuvaa jakauman hajontaa odotusarvon ympärillä.</r:Content>
             <r:Content xml:lang="it">La varianza di una variabile è lo scarto quadratico medio dal valore medio. Riflette la dispersione di una distribuzione di frequenza attorno alla sua media.</r:Content>
+            <r:Content xml:lang="pt">A variância é a média dos quadrados dos desvios de uma variável em torno do seu valor médio. Ela reflete a dispersão de uma distribuição de frequências em torno da sua média (OECD Glossary of Statistics).</r:Content>
+            <r:Content xml:lang="en">The variance is the mean square deviation of the variable around the average value. It reflects the dispersion of a frequency distribution around its mean (OECD Glossary of Statistics).</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Variansen er det gjennomsnittlige kvadratiske avvik av variabelen rundt gjennomsnittsverdien. Det gjenspeiler spredning rundt dets gjennomsnitt.</r:Content>
-            <r:Content xml:lang="pt">A variância é a média dos quadrados dos desvios de uma variável em torno do seu valor médio. Ela reflete a dispersão de uma distribuição de frequências em torno da sua média (OECD Glossary of Statistics).</r:Content>
-            <r:Content xml:lang="sl">Varianca je srednji kvadratni odklon spremenljivke okoli povprečne vrednosti. Odraža razpršenost frekvenčne porazdelitve okoli aritmetične sredine (OECD Glossary of Statistics).</r:Content>
             <r:Content xml:lang="sr">Varijansa je srednje kvadratno odstupanje vrednosti promenljive oko njene prosečne vrednosti. Ukazuje na raspodelu frekvencije oko srednje vrednosti (OECD-ov Statistički rečnik).</r:Content>
-            <r:Content xml:lang="sv">Variansen är genomsnittet för en variabels kvadrerade avvikelser från sitt medelvärde. Det återspeglar spridningen av en frekvensfördelning runt medelvärdet.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1047,26 +1047,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/690ab50</r:UserID>
          <l:CategoryName>StandardDeviation</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Standard deviation</r:Content>
+            <r:Content xml:lang="sl">Standardni odklon (s)</r:Content>
+            <r:Content xml:lang="sv">Standardavvikelse</r:Content>
             <r:Content xml:lang="fi">Keskihajonta</r:Content>
             <r:Content xml:lang="it">Deviazione standard</r:Content>
+            <r:Content xml:lang="pt">Desvio padrão</r:Content>
+            <r:Content xml:lang="en">Standard deviation</r:Content>
             <r:Content xml:lang="nl">Standaardafwijking</r:Content>
             <r:Content xml:lang="no">Standardavvik</r:Content>
-            <r:Content xml:lang="pt">Desvio padrão</r:Content>
-            <r:Content xml:lang="sl">Standardni odklon (s)</r:Content>
             <r:Content xml:lang="sr">Standardna devijacija</r:Content>
-            <r:Content xml:lang="sv">Standardavvikelse</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Indicates the degree to which individuals within the sample differ from the sample mean.</r:Content>
+            <r:Content xml:lang="sl">Pozitivni kvadratni koren variance. Najpogosteje uporabljena mera razpršenosti frekvenčne porazdelitve.</r:Content>
+            <r:Content xml:lang="sv">Den positiva kvadratroten ur variansen. Det mest använda måttet på spridningen av en frekvensfördelning.</r:Content>
             <r:Content xml:lang="fi">Luku, joka mittaa missä määrin otoksen yksiköiden arvot eroavat koko otoksen keskiarvosta.</r:Content>
             <r:Content xml:lang="it">Indica il grado in cui gli individui all'interno del campione differiscono dalla media campionaria.</r:Content>
+            <r:Content xml:lang="pt">Indica em que medida os indivíduos de uma amostra diferem da média da mesma.</r:Content>
+            <r:Content xml:lang="en">Indicates the degree to which individuals within the sample differ from the sample mean.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Indikerer graden av hvorvidt individer i utvalget er forskjellige fra utvalgsgjennomsnittet.</r:Content>
-            <r:Content xml:lang="pt">Indica em que medida os indivíduos de uma amostra diferem da média da mesma.</r:Content>
-            <r:Content xml:lang="sl">Pozitivni kvadratni koren variance. Najpogosteje uporabljena mera razpršenosti frekvenčne porazdelitve.</r:Content>
             <r:Content xml:lang="sr">Apsolutna mera disperzije u osnovnom skupu. Ona nam govori koliko u proseku elementi skupa odstupaju od aritmetičke sredine skupa.</r:Content>
-            <r:Content xml:lang="sv">Den positiva kvadratroten ur variansen. Det mest använda måttet på spridningen av en frekvensfördelning.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1078,26 +1078,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/3279fce</r:UserID>
          <l:CategoryName>CoefficientOfVariation</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Coefficient of variation</r:Content>
+            <r:Content xml:lang="sl">Koeficient variacije (CV)</r:Content>
+            <r:Content xml:lang="sv">Variationskoefficient</r:Content>
             <r:Content xml:lang="fi">Variaatiokerroin</r:Content>
             <r:Content xml:lang="it">Coefficiente di variazione</r:Content>
+            <r:Content xml:lang="pt">Coeficiente de variação</r:Content>
+            <r:Content xml:lang="en">Coefficient of variation</r:Content>
             <r:Content xml:lang="nl">Variatiecoëfficiënt</r:Content>
             <r:Content xml:lang="no">Variasjonskoeffisienten</r:Content>
-            <r:Content xml:lang="pt">Coeficiente de variação</r:Content>
-            <r:Content xml:lang="sl">Koeficient variacije (CV)</r:Content>
             <r:Content xml:lang="sr">Koeficijent varijacije</r:Content>
-            <r:Content xml:lang="sv">Variationskoefficient</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Standard deviation divided by the mean.</r:Content>
+            <r:Content xml:lang="sl">Standardni odklon, deljen z aritmetično sredino.</r:Content>
+            <r:Content xml:lang="sv">Standardavvikelsen dividerad med medelvärdet.</r:Content>
             <r:Content xml:lang="fi">Keskihajonta jaettuna keskiarvolla.</r:Content>
             <r:Content xml:lang="it">Deviazione standard divisa per la media.</r:Content>
+            <r:Content xml:lang="pt">Desvio padrão dividido pela média.</r:Content>
+            <r:Content xml:lang="en">Standard deviation divided by the mean.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Standardavviket delt på gjennomsnittet.</r:Content>
-            <r:Content xml:lang="pt">Desvio padrão dividido pela média.</r:Content>
-            <r:Content xml:lang="sl">Standardni odklon, deljen z aritmetično sredino.</r:Content>
             <r:Content xml:lang="sr">Standardna devijacija podeljena sa srednjom vrednošću.</r:Content>
-            <r:Content xml:lang="sv">Standardavvikelsen dividerad med medelvärdet.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1109,26 +1109,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/015ce0a</r:UserID>
          <l:CategoryName>AverageAbsoluteDeviation</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Average absolute deviation</r:Content>
+            <r:Content xml:lang="sl">Povprečni absolutni odklon (AAD)</r:Content>
+            <r:Content xml:lang="sv">Genomsnittlig absolut avvikelse</r:Content>
             <r:Content xml:lang="fi">Absoluuttinen keskipoikkeama</r:Content>
             <r:Content xml:lang="it">Deviazione media assoluta</r:Content>
+            <r:Content xml:lang="pt">Desvio absoluto médio</r:Content>
+            <r:Content xml:lang="en">Average absolute deviation</r:Content>
             <r:Content xml:lang="nl">Gemiddelde absolute afwijking</r:Content>
             <r:Content xml:lang="no">Gjennomsnittlig absoluttavvik</r:Content>
-            <r:Content xml:lang="pt">Desvio absoluto médio</r:Content>
-            <r:Content xml:lang="sl">Povprečni absolutni odklon (AAD)</r:Content>
             <r:Content xml:lang="sr">Prosečna apsolutna devijacija</r:Content>
-            <r:Content xml:lang="sv">Genomsnittlig absolut avvikelse</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The average of the absolute differences between each value and the overall mean. Measure of statistical dispersion around the mean, alternative to Standard Deviation.</r:Content>
+            <r:Content xml:lang="sl">Povprečje absolutnih razlik med posamezno vrednostjo in aritmetično sredino. Mera statistične razpršenosti okrog aritmetične sredine, alternativa standardnemu odklonu.</r:Content>
+            <r:Content xml:lang="sv">Medelvärdet av de absoluta skillnaderna mellan varje värde och det totala medelvärdet. Mått på den statistiska spridningen kring medelvärdet, ett alternativ till standardavvikelsen.</r:Content>
             <r:Content xml:lang="fi">Kunkin yksittäisen arvon ja kaikkien arvojen keskiarvon välisten poikkeamien keskiarvo. Hajontaluku, joka kuvaa arvojen vaihtelua keskiarvon ympärillä. Vaihtoehto keskihajonnalle.</r:Content>
             <r:Content xml:lang="it">La media delle differenze assolute tra ciascun valore e la media complessiva. Misura la dispersione statistica attorno alla media, alternativa alla deviazione standard.</r:Content>
+            <r:Content xml:lang="pt">A média das diferenças absolutas entre cada valor e a média geral. Medida de dispersão estatística em torno da média, alternativa ao desvio padrão.</r:Content>
+            <r:Content xml:lang="en">The average of the absolute differences between each value and the overall mean. Measure of statistical dispersion around the mean, alternative to Standard Deviation.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Gjennomsnittet av de absolutte forskjellene mellom hver verdi og gjennomsnittet. Måling av statistisk spredning rundt gjennomsnittet, alternativ til standardavvik.</r:Content>
-            <r:Content xml:lang="pt">A média das diferenças absolutas entre cada valor e a média geral. Medida de dispersão estatística em torno da média, alternativa ao desvio padrão.</r:Content>
-            <r:Content xml:lang="sl">Povprečje absolutnih razlik med posamezno vrednostjo in aritmetično sredino. Mera statistične razpršenosti okrog aritmetične sredine, alternativa standardnemu odklonu.</r:Content>
             <r:Content xml:lang="sr">Prosek apsolutnih razlika između svake vrednosti i ukupne srednje vrednosti. Meri statističku disperziju oko srednje vrednosti, alternativa je standardnoj devijaciji.</r:Content>
-            <r:Content xml:lang="sv">Medelvärdet av de absoluta skillnaderna mellan varje värde och det totala medelvärdet. Mått på den statistiska spridningen kring medelvärdet, ett alternativ till standardavvikelsen.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1140,26 +1140,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/5dc5781</r:UserID>
          <l:CategoryName>MedianAbsoluteDeviation</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Median absolute deviation</r:Content>
+            <r:Content xml:lang="sl">Mediana absolutnega odklona od mediane (MAD)</r:Content>
+            <r:Content xml:lang="sv">Median absolut avvikelse</r:Content>
             <r:Content xml:lang="fi">Mediaanin absoluuttinen keskipoikkeama</r:Content>
             <r:Content xml:lang="it">Deviazione mediana assoluta</r:Content>
+            <r:Content xml:lang="pt">Desvio absoluto mediano</r:Content>
+            <r:Content xml:lang="en">Median absolute deviation</r:Content>
             <r:Content xml:lang="nl">Mediaan absolute afwijking</r:Content>
             <r:Content xml:lang="no">Median absoluttavvik</r:Content>
-            <r:Content xml:lang="pt">Desvio absoluto mediano</r:Content>
-            <r:Content xml:lang="sl">Mediana absolutnega odklona od mediane (MAD)</r:Content>
             <r:Content xml:lang="sr">Medijana apsolutne devijacije</r:Content>
-            <r:Content xml:lang="sv">Median absolut avvikelse</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The median absolute deviation from the median. Measure of statistical dispersion around the median.</r:Content>
+            <r:Content xml:lang="sl">Mediana absolutnega odklona od mediane. Mera statistične razpršenosti okrog mediane.</r:Content>
+            <r:Content xml:lang="sv">Median absolut avvikelsen från medianen. Mått på spridningen runt medianen.</r:Content>
             <r:Content xml:lang="fi">Keskipoikkeama mediaanista. Hajontaluku, joka kuvaa arvojen vaihtelua mediaanin ympärillä.</r:Content>
             <r:Content xml:lang="it">La deviazione mediana assoluta dalla mediana. Misura la dispersione statistica intorno alla mediana.</r:Content>
+            <r:Content xml:lang="pt">O desvio absoluto mediano da mediana. Medida de dispersão estatística em torno da mediana.</r:Content>
+            <r:Content xml:lang="en">The median absolute deviation from the median. Measure of statistical dispersion around the median.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Median absoluttavvik fra medianen. Måling av statistisk spredning rundt medianen.</r:Content>
-            <r:Content xml:lang="pt">O desvio absoluto mediano da mediana. Medida de dispersão estatística em torno da mediana.</r:Content>
-            <r:Content xml:lang="sl">Mediana absolutnega odklona od mediane. Mera statistične razpršenosti okrog mediane.</r:Content>
             <r:Content xml:lang="sr">Mera statističke disperzije oko medijane.</r:Content>
-            <r:Content xml:lang="sv">Median absolut avvikelsen från medianen. Mått på spridningen runt medianen.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1171,26 +1171,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/350c70a</r:UserID>
          <l:CategoryName>FirstQuartile</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">First quartile</r:Content>
+            <r:Content xml:lang="sl">Prvi kvartil</r:Content>
+            <r:Content xml:lang="sv">Första kvartilen</r:Content>
             <r:Content xml:lang="fi">Ensimmäinen kvartiili</r:Content>
             <r:Content xml:lang="it">Primo quartile</r:Content>
+            <r:Content xml:lang="pt">Primeiro quartil</r:Content>
+            <r:Content xml:lang="en">First quartile</r:Content>
             <r:Content xml:lang="nl">Eerste kwartiel</r:Content>
             <r:Content xml:lang="no">Første kvartil</r:Content>
-            <r:Content xml:lang="pt">Primeiro quartil</r:Content>
-            <r:Content xml:lang="sl">Prvi kvartil</r:Content>
             <r:Content xml:lang="sr">Prvi kvartil</r:Content>
-            <r:Content xml:lang="sv">Första kvartilen</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The first of three values which separate the total frequency of a distribution into four equal parts.</r:Content>
+            <r:Content xml:lang="sl">Prva od treh vrednosti, ki razdelijo celotno frekvenčno porazdelitev na štiri enake dele.</r:Content>
+            <r:Content xml:lang="sv">Det första av tre värden som separerar den totala frekvensen av en fördelning i fyra lika stora delar.</r:Content>
             <r:Content xml:lang="fi">Alakvartiili. Ensimmäinen kolmesta arvosta, jotka jakavat jakauman neljään yhtä suureen osaan. Jakauman arvoista 25 % on siis pienempiä tai yhtä suuria kuin ensimmäinen kvartiili.</r:Content>
             <r:Content xml:lang="it">Il primo dei tre valori che suddividono la frequenza totale di una distribuzione in quattro parti uguali.</r:Content>
+            <r:Content xml:lang="pt">O primeiro dos três valores que separam a frequência total de uma distribuição em quatro partes iguais.</r:Content>
+            <r:Content xml:lang="en">The first of three values which separate the total frequency of a distribution into four equal parts.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Den første av tre verdier som separerer den totale frekvensen av en fordeling i fire like store deler.</r:Content>
-            <r:Content xml:lang="pt">O primeiro dos três valores que separam a frequência total de uma distribuição em quatro partes iguais.</r:Content>
-            <r:Content xml:lang="sl">Prva od treh vrednosti, ki razdelijo celotno frekvenčno porazdelitev na štiri enake dele.</r:Content>
             <r:Content xml:lang="sr">Prva od tri vrednosti koja razdvaja ukupnu frekvenciju distribucije u četiri jednaka dela.</r:Content>
-            <r:Content xml:lang="sv">Det första av tre värden som separerar den totala frekvensen av en fördelning i fyra lika stora delar.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1202,26 +1202,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/f02fd7a</r:UserID>
          <l:CategoryName>SecondQuartile</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Second quartile</r:Content>
+            <r:Content xml:lang="sl">Drugi kvartil</r:Content>
+            <r:Content xml:lang="sv">Andra kvartilen</r:Content>
             <r:Content xml:lang="fi">Toinen kvartiili</r:Content>
             <r:Content xml:lang="it">Secondo quartile</r:Content>
+            <r:Content xml:lang="pt">Segundo quartil</r:Content>
+            <r:Content xml:lang="en">Second quartile</r:Content>
             <r:Content xml:lang="nl">Tweede kwartiel</r:Content>
             <r:Content xml:lang="no">Andre kvartil</r:Content>
-            <r:Content xml:lang="pt">Segundo quartil</r:Content>
-            <r:Content xml:lang="sl">Drugi kvartil</r:Content>
             <r:Content xml:lang="sr">Drugi kvartil</r:Content>
-            <r:Content xml:lang="sv">Andra kvartilen</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The second of three values which separate the total frequency of a distribution into four equal parts (= median).</r:Content>
+            <r:Content xml:lang="sl">Druga od treh vrednosti, ki razdelijo celotno frekvenčno porazdelitev na štiri enake dele (= mediana).</r:Content>
+            <r:Content xml:lang="sv">Det andra av tre värden som separerar den totala frekvensen av en fördelning i fyra lika delar (= median).</r:Content>
             <r:Content xml:lang="fi">Toinen kvartiili eli mediaani. Toinen kolmesta arvosta, jotka jakavat jakauman neljään yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il secondo dei tre valori che suddividono la frequenza totale di una distribuzione in quattro parti uguali (= mediana).</r:Content>
+            <r:Content xml:lang="pt">O segundo dos três valores que separam a frequência total de uma distribuição em quatro partes iguais. (= mediana).</r:Content>
+            <r:Content xml:lang="en">The second of three values which separate the total frequency of a distribution into four equal parts (= median).</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Den andre av tre verdier som separerer den totale frekvensen av en fordeling i fire like store deler (=median).</r:Content>
-            <r:Content xml:lang="pt">O segundo dos três valores que separam a frequência total de uma distribuição em quatro partes iguais. (= mediana).</r:Content>
-            <r:Content xml:lang="sl">Druga od treh vrednosti, ki razdelijo celotno frekvenčno porazdelitev na štiri enake dele (= mediana).</r:Content>
             <r:Content xml:lang="sr">Druga od tri vrednosti koja razdvaja ukupnu frekvenciju distribucije u četiri jednaka dela.</r:Content>
-            <r:Content xml:lang="sv">Det andra av tre värden som separerar den totala frekvensen av en fördelning i fyra lika delar (= median).</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1233,26 +1233,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/ebe9990</r:UserID>
          <l:CategoryName>ThirdQuartile</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Third quartile</r:Content>
+            <r:Content xml:lang="sl">Tretji kvartil</r:Content>
+            <r:Content xml:lang="sv">Tredje kvartilen</r:Content>
             <r:Content xml:lang="fi">Kolmas kvartiili</r:Content>
             <r:Content xml:lang="it">Terzo quartile</r:Content>
+            <r:Content xml:lang="pt">Terceiro quartil</r:Content>
+            <r:Content xml:lang="en">Third quartile</r:Content>
             <r:Content xml:lang="nl">Derde kwartiel</r:Content>
             <r:Content xml:lang="no">Tredje kvartil</r:Content>
-            <r:Content xml:lang="pt">Terceiro quartil</r:Content>
-            <r:Content xml:lang="sl">Tretji kvartil</r:Content>
             <r:Content xml:lang="sr">Treći kvatil</r:Content>
-            <r:Content xml:lang="sv">Tredje kvartilen</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The third of three values which separate the total frequency of a distribution into four equal parts.</r:Content>
+            <r:Content xml:lang="sl">Tretja od treh vrednosti, ki razdelijo celotno frekvenčno porazdelitev na štiri enake dele.</r:Content>
+            <r:Content xml:lang="sv">Det tredje av tre värden som separerar den totala frekvensen av en fördelning i fyra lika delar.</r:Content>
             <r:Content xml:lang="fi">Yläkvartiili. Kolmas kolmesta arvosta, jotka jakavat jakauman neljään yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il terzo dei tre valori che suddividono la frequenza totale di una distribuzione in quattro parti uguali.</r:Content>
+            <r:Content xml:lang="pt">O terceiro dos três valores que separam a frequência total de uma distribuição em quatro partes iguais.</r:Content>
+            <r:Content xml:lang="en">The third of three values which separate the total frequency of a distribution into four equal parts.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Den tredje av tre verdier som separerer den totale frekvensen av en fordeling i fire like store deler.</r:Content>
-            <r:Content xml:lang="pt">O terceiro dos três valores que separam a frequência total de uma distribuição em quatro partes iguais.</r:Content>
-            <r:Content xml:lang="sl">Tretja od treh vrednosti, ki razdelijo celotno frekvenčno porazdelitev na štiri enake dele.</r:Content>
             <r:Content xml:lang="sr">Treća od tri vrednosti koja razdvaja ukupnu frekvenciju distribucije u četiri jednaka dela.</r:Content>
-            <r:Content xml:lang="sv">Det tredje av tre värden som separerar den totala frekvensen av en fördelning i fyra lika delar.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1264,26 +1264,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/a7f7339</r:UserID>
          <l:CategoryName>InterquartileRange</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Interquartile range</r:Content>
+            <r:Content xml:lang="sl">Kvartilni razmik</r:Content>
+            <r:Content xml:lang="sv">Kvartilavstånd</r:Content>
             <r:Content xml:lang="fi">Kvartiiliväli</r:Content>
             <r:Content xml:lang="it">Differenza interquartile</r:Content>
+            <r:Content xml:lang="pt">Amplitude interquartil</r:Content>
+            <r:Content xml:lang="en">Interquartile range</r:Content>
             <r:Content xml:lang="nl">Interkwartielafstand</r:Content>
             <r:Content xml:lang="no">Kvartilbredde</r:Content>
-            <r:Content xml:lang="pt">Amplitude interquartil</r:Content>
-            <r:Content xml:lang="sl">Kvartilni razmik</r:Content>
             <r:Content xml:lang="sr">Međukvartilni raspon</r:Content>
-            <r:Content xml:lang="sv">Kvartilavstånd</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The range between the first and third quartile values.</r:Content>
+            <r:Content xml:lang="sl">Razpon med vrednostjo prvega in tretjega kvartila.</r:Content>
+            <r:Content xml:lang="sv">Intervallet mellan första och tredje kvartilen.</r:Content>
             <r:Content xml:lang="fi">Väli alakvartiilista (ensimmäinen kvartiili) yläkvartiiliin (kolmas kvartiili).</r:Content>
             <r:Content xml:lang="it">L'intervallo tra il primo e il terzo quartile.</r:Content>
+            <r:Content xml:lang="pt">O intervalo entre os valores do primeiro e do terceiro quartil.</r:Content>
+            <r:Content xml:lang="en">The range between the first and third quartile values.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Differansen mellom den første og den tredje kvartilverdien.</r:Content>
-            <r:Content xml:lang="pt">O intervalo entre os valores do primeiro e do terceiro quartil.</r:Content>
-            <r:Content xml:lang="sl">Razpon med vrednostjo prvega in tretjega kvartila.</r:Content>
             <r:Content xml:lang="sr">Raspon između prvog i trećeg kvartila.</r:Content>
-            <r:Content xml:lang="sv">Intervallet mellan första och tredje kvartilen.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1295,26 +1295,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/ccfc0c3</r:UserID>
          <l:CategoryName>FirstQuintile</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">First quintile</r:Content>
+            <r:Content xml:lang="sl">Prvi kvintil</r:Content>
+            <r:Content xml:lang="sv">Första kvintilen</r:Content>
             <r:Content xml:lang="fi">Ensimmäinen kvintiili</r:Content>
             <r:Content xml:lang="it">Primo quintile</r:Content>
+            <r:Content xml:lang="pt">Primeiro quintil</r:Content>
+            <r:Content xml:lang="en">First quintile</r:Content>
             <r:Content xml:lang="nl">Eerste kwintiel</r:Content>
             <r:Content xml:lang="no">Første kvintil</r:Content>
-            <r:Content xml:lang="pt">Primeiro quintil</r:Content>
-            <r:Content xml:lang="sl">Prvi kvintil</r:Content>
             <r:Content xml:lang="sr">Prvi kvintil</r:Content>
-            <r:Content xml:lang="sv">Första kvintilen</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The first of four values which separate the total frequency of a distribution into five equal parts.</r:Content>
+            <r:Content xml:lang="sl">Prva od štirih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na pet enakih delov.</r:Content>
+            <r:Content xml:lang="sv">Det första av fyra värden som separerar den totala frekvensen av en fördelning i fem lika delar.</r:Content>
             <r:Content xml:lang="fi">Ensimmäinen neljästä arvosta, jotka jakavat jakauman viiteen yhtä suureen osaan. Jakauman arvoista 20 % on siis pienempiä tai yhtä suuria kuin ensmmäinen kvintiili.</r:Content>
             <r:Content xml:lang="it">Il primo dei quattro valori che suddividono la frequenza totale di una distribuzione in cinque parti uguali.</r:Content>
+            <r:Content xml:lang="pt">O primeiro dos quatro valores que separam a frequência total de uma distribuição em cinco partes iguais.</r:Content>
+            <r:Content xml:lang="en">The first of four values which separate the total frequency of a distribution into five equal parts.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Den første av fire verdier som separerer den totale frekvensen av en fordeling i fem like deler.</r:Content>
-            <r:Content xml:lang="pt">O primeiro dos quatro valores que separam a frequência total de uma distribuição em cinco partes iguais.</r:Content>
-            <r:Content xml:lang="sl">Prva od štirih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na pet enakih delov.</r:Content>
             <r:Content xml:lang="sr">Prva od četiri vrednosti koja razdvaja ukupnu frekvenciju distribucije na pet jednakih delova.</r:Content>
-            <r:Content xml:lang="sv">Det första av fyra värden som separerar den totala frekvensen av en fördelning i fem lika delar.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1326,26 +1326,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/3ca7a64</r:UserID>
          <l:CategoryName>SecondQuintile</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Second quintile</r:Content>
+            <r:Content xml:lang="sl">Drugi kvintil</r:Content>
+            <r:Content xml:lang="sv">Andra kvintilen</r:Content>
             <r:Content xml:lang="fi">Toinen kvintiili</r:Content>
             <r:Content xml:lang="it">Secondo quintile</r:Content>
+            <r:Content xml:lang="pt">Segundo quintil</r:Content>
+            <r:Content xml:lang="en">Second quintile</r:Content>
             <r:Content xml:lang="nl">Tweede kwintiel</r:Content>
             <r:Content xml:lang="no">Andre kvintil</r:Content>
-            <r:Content xml:lang="pt">Segundo quintil</r:Content>
-            <r:Content xml:lang="sl">Drugi kvintil</r:Content>
             <r:Content xml:lang="sr">Drugi kvintil</r:Content>
-            <r:Content xml:lang="sv">Andra kvintilen</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The second of four values which separate the total frequency of a distribution into five equal parts.</r:Content>
+            <r:Content xml:lang="sl">Druga od štirih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na pet enakih delov.</r:Content>
+            <r:Content xml:lang="sv">Det andra av fyra värden som separerar den totala frekvensen av en fördelning i fem lika delar.</r:Content>
             <r:Content xml:lang="fi">Toinen neljästä arvosta, jotka jakavat jakauman viiteen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il secondo dei quattro valori che suddividono la frequenza totale di una distribuzione in cinque parti uguali.</r:Content>
+            <r:Content xml:lang="pt">O segundo dos quatro valores que separam a frequência total de uma distribuição em cinco partes iguais.</r:Content>
+            <r:Content xml:lang="en">The second of four values which separate the total frequency of a distribution into five equal parts.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Den andre av fire verdier som separerer den totale frekvensen av en fordeling i fem like deler.</r:Content>
-            <r:Content xml:lang="pt">O segundo dos quatro valores que separam a frequência total de uma distribuição em cinco partes iguais.</r:Content>
-            <r:Content xml:lang="sl">Druga od štirih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na pet enakih delov.</r:Content>
             <r:Content xml:lang="sr">Druga od četiri vrednosti koja razdvaja ukupnu frekvenciju distribucije na pet jednakih delova.</r:Content>
-            <r:Content xml:lang="sv">Det andra av fyra värden som separerar den totala frekvensen av en fördelning i fem lika delar.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1357,26 +1357,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/e9f3735</r:UserID>
          <l:CategoryName>ThirdQuintile</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Third quintile</r:Content>
+            <r:Content xml:lang="sl">Tretji kvintil</r:Content>
+            <r:Content xml:lang="sv">Tredje kvintilen</r:Content>
             <r:Content xml:lang="fi">Kolmas kvintiili</r:Content>
             <r:Content xml:lang="it">Terzo quintile</r:Content>
+            <r:Content xml:lang="pt">Terceiro quintil</r:Content>
+            <r:Content xml:lang="en">Third quintile</r:Content>
             <r:Content xml:lang="nl">Derde kwintiel</r:Content>
             <r:Content xml:lang="no">Tredje kvintil</r:Content>
-            <r:Content xml:lang="pt">Terceiro quintil</r:Content>
-            <r:Content xml:lang="sl">Tretji kvintil</r:Content>
             <r:Content xml:lang="sr">Treći kvintil</r:Content>
-            <r:Content xml:lang="sv">Tredje kvintilen</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The third of four values which separate the total frequency of a distribution into five equal parts.</r:Content>
+            <r:Content xml:lang="sl">Tretja od štirih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na pet enakih delov.</r:Content>
+            <r:Content xml:lang="sv">Det tredje av fyra värden som separerar den totala frekvensen av en fördelning i fem lika delar.</r:Content>
             <r:Content xml:lang="fi">Kolmas neljästä arvosta, jotka jakavat jakauman viiteen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il terzo dei quattro valori che suddividono la frequenza totale di una distribuzione in cinque parti uguali.</r:Content>
+            <r:Content xml:lang="pt">O terceiro dos quatro valores que separam a frequência total de uma distribuição em cinco partes iguais.</r:Content>
+            <r:Content xml:lang="en">The third of four values which separate the total frequency of a distribution into five equal parts.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Den tredje av fire verdier som separerer den totale frekvensen av en fordeling i fem like deler.</r:Content>
-            <r:Content xml:lang="pt">O terceiro dos quatro valores que separam a frequência total de uma distribuição em cinco partes iguais.</r:Content>
-            <r:Content xml:lang="sl">Tretja od štirih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na pet enakih delov.</r:Content>
             <r:Content xml:lang="sr">Treća od četiri vrednosti koja razdvaja ukupnu frekvenciju distribucije na pet jednakih delova.</r:Content>
-            <r:Content xml:lang="sv">Det tredje av fyra värden som separerar den totala frekvensen av en fördelning i fem lika delar.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1388,26 +1388,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/c3a6a12</r:UserID>
          <l:CategoryName>FourthQuintile</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Fourth quintile</r:Content>
+            <r:Content xml:lang="sl">Četrti kvintil</r:Content>
+            <r:Content xml:lang="sv">Fjärde kvintilen</r:Content>
             <r:Content xml:lang="fi">Neljäs kvintiili</r:Content>
             <r:Content xml:lang="it">Quarto quintile</r:Content>
+            <r:Content xml:lang="pt">Quarto quintil</r:Content>
+            <r:Content xml:lang="en">Fourth quintile</r:Content>
             <r:Content xml:lang="nl">Vierde kwintiel</r:Content>
             <r:Content xml:lang="no">Fjerde kvintil</r:Content>
-            <r:Content xml:lang="pt">Quarto quintil</r:Content>
-            <r:Content xml:lang="sl">Četrti kvintil</r:Content>
             <r:Content xml:lang="sr">Četvrti kvintil</r:Content>
-            <r:Content xml:lang="sv">Fjärde kvintilen</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The fourth of four values which separate the total frequency of a distribution into five equal parts.</r:Content>
+            <r:Content xml:lang="sl">Četrta od štirih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na pet enakih delov.</r:Content>
+            <r:Content xml:lang="sv">Det fjärde av fyra värden som separerar den totala frekvensen av en fördelning i fem lika delar.</r:Content>
             <r:Content xml:lang="fi">Neljäs neljästä arvosta, jotka jakavat jakauman viiteen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il quarto dei quattro valori che suddividono la frequenza totale di una distribuzione in cinque parti uguali.</r:Content>
+            <r:Content xml:lang="pt">O quarto dos quatro valores que separam a frequência total de uma distribuição em cinco partes iguais.</r:Content>
+            <r:Content xml:lang="en">The fourth of four values which separate the total frequency of a distribution into five equal parts.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Den fjerde av fire verdier som separerer den totale frekvensen av en fordeling i fem like deler.</r:Content>
-            <r:Content xml:lang="pt">O quarto dos quatro valores que separam a frequência total de uma distribuição em cinco partes iguais.</r:Content>
-            <r:Content xml:lang="sl">Četrta od štirih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na pet enakih delov.</r:Content>
             <r:Content xml:lang="sr">Četvrta od četiri vrednosti koja razdvaja ukupnu frekvenciju distribucije na pet jednakih delova.</r:Content>
-            <r:Content xml:lang="sv">Det fjärde av fyra värden som separerar den totala frekvensen av en fördelning i fem lika delar.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1419,26 +1419,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/b3ab24e</r:UserID>
          <l:CategoryName>InterquintileRange</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Interquintile range</r:Content>
+            <r:Content xml:lang="sl">Kvintilni razmik</r:Content>
+            <r:Content xml:lang="sv">Kvintilavstånd</r:Content>
             <r:Content xml:lang="fi">Kvintiiliväli</r:Content>
             <r:Content xml:lang="it">Ampiezza interquintile</r:Content>
+            <r:Content xml:lang="pt">Amplitude interquintil</r:Content>
+            <r:Content xml:lang="en">Interquintile range</r:Content>
             <r:Content xml:lang="nl">Interkwintielafstand</r:Content>
             <r:Content xml:lang="no">Kvintilbredde</r:Content>
-            <r:Content xml:lang="pt">Amplitude interquintil</r:Content>
-            <r:Content xml:lang="sl">Kvintilni razmik</r:Content>
             <r:Content xml:lang="sr">Međukvintilni raspon</r:Content>
-            <r:Content xml:lang="sv">Kvintilavstånd</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The range between the first and fourth quintile values.</r:Content>
+            <r:Content xml:lang="sl">Razpon med vrednostjo prvega in četrtega kvintila.</r:Content>
+            <r:Content xml:lang="sv">Intervallet mellan första och fjärde kvintilen.</r:Content>
             <r:Content xml:lang="fi">Väli ensimmäisestä kvintiilistä neljänteen kvintiiliin.</r:Content>
             <r:Content xml:lang="it">L'intervallo tra il primo e il quarto quintile.</r:Content>
+            <r:Content xml:lang="pt">O intervalo entre os valores do primeiro e do quarto quintil.</r:Content>
+            <r:Content xml:lang="en">The range between the first and fourth quintile values.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Intervallet mellom første og fjerde kvintil.</r:Content>
-            <r:Content xml:lang="pt">O intervalo entre os valores do primeiro e do quarto quintil.</r:Content>
-            <r:Content xml:lang="sl">Razpon med vrednostjo prvega in četrtega kvintila.</r:Content>
             <r:Content xml:lang="sr">Raspon između prvog i četvrtog kvintila.</r:Content>
-            <r:Content xml:lang="sv">Intervallet mellan första och fjärde kvintilen.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1450,26 +1450,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/ac62c25</r:UserID>
          <l:CategoryName>FirstDecile</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">First decile</r:Content>
+            <r:Content xml:lang="sl">Prvi decil</r:Content>
+            <r:Content xml:lang="sv">Första decilen</r:Content>
             <r:Content xml:lang="fi">Ensimmäinen desiili</r:Content>
             <r:Content xml:lang="it">Primo decile</r:Content>
+            <r:Content xml:lang="pt">Primeiro decil</r:Content>
+            <r:Content xml:lang="en">First decile</r:Content>
             <r:Content xml:lang="nl">Eerste deciel</r:Content>
             <r:Content xml:lang="no">Første desil</r:Content>
-            <r:Content xml:lang="pt">Primeiro decil</r:Content>
-            <r:Content xml:lang="sl">Prvi decil</r:Content>
             <r:Content xml:lang="sr">Prvi decil</r:Content>
-            <r:Content xml:lang="sv">Första decilen</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The first of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
+            <r:Content xml:lang="sl">Prva od devetih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na deset enakih delov.</r:Content>
+            <r:Content xml:lang="sv">Det första av nio värden som separerar den totala frekvensen av en fördelning i tio lika delar.</r:Content>
             <r:Content xml:lang="fi">Ensimmäinen yhdeksästä arvosta, jotka jakavat jakauman kymmeneen yhtä suureen osaan. Jakauman arvoista 10 % on siis pienempiä tai yhtä suuria kuin ensimmäinen desiili.</r:Content>
             <r:Content xml:lang="it">Il primo dei nove valori che suddividono la frequenza totale di una distribuzione in dieci parti uguali.</r:Content>
+            <r:Content xml:lang="pt">O primeiro dos nove valores que separam a frequência total de uma distribuição em dez partes iguais.</r:Content>
+            <r:Content xml:lang="en">The first of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Den første av ni verdier som separerer den totale frekvensen av en fordeling i ti like deler.</r:Content>
-            <r:Content xml:lang="pt">O primeiro dos nove valores que separam a frequência total de uma distribuição em dez partes iguais.</r:Content>
-            <r:Content xml:lang="sl">Prva od devetih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na deset enakih delov.</r:Content>
             <r:Content xml:lang="sr">Prva od devet vrednosti koja razdvaja ukupnu frekvenciju distribucije na deset jednakih delova.</r:Content>
-            <r:Content xml:lang="sv">Det första av nio värden som separerar den totala frekvensen av en fördelning i tio lika delar.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1481,26 +1481,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/93d51e9</r:UserID>
          <l:CategoryName>SecondDecile</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Second decile</r:Content>
+            <r:Content xml:lang="sl">Drugi decil</r:Content>
+            <r:Content xml:lang="sv">Andra decilen</r:Content>
             <r:Content xml:lang="fi">Toinen desiili</r:Content>
             <r:Content xml:lang="it">Secondo decile</r:Content>
+            <r:Content xml:lang="pt">Segundo decil</r:Content>
+            <r:Content xml:lang="en">Second decile</r:Content>
             <r:Content xml:lang="nl">Tweede deciel</r:Content>
             <r:Content xml:lang="no">Andre desil</r:Content>
-            <r:Content xml:lang="pt">Segundo decil</r:Content>
-            <r:Content xml:lang="sl">Drugi decil</r:Content>
             <r:Content xml:lang="sr">Drugi decil</r:Content>
-            <r:Content xml:lang="sv">Andra decilen</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The second of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
+            <r:Content xml:lang="sl">Druga od devetih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na deset enakih delov.</r:Content>
+            <r:Content xml:lang="sv">Det andra av nio värden som separerar den totala frekvensen av en fördelning i tio lika delar.</r:Content>
             <r:Content xml:lang="fi">Toinen yhdeksästä arvosta, jotka jakavat jakauman kymmeneen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il secondo dei nove valori che suddividono la frequenza totale di una distribuzione in dieci parti uguali.</r:Content>
+            <r:Content xml:lang="pt">O segundo dos nove valores que separam a frequência total de uma distribuição em dez partes iguais.</r:Content>
+            <r:Content xml:lang="en">The second of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Den andre av ni verdier som separerer den totale frekvensen av en fordeling i ti like deler.</r:Content>
-            <r:Content xml:lang="pt">O segundo dos nove valores que separam a frequência total de uma distribuição em dez partes iguais.</r:Content>
-            <r:Content xml:lang="sl">Druga od devetih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na deset enakih delov.</r:Content>
             <r:Content xml:lang="sr">Druga od devet vrednosti koja razdvaja ukupnu frekvenciju distribucije na deset jednakih delova.</r:Content>
-            <r:Content xml:lang="sv">Det andra av nio värden som separerar den totala frekvensen av en fördelning i tio lika delar.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1512,26 +1512,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/85cba81</r:UserID>
          <l:CategoryName>ThirdDecile</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Third decile</r:Content>
+            <r:Content xml:lang="sl">Tretji decil</r:Content>
+            <r:Content xml:lang="sv">Tredje decilen</r:Content>
             <r:Content xml:lang="fi">Kolmas desiili</r:Content>
             <r:Content xml:lang="it">Terzo decile</r:Content>
+            <r:Content xml:lang="pt">Terceiro decil</r:Content>
+            <r:Content xml:lang="en">Third decile</r:Content>
             <r:Content xml:lang="nl">Derde deciel</r:Content>
             <r:Content xml:lang="no">Tredje desil</r:Content>
-            <r:Content xml:lang="pt">Terceiro decil</r:Content>
-            <r:Content xml:lang="sl">Tretji decil</r:Content>
             <r:Content xml:lang="sr">Treći decil</r:Content>
-            <r:Content xml:lang="sv">Tredje decilen</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The third of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
+            <r:Content xml:lang="sl">Tretja od devetih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na deset enakih delov.</r:Content>
+            <r:Content xml:lang="sv">Det tredje av nio värden som separerar den totala frekvensen av en fördelning i tio lika delar.</r:Content>
             <r:Content xml:lang="fi">Kolmas yhdeksästä arvosta, jotka jakavat jakauman kymmeneen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il terzo dei nove valori che suddividono la frequenza totale di una distribuzione in dieci parti uguali.</r:Content>
+            <r:Content xml:lang="pt">O terceiro dos nove valores que separam a frequência total de uma distribuição em dez partes iguais.</r:Content>
+            <r:Content xml:lang="en">The third of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Den tredje av ni verdier som separerer den totale frekvensen av en fordeling i ti like deler.</r:Content>
-            <r:Content xml:lang="pt">O terceiro dos nove valores que separam a frequência total de uma distribuição em dez partes iguais.</r:Content>
-            <r:Content xml:lang="sl">Tretja od devetih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na deset enakih delov.</r:Content>
             <r:Content xml:lang="sr">Treća od devet vrednosti koja razdvaja ukupnu frekvenciju distribucije na deset jednakih delova.</r:Content>
-            <r:Content xml:lang="sv">Det tredje av nio värden som separerar den totala frekvensen av en fördelning i tio lika delar.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1543,26 +1543,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/2381913</r:UserID>
          <l:CategoryName>FourthDecile</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Fourth decile</r:Content>
+            <r:Content xml:lang="sl">Četrti decil</r:Content>
+            <r:Content xml:lang="sv">Fjärde decilen</r:Content>
             <r:Content xml:lang="fi">Neljäs desiili</r:Content>
             <r:Content xml:lang="it">Quarto decile</r:Content>
+            <r:Content xml:lang="pt">Quarto decil</r:Content>
+            <r:Content xml:lang="en">Fourth decile</r:Content>
             <r:Content xml:lang="nl">Vierde deciel</r:Content>
             <r:Content xml:lang="no">Fjerde desil</r:Content>
-            <r:Content xml:lang="pt">Quarto decil</r:Content>
-            <r:Content xml:lang="sl">Četrti decil</r:Content>
             <r:Content xml:lang="sr">Četvrti decil</r:Content>
-            <r:Content xml:lang="sv">Fjärde decilen</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The fourth of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
+            <r:Content xml:lang="sl">Četrta od devetih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na deset enakih delov.</r:Content>
+            <r:Content xml:lang="sv">Det fjärde av nio värden som separerar den totala frekvensen av en fördelning i tio lika delar.</r:Content>
             <r:Content xml:lang="fi">Neljäs yhdeksästä arvosta, jotka jakavat jakauman kymmeneen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il quarto dei nove valori che suddividono la frequenza totale di una distribuzione in dieci parti uguali.</r:Content>
+            <r:Content xml:lang="pt">O quarto dos nove valores que separam a frequência total de uma distribuição em dez partes iguais.</r:Content>
+            <r:Content xml:lang="en">The fourth of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Den fjerde av ni verdier som separerer den totale frekvensen av en fordeling i ti like deler.</r:Content>
-            <r:Content xml:lang="pt">O quarto dos nove valores que separam a frequência total de uma distribuição em dez partes iguais.</r:Content>
-            <r:Content xml:lang="sl">Četrta od devetih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na deset enakih delov.</r:Content>
             <r:Content xml:lang="sr">Četvrta od devet vrednosti koja razdvaja ukupnu frekvenciju distribucije na deset jednakih delova.</r:Content>
-            <r:Content xml:lang="sv">Det fjärde av nio värden som separerar den totala frekvensen av en fördelning i tio lika delar.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1574,26 +1574,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/9eb1ff9</r:UserID>
          <l:CategoryName>FifthDecile</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Fifth decile</r:Content>
+            <r:Content xml:lang="sl">Peti decil</r:Content>
+            <r:Content xml:lang="sv">Femte decilen</r:Content>
             <r:Content xml:lang="fi">Viides desiili</r:Content>
             <r:Content xml:lang="it">Quinto decile</r:Content>
+            <r:Content xml:lang="pt">Quinto decil</r:Content>
+            <r:Content xml:lang="en">Fifth decile</r:Content>
             <r:Content xml:lang="nl">Vijfde deciel</r:Content>
             <r:Content xml:lang="no">Femte desil</r:Content>
-            <r:Content xml:lang="pt">Quinto decil</r:Content>
-            <r:Content xml:lang="sl">Peti decil</r:Content>
             <r:Content xml:lang="sr">Peti decil</r:Content>
-            <r:Content xml:lang="sv">Femte decilen</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The fifth of nine values which separate the total frequency of a distribution into ten equal parts (= median).</r:Content>
+            <r:Content xml:lang="sl">Peta od devetih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na deset enakih delov (= mediana).</r:Content>
+            <r:Content xml:lang="sv">Det femte av nio värden som separerar den totala frekvensen av en fördelning i tio lika delar (= median).</r:Content>
             <r:Content xml:lang="fi">Viides yhdeksästä arvosta, jotka jakavat jakauman kymmeneen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il quinto dei nove valori che suddividono la frequenza totale di una distribuzione in dieci parti uguali (= mediana).</r:Content>
+            <r:Content xml:lang="pt">O quinto dos nove valores que separam a frequência total de uma distribuição em dez partes iguais. (= mediana).</r:Content>
+            <r:Content xml:lang="en">The fifth of nine values which separate the total frequency of a distribution into ten equal parts (= median).</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Den femte av ni verdier som separerer den totale frekvensen av en fordeling i ti like deler.</r:Content>
-            <r:Content xml:lang="pt">O quinto dos nove valores que separam a frequência total de uma distribuição em dez partes iguais. (= mediana).</r:Content>
-            <r:Content xml:lang="sl">Peta od devetih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na deset enakih delov (= mediana).</r:Content>
             <r:Content xml:lang="sr">Peta od devet vrednosti koja razdvaja ukupnu frekvenciju distribucije na deset jednakih delova.</r:Content>
-            <r:Content xml:lang="sv">Det femte av nio värden som separerar den totala frekvensen av en fördelning i tio lika delar (= median).</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1605,26 +1605,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/380846d</r:UserID>
          <l:CategoryName>SixthDecile</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Sixth decile</r:Content>
+            <r:Content xml:lang="sl">Šesti decil</r:Content>
+            <r:Content xml:lang="sv">Sjätte decilen</r:Content>
             <r:Content xml:lang="fi">Kuudes desiili</r:Content>
             <r:Content xml:lang="it">Sesto decile</r:Content>
+            <r:Content xml:lang="pt">Sexto decil</r:Content>
+            <r:Content xml:lang="en">Sixth decile</r:Content>
             <r:Content xml:lang="nl">Zesde deciel</r:Content>
             <r:Content xml:lang="no">Sjette desil</r:Content>
-            <r:Content xml:lang="pt">Sexto decil</r:Content>
-            <r:Content xml:lang="sl">Šesti decil</r:Content>
             <r:Content xml:lang="sr">Šesti decil</r:Content>
-            <r:Content xml:lang="sv">Sjätte decilen</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The sixth of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
+            <r:Content xml:lang="sl">Šesta od devetih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na deset enakih delov.</r:Content>
+            <r:Content xml:lang="sv">Det sjätte av nio värden som separerar den totala frekvensen av en fördelning i tio lika delar.</r:Content>
             <r:Content xml:lang="fi">Kuudes yhdeksästä arvosta, jotka jakavat jakauman kymmeneen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il sesto dei nove valori che suddividono la frequenza totale di una distribuzione in dieci parti uguali.</r:Content>
+            <r:Content xml:lang="pt">O sexto dos nove valores que separam a frequência total de uma distribuição em dez partes iguais.</r:Content>
+            <r:Content xml:lang="en">The sixth of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Den sjette av ni verdier som separerer den totale frekvensen av en fordeling i ti like deler.</r:Content>
-            <r:Content xml:lang="pt">O sexto dos nove valores que separam a frequência total de uma distribuição em dez partes iguais.</r:Content>
-            <r:Content xml:lang="sl">Šesta od devetih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na deset enakih delov.</r:Content>
             <r:Content xml:lang="sr">Šesta od devet vrednosti koja razdvaja ukupnu frekvenciju distribucije na deset jednakih delova.</r:Content>
-            <r:Content xml:lang="sv">Det sjätte av nio värden som separerar den totala frekvensen av en fördelning i tio lika delar.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1636,26 +1636,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/edf2add</r:UserID>
          <l:CategoryName>SeventhDecile</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Seventh decile</r:Content>
+            <r:Content xml:lang="sl">Sedmi decil</r:Content>
+            <r:Content xml:lang="sv">Sjunde decilen</r:Content>
             <r:Content xml:lang="fi">Seitsemäs desiili</r:Content>
             <r:Content xml:lang="it">Settimo decile</r:Content>
+            <r:Content xml:lang="pt">Sétimo decil</r:Content>
+            <r:Content xml:lang="en">Seventh decile</r:Content>
             <r:Content xml:lang="nl">Zevende deciel</r:Content>
             <r:Content xml:lang="no">Syvende desil</r:Content>
-            <r:Content xml:lang="pt">Sétimo decil</r:Content>
-            <r:Content xml:lang="sl">Sedmi decil</r:Content>
             <r:Content xml:lang="sr">Sedmi decil</r:Content>
-            <r:Content xml:lang="sv">Sjunde decilen</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The seventh of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
+            <r:Content xml:lang="sl">Sedma od devetih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na deset enakih delov.</r:Content>
+            <r:Content xml:lang="sv">Det sjunde av nio värden som separerar den totala frekvensen av en fördelning i tio lika delar.</r:Content>
             <r:Content xml:lang="fi">Seitsemäs yhdeksästä arvosta, jotka jakavat jakauman kymmeneen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il settimo dei nove valori che suddividono la frequenza totale di una distribuzione in dieci parti uguali.</r:Content>
+            <r:Content xml:lang="pt">O sétimo dos nove valores que separam a frequência total de uma distribuição em dez partes iguais.</r:Content>
+            <r:Content xml:lang="en">The seventh of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Den syvende av ni verdier som separerer den totale frekvensen av en fordeling i ti like deler.</r:Content>
-            <r:Content xml:lang="pt">O sétimo dos nove valores que separam a frequência total de uma distribuição em dez partes iguais.</r:Content>
-            <r:Content xml:lang="sl">Sedma od devetih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na deset enakih delov.</r:Content>
             <r:Content xml:lang="sr">Sedma od devet vrednosti koja razdvaja ukupnu frekvenciju distribucije na deset jednakih delova.</r:Content>
-            <r:Content xml:lang="sv">Det sjunde av nio värden som separerar den totala frekvensen av en fördelning i tio lika delar.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1667,26 +1667,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/03dbd00</r:UserID>
          <l:CategoryName>EighthDecile</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Eighth decile</r:Content>
+            <r:Content xml:lang="sl">Osmi decil</r:Content>
+            <r:Content xml:lang="sv">Åttonde decilen</r:Content>
             <r:Content xml:lang="fi">Kahdeksas desiili</r:Content>
             <r:Content xml:lang="it">Ottavo decile</r:Content>
+            <r:Content xml:lang="pt">Oitavo decil</r:Content>
+            <r:Content xml:lang="en">Eighth decile</r:Content>
             <r:Content xml:lang="nl">Achste deciel</r:Content>
             <r:Content xml:lang="no">Åttende desil</r:Content>
-            <r:Content xml:lang="pt">Oitavo decil</r:Content>
-            <r:Content xml:lang="sl">Osmi decil</r:Content>
             <r:Content xml:lang="sr">Osmi decil</r:Content>
-            <r:Content xml:lang="sv">Åttonde decilen</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The eighth of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
+            <r:Content xml:lang="sl">Osma od devetih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na deset enakih delov.</r:Content>
+            <r:Content xml:lang="sv">Det åttonde av nio värden som separerar den totala frekvensen av en fördelning i tio lika delar.</r:Content>
             <r:Content xml:lang="fi">Kahdeksas yhdeksästä arvosta, jotka jakavat jakauman kymmeneen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">L'ottavo dei nove valori che suddividono la frequenza totale di una distribuzione in dieci parti uguali.</r:Content>
+            <r:Content xml:lang="pt">O oitavo dos nove valores que separam a frequência total de uma distribuição em dez partes iguais.</r:Content>
+            <r:Content xml:lang="en">The eighth of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Den åttende av ni verdier som separerer den totale frekvensen av en fordeling i ti like deler.</r:Content>
-            <r:Content xml:lang="pt">O oitavo dos nove valores que separam a frequência total de uma distribuição em dez partes iguais.</r:Content>
-            <r:Content xml:lang="sl">Osma od devetih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na deset enakih delov.</r:Content>
             <r:Content xml:lang="sr">Osma od devet vrednosti koja razdvaja ukupnu frekvenciju distribucije na deset jednakih delova.</r:Content>
-            <r:Content xml:lang="sv">Det åttonde av nio värden som separerar den totala frekvensen av en fördelning i tio lika delar.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1698,26 +1698,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/9dea4c0</r:UserID>
          <l:CategoryName>NinthDecile</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Ninth decile</r:Content>
+            <r:Content xml:lang="sl">Deveti decil</r:Content>
+            <r:Content xml:lang="sv">Nionde decilen</r:Content>
             <r:Content xml:lang="fi">Yhdeksäs desiili</r:Content>
             <r:Content xml:lang="it">Nono decile</r:Content>
+            <r:Content xml:lang="pt">Nono decil</r:Content>
+            <r:Content xml:lang="en">Ninth decile</r:Content>
             <r:Content xml:lang="nl">Negende deciel</r:Content>
             <r:Content xml:lang="no">Niende desil</r:Content>
-            <r:Content xml:lang="pt">Nono decil</r:Content>
-            <r:Content xml:lang="sl">Deveti decil</r:Content>
             <r:Content xml:lang="sr">Deveti decil</r:Content>
-            <r:Content xml:lang="sv">Nionde decilen</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The ninth of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
+            <r:Content xml:lang="sl">Deveta od devetih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na deset enakih delov.</r:Content>
+            <r:Content xml:lang="sv">Det nionde av nio värden som separerar den totala frekvensen av en fördelning i tio lika delar.</r:Content>
             <r:Content xml:lang="fi">Yhdeksäs yhdeksästä arvosta, jotka jakavat jakauman kymmeneen yhtä suureen osaan.</r:Content>
             <r:Content xml:lang="it">Il nono dei nove valori che suddividono la frequenza totale di una distribuzione in dieci parti uguali.</r:Content>
+            <r:Content xml:lang="pt">O nono dos nove valores que separam a frequência total de uma distribuição em dez partes iguais.</r:Content>
+            <r:Content xml:lang="en">The ninth of nine values which separate the total frequency of a distribution into ten equal parts.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Den niende av ni verdier som separerer den totale frekvensen av en fordeling i ti like deler.</r:Content>
-            <r:Content xml:lang="pt">O nono dos nove valores que separam a frequência total de uma distribuição em dez partes iguais.</r:Content>
-            <r:Content xml:lang="sl">Deveta od devetih vrednosti, ki razdelijo celotno frekvenčno porazdelitev na deset enakih delov.</r:Content>
             <r:Content xml:lang="sr">Deveta od devet vrednosti koja razdvaja ukupnu frekvenciju distribucije na deset jednakih delova.</r:Content>
-            <r:Content xml:lang="sv">Det nionde av nio värden som separerar den totala frekvensen av en fördelning i tio lika delar.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1729,26 +1729,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/26ad7e5</r:UserID>
          <l:CategoryName>InterdecileRange</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Interdecile range</r:Content>
+            <r:Content xml:lang="sl">Decilni razmik</r:Content>
+            <r:Content xml:lang="sv">Decilavstånd</r:Content>
             <r:Content xml:lang="fi">Desiiliväli</r:Content>
             <r:Content xml:lang="it">Ampiezza interdecile</r:Content>
+            <r:Content xml:lang="pt">Amplitude interdecil</r:Content>
+            <r:Content xml:lang="en">Interdecile range</r:Content>
             <r:Content xml:lang="nl">Interdicielafstand</r:Content>
             <r:Content xml:lang="no">Desilbredde</r:Content>
-            <r:Content xml:lang="pt">Amplitude interdecil</r:Content>
-            <r:Content xml:lang="sl">Decilni razmik</r:Content>
             <r:Content xml:lang="sr">Međudecilni raspon</r:Content>
-            <r:Content xml:lang="sv">Decilavstånd</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">The range between the first and ninth decile values.</r:Content>
+            <r:Content xml:lang="sl">Razpon med vrednostima prvega in devetega decila.</r:Content>
+            <r:Content xml:lang="sv">Intervallet mellan första och nionde decilen.</r:Content>
             <r:Content xml:lang="fi">Väli ensimmäisestä desiilistä yhdeksänteen desiiliin.</r:Content>
             <r:Content xml:lang="it">L'intervallo tra il primo e il nono decile.</r:Content>
+            <r:Content xml:lang="pt">O intervalo entre os valores do primeiro e do nono decil.</r:Content>
+            <r:Content xml:lang="en">The range between the first and ninth decile values.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Intervallet mellom første og niende desilverdi.</r:Content>
-            <r:Content xml:lang="pt">O intervalo entre os valores do primeiro e do nono decil.</r:Content>
-            <r:Content xml:lang="sl">Razpon med vrednostima prvega in devetega decila.</r:Content>
             <r:Content xml:lang="sr">Raspon između prvog i devetog decila.</r:Content>
-            <r:Content xml:lang="sv">Intervallet mellan första och nionde decilen.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1760,26 +1760,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/9947048</r:UserID>
          <l:CategoryName>OtherPercentile</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Other percentile</r:Content>
+            <r:Content xml:lang="sl">Drugi percentili</r:Content>
+            <r:Content xml:lang="sv">Annan percentil</r:Content>
             <r:Content xml:lang="fi">Muu persentiili</r:Content>
             <r:Content xml:lang="it">Altri percentili</r:Content>
+            <r:Content xml:lang="pt">Outro percentil</r:Content>
+            <r:Content xml:lang="en">Other percentile</r:Content>
             <r:Content xml:lang="nl">Ander percentiel</r:Content>
             <r:Content xml:lang="no">Annen persentil</r:Content>
-            <r:Content xml:lang="pt">Outro percentil</r:Content>
-            <r:Content xml:lang="sl">Drugi percentili</r:Content>
             <r:Content xml:lang="sr">Ostali percentili</r:Content>
-            <r:Content xml:lang="sv">Annan percentil</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">A percentile not covered by any of the other percentile terms.</r:Content>
+            <r:Content xml:lang="sl">Percentil, ki ni zajet v katerem drugem percentilnem izrazu.</r:Content>
+            <r:Content xml:lang="sv">En percentil som inte omfattas av någon av de andra percentiltermerna.</r:Content>
             <r:Content xml:lang="fi">Persentiili, joka ei sovi muihin fraktiilitermeihin.</r:Content>
             <r:Content xml:lang="it">Un percentile non coperto da nessuno degli altri percentili indicati.</r:Content>
+            <r:Content xml:lang="pt">Um percentil não abrangido por nenhum outro termo relacionado com os percentis.</r:Content>
+            <r:Content xml:lang="en">A percentile not covered by any of the other percentile terms.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">En persentil som ikke inngår i noen av de andre persentilbegrepene.</r:Content>
-            <r:Content xml:lang="pt">Um percentil não abrangido por nenhum outro termo relacionado com os percentis.</r:Content>
-            <r:Content xml:lang="sl">Percentil, ki ni zajet v katerem drugem percentilnem izrazu.</r:Content>
             <r:Content xml:lang="sr">Perceptil koji nije obuhvaćen nijednim procentnim izrazom.</r:Content>
-            <r:Content xml:lang="sv">En percentil som inte omfattas av någon av de andra percentiltermerna.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1791,26 +1791,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/3713b65</r:UserID>
          <l:CategoryName>Beta1</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Skewness</r:Content>
+            <r:Content xml:lang="sl">Asimetrija</r:Content>
+            <r:Content xml:lang="sv">Skevhet</r:Content>
             <r:Content xml:lang="fi">Vinous</r:Content>
             <r:Content xml:lang="it">Indice di asimmetria</r:Content>
+            <r:Content xml:lang="pt">Obliquidade (ou assimetria)</r:Content>
+            <r:Content xml:lang="en">Skewness</r:Content>
             <r:Content xml:lang="nl">Scheefheid</r:Content>
             <r:Content xml:lang="no">Skjevhet</r:Content>
-            <r:Content xml:lang="pt">Obliquidade (ou assimetria)</r:Content>
-            <r:Content xml:lang="sl">Asimetrija</r:Content>
             <r:Content xml:lang="sr">Simetrija / zakrivljenost</r:Content>
-            <r:Content xml:lang="sv">Skevhet</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">A measure for the asymmetry of a probability distribution of a variable.</r:Content>
+            <r:Content xml:lang="sl">Mera asimetrije verjetnostne porazdelitve spremenljivke.</r:Content>
+            <r:Content xml:lang="sv">Ett mått för asymmetrin av en variabels sannolikhetsfördelning.</r:Content>
             <r:Content xml:lang="fi">Muuttujan todennäköisyysjakauman epäsymmetrisyyttä kuvaava käsite.</r:Content>
             <r:Content xml:lang="it">Una misura dell'asimmetria di una distribuzione di probabilità di una variabile.</r:Content>
+            <r:Content xml:lang="pt">Medida de assimetria da distribuição das frequências de uma variável.</r:Content>
+            <r:Content xml:lang="en">A measure for the asymmetry of a probability distribution of a variable.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Et mål for asymmetri av en sannsynlighetsfordeling til en variabel.</r:Content>
-            <r:Content xml:lang="pt">Medida de assimetria da distribuição das frequências de uma variável.</r:Content>
-            <r:Content xml:lang="sl">Mera asimetrije verjetnostne porazdelitve spremenljivke.</r:Content>
             <r:Content xml:lang="sr">„Skewness“ je mera simetrije ili preciznije, nedostatak simetrije. Distribucija skupa podataka je simetrična ako izgleda isto levo i desno u odnosu na centralnu vrednost.&amp;nbsp;</r:Content>
-            <r:Content xml:lang="sv">Ett mått för asymmetrin av en variabels sannolikhetsfördelning.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1822,26 +1822,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/01aac65</r:UserID>
          <l:CategoryName>Beta2</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Kurtosis</r:Content>
+            <r:Content xml:lang="sl">Sploščenost</r:Content>
+            <r:Content xml:lang="sv">Kurtosis</r:Content>
             <r:Content xml:lang="fi">Huipukkuus</r:Content>
             <r:Content xml:lang="it">Curtosi</r:Content>
+            <r:Content xml:lang="pt">Curtose (ou achatamento)</r:Content>
+            <r:Content xml:lang="en">Kurtosis</r:Content>
             <r:Content xml:lang="nl">Kurtosis</r:Content>
             <r:Content xml:lang="no">Kurtose</r:Content>
-            <r:Content xml:lang="pt">Curtose (ou achatamento)</r:Content>
-            <r:Content xml:lang="sl">Sploščenost</r:Content>
             <r:Content xml:lang="sr">Spljoštenost / zašiljenost</r:Content>
-            <r:Content xml:lang="sv">Kurtosis</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">A measure for the "peakedness" of a probability distribution of a variable.</r:Content>
+            <r:Content xml:lang="sl">Mera 'koničanosti' verjetnostne porazdelitve spremenljivke.</r:Content>
+            <r:Content xml:lang="sv">Ett mått för "spetsigheten" på en variabels sannolikhetsfördelning.</r:Content>
             <r:Content xml:lang="fi">Muuttujan todennäköisyysjakauman huipukkuutta kuvaava käsite.</r:Content>
             <r:Content xml:lang="it">Una misura del "picco" di una distribuzione di probabilità di una variabile.</r:Content>
+            <r:Content xml:lang="pt">Medida para o "pico" da distribuição das frequências de uma variável.</r:Content>
+            <r:Content xml:lang="en">A measure for the "peakedness" of a probability distribution of a variable.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Et mål for 'spissheten' av en sannsynlighetsfordeling til en variabel.</r:Content>
-            <r:Content xml:lang="pt">Medida para o "pico" da distribuição das frequências de uma variável.</r:Content>
-            <r:Content xml:lang="sl">Mera 'koničanosti' verjetnostne porazdelitve spremenljivke.</r:Content>
             <r:Content xml:lang="sr">"Kurtosis" meri da li su podaci oštrije ili spljoštenije raspoređeni u odnosu na normalnu raspodelu.</r:Content>
-            <r:Content xml:lang="sv">Ett mått för "spetsigheten" på en variabels sannolikhetsfördelning.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1853,26 +1853,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/699a82e</r:UserID>
          <l:CategoryName>ShapiroWilk</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Shapiro-Wilk</r:Content>
+            <r:Content xml:lang="sl">Shapiro-Wilkov test normalnosti porazdelitve</r:Content>
+            <r:Content xml:lang="sv">Shapiro-Wilk</r:Content>
             <r:Content xml:lang="fi">Shapiron–Wilkin testi</r:Content>
             <r:Content xml:lang="it">Test di Shapiro-Wilk</r:Content>
+            <r:Content xml:lang="pt">Shapiro-Wilk</r:Content>
+            <r:Content xml:lang="en">Shapiro-Wilk</r:Content>
             <r:Content xml:lang="nl">Shapiro-Wilk</r:Content>
             <r:Content xml:lang="no">Shapiro-Wilk</r:Content>
-            <r:Content xml:lang="pt">Shapiro-Wilk</r:Content>
-            <r:Content xml:lang="sl">Shapiro-Wilkov test normalnosti porazdelitve</r:Content>
             <r:Content xml:lang="sr">Šapiro-Vilk</r:Content>
-            <r:Content xml:lang="sv">Shapiro-Wilk</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Normality test statistics.</r:Content>
+            <r:Content xml:lang="sl">Test normalnosti porazdelitve.</r:Content>
+            <r:Content xml:lang="sv">Test som visar i vilken mån datamaterialet inte är normalfördelat.</r:Content>
             <r:Content xml:lang="fi">Eräs jakauman normaaliuden testeistä.</r:Content>
             <r:Content xml:lang="it">Test di normalità statistica.</r:Content>
+            <r:Content xml:lang="pt">Teste de normalidade estatística.</r:Content>
+            <r:Content xml:lang="en">Normality test statistics.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Statistisk normalitetstest.</r:Content>
-            <r:Content xml:lang="pt">Teste de normalidade estatística.</r:Content>
-            <r:Content xml:lang="sl">Test normalnosti porazdelitve.</r:Content>
             <r:Content xml:lang="sr">Šapiro-Vilk je test normalnosti koji se preporučuje za uzorke čiji obim nije veći od 2000 elemenata.</r:Content>
-            <r:Content xml:lang="sv">Test som visar i vilken mån datamaterialet inte är normalfördelat.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1884,26 +1884,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/ecf4107</r:UserID>
          <l:CategoryName>PercentageOfValidCases</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Percentage of valid cases</r:Content>
+            <r:Content xml:lang="sl">Delež veljavnih enot</r:Content>
+            <r:Content xml:lang="sv">Andelen giltiga fall</r:Content>
             <r:Content xml:lang="fi">Validien havaintoyksiköiden prosentuaalinen osuus</r:Content>
             <r:Content xml:lang="it">Percentuale di casi validi</r:Content>
+            <r:Content xml:lang="pt">Percentagem de casos válidos</r:Content>
+            <r:Content xml:lang="en">Percentage of valid cases</r:Content>
             <r:Content xml:lang="nl">Percentage geldige gevallen</r:Content>
             <r:Content xml:lang="no">Prosentdel gyldige tilfeller</r:Content>
-            <r:Content xml:lang="pt">Percentagem de casos válidos</r:Content>
-            <r:Content xml:lang="sl">Delež veljavnih enot</r:Content>
             <r:Content xml:lang="sr">Procenat ispravnih slučajeva</r:Content>
-            <r:Content xml:lang="sv">Andelen giltiga fall</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Indicates the percentage of valid cases of the total number of cases.</r:Content>
+            <r:Content xml:lang="sl">Označuje odstotek veljavnih primerov glede na skupno število primerov.</r:Content>
+            <r:Content xml:lang="sv">Indikerar andelen giltiga fall i förhållande till det totala antalet fall.</r:Content>
             <r:Content xml:lang="fi">Ilmaisee validien havaintoyksiköiden prosenttiosuuden kaikista havaintoyksiköistä.</r:Content>
             <r:Content xml:lang="it">Indica la percentuale di casi validi sul numero totale dei casi.</r:Content>
+            <r:Content xml:lang="pt">Indica a percentagem de casos válidos do número total de casos.</r:Content>
+            <r:Content xml:lang="en">Indicates the percentage of valid cases of the total number of cases.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Indikerer prosentdelen av gyldige tilfeller til det totale antallet tilfeller.</r:Content>
-            <r:Content xml:lang="pt">Indica a percentagem de casos válidos do número total de casos.</r:Content>
-            <r:Content xml:lang="sl">Označuje odstotek veljavnih primerov glede na skupno število primerov.</r:Content>
             <r:Content xml:lang="sr">Pokazuje procenat ispravnih (validnih) opservacija u odnosu na ukupan broj opservacija.</r:Content>
-            <r:Content xml:lang="sv">Indikerar andelen giltiga fall i förhållande till det totala antalet fall.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1915,26 +1915,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/e592a55</r:UserID>
          <l:CategoryName>PercentageOfInvalidCases</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Percentage of invalid cases</r:Content>
+            <r:Content xml:lang="sl">Delež neveljavnih enot</r:Content>
+            <r:Content xml:lang="sv">Andelen ogiltiga fall</r:Content>
             <r:Content xml:lang="fi">Puuttuvien havaintoyksiköiden prosentuaalinen osuus</r:Content>
             <r:Content xml:lang="it">Percentuale di casi non validi</r:Content>
+            <r:Content xml:lang="pt">Percentagem de casos inválidos</r:Content>
+            <r:Content xml:lang="en">Percentage of invalid cases</r:Content>
             <r:Content xml:lang="nl">Percentage ongeldige gevallen</r:Content>
             <r:Content xml:lang="no">Prosentdel ugyldige tilfeller</r:Content>
-            <r:Content xml:lang="pt">Percentagem de casos inválidos</r:Content>
-            <r:Content xml:lang="sl">Delež neveljavnih enot</r:Content>
             <r:Content xml:lang="sr">Procenat neispravnih slučajeva</r:Content>
-            <r:Content xml:lang="sv">Andelen ogiltiga fall</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Indicates the percentage of invalid cases of the total number of cases.</r:Content>
+            <r:Content xml:lang="sl">Označuje odstotek neveljavnih primerov glede na skupno število primerov.</r:Content>
+            <r:Content xml:lang="sv">Indikerar andelen ogiltiga fall i förhållande till det totala antalet fall.</r:Content>
             <r:Content xml:lang="fi">Ilmaisee puuttuvien havaintoyksiköiden prosenttiosuuden kaikista havaintoyksiköistä.</r:Content>
             <r:Content xml:lang="it">Indica la percentuale di casi non validi sul numero totale dei casi.</r:Content>
+            <r:Content xml:lang="pt">Indica a percentagem de casos inválidos do número total de casos.</r:Content>
+            <r:Content xml:lang="en">Indicates the percentage of invalid cases of the total number of cases.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Indikerer prosentdelen av ugyldige tilfeller til det totale antallet tilfeller.</r:Content>
-            <r:Content xml:lang="pt">Indica a percentagem de casos inválidos do número total de casos.</r:Content>
-            <r:Content xml:lang="sl">Označuje odstotek neveljavnih primerov glede na skupno število primerov.</r:Content>
             <r:Content xml:lang="sr">Pokazuje procenat neispravnih opservacija u odnosu na ukupan broj opservacija.</r:Content>
-            <r:Content xml:lang="sv">Indikerar andelen ogiltiga fall i förhållande till det totala antalet fall.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>
@@ -1946,26 +1946,26 @@
          <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SummaryStatisticType/2.1.2/6311ae1</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
-            <r:Content xml:lang="en">Other</r:Content>
+            <r:Content xml:lang="sl">Drugo</r:Content>
+            <r:Content xml:lang="sv">Övrigt</r:Content>
             <r:Content xml:lang="fi">Muu tunnusluku</r:Content>
             <r:Content xml:lang="it">Altro</r:Content>
+            <r:Content xml:lang="pt">Outro</r:Content>
+            <r:Content xml:lang="en">Other</r:Content>
             <r:Content xml:lang="nl">Anders</r:Content>
             <r:Content xml:lang="no">Annet</r:Content>
-            <r:Content xml:lang="pt">Outro</r:Content>
-            <r:Content xml:lang="sl">Drugo</r:Content>
             <r:Content xml:lang="sr">Ostalo</r:Content>
-            <r:Content xml:lang="sv">Övrigt</r:Content>
          </r:Label>
          <r:Description>
-            <r:Content xml:lang="en">Use if the summary statistic type is known, but not found in the list.</r:Content>
+            <r:Content xml:lang="sl">Uporabite, če je zbirna statistika znana, a je ne najdete na seznamu.</r:Content>
+            <r:Content xml:lang="sv">Använd om typ av sammanfattande statistik är känd men saknas i listan.</r:Content>
             <r:Content xml:lang="fi">Käytä, mikäli tilastollisen tunnusluvun tyyppi on tiedossa, mutta ei listassa.</r:Content>
             <r:Content xml:lang="it">Utilizzare se il tipo di statistica riassuntiva è conosciuto, ma non è presente nell'elenco.</r:Content>
+            <r:Content xml:lang="pt">Usar se o tipo de estatística sumária for conhecido, mas não se encontrar na lista.</r:Content>
+            <r:Content xml:lang="en">Use if the summary statistic type is known, but not found in the list.</r:Content>
             <r:Content xml:lang="nl"/>
             <r:Content xml:lang="no">Bruk dersom typen summeringsstatistikk er kjent, men mangler i listen.</r:Content>
-            <r:Content xml:lang="pt">Usar se o tipo de estatística sumária for conhecido, mas não se encontrar na lista.</r:Content>
-            <r:Content xml:lang="sl">Uporabite, če je zbirna statistika znana, a je ne najdete na seznamu.</r:Content>
             <r:Content xml:lang="sr">Koristite ukoliko je statistički tip poznat, ali se ne nalazi na listi.</r:Content>
-            <r:Content xml:lang="sv">Använd om typ av sammanfattande statistik är känd men saknas i listan.</r:Content>
          </r:Description>
       </l:Category>
    </ddi:Fragment>

@@ -7,8 +7,8 @@
       <l:CodeList>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfConceptGroup</r:ID>
-         <r:Version>1.0.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.2/</r:UserID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.0/</r:UserID>
          <r:Label>
             <r:Content xml:lang="en">Type of Concept Group</r:Content>
             <r:Content xml:lang="no">Type konseptgruppe</r:Content>
@@ -20,12 +20,12 @@
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfConceptGroup-9ef1541-Code</r:ID>
-            <r:Version>1.0.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.2/9ef1541</r:UserID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.0/9ef1541</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfConceptGroup-9ef1541-Category</r:ID>
-               <r:Version>1.0.2</r:Version>
+               <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Administrative</r:Value>
@@ -33,12 +33,12 @@
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfConceptGroup-39872cc-Code</r:ID>
-            <r:Version>1.0.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.2/39872cc</r:UserID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.0/39872cc</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfConceptGroup-39872cc-Category</r:ID>
-               <r:Version>1.0.2</r:Version>
+               <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Thematic</r:Value>
@@ -46,12 +46,12 @@
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>TypeOfConceptGroup-6311ae1-Code</r:ID>
-            <r:Version>1.0.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.2/6311ae1</r:UserID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.0/6311ae1</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>TypeOfConceptGroup-6311ae1-Category</r:ID>
-               <r:Version>1.0.2</r:Version>
+               <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Other</r:Value>
@@ -62,8 +62,8 @@
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfConceptGroup-9ef1541-Category</r:ID>
-         <r:Version>1.0.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.2/9ef1541</r:UserID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.0/9ef1541</r:UserID>
          <l:CategoryName>Administrative</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Administrative</r:Content>
@@ -79,8 +79,8 @@
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfConceptGroup-39872cc-Category</r:ID>
-         <r:Version>1.0.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.2/39872cc</r:UserID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.0/39872cc</r:UserID>
          <l:CategoryName>Thematic</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Thematic</r:Content>
@@ -96,8 +96,8 @@
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>TypeOfConceptGroup-6311ae1-Category</r:ID>
-         <r:Version>1.0.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.2/6311ae1</r:UserID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfConceptGroup/1.0.0/6311ae1</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>

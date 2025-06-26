@@ -7,8 +7,8 @@
       <l:CodeList>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ResponseUnit</r:ID>
-         <r:Version>1.0.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/</r:UserID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/</r:UserID>
          <r:Label>
             <r:Content xml:lang="en">Response Unit</r:Content>
             <r:Content xml:lang="no">Svarenhet</r:Content>
@@ -20,12 +20,12 @@
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ResponseUnit-ad6e765-Code</r:ID>
-            <r:Version>1.0.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/ad6e765</r:UserID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/ad6e765</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ResponseUnit-ad6e765-Category</r:ID>
-               <r:Version>1.0.2</r:Version>
+               <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Self</r:Value>
@@ -33,12 +33,12 @@
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ResponseUnit-85c2695-Code</r:ID>
-            <r:Version>1.0.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/85c2695</r:UserID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/85c2695</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ResponseUnit-85c2695-Category</r:ID>
-               <r:Version>1.0.2</r:Version>
+               <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Informant</r:Value>
@@ -46,12 +46,12 @@
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ResponseUnit-f56ec2a-Code</r:ID>
-            <r:Version>1.0.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/f56ec2a</r:UserID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/f56ec2a</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ResponseUnit-f56ec2a-Category</r:ID>
-               <r:Version>1.0.2</r:Version>
+               <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Proxy</r:Value>
@@ -59,12 +59,12 @@
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ResponseUnit-1b778c7-Code</r:ID>
-            <r:Version>1.0.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/1b778c7</r:UserID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/1b778c7</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ResponseUnit-1b778c7-Category</r:ID>
-               <r:Version>1.0.2</r:Version>
+               <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Interviewer</r:Value>
@@ -72,12 +72,12 @@
          <l:Code>
             <r:Agency>int.ddi.cv</r:Agency>
             <r:ID>ResponseUnit-6311ae1-Code</r:ID>
-            <r:Version>1.0.2</r:Version>
-            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/6311ae1</r:UserID>
+            <r:Version>1.0.0</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/6311ae1</r:UserID>
             <r:CategoryReference>
                <r:Agency>int.ddi.cv</r:Agency>
                <r:ID>ResponseUnit-6311ae1-Category</r:ID>
-               <r:Version>1.0.2</r:Version>
+               <r:Version>1.0.0</r:Version>
                <r:TypeOfObject>Category</r:TypeOfObject>
             </r:CategoryReference>
             <r:Value>Other</r:Value>
@@ -88,8 +88,8 @@
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ResponseUnit-ad6e765-Category</r:ID>
-         <r:Version>1.0.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/ad6e765</r:UserID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/ad6e765</r:UserID>
          <l:CategoryName>Self</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Self</r:Content>
@@ -105,8 +105,8 @@
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ResponseUnit-85c2695-Category</r:ID>
-         <r:Version>1.0.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/85c2695</r:UserID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/85c2695</r:UserID>
          <l:CategoryName>Informant</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Informant</r:Content>
@@ -122,8 +122,8 @@
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ResponseUnit-f56ec2a-Category</r:ID>
-         <r:Version>1.0.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/f56ec2a</r:UserID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/f56ec2a</r:UserID>
          <l:CategoryName>Proxy</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Proxy</r:Content>
@@ -139,8 +139,8 @@
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ResponseUnit-1b778c7-Category</r:ID>
-         <r:Version>1.0.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/1b778c7</r:UserID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/1b778c7</r:UserID>
          <l:CategoryName>Interviewer</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Interviewer</r:Content>
@@ -156,8 +156,8 @@
       <l:Category>
          <r:Agency>int.ddi.cv</r:Agency>
          <r:ID>ResponseUnit-6311ae1-Category</r:ID>
-         <r:Version>1.0.2</r:Version>
-         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.2/6311ae1</r:UserID>
+         <r:Version>1.0.0</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/ResponseUnit/1.0.0/6311ae1</r:UserID>
          <l:CategoryName>Other</l:CategoryName>
          <r:Label>
             <r:Content xml:lang="en">Other</r:Content>
