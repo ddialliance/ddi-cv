@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ddi:FragmentInstance xmlns:ddi="ddi:instance:3_2"
+                       xmlns:ddi-cv="urn:ddi-cv"
+                       xmlns:l="ddi:logicalproduct:3_2"
+                       xmlns:r="ddi:reusable:3_2">
+   <ddi:Fragment>
+      <l:CodeList>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/</r:UserID>
+         <r:Label>
+            <r:Content xml:lang="sl">Postopek vzorčenja</r:Content>
+            <r:Content xml:lang="lt">Atrankos procedūra</r:Content>
+            <r:Content xml:lang="sv">Urvalsmetod</r:Content>
+            <r:Content xml:lang="it">Procedura di campionamento</r:Content>
+            <r:Content xml:lang="en">Sampling Procedure</r:Content>
+            <r:Content xml:lang="de">Auswahlverfahren</r:Content>
+            <r:Content xml:lang="fr">Procédure d'échantillonnage</r:Content>
+            <r:Content xml:lang="nl">Steekproefmethode</r:Content>
+            <r:Content xml:lang="no">Utvalgsmetode</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Vključuje razvrstitev metod vzorčenja.</r:Content>
+            <r:Content xml:lang="lt">Atrankos metodų tipologija.</r:Content>
+            <r:Content xml:lang="sv">Innehåller en typologi av olika urvalsmetoder.</r:Content>
+            <r:Content xml:lang="it">Tipologia dei metodi di campionamento.</r:Content>
+            <r:Content xml:lang="en">A typology of sampling methods.</r:Content>
+            <r:Content xml:lang="de">Enthält eine Typologie von Stichprobenverfahren.</r:Content>
+            <r:Content xml:lang="fr">Une typologie des méthodes d'échantillonnage</r:Content>
+            <r:Content xml:lang="nl">Een indeling van steekproefmethodes.</r:Content>
+            <r:Content xml:lang="no">Inneholder en typologi av ulike utvalgsmetoder.</r:Content>
+         </r:Description>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-885b553-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/885b553</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-885b553-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>TotalUniverseCompleteEnumeration</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-0d2765b-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/0d2765b</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-0d2765b-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Probability</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-38e8e88-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/38e8e88</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-38e8e88-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Probability.SimpleRandom</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-f189f62-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/f189f62</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-f189f62-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Probability.SystematicRandom</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-55d038d-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/55d038d</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-55d038d-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Probability.Stratified</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-7653f19-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/7653f19</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-7653f19-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Probability.Stratified.Proportional</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-2059a2b-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/2059a2b</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-2059a2b-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Probability.Stratified.Disproportional</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-1f6e5f3-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/1f6e5f3</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-1f6e5f3-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Probability.Cluster</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-8e08217-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/8e08217</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-8e08217-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Probability.Cluster.SimpleRandom</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-49f4571-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/49f4571</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-49f4571-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Probability.Cluster.StratifiedRandom</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-f91d8ca-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/f91d8ca</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-f91d8ca-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Probability.Multistage</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-540b3b2-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/540b3b2</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-540b3b2-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>TheoreticalSampling</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-4d8364f-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/4d8364f</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-4d8364f-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Nonprobability</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-90cbfe9-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/90cbfe9</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-90cbfe9-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Nonprobability.Availability</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-45d8ec9-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/45d8ec9</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-45d8ec9-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Nonprobability.Purposive</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-f620230-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/f620230</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-f620230-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Nonprobability.Quota</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-086e080-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/086e080</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-086e080-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Nonprobability.RespondentAssisted</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-e890a15-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/e890a15</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-e890a15-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>MixedProbabilityNonprobability</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SamplingProcedure-6311ae1-Code</r:ID>
+            <r:Version>2.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/6311ae1</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SamplingProcedure-6311ae1-Category</r:ID>
+               <r:Version>2.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Other</r:Value>
+         </l:Code>
+      </l:CodeList>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-885b553-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/885b553</r:UserID>
+         <l:CategoryName>TotalUniverseCompleteEnumeration</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Zajeta celotna populacija</r:Content>
+            <r:Content xml:lang="lt">Tiriamoji visuma arba visas sąrašas</r:Content>
+            <r:Content xml:lang="sv">Hela populationen/total räkning</r:Content>
+            <r:Content xml:lang="it">Intero universo</r:Content>
+            <r:Content xml:lang="en">Total universe/Complete enumeration</r:Content>
+            <r:Content xml:lang="de">Vollerhebung</r:Content>
+            <r:Content xml:lang="fr">Univers complet / dénombrement complet</r:Content>
+            <r:Content xml:lang="nl">Doelpopulatie</r:Content>
+            <r:Content xml:lang="no">Hele populasjonen/total oppregning</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Vse enote (posamezniki, gospodinjstva, organizacije itd.) ciljne populacije so vključene v zbiranje podatkov. Na primer, če je ciljna populacija opredeljena kot člani sindikata, so vsi člani sindikata vabljeni k sodelovanju v raziskavi. Imenujemo tudi "popis", če je vključeno celotno prebivalstvo določene regionalne enote (npr. države).</r:Content>
+            <r:Content xml:lang="lt">Renkant duomenis įtraukiami visi tikslinės populiacijos vienetai (individai, namų ūkiai, organizacijos ir kt.). Pavyzdžiui, jei tikslinė populiacija yra apibrėžta, kaip profesinės sąjungos nariai, visi profsąjungos nariai yra kviečiami dalyvauti tyrime. Taip pat vadinamas „visuotiniu surašymu“, jei pasirenkami visi teritorinio vieneto (pavyzdžiui, šalies) gyventojai.</r:Content>
+            <r:Content xml:lang="sv">Alla element (individer, hushåll, organisationer m.m.) i målpopulationen inkluderas i datainsamlingen. Exempel: om målpopulationen definieras som medlemmarna i ett fackförbund så bjuds samtliga medlemmar in till att delta i studien. Kallas även "folkräkning", om det rör sig om den totala populationen i en regional enhet (t.ex. ett land).</r:Content>
+            <r:Content xml:lang="it">Tutte le unità (individui, famiglie, organizzazioni, ecc.) della popolazione di riferimento sono incluse nella raccolta dei dati. Ad esempio, se la popolazione di riferimento è definita come l'insieme dei membri di un sindacato, tutti i membri del sindacato sono invitati a partecipare allo studio. È anche chiamato "censimento" se viene selezionata l'intera popolazione di un'unità regionale (ad esempio un paese).</r:Content>
+            <r:Content xml:lang="en">All units (individuals, households, organizations, etc.) of a target population are included in the data collection. For example, if the target population is defined as the members of a trade union, all union members are invited to participate in the study. Also called "census" if the entire population of a regional unit (e.g. a country) is selected.</r:Content>
+            <r:Content xml:lang="de">Alle Einheiten (Individuen, Haushalte, Organisationen, usw.) der Grundgesamtheit sind Teil der Erhebung. Wenn beispielsweise die Grundgesamtheit als Mitglieder einer Gewerkschaft definiert ist, werden alle Gewerkschaftsmitglieder eingeladen, an der Studie teilzunehmen. Wenn die gesamte Bevölkerung einer regionalen Einheit (z. B. eines Landes) Teil des Erhebungsverfahrens ist, wird dies auch als 'Zensus' bezeichnet.</r:Content>
+            <r:Content xml:lang="fr">Toutes les unités (individus, ménages, organisations, etc.) de la population cible sont incluses dans la collecte des données. Par exemple, si la population cible est définie comme les membres d'une organisation syndicale, tous les membres syndicaux sont invités à participer à l'étude. Aussi appelé "recensement" si la population complète d'une unité régionale (e.g. un pays) est sélectionnée.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Alle enheter (individer, husholdninger, organisasjoner etc.) i målpopulasjonen er inkludert i datainnsamlingen. For eksempel: dersom målpopulasjonen er definert som medlemmer av en fagforening blir alle medlemmene invitert til å delta i studien. Også kalt 'sensus' dersom hele populasjonen av en regional enhet (f.eks et land) er valgt.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-0d2765b-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/0d2765b</r:UserID>
+         <l:CategoryName>Probability</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Verjetnostno</r:Content>
+            <r:Content xml:lang="lt">Tikimybinė</r:Content>
+            <r:Content xml:lang="sv">Sannolikhetsurval</r:Content>
+            <r:Content xml:lang="it">Probabilistisco</r:Content>
+            <r:Content xml:lang="en">Probability</r:Content>
+            <r:Content xml:lang="de">Wahrscheinlichkeitsauswahl</r:Content>
+            <r:Content xml:lang="fr">Probabiliste</r:Content>
+            <r:Content xml:lang="nl">Kanssteekproef</r:Content>
+            <r:Content xml:lang="no">Sannsynlighetsutvalg</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Vse enote (posamezniki, gospodinjstva, organizacije itd.) ciljne populacije imajo določeno verjetnost (različno od nič), da se vključijo v vzorec. To verjetnost je mogoče natančno določiti. Uporabite ta širši izraz, če bolj določena vrsta verjetnostnega vzorčenja ni znana oziroma jo je težko prepoznati.</r:Content>
+            <r:Content xml:lang="lt">Visi tikslinės populiacijos vienetai (individai, namų ūkiai, organizacijos ir kt.) turi ne nulinę tikimybę patekti į imtį ir šią tikimybę galima tiksliai apskaičiuoti. Naudoti šį platesnį terminą, jei nežinomas konkretesnis tikimybinės atrankos tipas arba jį sunku nustatyti.</r:Content>
+            <r:Content xml:lang="sv">Alla element (individer, hushåll, organisationer m.m.) i målpopulationen har en sannolikhet större än noll att inkluderas i urvalet och det går att exakt beräkna sannolikheten. Använd den här bredare termen om det är okänt vilken mer specifik typ av sannolikhetsurval det rör sig om eller om typen är svår att identifiera.</r:Content>
+            <r:Content xml:lang="it">Tutte le unità (individui, famiglie, organizzazioni, ecc.) della popolazione di riferimento hanno una probabilità diversa da zero di essere incluse nel campione e tale probabilità può essere determinata con precisione. Utilizzare questo termine più ampio se non è conosciuto oppure è difficile identificare un tipo più specifico di campionamento probabilistico.</r:Content>
+            <r:Content xml:lang="en">All units (individuals, households, organizations, etc.) of a target population have a non-zero probability of being included in the sample and this probability can be accurately determined. Use this broader term if a more specific type of probability sampling is not known or is difficult to identify.</r:Content>
+            <r:Content xml:lang="de">Alle Einheiten (Individuen, Haushalte, Organisationen, usw.) der Grundgesamtheit haben eine genau bestimmbare, von Null verschiedene Wahrscheinlichkeit, in die Stichprobe zu gelangen. Verwenden Sie diese Kategorie, wenn die genaue Art der Wahrscheinlichkeitsauswahl unbekannt oder schwierig zu bestimmen ist.</r:Content>
+            <r:Content xml:lang="fr">Toutes les unités (individus, ménages, organisations, etc.) de la population cible ont une probabilité non nulle d'être incluses dans l'échantillon et cette probabilité peut être fidèlement déterminée. Utilisez ce terme si un terme plus spécifique d'échantillonnage probabiliste n'est pas connu ou est difficile à identifier.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Alle enheter (individer, husholdninger, organisasjoner etc.) i målpopulasjonen har en sannsynlighet større enn null for å bli inkludert i utvalget og denne sannsynligheten kan utregnes. Bruksmerknad: Bruk dette bredere begrepet dersom en mer spesifikk type sannsynlighetsutvalg ikke er kjent eller dersom det er vanskelig å definere.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-38e8e88-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/38e8e88</r:UserID>
+         <l:CategoryName>Probability.SimpleRandom</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Verjetnostno: enostavno slučajno</r:Content>
+            <r:Content xml:lang="lt">Tikimybinė: paprastoji atsitiktinė </r:Content>
+            <r:Content xml:lang="sv">Sannolikhetsurval: obundet slumpmässigt urval</r:Content>
+            <r:Content xml:lang="it">Probabilistisco: casuale semplice</r:Content>
+            <r:Content xml:lang="en">Probability: Simple random</r:Content>
+            <r:Content xml:lang="de">Wahrscheinlichkeitsauswahl: Einfache Zufallsauswahl</r:Content>
+            <r:Content xml:lang="fr">Probabiliste : aléatoire simple</r:Content>
+            <r:Content xml:lang="nl">Aselecte kansssteekproef</r:Content>
+            <r:Content xml:lang="no">Sannsynlighetsutvalg: Enkelt tilfeldig</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Vse enote ciljne populacije imajo enako verjetnost, da so vključene v vzorec. Običajno je celotna populacija navedena v "vzorčnem okviru", nato pa se enote izberejo iz tega okvira z uporabo metode slučajnega izbora.</r:Content>
+            <r:Content xml:lang="lt">Visi tikslinės populiacijos vienetai turi vienodą tikimybę patekti į imtį. Paprastai naudojamas visos populiacijos sąrašas, iš kurio atsitiktinio parinkimo metodu atrenkami imties vienetai.</r:Content>
+            <r:Content xml:lang="sv">Alla element i målpopulationen har samma sannolikhet att inkluderas i urvalet. Vanligtvis listas hela populationen i en "urvalsram" och elementen väljs från den ramen med en slumpvalsmetod.</r:Content>
+            <r:Content xml:lang="it">Tutte le unità della popolazione di riferimento hanno uguale probabilità di essere incluse nel campione. In genere, l'intera popolazione è inclusa in una "lista di campionamento" e le singole unità vengono quindi scelte da questa lista usando un metodo di selezione casuale.</r:Content>
+            <r:Content xml:lang="en">All units of a target population have an equal probability of being included in the sample. Typically, the entire population is listed in a "sample frame", and units are then chosen from this frame using a random selection method.</r:Content>
+            <r:Content xml:lang="de">Alle Einheiten (Individuen, Haushalte, Organisationen, usw.) der Grundgesamtheit haben die gleiche Wahrscheinlichkeit, in die Stichprobe zu gelangen. In der Regel werden die Einheiten der Grundgesamtheit zufällig aus einer Auswahlgrundlage (z. B. eine Liste mit allen Einheiten der Grundgesamtheit) gezogen.</r:Content>
+            <r:Content xml:lang="fr">Toutes les unités de la population cible ont une probabilité identique d'être incluses dans l'échantillon. Typiquement, la population entière est listée dans une "base de sondage", et des unités sont alors choisies à partir de cette base en utilisant une méthode de sélection aléatoire.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Alle enheter i målpopulasjonen har en lik sjanse for å bli inkludert i utvalget. Vanligvis listes hele populasjonen i en 'utvalgsramme' og enhetene blir valgt ut fra denne ved en tilfeldig utvalgsmetode.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-f189f62-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/f189f62</r:UserID>
+         <l:CategoryName>Probability.SystematicRandom</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Verjetnostno: sistematično slučajno</r:Content>
+            <r:Content xml:lang="lt">Tikimybinė: sistemingoji atsitiktinė </r:Content>
+            <r:Content xml:lang="sv">Sannolikhetsurval: systematiskt slumpmässigt urval</r:Content>
+            <r:Content xml:lang="it">Probabilistisco: sistematico</r:Content>
+            <r:Content xml:lang="en">Probability: Systematic random</r:Content>
+            <r:Content xml:lang="de">Wahrscheinlichkeitsauswahl: Systematische Zufallsauswahl</r:Content>
+            <r:Content xml:lang="fr">Probabiliste : aléatoire systématique</r:Content>
+            <r:Content xml:lang="nl">Systematische steekproef</r:Content>
+            <r:Content xml:lang="no">Sannsynlighetsutvalg: Systematisk tilfeldig</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Določen interval izbiranja dobimo, ko velikost populacije delimo z želeno velikostjo vzorca. Izhodiščna točka se naključno vzame iz vzorčnega okvira, ki običajno pokriva celotno ciljno populacijo. Od izhodišča se nato enote v vzorec izberejo glede na interval izbiranja. Postopek poznamo tudi kot intervalno vzorčenje. Na primer, podjetje izvaja anketo in želi vzorec 1.000 zaposlenih od skupno 10.000. Postopek začne z naključno začetno številko, nato pa bo vsak deseti s seznama zaposlenih v podjetju povabljen k sodelovanju v raziskavi.</r:Content>
+            <r:Content xml:lang="lt">Fiksuotas atrankos žingsnis nustatomas populiacijos dydį padalijant iš norimo imties dydžio. Po to, visą tikslinę populiaciją apimančiame sąraše atsitiktinai parenkamas pradinis taškas. Tuomet pasirinktu atrankos žingsniu, pradedant nuo pradinio taško, parenkami visi likę imties vienetai. Taip pat vadinama intervaline atranka. Pavyzdžiui, įmonės apklausai siekiama sudaryti 1000-io darbuotojų imtį iš 10000-ių darbuotojų sąrašo. Pradedant nuo atsitiktinai parinkto pradinio skaičiaus, dalyvauti tyrime bus pakviestas kas dešimtas darbuotojas iš sąrašo.</r:Content>
+            <r:Content xml:lang="sv">Ett fast urvalsintervall skapas genom att dela populationsstorleken med den önskade urvalsstorleken. En startpunkt väljs därefter slumpmässigt från urvalsramen, som vanligtvis omfattar hela målpopulationen. Från denna startpunkt väljs sedan element till urvalet ut med hjälp av det fasta urvalsintervallet. Metoden kallas även för intervallurval.
+Exempel: ett företag vill genomföra en enkät bland 1.000 av sina 10.000 anställda. Med utgångspunkt från en slumpmässigt vald startpunkt bjuds vart tionde namn i listan över medarbetare in att delta i undersökningen.</r:Content>
+            <r:Content xml:lang="it">Si determina un intervallo fisso dividendo la dimensione della popolazione per la dimensione del campione desiderata. Successivamente viene estratto in modo casuale il punto di partenza dalla lista di campionamento che, generalmente, copre l'intera popolazione di riferimento. Dal punto di partenza verranno poi estratte le unità in base all'intervallo determinato. È conosciuto anche come "campionamento a intervalli". Ad esempio, un sondaggio aziendale cerca un campione di 1.000 dipendenti sulla popolazione totale di 10.000. A partire da un numero di partenza casuale, sarà invitato a partecipare allo studio ogni decimo nome selezionato dall'elenco dei dipendenti dell'azienda.</r:Content>
+            <r:Content xml:lang="en">A fixed selection interval is determined by dividing the population size by the desired sample size. A starting point is then randomly drawn from the sample frame, which normally covers the entire target population. From this starting point, units for the sample are chosen based on the selection interval. Also known as interval sampling. For example, a company survey seeks a sample of 1,000 employees out of 10,000 total. Beginning with a random starting number, every 10th name from the employee list of the company will be invited to participate in the study.</r:Content>
+            <r:Content xml:lang="de">Aus dem Verhältnis der Grundgesamtheit und der gewünschten Stichprobengröße ergibt sich ein Intervall für die Stichprobenziehung. In der Auswahlgrundlage (z. B. eine Liste mit allen Einheiten der Grundgesamtheit) wird ein Startpunkt zufällig ermittelt. Von diesem Startpunkt aus werden alle weiteren Einheiten nach dem festgelegten Intervall ausgewählt. Auch bekannt als Intervall-Stichprobe. Beispielsweise sollen 1.000 Angestellte von insgesamt 10.000 Angestellten eines Unternehmens befragt werden: Zufällig wird ein/e Angestellte/r aus einer Liste mit allen Angestellten ausgewählt. Ausgehend von dieser Person wird dann jede/r 10. eingeladen, an der Studie teilzunehmen.</r:Content>
+            <r:Content xml:lang="fr">Un intervalle de sélection fixe est déterminé en divisant la taille de la population par la taille désirée de l'échantillon. Le point de départ est alors un tirage au sort à partir de la base de sondage, laquelle couvre normalement la population cible totale. À partir de ce point de départ, des unités pour l'échantillonnage sont choisies en fonction de l'intervalle de sélection. Aussi connu comme l'échantillonnage par intervalle. Par exemple, une enquête dans une entreprise porte sur un échantillon de 1 000 employés sur un total de 10 000. En commençant par un nombre de départ aléatoire, tous les 10 noms de la liste des employés de l'entreprise seront invités à participer à l'étude.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Et fast seleksjonsintervall er bestemt ved å dele populasjonsstørrelsen på den ønskede utvalgsstørrelsen. Et startpunkt er deretter trukket tilfeldig fra utvalgsrammen, som normalt dekker hele målpopulasjonen. Fra startpunktet blir enheter for utvalget trukket basert på seleksjonsintervallet. Også kjent som utvalgsintervall. For eksempel, en bedriftsundersøkelse ønsker et utvalg på 1000 ansatte av 10.000 totalt. Ut fra et tilfeldig startnummer blir hvert tiende navn fra ansattlisten til bedriften invitert til å delta i studien.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-55d038d-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/55d038d</r:UserID>
+         <l:CategoryName>Probability.Stratified</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Verjetnostno: stratificirano</r:Content>
+            <r:Content xml:lang="lt">Tikimybinė: sluoksninė</r:Content>
+            <r:Content xml:lang="sv">Sannolikhetsurval: stratifierat urval</r:Content>
+            <r:Content xml:lang="it">Probabilistisco: stratificato</r:Content>
+            <r:Content xml:lang="en">Probability: Stratified</r:Content>
+            <r:Content xml:lang="de">Wahrscheinlichkeitsauswahl: Geschichtete Zufallsauswahl</r:Content>
+            <r:Content xml:lang="fr">Probabiliste : stratifié</r:Content>
+            <r:Content xml:lang="nl">Gestratificeerde kanssteekproef</r:Content>
+            <r:Content xml:lang="no">Sannsynlighetsutvalg: Stratifisert</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Ciljna populacija je razdeljena na ločene in medsebojno izključujoče se odseke (stratume/sloje), ki pokrivajo celotno populacijo. Iz vsakega odseka se nato vzamejo neodvisni slučajni vzorci. Na primer, v nacionalni raziskavi javnega mnenja je celotno prebivalstvo razdeljeno na dva regionalna odseka: vzhodni in zahodni. Vzorčene enote se nato vzamejo iz vsake regije z enostavnim ali sistematičnim slučajnim vzorčenjem. Uporabite ta širši izraz, če določena vrsta stratificiranega vzorčenja ni znana ali je težko prepoznavna.</r:Content>
+            <r:Content xml:lang="lt">Tikslinė populiacija yra padalinama į atskirus ir nepersidengiančius segmentus (sluoksnius), apimančius visą populiaciją. Tada kiekviename sluoksnyje atskirai sudaromos atsitiktinės imtys. Pavyzdžiui, atliekant nacionalinę viešosios nuomonės apklausą, visi gyventojai suskirstomi į du teritorinius sluoksnius: rytų ir vakarų. Po to, naudojant paprastąją arba sistemingąją atsitiktinę atranką, iš kiekvieno sluoksnio atrenkami imties vienetai. Naudoti šį platesnį terminą, kai nežinomas konkretus sluoksninės imties tipas arba jį sunku nustatyti.</r:Content>
+            <r:Content xml:lang="sv">Målpopulationen delas in i flera delar (strata) som utesluter varandra och täcker hela populationen. Oberoende slumpmässiga urval görs sedan från varje stratum. Exempel: i en nationell opinionsundersökning är hela populationen uppdelad i två regionala strata, Öst och Väst. Därefter väljs element slumpmässigt från respektive region med obundet eller systematiskt slumpmässigt urval. Använd den här bredare termen om det är okänt vilken mer specifik typ av stratifierat urval det rör sig om eller om typen är svår att identifiera.</r:Content>
+            <r:Content xml:lang="it">La popolazione di riferimento è suddivisa in segmenti separati e mutuamente esclusivi (strati) che coprono l'intera popolazione. Da ciascun segmento vengono estratti, in modo casuale, campioni casuali indipendenti. Ad esempio, in un sondaggio nazionale sull'opinione pubblica l'intera popolazione è divisa in due strati regionali: est e ovest. Le unità di campionamento vengono quindi estratte da ognuna dei due strati regionali utilizzando campionamenti casuali semplici o sistematici. Utilizzare questo termine più ampio se non è conosciuto oppure è difficile identificare il tipo specifico di campionamento stratificato.</r:Content>
+            <r:Content xml:lang="en">The target population is subdivided into separate and mutually exclusive segments (strata) that cover the entire population. Independent random samples are then drawn from each segment. For example, in a national public opinion survey the entire population is divided into two regional strata: East and West. After this, sampling units are drawn from within each region using simple or systematic random sampling. Use this broader term if the specific type of stratified sampling is not known or difficult to identify.</r:Content>
+            <r:Content xml:lang="de">Die Grundgesamtheit wird in sich gegenseitig ausschließende und insgesamt erschöpfende Schichten unterteilt. Aus jeder Schicht werden voneinander unabhängige, einfache Zufallsstichproben gezogen. Beispielsweise wird ein Land bei einer allgemeinen Bevölkerungsumfrage in zwei regionale Kategorien unterteilt: Ost und West. In beiden Regionen werden jeweils getrennte Stichproben gezogen. Wählen Sie diese Kategorie, wenn die genaue Art der geschichteten Wahrscheinlichkeitsauswahl unbekannt oder schwierig zu bestimmen ist.</r:Content>
+            <r:Content xml:lang="fr">La population cible est subdivisée dans des segments (strates) séparées et mutuellement exclusifs qui couvrent la population entière. Des échantillons aléatoires indépendants sont alors tirés de chaque segment. Par exemple, dans une enquête nationale d'opinion publique la population entière est divisée en deux strates régionales : Est et Ouest. Après cela, les unités d'échantillonnage sont tirées à partir de chaque région utilisant un échantillonnage aléatoire simple ou systématique. Utilisez ce terme si le type spécifique de l'échantillonnage stratifié n'est pas connu ou est difficile à identifier.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Målpopulasjonen er delt i ulike og gjensidig utelukkende strata som dekker hele populasjonen. Uavhengige tilfeldige utvalg blir deretter trukket innenfor hvert stratum. For eksempel i nasjonale befolkningsundersøkelser blir hele populasjonen delt i to regionale strata: øst og vest. Deretter blir utvalgsenheter trukket fra hver region ved bruk av tilfeldig eller systematisk utvalg. Bruk dette bredere begrepet dersom den spesifikke typen stratifisert utvalg ikke er kjent eller er vanskelig å identifisere.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-7653f19-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/7653f19</r:UserID>
+         <l:CategoryName>Probability.Stratified.Proportional</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Verjetnostno: stratificiano: proporcionalno</r:Content>
+            <r:Content xml:lang="lt">Tikimybinė: sluoksninė: proporcingoji</r:Content>
+            <r:Content xml:lang="sv">Sannolikhetsurval: stratifierat: proportionerligt urval</r:Content>
+            <r:Content xml:lang="it">Probabilistisco: stratificato proporzionale</r:Content>
+            <r:Content xml:lang="en">Probability: Stratified: Proportional</r:Content>
+            <r:Content xml:lang="de">Wahrscheinlichkeitsauswahl: Proportional geschichtete Zufallsauswahl</r:Content>
+            <r:Content xml:lang="fr">Probabiliste : stratifié : proportionnel</r:Content>
+            <r:Content xml:lang="nl">Proportioneel gestratificeerde kanssteekproef</r:Content>
+            <r:Content xml:lang="no">Sannsynlighetsutvalg: Stratifisert: Proporsjonalt</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Ciljna populacija je razdeljena na ločene in medsebojno izključujoče se odseke (stratume/sloje), ki pokrivajo celotno populacijo. Pri proporcionalnem stratificiranem vzorčenju je število elementov, izbranih iz vsakega sloja, sorazmerno z velikostjo populacije v sloju glede na celotno populacijo. Na primer, država je razdeljena na dva regionalna odseka, ki obsegata 80 odstotkov (zahod) in 20 odstotkov (vzhod) celotnega prebivalstva. Za vzorec 1.000 prebivalcev bi iz zahodnega odseka vzeli 800 (tj. 80 odstotkov) udeležencev in iz vzhodnega odseka 200 (tj. 20 odstotkov), kar bi natančno predstavljalo njihov delež v celotni populaciji.</r:Content>
+            <r:Content xml:lang="lt">Tikslinė populiacija yra padalinama į atskirus ir nepersidengiančius segmentus (sluoksnius), apimančius visą populiaciją. Proporcinėje sluoksninėje atrankoje iš kiekvieno sluoksnio atrinktų elementų skaičius yra proporcingas sluoksnio populiacijos santykiniam didumui. Pavyzdžiui, šalis yra padalinama į du teritorinius sluoksnius, kurie apima 80 proc. (vakaruose) ir 20 proc. (rytuose) visų gyventojų. Sudarant 1000-io žmonių imtį, 800-ai (t. y., 80 proc.) turėtų būti atrinkti iš vakarų ir 200-ai (t. y., 20 proc.) iš rytų, tam, kad imties proporcijos atitiktų visos populiacijos proporcijas.</r:Content>
+            <r:Content xml:lang="sv">Målpopulationen delas in i flera delar (strata) som utesluter varandra och täcker hela populationen. För ett proportionerligt stratifierat urval står antalet element som väljs från varje stratum i proportion till storleken på stratumet i förhållande till hela populationen. Exempel: ett land är uppdelat i två regionala strata som motsvarar 80 procent (Väst) respektive 20 procent (Öst) av hela populationen. För ett urval på 1.000 personer skulle 800 (dvs. 80 %) väljas från Väst och 200 (dvs. 20 %) från Öst för att ge en korrekt representation av deras andel av hela populationen.</r:Content>
+            <r:Content xml:lang="it">La popolazione di riferimento è suddivisa in segmenti separati e mutuamente esclusivi (strati) che coprono l'intera popolazione. Nel campionamento stratificato proporzionale il numero di elementi scelti da ogni strato è proporzionale alla dimensione della popolazione dello strato, in rapporto all'intera popolazione. Ad esempio, un paese è diviso in due strati regionali che comprendono l'80% (ovest) e il 20% (est) della popolazione totale. Per un campione di 1.000 persone, 800 (cioè l'80%) saranno estratte dalla regione Ovest e 200 (ossia il 20%) dalla regione Est, mantenendo adeguatamente la relativa proporzione rispetto alla popolazione totale.</r:Content>
+            <r:Content xml:lang="en">The target population is subdivided into separate and mutually exclusive segments (strata) that cover the entire population. In proportional stratified sampling the number of elements chosen from each stratum is proportional to the population size of the stratum when viewed against the entire population. For example, a country is divided into two regional strata that comprise 80 percent (West) and 20 percent (East) of the total population. For a sample of 1,000 people, 800 (i.e., 80 percent) would be drawn from the West and 200 (i.e., 20 percent) from the East to accurately represent their proportion in the total population.</r:Content>
+            <r:Content xml:lang="de">Die Grundgesamtheit wird in sich gegenseitig ausschließende und insgesamt erschöpfende Schichten unterteilt. Bei der proportional geschichteten Zufallsauswahl ist die Anzahl der gezogenen Einheiten proportional zur Anzahl der Einheiten der jeweiligen Schicht in der Grundgesamtheit. Beispielsweise wird ein Land in zwei regionale Schichten unterteilt, wobei erstere 80 Prozent (West) und letztere 20 Prozent (Ost) der gesamten Bevölkerung umfassen. Für eine Stichprobe von 1.000 Personen würden dann 800 Personen im Osten und 200 Personen im Westen befragt.</r:Content>
+            <r:Content xml:lang="fr">La population cible est subdivisée dans des segments (strates) séparées et mutuellement exclusives qui couvrent la population entière. Dans un échantillon stratifié proportionnel le nombre d'éléments choisis dans chaque strate est proportionnel à la taille de la population de la strate par rapport à la population entière. Par exemple, un pays est divisé en deux strates régionales qui comprend 80 pour cent (Ouest) et 20 pour cent (Est) de la population totale. Pour un échantillon de 1 000 personnes, 800 (i. e., 80 pour cent) devraient être tirées à partir de l'Ouest et 200 (i. e., 20 pour cent) à partir de l'Est pour représenter fidèlement leur proportion dans la population totale.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Målpopulasjonen er delt i flere strata som er gjensidig utelukkende og dekker hele populasjonen. I proporsjonalt stratifisert utvalg er antallet elementer som velges fra hvert strata proporsjonalt til populasjonsstørrelsen til stratumet sett i forhold til hele populasjonen. For eksempel: Et land er delt i to regionale strata som tilsier 80 prosent (vest) og 20 prosent (øst) av hele populasjonen. For et utvalg på 1000 personer ville 800 (dvs 80%) bli trukket fra vest og 200 (dvs 20%) fra øst for å gi en riktig representasjon av deres andel av den totale populasjonen.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-2059a2b-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/2059a2b</r:UserID>
+         <l:CategoryName>Probability.Stratified.Disproportional</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Verjetnostno: startificirano: disproporcionalno</r:Content>
+            <r:Content xml:lang="lt">Tikimybinė: sluoksninė: neproporcingoji</r:Content>
+            <r:Content xml:lang="sv">Sannolikhetsurval: stratifierat: oproportionerligt urval</r:Content>
+            <r:Content xml:lang="it">Probabilistisco: stratificato non proporzionale</r:Content>
+            <r:Content xml:lang="en">Probability: Stratified: Disproportional</r:Content>
+            <r:Content xml:lang="de">Wahrscheinlichkeitsauswahl: Disproportional geschichtete Zufallsauswahl</r:Content>
+            <r:Content xml:lang="fr">Probabiliste : stratifié : disproportionné</r:Content>
+            <r:Content xml:lang="nl">Disproportioneel gestratificeerde  kanssteekproef</r:Content>
+            <r:Content xml:lang="no">Sannsynlighetsutvalg: Stratifisert: Disproporsjonalt</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Ciljna populacija je razdeljena na ločene in medsebojno izključujoče se odseke (stratume/sloje), ki pokrivajo celotno populacijo. Število enot, izbranih iz vsakega odseka, pri disproporcionalnem vzorčenju ni sorazmerno z velikostjo populacije odseka glede na celotno populacijo. Število vzorčenih enot iz vsakega odseka je lahko enako, optimalno oziroma lahko odraža namen raziskave, kot je nadvzorčenje različnih podskupin prebivalstva. Na primer, država je razdeljena na dva regionalna odseka, ki obsegata 80 odstotkov (zahod) in 20 odstotkov (vzhod) prebivalstva države. Če je v raziskavi potrebna enakopravna zastopanost obeh regij, se v vzorec lahko vzame polovica udeležencev iz zahoda in polovica iz vzhoda, tako da vsaka regija predstavlja 50 odstotkov vzorca. Če je potrebna podrobnejša analiza prebivalstva z vzhoda, lahko vzamemo 40 odstotkov enot iz zahoda in 60 odstotkov iz vzhoda, tako da je vzhod prekomerno zastopan.</r:Content>
+            <r:Content xml:lang="lt">Tikslinė populiacija yra padalinama į atskirus ir nepersidengiančius segmentus (sluoksnius), apimančius visą populiaciją. Neproporcingoje sluoksninėje atrankoje iš kiekvieno sluoksnio atrinktų elementų skaičius yra specialiai neproporcingas sluoksnio populiacijos santykiniam didumui. Kiekviename sluoksnyje atrinktų vienetų skaičius gali būti vienodas, optimalus arba atspindėti kokį nors tyrimo tikslą, pavyzdžiui, kai reikia gausesnio atskirų populiacijos pogrupių atstovavimo. Pavyzdžiui, šalis yra padalinama į du teritorinius sluoksnius, kurie apima 80 proc. (vakaruose) ir 20 proc. (rytuose) visų gyventojų. Jei atliekant tyrimą reikia po lygiai reprezentuoti abu teritorinius sluoksnius, pusę imties galima atrinkti iš vakarų, pusę – iš rytų, taip, kad kiekvieną teritorinį sluoksnį atstovautų 50 proc. imties. Jei reikia išsamesnės rytų gyventojų analizės, 40 proc. vienetų gali būti atrinkta iš vakarų, o 60 proc.– iš rytų, kad rytai būtų atstovaujami gausiau.</r:Content>
+            <r:Content xml:lang="sv">Målpopulationen delas in i flera delar (strata) som utesluter varandra och täcker hela populationen. För ett oproportionerligt urval så står antalet element som väljs från varje stratum inte i proportion till stratumets populationsstorlek i förhållande till hela populationen. Sampelstorleken kan vara lika stor, optimal eller kan avspegla studiens syfte genom ett avsiktligt större urval från olika undergrupper i populationen. Exempel: ett land är uppdelat i två regionala strata som motsvarar 80 procent (Väst) respektive 20 procent (Öst) av hela populationen. Om lika representation av båda regionerna behövs i studien kan halva samplet dras från Öst och andra halvan från Väst så att varje region representeras av 50 % av samplet. Om det behövs en mer detaljerad analys av population i Öst kan 40 % av elementen dras från Väst och 60 % från Öst så att Öst är överrepresenterat.</r:Content>
+            <r:Content xml:lang="it">La popolazione di riferimento è suddivisa in segmenti separati e mutuamente esclusivi (strati) che coprono l'intera popolazione. Nel campionamento non proporzionale il numero di unità scelte da ogni strato non è proporzionale alla dimensione della popolazione dello strato in rapporto all'intera popolazione. Il numero di unità campionarie provenienti da ogni strato può essere uguale oppure riflettere lo scopo dello studio, come nel caso di sovracampionamento di diversi sottogruppi della popolazione. Ad esempio, un paese è diviso in due strati regionali che comprendono l'80% (ovest) e il 20% (est) della popolazione totale. Se in uno studio è necessaria una uguale rappresentazione delle due regioni, metà del campione sarà estratto dalla regione Est, in modo che ciascuna regione sia rappresentata dal 50% del campione. Se invece è necessaria un'analisi più dettagliata della popolazione proveniente dalla regione Est, potrà essere estratto il 40% delle unità dalla regione Ovest e il restante 60% dalla regione Est, in modo che quest'ultima sia sovrarappresentata.</r:Content>
+            <r:Content xml:lang="en">The target population is subdivided into separate and mutually exclusive segments (strata) that cover the entire population. In disproportional sampling the number of units chosen from each stratum is not proportional to the population size of the stratum when viewed against the entire population. The number of sampled units from each stratum can be equal, optimal, or can reflect the purpose of the study, like oversampling of different subgroups of the population. For example, a country is divided into two regional strata that comprise 80 percent (West) and 20 precent (East) of the country's population. If equal representation of the two regions is needed in a study, half the sample may be drawn from the West and half from the East, so that each region is represented by 50 percent of the sample. If a more detailed analysis of the population from the East is needed, 40 percent of the units may be drawn from the West and 60 percent from the East, so that the East is over-represented.</r:Content>
+            <r:Content xml:lang="de">Die Grundgesamtheit wird in sich gegenseitig ausschließende und insgesamt erschöpfende Schichten unterteilt, die die gesamte Bevölkerung abdecken. Bei der disproportionalen Zufallsauswahl ist die Anzahl der aus jeder Schicht gezogenen Einheiten nicht proportional zum Anteil der Schichten an der Grundgesamtheit. Sie können über die Schichten gleich verteilt sein oder sich an der Forschungsabsicht orientieren. Beispielsweise durch das so genannte Oversampling von in der Grundgesamtheit unterrepräsentierten Gruppen. Beispielsweise wird ein Land in zwei regionale Schichten unterteilt, wobei erstere 80 Prozent (West) und letztere 20 Prozent (Ost) der gesamten Bevölkerung umfassen. Sollen beide Regionen gleich repräsentiert werden, würden in beiden Teilen jeweils 50 Prozent der benötigten Stichprobe gezogen werden. Bei einem Oversampling der Region Ost würden beispielsweise 60 Prozent der Stichproben im Osten und 40 Prozent im Westen gezogen werden.</r:Content>
+            <r:Content xml:lang="fr">La population cible est subdivisée dans des segments (strates) séparées et mutuellement exclusives qui couvrent la population entière. Dans un échantillon disproportionnel le nombre des unités choisies à partir de chaque strate n'est pas proportionnel à la taille de population de la strate par rapport à la population entière. Le nombre d'unités échantillonnées à partir de chaque strate peut être égal, optimal, ou peut refléter la raison de l'enquête, comme le sur-échantillonnage de différents sous-groupes de la population. Par exemple, un pays est divisé en deux strates qui comprend 80 pour cent (Ouest) et 20 pour cent (Est) de la population du pays. Si une représentation égale des deux régions est nécessaire dans une étude, la moitié de l'échantillon peut être tirée à partir de l'Ouest et la moitié de l'Est, tel que chaque région est représentée par 50 pour cent de l'échantillon. Si une analyse plus détaillée de la population de l'Est est nécessaire, 40 pour cent des unités peuvent être tirées à partir de l'Ouest et 60 pour cent à partir de l'Est, tel que l'Est est surreprésenté.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Målpopulasjonen er delt i flere strata som er gjensidig utelukkende og dekker hele populasjonen. For et uproporsjonalt utvalg står antallet elementer som velges fra hvert strata ikke proporsjonalt til størrelsen på stratumet i forhold til hele populasjonen. Utvalgsstørrelsen fra hvert stratum kan være lik, optimal, eller kan avspeile hensikten med studien, som er å oversample enkelte undergrupper av populasjonen. For eksempel: Et land er delt i to regionale strata som tilsier 80 prosent (vest) og 20 prosent (øst) av hele populasjonen. Dersom det er behov for lik representasjon av begge regionene i studien kan halve utvalget bli trukket fra øst og andre halvdelen fra vest slik at hver region representerer 50% av utvalget. Om det er behov for en mer detaljert analyse av populasjonen i øst kan 40% av enhetene bli trukket fra vest og 60% fra øst, slik at øst er overrepresentert.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-1f6e5f3-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/1f6e5f3</r:UserID>
+         <l:CategoryName>Probability.Cluster</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Verjetnostno: po skupinah</r:Content>
+            <r:Content xml:lang="lt">Tikimybinė: lizdinė</r:Content>
+            <r:Content xml:lang="sv">Sannolikhetsurval: klusterurval</r:Content>
+            <r:Content xml:lang="it">Probabilistico: a grappoli</r:Content>
+            <r:Content xml:lang="en">Probability: Cluster</r:Content>
+            <r:Content xml:lang="de">Wahrscheinlichkeitsauswahl: Klumpenauswahl</r:Content>
+            <r:Content xml:lang="fr">Probabiliste : grappe</r:Content>
+            <r:Content xml:lang="nl">Clusterkanssteekproef</r:Content>
+            <r:Content xml:lang="no">Sannsynlighetsutvalg: Klynge</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Ciljna populacija je razdeljena na skupine, ki obstajajo same po sebi in izbran je verjetnostni vzorec skupin. Podatki se nato zbirajo na vseh enotah znotraj vsake izbrane skupine. Vzorčene skupine so pogosto določene glede na geografsko območje ali časovno obdobje. Uporabite ta širši izraz, če bolj določena vrsta vzorčenja skupin ni znana ali jo je težko prepoznati.</r:Content>
+            <r:Content xml:lang="lt">Tikslinė populiacija yra padalinama į natūralius segmentus (lizdus) ir sudaroma tikimybinė jų imtis. Tada duomenys renkami apie visus atrinktų lizdų vienetus. Lizdai dažnai išskiriami teritoriniu arba laiko pagrindu. Naudoti šį platesnį terminą, kai nežinomas konkretesnis lizdinės atrankos tipas arba jį sunku nustatyti.</r:Content>
+            <r:Content xml:lang="sv">Målpopulationen delas in i naturligt förekommande segment (kluster) och ett sannolikhetsurval görs av dessa kluster. Data samlas sedan in från alla element i varje utvalt kluster. Urvalet baseras ofta på geografiska områden eller tidsperioder. 
+Använd den här bredare termen om det är okänt vilken mer specifik typ av klusterurval det rör sig om eller om typen är svår att identifiera.</r:Content>
+            <r:Content xml:lang="it">La popolazione di riferimento è divisa in modo naturale in gruppi (cluster) e viene selezionato un campione probabilistico dei cluster. I dati vengono quindi raccolti da tutte le unità individuate all'interno di ciascun cluster selezionato. Il campionamento è spesso raggruppato su base geografica o temporale. Utilizzare questo termine più ampio se non è conosciuto oppure è difficile identificare un tipo più specifico di campionamento a grappoli.</r:Content>
+            <r:Content xml:lang="en">The target population is divided into naturally occurring segments (clusters) and a probability sample of the clusters is selected. Data are then collected from all units within each selected cluster. Sampling is often clustered by geography, or time period. Use this broader term if a more specific type of cluster sampling is not known or is difficult to identify.</r:Content>
+            <r:Content xml:lang="de">Die Grundgesamtheit wird in natürlich auftretende Gruppen (Cluster) unterteilt. Aus diesen Gruppen wird eine Zufallsstichprobe gezogen. Innerhalb der gezogenen Gruppen werden dann Daten über alle Einheiten erhoben. Die Gruppierungen ergeben sich oft durch die geografische Lage oder Zeitabschnitte. Wählen Sie diese Kategorie, wenn die genaue Art der Klumpenauswahl unbekannt oder schwierig zu bestimmen ist.</r:Content>
+            <r:Content xml:lang="fr">La population cible est divisée dans des segments existants naturellement (grappes) et un échantillon probabiliste de groupes est sélectionné. Des données sont alors collectées à partir de tous les unités dans chaque groupe sélectionné. L'échantillonnage est souvent regroupé selon la géographie, ou la période de temps. Utilisez ce terme si un terme plus spécifique d'échantillonnage en grappes n'est pas connu ou est difficile à identifier.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Målpopulasjonen er delt i naturlige grupper (klustere) og et sannsynlighetsutvalg av klusterne blir valgt. Data blir deretter samlet inn fra alle enhetene innen hver utvalgte kluster. Utvelgelsen er ofte gruppert ut fra geografi eller tidsperiode. Bruksmerknad: Bruk dette bredere begrepet dersom den mer spesifikke typen klusterutvalg er ukjent eller dersom typen er vanskelig å identifisere.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-8e08217-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/8e08217</r:UserID>
+         <l:CategoryName>Probability.Cluster.SimpleRandom</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Verjetnostno: po skupinah: enostavno slučajno</r:Content>
+            <r:Content xml:lang="lt">Tikimybinė: lizdinė: paprastoji atsitiktinė</r:Content>
+            <r:Content xml:lang="sv">Sannolikhetsurval: klusterurval: obundet slumpmässigt urval</r:Content>
+            <r:Content xml:lang="it">Probabilistico: a grappoli casuale semplice</r:Content>
+            <r:Content xml:lang="en">Probability: Cluster: Simple random</r:Content>
+            <r:Content xml:lang="de">Wahrscheinlichkeitsauswahl: Einfache Klumpenauswahl</r:Content>
+            <r:Content xml:lang="fr">Probabiliste : grappe : aléatoire simple</r:Content>
+            <r:Content xml:lang="nl">Aselecte clusterkanssteekproef</r:Content>
+            <r:Content xml:lang="no">Sannsynlighetsutvalg: Klynge: Enkelt tilfeldig</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Ciljna populacija je razdeljena na skupine, ki obstajajo same po sebi in izbran je enostavni slučajni vzorec skupin. Podatki se nato zbirajo na vseh enotah znotraj vsake izbrane skupine. Na primer, za vzorec učencev v mestu izberemo več šol z metodo slučajnega izbora, nato pa vključimo vse učence iz vsake izbrane šole.</r:Content>
+            <r:Content xml:lang="lt">Tikslinė populiacija yra padalinama į natūralius segmentus (lizdus) ir sudaroma paprastoji atsitiktinė jų imtis. Tada duomenys renkami apie visus atrinktų lizdų vienetus. Pavyzdžiui, miesto moksleivių imčiai sudaryti, atsitiktinės atrankos būdu parenkamas tam tikras skaičius mokyklų, ir tada įtraukiami visi atrinktų mokyklų mokiniai.</r:Content>
+            <r:Content xml:lang="sv">Målpopulationen delas in i naturligt förekommande segment (kluster) och det görs ett obundet slumpmässigt urval av dessa kluster. Data samlas sedan in från alla element i varje utvalt kluster. Exempel: för att ta fram ett urval av elever i en stad skulle ett antal skolor väljas med en slumpmässig urvalsmetod och därefter skulle alla elever på de valda skolorna inkluderas i urvalet.</r:Content>
+            <r:Content xml:lang="it">La popolazione di riferimento è divisa in modo naturale in gruppi (cluster) e viene selezionato un campione probabilistico dei cluster. I dati vengono quindi raccolti da tutte le unità individuate all'interno di ciascun cluster selezionato. Ad esempio, per selezionare un campione di studenti in una città, viene scelto casualmente un determinato numero di scuole e, successivamente, saranno inclusi tutti gli studenti di ogni scuola selezionata.</r:Content>
+            <r:Content xml:lang="en">The target population is divided into naturally occurring segments (clusters) and a simple random sample of the clusters is selected. Data are then collected from all units within each selected cluster. For example, for a sample of students in a city, a number of schools would be chosen using the random selection method, and then all of the students from every sampled school would be included.</r:Content>
+            <r:Content xml:lang="de">Die Grundgesamtheit wird in natürlich auftretende Gruppen (Cluster) unterteilt. Aus diesen Gruppen wird eine Zufallsstichprobe gezogen. Innerhalb der gezogenen Gruppen werden dann Daten über alle Einheiten erhoben. Beispielsweise wird eine bestimmte Anzahl von Schulen in einer Stadt zufällig ausgewählt, um dann alle Schüler an den jeweiligen Schulen in die Stichprobe aufzunehmen.</r:Content>
+            <r:Content xml:lang="fr">La population cible est divisée dans des segments existants naturellement (grappes) et un échantillon probabiliste de groupes est sélectionné. Des données sont alors collectés à partir de tous les unités dans chaque groupe sélectionné. Par exemple, pour un échantillon d'élèves d'une ville, un nombre d'écoles devrait être choisi en utilisant une méthode de sélection aléatoire, et puis tous les élèves de chaque école échantillonnée seraient inclus.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Målpopulasjonen er delt i naturlige grupper (kluster) og et enkelt tilfeldig utvalg av klusterne blir valgt. Data blir deretter samlet inn fra alle enhetene innen hvert utvalgte kluster. For eksempel, for et utvalg av studenter i en by ville først et antall skoler bli valgt tilfeldig, og deretter ville alle studentene fra hver utvalgte skole bli inkludert.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-49f4571-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/49f4571</r:UserID>
+         <l:CategoryName>Probability.Cluster.StratifiedRandom</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Verjetnostno: po skupinah: stratificirano slučajno</r:Content>
+            <r:Content xml:lang="lt">Tikimybinė: lizdinė: sluoksninė atsitiktinė</r:Content>
+            <r:Content xml:lang="sv">Sannolikhetsurval: klusterurval: stratifierat slumpmässigt urval</r:Content>
+            <r:Content xml:lang="it">Probabilistico: a grappoli stratificato</r:Content>
+            <r:Content xml:lang="en">Probability: Cluster: Stratified random</r:Content>
+            <r:Content xml:lang="de">Wahrscheinlichkeitsauswahl: Geschichtete Klumpenauswahl</r:Content>
+            <r:Content xml:lang="fr">Probabiliste : grappe : aléatoire stratifié</r:Content>
+            <r:Content xml:lang="nl">Gestratificeerde clusterkanssteekproef</r:Content>
+            <r:Content xml:lang="no">Sannsynlighetsutvalg: Klynge: Stratifisert tilfeldig</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Ciljna populacija je razdeljena na skupine, ki obstajajo same po sebi; te so nato razdeljene na medsebojno izključujoče se sloje in naključni vzorec skupin je izbran iz vsakega sloja. Podatki se zbirajo na vseh enotah znotraj vsake izbrane skupine. Na primer, za vzorec učencev v mestu bi šole razdelili na dva sloja glede na vrsto šole (zasebne in javne); šole bodo nato slučajno izbrane iz vsakega sloja in vključeni bodo vsi učenci iz vsake izbrane šole.</r:Content>
+            <r:Content xml:lang="lt">Tikslinė populiacija yra padalinama į natūralius segmentus (lizdus); tada lizdai yra suskirstomi į atskirus ir nepersidengiančius sluoksnius ir atliekama atsitiktinė jų atranka kiekviename sluoksnyje. Tada duomenys renkami apie visus atrinktų lizdų vienetus. Pavyzdžiui, miesto moksleivių imčiai sudaryti mokyklos būtų suskirstytos į sluoksnius pagal mokyklos tipą (privati ar valstybinė); mokyklos būtų atsitiktinai atrinktos iš kiekvieno sluoksnio, o tada įtraukiami visi atrinktų mokyklų mokiniai.</r:Content>
+            <r:Content xml:lang="sv">Målpopulationen delas in i naturligt förekommande segment (kluster). Dessa delas sedan upp i ömsesidigt uteslutande strata och det görs ett slumpmässigt urval av kluster inom varje stratum. Data samlas därefter in från alla element inom varje utvalt kluster. Exempel: för att ta fram ett urval av elever i en stad delas skolorna in i två strata efter typ av skola (kommunala skolor och friskolor). Skolor väljs sedan slumpmässigt från varje stratum och alla elever i de utvalda skolorna ingår i urvalet.</r:Content>
+            <r:Content xml:lang="it">La popolazione di riferimento è divisa in modo naturale in gruppi (cluster); successivamente, i cluster sono divisi in strati mutualmente esclusivi e, per ogni strato, viene selezionato in modo casuale un campione di cluster. I dati vengono quindi raccolti da tutte le unità individuate all'interno di ciascun cluster. Ad esempio, per selezionare un campione di studenti in una città, si suddividono le scuole in due strati a seconda del tipo di scuola (privato vs pubblico); le scuole saranno quindi selezionate in modo casuale per ogni strato, e saranno successivamente inclusi tutti gli studenti di ogni scuola selezionata.</r:Content>
+            <r:Content xml:lang="en">The target population is divided into naturally occurring segments (clusters); next, these are divided into mutually exclusive strata and a random sample of clusters is selected from each stratum. Data are then collected from all units within each selected cluster. For example, for a sample of students in a city, schools would be divided into two strata by school type (private vs. public); schools would be then randomly selected from each stratum, and all of the students from every sampled school would be included.</r:Content>
+            <r:Content xml:lang="de">Die Grundgesamtheit wird in natürlich auftretende Gruppen (Cluster) unterteilt. Diese Gruppen werden in sich gegenseitig ausschließende und insgesamt erschöpfende Schichten unterteilt. Aus diesen wird dann eine bestimmte Anzahl an Gruppen zufällig ausgewählt. Beispielsweise werden Schulen nach privaten und öffentlichen unterschieden, um dann aus diesen beiden Gruppen per Zufall Schulen auszuwählen und alle Schüler der ausgewählten Schulen in die Stichprobe aufzunehmen.</r:Content>
+            <r:Content xml:lang="fr">La population cible est divisée dans des segments existants naturellement (grappes) ; Ensuite, ceux-ci sont divisés dans des strates mutuellement exclusives et un échantillon aléatoire des groupes est sélectionné depuis chaque strate. Les données sont alors collectées depuis toutes les unités au sein de chaque groupe. Par exemple, pour un échantillon d'élèves d'une ville, les écoles seraient divisées en deux strates par type d'école (privée vs. public) ; Les écoles seraient alors sélectionnées aléatoirement depuis chaque strate, et tous les élèves de chaque école échantillonnée seraient inclus.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Målpopulasjonen er delt i naturlige grupper (kluster). Disse blir igjen delt i gjensidig utelukkende i strata og et tilfeldig utvalg av klustre blir valgt fra hvert stratum. Data blir deretter samlet inn fra alle enhetene i hvert utvalgte kluster. For eksempel for et utvalg av studenter i en by ville skolene bli delt i to strata ut fra type skole (privat vs.offentlig). Skoler blir deretter tilfeldig trukket fra hver stratum og alle studentene fra hver utvalgte skole ville bli inkluidert i utvalget.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-f91d8ca-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/f91d8ca</r:UserID>
+         <l:CategoryName>Probability.Multistage</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Verjetnostno: večstopenjsko</r:Content>
+            <r:Content xml:lang="lt">Tikimybinė: daugiapakopė</r:Content>
+            <r:Content xml:lang="sv">Sannolikhetsurval: flerstegsurval</r:Content>
+            <r:Content xml:lang="it">Probabilistico: multistadio</r:Content>
+            <r:Content xml:lang="en">Probability: Multistage</r:Content>
+            <r:Content xml:lang="de">Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl</r:Content>
+            <r:Content xml:lang="fr">Probabiliste : multi-étapes</r:Content>
+            <r:Content xml:lang="nl">Meertraps steekproef</r:Content>
+            <r:Content xml:lang="no">Sannsynlighetsutvalg: Flertrinns</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Vzorčenje se izvaja stopenjsko z vključitvijo vedno manjšega števila enot na vsaki stopnji, vse stopnje vključujejo verjetnostno izbiro. Vrsta postopka verjetnostnega vzorčenja je lahko različna na vsaki stopnji. Na primer, za vzorec učencev v mestu najprej na prvi stopnji slučajno izberemo šole. Na drugi stopnji poteka izbor slučajnega vzorca razredov v vsaki izmed izbranih šol. Na tretji stopnji nato slučajno izberemo učence iz vsakega od izbranih razredov.</r:Content>
+            <r:Content xml:lang="lt">Imtis sudaroma etapais kiekviename etape naudojant vis mažesnius vienetus, ir visuose etapuose taikoma tikimybinė atranka. Tikimybinės atrankos procedūra kiekviename etape gali būti skirtinga. Pavyzdžiui, miesto moksleivių imties sudarymo pirmajame etape, mokyklos atrenkamos atsitiktinai. Antrajame etape atliekama paprastoji atsitiktinė klasių atranka iš kiekvienos parinktos mokyklos. Tuomet trečiajame etape iš kiekvienos atrinktos klasės atsitiktinai parenkami mokiniai.</r:Content>
+            <r:Content xml:lang="sv">Urvalet sker stegvis med allt mindre enheter för varje steg, och varje steg omfattar ett sannolikhetsurval. Urvalsmetoden kan skilja sig från steg till steg. Exempel: för att ta fram ett urval av elever i en stad väljs skolor slumpmässigt i första steget. I ett andra steg görs ett slumpmässigt urval av klasser i varje vald skola. Elever väljs sedan slumpmässigt från dessa klasser i ett tredje steg.</r:Content>
+            <r:Content xml:lang="it">Il campionamento viene eseguito in differenti stadi, utilizzando unità sempre più piccole in ogni stadio. Tutti gli stadi implicano un campionamento probabilistico che può essere diverso in ogni stadio. Ad esempio, per selezionare un campione di studenti in una città, nel primo stadio si selezionano in modo casuale le scuole. Nel secondo stadio si effettua un campione casuale di classi all'interno di ciascuna scuola selezionata. Nel terzo stadio, infine, vengono selezionati in modo casuale gli studenti da ciascuna delle classi identificate.</r:Content>
+            <r:Content xml:lang="en">Sampling is carried out in stages using smaller and smaller units at each stage, and all stages involve a probability selection. The type of probability sampling procedure may be different at each stage. For example, for a sample of students in a city, schools are randomly selected in the first stage. A random sample of classes within each selected school is drawn in the second stage. Students are then randomly selected from each of these classes in the third stage.</r:Content>
+            <r:Content xml:lang="de">Bei der mehrstufigen Zufallsauswahl wird eine Zufallsauswahl bestimmter Einheiten getroffen, aus denen dann jeweils zufällig die nächstkleinere Einheit gezogen wird. Die Art der Zufallsauswahl kann dabei zwischen den Stufen variieren. Für eine Stichprobe von Schülern werden beispielsweise zufällig Schulen in einer Stadt ausgewählt. Aus den Schulen werden im nächsten Schritt jeweils mehrere Klassen gezogen, um dann eine bestimmte Anzahl von Schülern aus diesen Klassen zufällig auszuwählen, die zur Teilnahme an der Studie eingeladen werden.</r:Content>
+            <r:Content xml:lang="fr">L'échantillonnage est effectué par étapes en utilisant des unités plus en plus petites à chaque étape, et toutes les étapes impliquent une sélection aléatoire. Le type de procédure d'échantillonnage aléatoire peut être différent à chaque étape. Par exemple, pour un échantillon d'élèves d'une ville, les écoles sont sélectionnées aléatoirement dans une première étape. Un échantillon aléatoire de classes des écoles sélectionnées est tiré dans une deuxième étape. Les élèves sont alors sélectionnés aléatoirement depuis chacune de ces classes dans une troisième étape.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Utvelgelsen skjer trinnvis ved bruk av mindre og mindre enheter for hvert trinn, og hvert trinn omfatter et sannsynlighetsutvalg. Typen sannsynlighetsutvalg kan variere på hvert trinn. For eksempel for å få et utvalg studenter i en by blir skolene trukket tilfeldig i første steg. Et tilfeldig utvalg av klasser innen hver utvalgte skole blir trukket i neste steg. Studentene blir deretter tilfeldig trukket fra hver av disse klassene på tredje trinn.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-540b3b2-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/540b3b2</r:UserID>
+         <l:CategoryName>TheoreticalSampling</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Teoretično vzorčenje</r:Content>
+            <r:Content xml:lang="lt">Teorinė atranka</r:Content>
+            <r:Content xml:lang="sv">Teoretiskt urval</r:Content>
+            <r:Content xml:lang="it">Campionamento teorico</r:Content>
+            <r:Content xml:lang="en">Theoretical Sampling</r:Content>
+            <r:Content xml:lang="de">Theoretische Stichprobenziehung</r:Content>
+            <r:Content xml:lang="fr">Échantillonnage théorique</r:Content>
+            <r:Content xml:lang="nl">Theoretische steekproef</r:Content>
+            <r:Content xml:lang="no">Teoretisk utvalg</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Teoretično vzorčenje je iterativna tehnika vzorčenja, povezana s pristopom utemeljene teorije (grounded theory), ki temelji na analitični indukciji. Od drugih metod vzorčenja se razlikuje po tem, da je njen namen ustvarjanje in razvijanje teorij, ne pa preverjanje hipotez ali zagotavljanje reprezentativnosti določene populacije. Pri teoretičnem vzorčenju potekajo zbiranje podatkov, kodiranje in analiza hkrati in ponavljajoče – ne kot ločeni, zaporedni koraki. Ni vnaprej določenega načrta, koga vključiti v raziskavo, niti vnaprej določenih skupin, ki bi jih primerjali. Namesto tega se udeleženci raziskave po začetnem zbiranju in analizi podatkov izbirajo glede na njihov potencial, da prispevajo k razvoju nastajajočih konceptov in tem. Tak pristop raziskovalcem omogoča, da raziskovalno vprašanje in teorijo sproti prilagajajo glede na zbrane podatke, namesto da bi skušali podatke prilagoditi vnaprej oblikovani ideji.</r:Content>
+            <r:Content xml:lang="lt">Teorinė atranka – tai iteracinis atrankos metodas, susijęs su pagrįstosios teorijos prieiga, grindžiama analitine indukcija. Nuo kitų atrankos metodų ji skiriasi tuo, kad ja siekiama kurti ir plėtoti teorijas, o ne tikrinti hipotezes ir (arba) reprezentuoti tam tikrą populiaciją. Teorinės atrankos metu duomenų rinkimo, kodavimo ir analizės procesai vyksta tuo pačiu metu ir rekursyviai, o ne kaip atskiri, nuoseklūs žingsniai. Nėra iš anksto nustatytų kriterijų, ką įtraukti į atranką, ar iš anksto apibrėžto žmonių grupių lyginimo. Vietoj to po pirminio duomenų rinkimo ir analizės etapo tyrimo dalyviai atrenkami atsižvelgiant į jų potencialą prisidėti prie besiformuojančių sąvokų ir temų plėtojimo. Tokia prieiga leidžia tyrėjams tikslinti savo tyrimo klausimą ir teoriją, remiantis surinktais duomenimis, o ne pritaikyti duomenis iš anksto suformuluotai idėjai.</r:Content>
+            <r:Content xml:lang="sv">Teoretiskt urval är en iterativ urvalsmetod som är besläktad med forskningsstrategin grundad teori och bygger på analytisk induktion. Den skiljer sig från andra urvalsmetoder genom att den handlar om att generera och utveckla teorier, snarare än att testa hypoteser och/eller representera en viss population. Vid teoretiskt urval sker datainsamling, kodning och analys samtidigt och rekursivt, inte som separata steg som följer på varandra. Det finns ingen förutbestämd uppfattning om vilka personer som ska rekryteras eller några i förväg definierade grupper som ska jämföras. Istället väljs deltagare efter en inledande datainsamling och analys utifrån deras potential at bidra till att vidareutveckla framväxande koncept och teman.
+Den här metoden gör det möjligt för forskare att förfina sina forskningsfrågor och teorier baserat på insamlade data, istället för att anpassa data efter en förutbestämd idé.</r:Content>
+            <r:Content xml:lang="it">Il campionamento teorico è una tecnica di campionamento iterativa associata all'approccio della grounded theory, basato sull'induzione analitica. Si differenzia dagli altri metodi di campionamento in quanto mira a generare e sviluppare teorie piuttosto che a verificare ipotesi e/o essere rappresentativo di una determinata popolazione. Nel campionamento teorico, il processo di raccolta, codifica e analisi dei dati avviene in modo simultaneo e ricorsivo, e non come fasi discrete che si susseguono l'una dopo l'altra. Non esiste un'idea prestabilita di chi reclutare, né gruppi predeterminati di persone da confrontare. Al contrario, dopo una prima fase di raccolta e analisi dei dati, i partecipanti allo studio vengono selezionati in base al loro potenziale contributo allo sviluppo dei concetti e dei temi emergenti. Questo approccio consente ai ricercatori di affinare la loro domanda di ricerca e la loro teoria sulla base dei dati raccolti, piuttosto che forzare i dati per adattarli a un'idea preconcetta.</r:Content>
+            <r:Content xml:lang="en">Theoretical sampling is an iterative sampling technique associated with the grounded theory approach based on analytic induction. It differs from other sampling methods by being aimed at generating and developing theories rather than testing hypotheses and/or being representative of a certain population.
+In theoretical sampling, the process of collecting data, coding, and analyzing it, happens simultaneously and recursively, and not as discrete steps that lead to one another. There is no pre-set notion of who to recruit, or any predetermined groups of people to compare. Instead, after an initial round of data collection and analysis, study participants are selected based on their potential to contribute to developing the emerging concepts and themes. This approach allows researchers to refine their research question and theory based on the data they collect rather than forcing their data to fit a preconceived idea.</r:Content>
+            <r:Content xml:lang="de">Theoretische Stichprobenziehung ist eine iterative Stichprobentechnik, die mit dem qualitativen Ansatz der Grounded Theory verbunden ist. Das Verfahren unterscheidet sich von anderen Stichprobenverfahren dadurch, dass es eher auf die Entwicklung von Theorien als auf die Prüfung von Hypothesen und/oder die Repräsentativität für eine bestimmte Population abzielt. Bei der theoretischen Stichprobenziehung erfolgt der Prozess der Datenerhebung, der Kodierung und der Analyse der Daten gleichzeitig und rekursiv und nicht als abgegrenzte Schritte, die zueinander führen. Es gibt keine im Voraus festgelegte Vorstellung davon, wer rekrutiert werden soll, und es gibt auch keine vorher festgelegten Gruppen von Personen, die verglichen werden sollen. Stattdessen werden die Studienteilnehmer*innen nach einer ersten Runde der Datenerfassung und -analyse auf der Grundlage ihres Potenzials ausgewählt, zur Entwicklung der entstehenden Konzepte und Themen beizutragen. Dieser Ansatz soll es Forschenden ermöglichen, ihre Forschungsfrage und ihre Theorie auf der Grundlage der gesammelten Daten zu verfeinern.</r:Content>
+            <r:Content xml:lang="fr">L'échantillonnage théorique est une technique itérative d'échantillonnage associée à la théorie ancrée et basée sur l'induction analytique. Il diffère des autres méthodes d'échantillonnage en ce qu'il vise à générer et à développer des théories plutôt qu'à tester des hypothèses et/ou à être représentatif d'une certaine population. Dans l'échantillonnage théorique, les processus de collecte, de codage et d'analyse des données se déroulent de manière simultanée et récursive, et non pas comme des étapes distinctes qui se succèdent. Il n'y a pas de notion préétablie quant aux personnes à recruter, ni de groupes prédéterminés à comparer. Au contraire, après une première phase de collecte et d'analyse des données, les participants à l'étude sont sélectionnés en fonction de leur potentiel à contribuer au développement des concepts et thèmes émergents. Cette approche permet aux chercheurs et chercheuses d'affiner leur question de recherche et leur théorie en fonction des données qu'ils collectent, plutôt que de forcer leurs données à s'adapter à une idée préconçue.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Teoretisk utvalg er en iterativ utvalgsmetode knyttet til grounded theory-tilnærmingen basert på analytisk induksjon. Den skiller seg fra andre utvalgsmetoder ved å være rettet mot å generere og utvikle teorier snarere enn å teste hypoteser og/eller være representativ for en bestemt befolkning. I teoretisk utvalg skjer prosessen med å samle inn data, koding og analyse samtidig og gjentakende, og ikke som separate trinn som leder til hverandre. Det er ingen forhåndsbestemt idé om hvem som skal rekrutteres, eller noen forhåndsbestemte grupper av mennesker å sammenligne. I stedet, etter en innledende runde med datainnsamling og analyse, velges studiedeltakere basert på deres potensial til å bidra til utviklingen av de fremvoksende konseptene og temaene. Denne tilnærmingen gjør det mulig for forskere å finjustere sitt forskningsspørsmål og teori basert på dataene de samler inn, i stedet for å tvinge dataene til å passe inn i en forhåndsbestemt idé.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-4d8364f-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/4d8364f</r:UserID>
+         <l:CategoryName>Nonprobability</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Neverjetnostno</r:Content>
+            <r:Content xml:lang="lt">Netikimybinė</r:Content>
+            <r:Content xml:lang="sv">Icke-sannolikhetsurval</r:Content>
+            <r:Content xml:lang="it">Non probabilistico</r:Content>
+            <r:Content xml:lang="en">Non-probability</r:Content>
+            <r:Content xml:lang="de">Nicht-Wahrscheinlichkeitsauswahl</r:Content>
+            <r:Content xml:lang="fr">Non probabiliste</r:Content>
+            <r:Content xml:lang="nl">Niet-kanssteekproef</r:Content>
+            <r:Content xml:lang="no">Ikke-sannsynlighet</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Izbor enot (posameznikov, gospodinjstev, organizacij itd.) iz ciljne populacije ne temelji na slučajnem izboru. Verjetnosti, da bo posamezni element vključen v vzorec, ni mogoče določiti. Uporabite ta širši izraz, če določena vrsta neverjetnostnega vzorčenja ni znana, jo je težko določiti ali če uporabljate več metod neverjetnostnega vzorčenja.</r:Content>
+            <r:Content xml:lang="lt">Imties vienetų (individų, namų ūkių, organizacijų ir kt.) atrinkimas iš tikslinės populiacijos nėra grindžiamas atsitiktine atranka. Neįmanoma nustatyti kiekvieno elemento tikimybės patekti į imtį. Naudoti šį platesnį terminą, kai nežinomas konkretesnis netikimybinės atrankos tipas arba jį sunku nustatyti, ar jei naudojami keli netikimybiniai metodai.</r:Content>
+            <r:Content xml:lang="sv">Urvalet av element (individer, hushåll, organisationer m.m.) från målpopulationen görs inte slumpmässigt. Det går inte att fastställa sannolikheten för att varje element ska tas med i urvalet. Använd den här bredare termen om det är okänt vilken mer specifik typ av icke-sannolikhetsurval det rör sig om, om typen är svår att identifiera, eller om flera metoder för icke-sannolikhetsurval används.</r:Content>
+            <r:Content xml:lang="it">La selezione delle unità (individui, famiglie, organizzazioni, ecc.) della popolazione di riferimento non è basata su un campionamento casuale. Non è quindi possibile determinare la probabilità di ciascun elemento di essere incluso nel campione. Utilizzare questo termine più ampio se non è conosciuto oppure è difficile identificare il tipo specifico di campionamento non probabilistico, oppure se si utilizzano più metodi non probabilistici.</r:Content>
+            <r:Content xml:lang="en">The selection of units (individuals, households, organizations, etc.) from the target population is not based on random selection. It is not possible to determine the probability of each element to be sampled. Use this broader term if the specific type of non-probability is not known, difficult to identify, or if multiple non-probability methods are being employed.</r:Content>
+            <r:Content xml:lang="de">Die Auswahl von Einheiten (z. B. Individuen, Haushalte, Organisationen, usw.) aus der Grundgesamtheit erfolgt nicht nach dem Zufallsprinzip. Die Auswahlwahrscheinlichkeit der einzelnen Einheiten kann daher nicht ermittelt werden. Wählen Sie diese Kategorie, wenn die genaue Art der Nicht-Wahrscheinlichkeitsauswahl unbekannt, schwierig zu bestimmen ist oder mehrere Arten der Nicht-Wahrscheinlichkeitsauswahl angewendet werden.</r:Content>
+            <r:Content xml:lang="fr">La sélection des unités (individus, ménages, organisations, etc.) depuis la population cible n'est pas basé sur une sélection aléatoire. Il n'est pas possible de déterminer la probabilité de chaque élément d'être échantillonné. Utilisez ce terme si le type spécifique d'échantillonnage non probabiliste n'est pas connu, difficile à identifier, ou si de multiples méthodes non probabilistes ont été employées.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Valget av enheter (individer, husholdninger, organisasjoner etc.) fra målpopulasjonen blir ikke trukket basert på tilfeldig utvalg. Det er ikke mulig å bestemme sannsynligheten for at hver enhet blir inkludert i utvalget. Bruksmerknad: Dette bredere begrepet benyttes dersom det er ukjent hvilken mer spesifikk type ikke-sannsynlighetsutvalg det omhandler, dersom typen er vanskelig å identifisere, eller om flere metoder for ikke-sannsynlighetsutvalg benyttes.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-90cbfe9-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/90cbfe9</r:UserID>
+         <l:CategoryName>Nonprobability.Availability</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Neverjetnostno: priložnostno</r:Content>
+            <r:Content xml:lang="lt">Netikimybinė: patogioji</r:Content>
+            <r:Content xml:lang="sv">Icke-sannolikhetsurval: tillgänglighetsurval</r:Content>
+            <r:Content xml:lang="it">Non probabilistico: di disponibilità</r:Content>
+            <r:Content xml:lang="en">Non-probability: Availability</r:Content>
+            <r:Content xml:lang="de">Nicht-Wahrscheinlichkeitsauswahl: Willkürliche Auswahl</r:Content>
+            <r:Content xml:lang="fr">Non probabiliste : disponibilité</r:Content>
+            <r:Content xml:lang="nl">Gemakssteekproef</r:Content>
+            <r:Content xml:lang="no">Ikke-sannsynlighet: Tilgjengelighetsutvalg</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Izbira vzorca temelji na dostopnosti enot/relativni enostavnosti dostopa. Morda so enote dostopnejše oziroma se same odločijo za sodelovanje v raziskavi (samoizbira). Raziskovalci imajo lahko v mislih določene ciljne skupine, vendar ne nadzirajo mehanizmov izbire v vzorec. Na primer, pristopimo do študentov, ki zapustijo določeno stavbo v študentskem naselju; prosamezniki se prostovoljno odločijo za sodelovanje kot odgovor na vabilo, ki ni bilo naslovljeno posebej nanje, temveč na širšo skupino, ki ji morda pripadajo. Imenujemo ga lahko tudi "priložnostno" vzorčenje.</r:Content>
+            <r:Content xml:lang="lt">Imties vienetų atranka grindžiama jų prieinamumu arba tuo, kad jie santykinai lengvai pasiekiami. Jie gali būti lengvai prieinami arba patys pasirenka dalyvauti tyrime (patys save atrenka). Tyrėjai gali būti numatę tam tikras tikslines grupes, tačiau jie nekontroliuoja atrankos mechanizmo. Pavyzdžiui, gali būti kreipiamasi į studentus, išeinančius iš tam tikro pastato universiteto miestelyje; arba asmenys į imtį gali įsitraukti savanoriškai, gavę kvietimą, kuris yra adresuotas didesnei grupei, o ne jiems konkrečiai. Taip pat ši atranka vadinama „progine“ atranka.</r:Content>
+            <r:Content xml:lang="sv">Urvalet baseras på hur (relativt) lättillgängliga elementen är. Det kan handla om att de är enkla att komma i kontakt med eller kan själva ha valt att delta i studien (självurval eller självselektion). Forskare kan ha vissa målgrupper i åtanke men har inte kontroll över själva urvalsmekanismen. Exempel: studenter som går ut från en viss byggnad på universitetsområdet blir tillfrågade, eller personer anmäler sig självmant efter att ha tagit del av en inbjudan som inte riktat sig specifikt till dem, utan till en större grupp som de kanske tillhör. Kallas även för "bekvämlighetsurval" eller "möjlighetsurval".</r:Content>
+            <r:Content xml:lang="it">La selezione del campione si basa sull'accessibilità o relativa facilità di accesso delle unità. Le unità possono essere facilmente contattabili oppure possono scegliere autonomamente di partecipare allo studio (auto-selezione). I ricercatori possono aver immaginato determinati gruppi target, ma non controllano il meccanismo di selezione del campione. Ad esempio, il campione può essere composto da studenti contattati all'uscita di un determinato edificio del campus universitario oppure da individui che si offrono volontariamente di partecipare allo studio in risposta ad inviti non rivolti specificamente a loro, ma ad un gruppo più ampio a cui possono appartenere. Questo campionamento è anche denominato "di convenienza" o "di opportunità".</r:Content>
+            <r:Content xml:lang="en">The sample selection is based on the units' accessibility/relative ease of access. They may be easy to approach, or may themselves choose to participate in the study (self-selection). Researchers may have particular target groups in mind but they do not control the sample selection mechanism. For example, students leaving a particular building on campus may be approached, or individuals may volunteer to participate in response to invitations that do not target them specifically, but a larger group to which they may belong. Also called "convenience" or "opportunity" sampling.</r:Content>
+            <r:Content xml:lang="de">Die Auswahl der Einheiten hängt von deren relativer Verfügbarkeit ab. Das heißt, es werden Einheiten gewählt, die einfach erreichbar sind oder aufgrund bestimmter Merkmale oder Verhaltensweisen eher auf die Studie aufmerksam werden (Selbstselektion). Der Forscher kann eine bestimmte Zielgruppe anstreben, die Auswahlmechanismen einer Stichprobe aber nicht kontrollieren. Beispielsweise werden Studierende, die ein bestimmtes Gebäude der Universität verlassen, angesprochen und eingeladen, an der Studie teilzunehmen. Oder es werden allgemeine Einladungen, die sich an größere Gruppen richten, ausgesprochen und jede Person, die sich daraufhin meldet, ist Teil der Auswahl. Man nennt diese willkürliche Auswahl auch Convenience Sample oder Gelegenheitsstichprobe.</r:Content>
+            <r:Content xml:lang="fr">La sélection de l'échantillon est basée sur la disponibilité, l'accès relativement facile des unités. Elles peuvent être facile à approcher, ou peuvent elles-mêmes choisir de participer à l'étude (auto-sélection). Les chercheurs peuvent avoir un groupe particulier à l'esprit mais ils ne peuvent pas contrôler les mécanismes de sélection de l'échantillon. Par exemple, des étudiants vivant dans un bâtiment particulier du campus peuvent être approchés, ou des individus peuvent volontairement participer en répondant à des invitations qui ne les ciblent pas spécifiquement, mais un groupe plus large auquel ils peuvent appartenir. Aussi appelé échantillonnage de "convenance" ou d'"opportunité".</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Utvalget blir trukket basert på enhetenes tilgjengelighet. Enhetene kan være lette å få tak i, eller kan ha meldt seg selv til å delta i studien (selvutvelgelse). Forskere kan ha tanker om å inkludere visse målgrupper, men de kan ikke kontrollere utvalgsmekanismene. For eksempel studenter som går ut fra en viss bygning på universitetsområdet kan bli kontaktet, eller individer kan frivillig melde seg til å delta som svar på en invitasjon som ikke spesifikt var rettet mot dem, men en større gruppe som de tilhører. Blir også kalt 'bekvemmelighetsutvalg' eller 'mulighetsutvalg'.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-45d8ec9-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/45d8ec9</r:UserID>
+         <l:CategoryName>Nonprobability.Purposive</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Neverjetnostno: namensko</r:Content>
+            <r:Content xml:lang="lt">Netikimybinė: tikslinė</r:Content>
+            <r:Content xml:lang="sv">Icke-sannolikhetsurval: syftesurval</r:Content>
+            <r:Content xml:lang="it">Non probabilistico: mirato</r:Content>
+            <r:Content xml:lang="en">Non-probability: Purposive</r:Content>
+            <r:Content xml:lang="de">Nicht-Wahrscheinlichkeitsauswahl: Bewusste Auswahl</r:Content>
+            <r:Content xml:lang="fr">Non probabiliste : raisonné</r:Content>
+            <r:Content xml:lang="nl">Doelgerichte steekproef</r:Content>
+            <r:Content xml:lang="no">Ikke-sannsynlighet: Målrettet utvalg</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Vzorčene enote posebej opredelimo, izberemo in stopimo v stik z njimi z namenom pridobivanja informacij o raziskovalni temi. Izbor temelji na različnih značilnostih neodvisnih in/ali odvisnih spremenljivk, ki jih preučujemo, pri čemer se opiramo na presojo raziskovalcev. Avtorji raziskave oziroma pooblaščene osebe imajo nadzor nad mehanizmom izbore v vzorec, ciljna populacija pa je opredeljena z merili za izbor. Imenujemo ga tudi vzorčenje "s presojo". Na primer, raziskovalec na področju zdravstva lahko namerno izbere posameznike, ki so si v večini pogledov podobni, z izjemo rezultatov pri raziskovalni temi, ki je lahko določena bolezen. Nekatere vrste namenskega vzorčenja so tipični/atipični primeri, homogena/največja varianca, izvedensko ali kritično vzorčenje primerov.</r:Content>
+            <r:Content xml:lang="lt">Imties vienetai yra specialiai apibrėžiami, parenkami ir su jais susisiekiama, nes jie gali pateikti informacijos tiriama tema. Atranka grindžiama tyrėjų požiūriu svarbiomis tiriamų nepriklausomų ir (arba) priklausomų kintamųjų charakteristikomis. Tyrimo autoriai arba jų įgalioti asmenys kontroliuoja imties sudarymo mechanizmą, o tiriamoji visuma yra apibrėžta pagal atrankos kriterijus. Pavyzdžiui, medicinos tyrėjas gali sąmoningai parinkti asmenis, kurie daugeliu atžvilgių yra panašūs, tačiau skiriasi tiriamos temos atžvilgiu (pavyzdžiui, išgijo arba neišgijo po specifinės ligos). Tarp tikslinės atrankos rūšių yra tipinių arba deviantinių atvejų atrankos, homogeniškų arba maksimaliai skirtingų atvejų atrankos, ekspertinė atranka ar ypatingų atvejų atranka.</r:Content>
+            <r:Content xml:lang="sv">Urvalselement identifieras, väljs ut och kontaktas specifikt för den information de kan bidra med kring det aktuella forskningsämnet. Urvalet baseras på olika egenskaper hos de oberoende och/eller beroende variablerna som studeras och bygger på forskarnas bedömning. Studiens upphovspersoner, eller personer med deras godkännande, har kontroll över urvalsmekanismen och målpopulationen definieras utifrån urvalskriterierna. Kallas även för "ändamålsenligt urval" eller "bedömningsurval". 
+Exempel: en medicinsk forskare kan medvetet välja individer som är lika i de flesta avseenden, med undantag för utfallet i studien, till exempel en viss sjukdom. Exempel på syftesurval inkluderar typfall/avvikande fall, homogen/maximal variation, experturval eller kritiska fall.</r:Content>
+            <r:Content xml:lang="it">Le unità campionarie vengono identificate, selezionate e contattate sulla base delle informazioni che possono fornire rispetto al tema di ricerca. La selezione si basa su diverse caratteristiche delle variabili indipendenti e/o dipendenti dello studio, e si fonda sul giudizio dei ricercatori. Gli autori dello studio, o le persone da loro autorizzate, hanno il controllo sul meccanismo di selezione del campione e l'universo è definito in relazione ai criteri di selezione. Chiamato anche "campionamento di giudizio". Ad esempio, un ricercatore in ambito medico può selezionare intenzionalmente individui che sono simili sotto molti aspetti, tranne che rispetto all'esito relativo al tema di ricerca (ad esempio una malattia specifica). Alcuni tipi di campionamento mirato sono rappresentati dai casi tipici/devianti, variazioni omogenee/variazioni massime, campione esperto oppure casi critici.</r:Content>
+            <r:Content xml:lang="en">Sample units are specifically identified, selected and contacted for the information they can provide on the researched topic. Selection is based on different characteristics of the independent and/or dependent variables under study, and relies on the researchers' judgement. The study authors, or persons authorized by them have control over the sample selection mechanism and the universe is defined in terms of the selection criteria. Also called "judgement" sampling. For example, a medical researcher may intentionally select individuals who are similar in most respects, except on the outcome of the research topic, which can be a specific disease. Some types of purposive sampling are typical/deviant case, homogeneous/maximum variation, expert, or critical case sampling.</r:Content>
+            <r:Content xml:lang="de">Alle Einheiten der Stichprobe sind bewusst, wegen ihres potenziellen Beitrags zum Untersuchungsgegenstand, ausgewählt. Die Grundgesamtheit und die Auswahlkriterien richten sich dabei nach den Ausprägungen der unabhängigen und/oder abhängigen Variablen der Untersuchung und werden von dem/der Forscher*in festgelegt. Er/Sie oder die für die Stichprobenziehung autorisierte Person kontrolliert die Auswahl. Beispielsweise werden für eine medizinische Studie bewusst Personen ausgewählt, die eine bestimmte Krankheit aufweisen, um diese mit einer Kontrollgruppe zu vergleichen. Verschiedene Varianten sind die Auswahl typischer/abweichender Fälle, homogener/heterogener Fälle oder kritischer Fälle.</r:Content>
+            <r:Content xml:lang="fr">Les unités échantillonnées sont spécifiquement identifiées, sélectionnées et contactées pour les informations qu'elles peuvent fournir sur le thème recherché. La sélection est basée sur différentes caractéristiques de variables indépendantes et / ou dépendantes à l'étude, et repose sur le jugement des chercheurs. Les auteurs de l'étude, ou les personnes autorisées par eux ont le contrôle au-delà des mécanismes de sélection de l'échantillon et l'univers est défini en termes de critères de sélection. Aussi appelé échantillonnage par "jugement". Par exemple, un chercheur en médecine peut intentionnellement sélectionner des individus qui sont similaires à la plupart des égards, excepté en ce qui concerne le résultat du sujet de recherche, qui peut être une maladie spécifique. Certains types d'échantillonnages raisonnés sont des échantillonnage de cas typiques / déviants, de variation homogène / maximale, d'experts ou de cas critiques.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Enhetene i utvalget identifiseres spesifikt, velges ut og kontaktes på grunn av informasjonen de kan gi om forskningsemnet som studeres. Utvelgelsen er basert på ulike karakteristikker ved de uavhengige og/eller avhengige variablene som skal studeres, og avhenger av forskerens vurdering. Studiens forfattere, eller andre personer som er gitt tillatelse, kontrollerer utvalgsmekanismene og det definerte universet med hensyn til utvalgskriteriene. Blir også kalt 'bedømmelsesutvalg'. For eksempel kan en forsker innen medisin med hensikt velge individer som ligner hverandre, med unntak av visse utfall, som en spesifikk sykdom. Noen typer målrettet utvalg er typiske/avvikende tilfeller, homogene/maksimal variasjon, eksperter, og utvalg av kritiske tilfeller.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-f620230-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/f620230</r:UserID>
+         <l:CategoryName>Nonprobability.Quota</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Neverjetnostno: kvotno</r:Content>
+            <r:Content xml:lang="lt">Netikimybinė: kvotinė</r:Content>
+            <r:Content xml:lang="sv">Icke-sannolikhetsurval: kvoturval</r:Content>
+            <r:Content xml:lang="it">Non probabilistico: per quota</r:Content>
+            <r:Content xml:lang="en">Non-probability: Quota</r:Content>
+            <r:Content xml:lang="de">Nicht-Wahrscheinlichkeitsauswahl: Quotenstichprobe</r:Content>
+            <r:Content xml:lang="fr">Non probabiliste : quota</r:Content>
+            <r:Content xml:lang="nl">Quota steekproef</r:Content>
+            <r:Content xml:lang="no">Ikke-sannsynlighet: Kvote</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Ciljna populacija je razdeljena na ločene in medsebojno izključujoče se odseke v skladu z nekaterimi vnaprej določenimi merili za izračune. Porazdelitev meril za izračune (razmerje med spoloma/starostjo/etnično pripadnostjo ali drugimi značilnostmi, kot so vera, izobraževanje itd.) naj bi odražala resnično strukturo ciljne populacije ali strukturo želene preučevane populacije. Iz vsakega odseka se nato vzamejo neverjetnostni vzorci, dokler ni doseženo določeno število enot. Na primer, če ciljno populacijo sestavlja 45 odstotkov žensk in 55 odstotkov moških, bo v proporcionalni kvotni vzorec vključen enak odstotek udeležencev glede na spol, medtem ko so v neproporcionalni kvotni vzorec vključeni različni odstotki, ki izhajajo iz razmislekov v povezavi z raziskavo (na primer, nadvzorčenje nekaterih manj zastopanih delov populacije).</r:Content>
+            <r:Content xml:lang="lt">Pagal tam tikrus iš anksto nustatytus kriterijus (kvotas) tikslinė populiacija yra padalinama į atskirus ir nepersidengiančius segmentus. Paskirstymas pagal kvotas (lyties, amžiaus, etninės priklausomybės proporcijas ar kitas savybes, tokias kaip religija, išsilavinimas ir kt.) turi atspindėti realią tikslinės populiacijos struktūrą arba norimos tiriamosios populiacijos struktūrą. Tada kiekviename segmente netikimybinės atrankos būdu renkami vienetai, kol bus pasiektas pagal kvotą reikiamas vienetų skaičius. Pavyzdžiui, jei tikslinę populiaciją sudaro 45 proc. moterų ir 55 proc. vyrų, proporcingoje kvotinėje imtyje bus toks pats lyčių procentas, o neproporcingoje kvotinėje imtyje procentai skirsis priklausomai nuo tyrimo tikslų (pavyzdžiui, gali būti siekiama gausesnio tam tikrų menkai atstovaujamų gyventojų segmentų dalyvavimo).</r:Content>
+            <r:Content xml:lang="sv">Målpopulationen delas in i separata och ömsesidigt uteslutande segment utifrån fördefinierade kvotkriterier. Fördelningen av dessa kriterier (till exempel kvot efter kön/ålder/etnicitet eller andra egenskaper, som religion, utbildning m.m.) är tänkt att spegla strukturen i målpopulationen eller i den önskade studiepopulationen. Icke-sannolikhetsurval görs sedan inom varje segment tills ett förutbestämt antal enheter har nåtts. 
+Exempel: om målpopulationen består av 45 % kvinnor och 55 % män så kommer ett proportionerligt kvoturval ha samma könsfördelning. Ett icke-proportionerligt kvoturval kan däremot ha en annan procentfördelning, baserat på någon för studien relevant faktor (t.ex. behovet att överinkludera vissa underrepresenterade segment av populationen).</r:Content>
+            <r:Content xml:lang="it">La popolazione di riferimento è suddivisa in segmenti separati e mutuamente esclusivi secondo qualche criterio per quote predefinito. La distribuzione dei criteri di quotazione (genere/età/etnia o altre caratteristiche, come religione, istruzione, ecc.) riflette la reale struttura della popolazione di riferimento o la struttura della popolazione che si intende studiare. I campioni non probabilistici vengono quindi estratti da ciascun segmento fino a raggiungere un numero specifico di unità. Ad esempio, se la popolazione di riferimento è composta per il 45% da femmine e per il 55% da maschi, un campione per quota proporzionale avrà le stesse percentuali di genere, mentre in un campione per quota non proporzionale le percentuali saranno diverse, sulla base di specifiche considerazioni legate allo studio (ad esempio, la necessità di sovracampionare alcuni segmenti sottorappresentati della popolazione).</r:Content>
+            <r:Content xml:lang="en">The target population is subdivided into separate and mutually exclusive segments according to some predefined quotation criteria. The distribution of the quotation criteria (gender/age/ethnicity ratio, or other characteristics, like religion, education, etc.) is intended to reflect the real structure of the target population or the structure of the desired study population. Non-probability samples are then drawn from each segment until a specific number of units has been reached. For example, if the target population consists of 45 percent females and 55 percent males, a proportional quota sample will have the same gender percentages, while in a non-proportional quota sample the percentages will be different, based on some study-related consideration (for instance, the need to oversample for certain under-represented segments of the population).</r:Content>
+            <r:Content xml:lang="de">Die Grundgesamtheit wird nach bestimmten Kriterien in sich gegenseitig ausschließende und insgesamt erschöpfende Segmente unterteilt. Die Verteilung der Quotenmerkmale (z. B. Geschlecht, Alter, Ethnizität, Religion, Bildungsstand, etc.) soll die diesbezügliche Verteilung der Grundgesamtheit widerspiegeln. Aus jedem Segment werden dann Einheiten durch Nicht-Wahrscheinlichkeitsauswahl ausgewählt, bis die gewünschte Anzahl der Einheiten pro Quotenmerkmal erreicht ist. Wenn die Grundgesamtheit beispielsweise einen Frauenanteil von 45 Prozent und einen Männeranteil von 55 Prozent aufweist, ist der Anteil der Frauen und Männer in der Stichprobe ebenso hoch, wenn es sich um eine proportionale Quotenstichprobe handelt. In einer nicht proportionalen Quotenstichprobe können die Geschlechterverhältnisse abweichen, beispielsweise durch ein bewusstes Oversampling von Frauen.</r:Content>
+            <r:Content xml:lang="fr">La population cible est subdivisée dans des segments séparés et mutuellement exclusifs d'après certains critères de quotas prédéfinis. La distribution des critères de quotas (genre / âge / ratio d'ethnicité, ou des autres caractéristiques, comme la religion, l'éducation, etc.) est destinée à refléter la structure réelle de la population cible ou la structure désirée de la population étudiée. Des échantillons non probabilistes sont alors tirés à partir de chaque segment jusqu'à ce qu'un nombre spécifique d'unités soit atteint. Par exemple, si la population cible compte 45 pour cent de femmes et 55 pour cent d'hommes, un échantillon par quotas proportionnel devra avoir les mêmes pourcentages par genre, alors que dans un échantillon par quotas non proportionnel le pourcentage sera différent, basé sur certaines considérations liées à l'étude (par exemple, le besoin de sur-échantillon pour certains segments sous-représentés de la population).</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Målpopulasjonen er delt i flere ulike og gjensidig utelukkende segment i henhold til noen forhåndsdefinerte kvoteringskriterier. Fordelingen av kvoteringskriteriene (kjønn/alder/etnisitet, eller andre karakteristikker, som religion, utdanning etc.) skal reflektere den virkelige strukturen i målpopulasjonen eller strukturen i den ønskede studiepopulasjonen. Ikke-sannsynlighetsutvalg blir da trukket fra hvert segment inntil et spesifikt antall enheter er nådd. For eksempel dersom målpopulasjonen består av 45% kvinner og 55% menn, vil et proporsjonalt kvoteutvalg ha samme kjønnsfordeling, mens fordelingen vil være annerledes i et ikke-proporsjonalt kvoteutvalg, basert på en studierelatert faktor (f. eks behovet for å overinkludere visse underrepresenterte deler av populasjonen).</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-086e080-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/086e080</r:UserID>
+         <l:CategoryName>Nonprobability.RespondentAssisted</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Neverjetnostno: s pomočjo respondentov</r:Content>
+            <r:Content xml:lang="lt">Netikimybinė: respondentų formuojama</r:Content>
+            <r:Content xml:lang="sv">Icke-sannolikhetsurval: respondent-assisterat urval</r:Content>
+            <r:Content xml:lang="it">Non probabilistico: guidato dal rispondente</r:Content>
+            <r:Content xml:lang="en">Non-probability: Respondent-assisted 	</r:Content>
+            <r:Content xml:lang="de">Nicht-Zufallsstichprobe: Respondenten gesteuerte Auswahl</r:Content>
+            <r:Content xml:lang="fr">Non probabiliste : participation volontaire</r:Content>
+            <r:Content xml:lang="nl">Respondentgestuurde steekproef</r:Content>
+            <r:Content xml:lang="no">Ikke-sannsynlighet: Respondent-assistert</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Vzorčene enote so identificirane iz ciljne populacije s pomočjo že izbranih enot (prirejeno po "Public Health Research Methods", ur. Greg Guest, Emily E. Namey, 2014). Tipičen primer je vzorčenje po metodi snežne kepe, v katerem raziskovalec identificira skupino enot, ki ustreza določenemu merilu upravičenosti za izbor. Te enote nato zaprosi za pomoč pri pridobivanju drugih članov iste populacije, ki izpolnjujejo enako merilo upravičenosti (vzorčenje določenih populacij, kot so migranti itd.).</r:Content>
+            <r:Content xml:lang="lt">Jau atrinkti imties vienetai padeda identifikuoti kitus tikslinės populiacijos vienetus (adaptuota pagal "Public Health Research Methods", ed. Greg Guest, Emily E. Namey, 2014). Tipiškas tokios atrankos pavyzdys yra sniego gniūžtės atranka, kai tyrėjas sudaro pirminę, tyrime numatytą tinkamumo kriterijų atitinkančią, imties vienetų grupę. Tuomet jos atstovų yra prašoma identifikuoti kitus tos pačios populiacijos narius, atitinkančius tą patį tinkamumo kriterijų (taikoma atrankoms specifinėse populiacijose, pavyzdžiui, migrantų ir kt.).</r:Content>
+            <r:Content xml:lang="sv">Ytterligare element i urvalet identifieras inom målpopulationen med hjälp av redan valda element (bearbetat från "Public Health Research Methods", red. Greg Guest, Emily E. Namey, 2014). En vanlig variant är snöbollsurval, där forskaren först identifierar en grupp element som uppfyller vissa urvalskriterier. Dessa personer ombeds att rekrytera andra medlemmar i samma population som uppfyller samma urvalskriterier. Det kan exempelvis gälla urval av särskilda eller svåråtkomliga populationer som till exempel migranter.</r:Content>
+            <r:Content xml:lang="it">Le unità campionarie sono identificate all'interno della popolazione di riferimento attraverso il ricorso a unità già selezionate. Un caso tipico è il "campionamento a palla di neve", in cui il ricercatore identifica un gruppo di unità che soddisfa un particolare criterio di ammissibilità. Queste unità sono invitate a reclutare altri membri della stessa popolazione che soddisfano lo stesso criterio di ammissibilità (campionamento di popolazioni specifiche come migranti, ecc.).</r:Content>
+            <r:Content xml:lang="en">Sample units are identified from a target population with the assistance of units already selected (adapted from "Public Health Research Methods", ed. Greg Guest, Emily E. Namey, 2014). A typical case is snowball sampling, in which the researcher identifies a group of units that matches a particular criterion of eligibility. The latter are asked to recruit other members of the same population that fulfil the same criterion of eligibility (sampling of specific populations like migrants, etc.).</r:Content>
+            <r:Content xml:lang="de">Die Einheiten werden aus der Grundgesamtheit mit Hilfe von Einheiten ausgewählt, die bereits in der Stichprobe sind. Ein typisches Beispiel dafür ist das Schneeballverfahren. Hier wählt der Forscher nach festgelegten Kriterien eine Gruppe von Einheiten aus. Diese werden dann gebeten, ihnen ähnliche, für die Studie geeignete Personen zu rekrutieren (z. B. Stichproben bestimmter Gruppen, wie Migranten o.ä.).</r:Content>
+            <r:Content xml:lang="fr">Les unités de l'échantillon sont identifiées à partir d'une population cible avec l'assistance d'unités déjà sélectionnées (adapté de "Public Health Research Methods", ed. Greg Guest, Emily E. Namey, 2014). Un cas typique est l'échantillonnage boule de neige, dans lequel le chercheur identifie un groupe d'unités qui correspond à un critère particulier d'éligibilité. Ces dernières sont invitées à recruter d'autres membres de la même population qui remplissent le même critère d'éligibilité (échantillonnage de populations spécifiques comme des migrants, etc.)</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Enhetene i utvalget identifiseres i målpopulasjonen ved hjelp av enheter som allerede er valgt (fra 'Public Health Research Methods', red. Greg Guest, Emily E. Namey, 2014). En typisk variant er snøballutvelgelse, der forskeren identifiserer en gruppe enheter som stemmer overens med spesifikke utvalgskriterier. Disse blir spurt om å rekruttere andre deltakere i samme populasjon som oppfyller samme utvalgskriterier (utvelgelse av særskilte populasjoner som migranter, etc.).</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-e890a15-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/e890a15</r:UserID>
+         <l:CategoryName>MixedProbabilityNonprobability</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Mešano verjetnostno in neverjetnostno</r:Content>
+            <r:Content xml:lang="lt">Mišri tikimybinė ir netikimybinė</r:Content>
+            <r:Content xml:lang="sv">Blandat sannolikhets- och icke-sannolikhetsurval</r:Content>
+            <r:Content xml:lang="it">Misto</r:Content>
+            <r:Content xml:lang="en">Mixed probability and non-probability</r:Content>
+            <r:Content xml:lang="de">Kombination aus Zufallsstichprobe und Nicht-Zufallsstichprobe</r:Content>
+            <r:Content xml:lang="fr">Mixte probabiliste et non probabiliste</r:Content>
+            <r:Content xml:lang="nl">Gemengde kans- en niet-kanssteekproef</r:Content>
+            <r:Content xml:lang="no">Blandet sannsynlighets- og ikke-sannsynlighetsutvalg</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Načrt vzorčenja, ki združuje verjetnostno in neverjetnostno vzorčenje v istem postopku vzorčenja. Na različnih stopnjah izdelave vzorca se lahko uporabljajo različne vrste vzorčenja. Na primer, za vzorec učencev iz manjšin v mestu se najprej v prvem koraku naključno izberejo šole. Nato je v drugem koraku v vsaki šoli izbran kvotni vzorec učencev. Če iz iste ciljne populacije vzamemo ločene vzorce z uporabo različnih metod vzorčenja, je potrebno vrste postopkov vzorčenja, ki smo jih uporabili pri posameznih vzorcih, razvrstiti ločeno.</r:Content>
+            <r:Content xml:lang="lt">Imties dizainas, kuris integruoja tikimybinę ir netikimybinę atrankas tame pačiame atrankos sudarymo procese. Skirtinguose imties sudarymo etapuose gali būti naudojami skirtingi atrankos tipai. Pavyzdžiui, miesto mažumų moksleivių imčiai sudaryti, pirmajame etape atsitiktinai atrenkamos mokyklos. Tada antrame etape kiekvienoje mokykloje sudaroma mokinių kvotinė imtis. Jei iš tos pačios tikslinės populiacijos skirtingais atrankos metodais sudaromos atskiros imtys, tai kiekvienos imties sudarymo procedūra turėtų būti koduojama atskirai.</r:Content>
+            <r:Content xml:lang="sv">Urvalsdesign som kombinerar sannolikhets- och icke-sannolikhetsurval inom samma urvalsprocess. Olika urvalsmetoder kan användas i olika steg när urvalet skapas. 
+Exempel: för ett urval av minoritetselever i en stad väljs skolor slumpmässigt i det första steget. I det andra steget används kvoturval för att välja elever inom varje skola. Om det görs separata urval från samma målpopulation med olika urvalsmetoder bör typ av urvalsprocess specificeras separat för varje urval.</r:Content>
+            <r:Content xml:lang="it">Disegno di campionamento che combina, all'intero dello stesso processo, campionamento di tipo probabilistico e non probabilistico. Diversi tipi di campionamento possono essere utilizzati nelle diverse fasi della creazione del campione. Ad esempio, per costruire un campione di studenti appartenenti a una minoranza in una determinata città, nella prima fase vengono selezionate in modo casuale le scuole. Quindi, nella seconda fase, viene selezionato un campione per quote di studenti all'interno di ciascuna scuola. Se vengono estratti campioni separati dalla stessa popolazione di riferimento utilizzando diversi metodi di campionamento, il tipo di procedura di campionamento utilizzato per ciascun campione deve essere classificato separatamente.</r:Content>
+            <r:Content xml:lang="en">Sample design that combines probability and non-probability sampling within the same sampling process. Different types of sampling may be used at different stages of creating the sample. For example, for a sample of minority students in a city, schools are randomly selected in the first stage. Then, a quota sample of students is selected within each school in the second stage. If separate samples are drawn from the same target population using different sampling methods, the type of sampling procedure used for each sample should be classified separately.</r:Content>
+            <r:Content xml:lang="de">Ein Verfahren, das für dieselbe Grundgesamtheit Wahrscheinlichkeits- und Nicht-Wahrscheinlichkeitsauswahl miteinander kombiniert. Die verwendeten Methoden können innerhalb oder zwischen den Stufen der Stichprobenziehung kombiniert werden. Beispielsweise kann zur Untersuchung einer religiösen Minderheit eine proportional geschichtete Zufallsauswahl mit einer Respondenten-gesteuerten Auswahl kombiniert werden. Alternativ wäre für dieses Beispiel auch eine Kombination von mehrstufiger Zufallsauswahl und einer Quotenstichprobe bei der letzten Ziehung möglich.</r:Content>
+            <r:Content xml:lang="fr">Le plan d'échantillonnage qui combine échantillonnage probabiliste et non probabiliste au sein d'un même processus d'échantillonnage. Différents type d'échantillonnage peuvent être utilisés à différentes étapes de création de l'échantillon. Par exemple, pour un échantillon d'élèves issus de l'immigration dans une ville, les écoles sont sélectionnées aléatoirement dans une première étape. Alors, un échantillon par quotas des élèves est sélectionné au sein de chaque école dans une seconde étape. Si des échantillons distincts sont tirés à partir de la même population cible à l'aide de différentes méthodes d'échantillonnage, le type de procédure d'échantillonnage utilisé pour chaque échantillon devra être classé séparément.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Utvalgsdesign som kombinerer sannsynlighets- og ikke-sannsynlighetsutvalg i samme utvalgsprosess. Forskjellige utvalgsmetoder kan bli brukt på ulike steg i utvalgsprosessen. For eksempel for en studie av minoritetsstudenter i en by blir skoler trukket tilfeldig i første stadie. Deretter trekkes et kvoteutvalg av studenter fra hver skole i andre steg. Dersom separate utvalg er trukket fra samme målpopulasjon ved bruk av ulike utvalgsmetoder, bør typen utvalgsprosedyre som blir brukt for hvert utvalg klassifiseres separat.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SamplingProcedure-6311ae1-Category</r:ID>
+         <r:Version>2.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SamplingProcedure/2.0.1/6311ae1</r:UserID>
+         <l:CategoryName>Other</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="sl">Drugo</r:Content>
+            <r:Content xml:lang="lt">Kita</r:Content>
+            <r:Content xml:lang="sv">Övrigt</r:Content>
+            <r:Content xml:lang="it">Altro</r:Content>
+            <r:Content xml:lang="en">Other</r:Content>
+            <r:Content xml:lang="de">Andere</r:Content>
+            <r:Content xml:lang="fr">Autre</r:Content>
+            <r:Content xml:lang="nl">Overig</r:Content>
+            <r:Content xml:lang="no">Annet</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="sl">Uporabite, če je postopek vzorčenja znan, a ga ne najdete na seznamu.</r:Content>
+            <r:Content xml:lang="lt">Naudoti, kai atrankos procedūra yra žinoma, bet jos sąraše nėra.</r:Content>
+            <r:Content xml:lang="sv">Använd om urvalsmetoden är känd men saknas i listan.</r:Content>
+            <r:Content xml:lang="it">Utilizzare se la procedura di campionamento è conosciuta, ma non è presente nell'elenco.</r:Content>
+            <r:Content xml:lang="en">Use if the sampling procedure is known, but not found in the list.</r:Content>
+            <r:Content xml:lang="de">Verwenden Sie diese Kategorie, wenn das Auswahlverfahren bekannt ist, aber nicht in der Liste vertreten ist.</r:Content>
+            <r:Content xml:lang="fr">Utilisez si la procédure d'échantillonnage est connue, mais pas présente dans la liste.</r:Content>
+            <r:Content xml:lang="nl"/>
+            <r:Content xml:lang="no">Bruk dersom utvalgsmetoden er kjent, men ikke funnet i listen.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+</ddi:FragmentInstance>

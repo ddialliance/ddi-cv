@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ddi:FragmentInstance xmlns:ddi="ddi:instance:3_2"
+                       xmlns:ddi-cv="urn:ddi-cv"
+                       xmlns:l="ddi:logicalproduct:3_2"
+                       xmlns:r="ddi:reusable:3_2">
+   <ddi:Fragment>
+      <l:CodeList>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/</r:UserID>
+         <r:Label>
+            <r:Content xml:lang="lt">Programinės įrangos paketai</r:Content>
+            <r:Content xml:lang="en">Software Package</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Nurodo statistinės programinės įrangos paketus, naudojamus duomenims kurti, apdoroti ar platinti. Šis sąrašas neapima duomenų rinkimo programinės įrangos.</r:Content>
+            <r:Content xml:lang="en">Indicates the statistical software package used in the production/processing/dissemination of the data. Data collection software is not covered in this list.</r:Content>
+         </r:Description>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-eeb9e1f-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/eeb9e1f</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-eeb9e1f-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>AcaStat</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-3e827b5-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/3e827b5</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-3e827b5-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ADaMSoft</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-74d7359-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/74d7359</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-74d7359-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>AnalyseIt</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-a98f622-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/a98f622</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-a98f622-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Auguri</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-abc691c-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/abc691c</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-abc691c-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>BioStat</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-9eb48fa-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/9eb48fa</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-9eb48fa-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>BMDP</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-a29b2e9-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/a29b2e9</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-a29b2e9-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>BrightStat</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-48d4282-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/48d4282</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-48d4282-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Dataplot</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-0f84b92-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/0f84b92</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-0f84b92-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DBase</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-24599f1-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/24599f1</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-24599f1-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>DIF</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-29f76ef-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/29f76ef</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-29f76ef-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EasyReg</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-6460fde-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/6460fde</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-6460fde-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EpiInfo</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-98b74cc-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/98b74cc</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-98b74cc-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EViews</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-37a2f93-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/37a2f93</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-37a2f93-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>GAUSS</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-fb974e8-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/fb974e8</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-fb974e8-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>GoldenHelix</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-7e41f63-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/7e41f63</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-7e41f63-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>GraphPadPrism</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-39c4046-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/39c4046</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-39c4046-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Gretl</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-152b9af-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/152b9af</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-152b9af-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>JMP</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-791fe51-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/791fe51</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-791fe51-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Limdep</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-542c20a-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/542c20a</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-542c20a-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>MacAnova</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-4004507-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/4004507</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-4004507-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Maple</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-ce5dcee-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/ce5dcee</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-ce5dcee-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Mathematica</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-bc15a72-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/bc15a72</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-bc15a72-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>MatLab</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-7180929-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/7180929</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-7180929-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>MedCalc</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-feabb59-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/feabb59</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-feabb59-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Minitab</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-76723e4-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/76723e4</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-76723e4-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ModelQED</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-cd02fb2-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/cd02fb2</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-cd02fb2-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>NCSS</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-a71e699-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/a71e699</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-a71e699-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>NSDStat</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-1732126-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/1732126</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-1732126-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>OpenEpi</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-3edf8ca-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/3edf8ca</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-3edf8ca-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Origin</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-8914678-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/8914678</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-8914678-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Partek</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-dd152b9-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/dd152b9</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-dd152b9-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Primer</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-bb988f8-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/bb988f8</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-bb988f8-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>PSPP</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-213d73a-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/213d73a</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-213d73a-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>RCommander</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-e1e1d3d-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/e1e1d3d</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-e1e1d3d-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>R</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-105e491-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/105e491</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-105e491-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>RATS</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-8262313-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/8262313</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-8262313-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>RKWard</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-f4136bd-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/f4136bd</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-f4136bd-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>SalStat</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-2db46c6-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/2db46c6</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-2db46c6-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>SAS</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-9c53618-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/9c53618</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-9c53618-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Shazam</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-9b791dc-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/9b791dc</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-9b791dc-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>SOCR</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-a566e46-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/a566e46</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-a566e46-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>SPlus</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-739e087-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/739e087</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-739e087-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>SPSS</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-259a54d-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/259a54d</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-259a54d-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Stata</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-487b304-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/487b304</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-487b304-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Statistica</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-35b2fe9-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/35b2fe9</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-35b2fe9-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>SUDAAN</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-e902a36-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/e902a36</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-e902a36-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>TSP</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>SoftwarePackage-6311ae1-Code</r:ID>
+            <r:Version>1.0.1</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/6311ae1</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>SoftwarePackage-6311ae1-Category</r:ID>
+               <r:Version>1.0.1</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Other</r:Value>
+         </l:Code>
+      </l:CodeList>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-eeb9e1f-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/eeb9e1f</r:UserID>
+         <l:CategoryName>AcaStat</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">AcaStat</r:Content>
+            <r:Content xml:lang="en">AcaStat</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-3e827b5-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/3e827b5</r:UserID>
+         <l:CategoryName>ADaMSoft</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">ADaMSoft</r:Content>
+            <r:Content xml:lang="en">ADaMSoft</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-74d7359-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/74d7359</r:UserID>
+         <l:CategoryName>AnalyseIt</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Analyse-it</r:Content>
+            <r:Content xml:lang="en">Analyse-it</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-a98f622-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/a98f622</r:UserID>
+         <l:CategoryName>Auguri</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Auguri</r:Content>
+            <r:Content xml:lang="en">Auguri</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-abc691c-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/abc691c</r:UserID>
+         <l:CategoryName>BioStat</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">BioStat</r:Content>
+            <r:Content xml:lang="en">BioStat</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-9eb48fa-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/9eb48fa</r:UserID>
+         <l:CategoryName>BMDP</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">BMDP</r:Content>
+            <r:Content xml:lang="en">BMDP</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-a29b2e9-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/a29b2e9</r:UserID>
+         <l:CategoryName>BrightStat</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">BrightStat</r:Content>
+            <r:Content xml:lang="en">BrightStat</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-48d4282-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/48d4282</r:UserID>
+         <l:CategoryName>Dataplot</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Dataplot</r:Content>
+            <r:Content xml:lang="en">Dataplot</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-0f84b92-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/0f84b92</r:UserID>
+         <l:CategoryName>DBase</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">DBase</r:Content>
+            <r:Content xml:lang="en">DBase</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-24599f1-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/24599f1</r:UserID>
+         <l:CategoryName>DIF</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">DIF</r:Content>
+            <r:Content xml:lang="en">DIF</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenų mainų formatas, tinkamas naudoti „Excel“.</r:Content>
+            <r:Content xml:lang="en">Data interchange format suitable for use in Excel.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-29f76ef-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/29f76ef</r:UserID>
+         <l:CategoryName>EasyReg</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">EasyReg</r:Content>
+            <r:Content xml:lang="en">EasyReg</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-6460fde-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/6460fde</r:UserID>
+         <l:CategoryName>EpiInfo</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt"> Epi Info</r:Content>
+            <r:Content xml:lang="en">Epi Info</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-98b74cc-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/98b74cc</r:UserID>
+         <l:CategoryName>EViews</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">EViews</r:Content>
+            <r:Content xml:lang="en">EViews</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-37a2f93-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/37a2f93</r:UserID>
+         <l:CategoryName>GAUSS</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">GAUSS</r:Content>
+            <r:Content xml:lang="en">GAUSS</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-fb974e8-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/fb974e8</r:UserID>
+         <l:CategoryName>GoldenHelix</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Golden Helix</r:Content>
+            <r:Content xml:lang="en">Golden Helix</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-7e41f63-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/7e41f63</r:UserID>
+         <l:CategoryName>GraphPadPrism</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt"> GraphPad Prism</r:Content>
+            <r:Content xml:lang="en">GraphPad Prism</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-39c4046-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/39c4046</r:UserID>
+         <l:CategoryName>Gretl</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">gretl</r:Content>
+            <r:Content xml:lang="en">gretl</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-152b9af-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/152b9af</r:UserID>
+         <l:CategoryName>JMP</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">JMP</r:Content>
+            <r:Content xml:lang="en">JMP</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-791fe51-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/791fe51</r:UserID>
+         <l:CategoryName>Limdep</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Limdep</r:Content>
+            <r:Content xml:lang="en">Limdep</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-542c20a-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/542c20a</r:UserID>
+         <l:CategoryName>MacAnova</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">MacAnova</r:Content>
+            <r:Content xml:lang="en">MacAnova</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-4004507-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/4004507</r:UserID>
+         <l:CategoryName>Maple</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Maple</r:Content>
+            <r:Content xml:lang="en">Maple</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-ce5dcee-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/ce5dcee</r:UserID>
+         <l:CategoryName>Mathematica</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Mathematica</r:Content>
+            <r:Content xml:lang="en">Mathematica</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-bc15a72-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/bc15a72</r:UserID>
+         <l:CategoryName>MatLab</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">MatLab</r:Content>
+            <r:Content xml:lang="en">MatLab</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-7180929-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/7180929</r:UserID>
+         <l:CategoryName>MedCalc</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">MedCalc</r:Content>
+            <r:Content xml:lang="en">MedCalc</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-feabb59-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/feabb59</r:UserID>
+         <l:CategoryName>Minitab</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Minitab</r:Content>
+            <r:Content xml:lang="en">Minitab</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-76723e4-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/76723e4</r:UserID>
+         <l:CategoryName>ModelQED</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">modelQED</r:Content>
+            <r:Content xml:lang="en">modelQED</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-cd02fb2-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/cd02fb2</r:UserID>
+         <l:CategoryName>NCSS</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">NCSS</r:Content>
+            <r:Content xml:lang="en">NCSS</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-a71e699-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/a71e699</r:UserID>
+         <l:CategoryName>NSDStat</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">NSDStat</r:Content>
+            <r:Content xml:lang="en">NSDStat</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-1732126-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/1732126</r:UserID>
+         <l:CategoryName>OpenEpi</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">OpenEpi</r:Content>
+            <r:Content xml:lang="en">OpenEpi</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-3edf8ca-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/3edf8ca</r:UserID>
+         <l:CategoryName>Origin</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Origin</r:Content>
+            <r:Content xml:lang="en">Origin</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-8914678-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/8914678</r:UserID>
+         <l:CategoryName>Partek</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Partek</r:Content>
+            <r:Content xml:lang="en">Partek</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-dd152b9-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/dd152b9</r:UserID>
+         <l:CategoryName>Primer</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Primer</r:Content>
+            <r:Content xml:lang="en">Primer</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-bb988f8-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/bb988f8</r:UserID>
+         <l:CategoryName>PSPP</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">PSPP</r:Content>
+            <r:Content xml:lang="en">PSPP</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-213d73a-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/213d73a</r:UserID>
+         <l:CategoryName>RCommander</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt"> R Commander</r:Content>
+            <r:Content xml:lang="en">R Commander</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-e1e1d3d-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/e1e1d3d</r:UserID>
+         <l:CategoryName>R</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt"> R</r:Content>
+            <r:Content xml:lang="en">R</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-105e491-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/105e491</r:UserID>
+         <l:CategoryName>RATS</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">RATS</r:Content>
+            <r:Content xml:lang="en">RATS</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-8262313-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/8262313</r:UserID>
+         <l:CategoryName>RKWard</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">RKWard</r:Content>
+            <r:Content xml:lang="en">RKWard</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-f4136bd-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/f4136bd</r:UserID>
+         <l:CategoryName>SalStat</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">SalStat</r:Content>
+            <r:Content xml:lang="en">SalStat</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-2db46c6-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/2db46c6</r:UserID>
+         <l:CategoryName>SAS</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">SAS</r:Content>
+            <r:Content xml:lang="en">SAS</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-9c53618-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/9c53618</r:UserID>
+         <l:CategoryName>Shazam</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Shazam</r:Content>
+            <r:Content xml:lang="en">Shazam</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-9b791dc-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/9b791dc</r:UserID>
+         <l:CategoryName>SOCR</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">SOCR</r:Content>
+            <r:Content xml:lang="en">SOCR</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-a566e46-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/a566e46</r:UserID>
+         <l:CategoryName>SPlus</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">SPlus</r:Content>
+            <r:Content xml:lang="en">SPlus</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-739e087-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/739e087</r:UserID>
+         <l:CategoryName>SPSS</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">SPSS</r:Content>
+            <r:Content xml:lang="en">SPSS</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-259a54d-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/259a54d</r:UserID>
+         <l:CategoryName>Stata</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Stata</r:Content>
+            <r:Content xml:lang="en">Stata</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-487b304-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/487b304</r:UserID>
+         <l:CategoryName>Statistica</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Statistica</r:Content>
+            <r:Content xml:lang="en">Statistica</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-35b2fe9-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/35b2fe9</r:UserID>
+         <l:CategoryName>SUDAAN</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">SUDAAN</r:Content>
+            <r:Content xml:lang="en">SUDAAN</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-e902a36-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/e902a36</r:UserID>
+         <l:CategoryName>TSP</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">TSP</r:Content>
+            <r:Content xml:lang="en">TSP</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt"/>
+            <r:Content xml:lang="en"/>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>SoftwarePackage-6311ae1-Category</r:ID>
+         <r:Version>1.0.1</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/SoftwarePackage/1.0.1/6311ae1</r:UserID>
+         <l:CategoryName>Other</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kita</r:Content>
+            <r:Content xml:lang="en">Other</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Naudoti, jei programinės įrangos paketas yra žinomas, bet jo nėra sąraše.</r:Content>
+            <r:Content xml:lang="en">Use if the software package is known, but not found in the list.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+</ddi:FragmentInstance>

@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ddi:FragmentInstance xmlns:ddi="ddi:instance:3_2"
+                       xmlns:ddi-cv="urn:ddi-cv"
+                       xmlns:l="ddi:logicalproduct:3_2"
+                       xmlns:r="ddi:reusable:3_2">
+   <ddi:Fragment>
+      <l:CodeList>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/</r:UserID>
+         <r:Label>
+            <r:Content xml:lang="lt">Dažnumo tipas</r:Content>
+            <r:Content xml:lang="sl">Pogostost zbiranja</r:Content>
+            <r:Content xml:lang="en">Type of Frequency</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Nurodo duomenų rinkimo įvykių dažnumą.</r:Content>
+            <r:Content xml:lang="sl">Se nanaša na pogostost zbiranja podatkov.</r:Content>
+            <r:Content xml:lang="en">Indicates the frequency of data collection events. 
+</r:Content>
+         </r:Description>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-535863a-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/535863a</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-535863a-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Continuous</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-fb2f2a4-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/fb2f2a4</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-fb2f2a4-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryMinute</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-e3c0d3a-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/e3c0d3a</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-e3c0d3a-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryHour</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-11f3fba-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/11f3fba</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-11f3fba-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryTwoHours</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-33bdb59-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/33bdb59</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-33bdb59-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryThreeHours</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-99b46e0-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/99b46e0</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-99b46e0-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>TwiceADay</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-1f08d62-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/1f08d62</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-1f08d62-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryDay</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-62725ee-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/62725ee</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-62725ee-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryBusinessDay</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-a586be6-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/a586be6</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-a586be6-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>OccasionalDaily</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-b5ce97c-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/b5ce97c</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-b5ce97c-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ThreeTimesAWeek</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-ca0a52e-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/ca0a52e</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-ca0a52e-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>TwiceAWeek</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-4a6550a-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/4a6550a</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-4a6550a-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryWeek</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-a5724cc-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/a5724cc</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-a5724cc-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>OccasionalWeekly</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-130fbad-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/130fbad</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-130fbad-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryTenDays</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-b8be24a-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/b8be24a</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-b8be24a-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ThreeTimesAMonth</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-4e70e38-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/4e70e38</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-4e70e38-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryTwoWeeks</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-78d0215-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/78d0215</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-78d0215-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>TwiceAMonth</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-41fe2eb-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/41fe2eb</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-41fe2eb-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryThreeWeeks</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-ce9e3c9-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/ce9e3c9</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-ce9e3c9-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryFourWeeks</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-26d7ba7-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/26d7ba7</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-26d7ba7-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryMonth</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-f2de11b-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/f2de11b</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-f2de11b-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>OccasionalMonthly</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-3e0f3c6-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/3e0f3c6</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-3e0f3c6-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryTwoMonths</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-dd15c91-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/dd15c91</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-dd15c91-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryThreeMonths</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-e2a7553-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/e2a7553</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-e2a7553-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>ThreeTimesAYear</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-c597fb4-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/c597fb4</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-c597fb4-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>TwiceAYear</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-2ea450f-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/2ea450f</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-2ea450f-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryYear</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-b6fe088-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/b6fe088</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-b6fe088-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>OccasionalAnnual</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-50c39ed-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/50c39ed</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-50c39ed-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryTwoYears</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-0140e68-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/0140e68</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-0140e68-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryThreeYears</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-6cb8be6-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/6cb8be6</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-6cb8be6-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryFourYears</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-bda54f9-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/bda54f9</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-bda54f9-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryFiveYears</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-c8a6851-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/c8a6851</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-c8a6851-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryTenYears</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-002f39b-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/002f39b</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-002f39b-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryTwentyYears</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-eb65657-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/eb65657</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-eb65657-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>EveryThirtyYears</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-c6b4bec-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/c6b4bec</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-c6b4bec-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Irregular</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-6311ae1-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/6311ae1</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-6311ae1-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Other</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-6fcdc09-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/6fcdc09</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-6fcdc09-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>Unspecified</r:Value>
+         </l:Code>
+         <l:Code>
+            <r:Agency>int.ddi.cv</r:Agency>
+            <r:ID>TypeOfFrequency-7599922-Code</r:ID>
+            <r:Version>1.0.2</r:Version>
+            <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/7599922</r:UserID>
+            <r:CategoryReference>
+               <r:Agency>int.ddi.cv</r:Agency>
+               <r:ID>TypeOfFrequency-7599922-Category</r:ID>
+               <r:Version>1.0.2</r:Version>
+               <r:TypeOfObject>Category</r:TypeOfObject>
+            </r:CategoryReference>
+            <r:Value>NotApplicable</r:Value>
+         </l:Code>
+      </l:CodeList>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-535863a-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/535863a</r:UserID>
+         <l:CategoryName>Continuous</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Tolydus</r:Content>
+            <r:Content xml:lang="sl">Neprekinjeno</r:Content>
+            <r:Content xml:lang="en">Continuous</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami tolydžiai. Nėra atitinkančio SDMX kodo.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo neprekinjeno. Ni ustrezne kode SDMX.</r:Content>
+            <r:Content xml:lang="en">Data are collected continuously. No matching SDMX code.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-fb2f2a4-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/fb2f2a4</r:UserID>
+         <l:CategoryName>EveryMinute</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kas minutę</r:Content>
+            <r:Content xml:lang="sl">Vsako minuto</r:Content>
+            <r:Content xml:lang="en">Every minute</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas minutę. Gali būti naudojamas, net jei tarp duomenų rinkimo įvykių kartais būna didesni tarpai. Atitinka SDMX kodą „N“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsako minuto. Uporablja se lahko, tudi če so med zbiranjem občasne vrzeli. Označuje se s kodo SDMX "N".</r:Content>
+            <r:Content xml:lang="en">Data are collected every minute. May be used even if there are occasional gaps between collection events.  Maps to SDMX code "N".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-e3c0d3a-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/e3c0d3a</r:UserID>
+         <l:CategoryName>EveryHour</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kas valandą</r:Content>
+            <r:Content xml:lang="sl">Vsako uro</r:Content>
+            <r:Content xml:lang="en">Every hour</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas valandą. Atitinka SDMX kodą „H“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsako uro. Označuje se s kodo SDMX "H".</r:Content>
+            <r:Content xml:lang="en">Data are collected every hour. Maps to SDMX code "H".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-11f3fba-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/11f3fba</r:UserID>
+         <l:CategoryName>EveryTwoHours</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kas dvi valandas</r:Content>
+            <r:Content xml:lang="sl">Vsako uro</r:Content>
+            <r:Content xml:lang="en">Every two hours</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas dvi valandas. Atitinka SDMX kodą „H2“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsaki dve uri. Označuje se s kodo SDMX "H2".</r:Content>
+            <r:Content xml:lang="en">Data are collected every two hours. Maps to SDMX code "H2".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-33bdb59-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/33bdb59</r:UserID>
+         <l:CategoryName>EveryThreeHours</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kas tris valandas</r:Content>
+            <r:Content xml:lang="sl">Vsake tri ure</r:Content>
+            <r:Content xml:lang="en">Every three hours</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas tris valandas. Atitinka SDMX kodą „H3“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsake tri ure. Označuje se s kodo SDMX "H3".</r:Content>
+            <r:Content xml:lang="en">Data are collected every three hours. Maps to SDMX code "H3".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-99b46e0-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/99b46e0</r:UserID>
+         <l:CategoryName>TwiceADay</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Du kartus per dieną</r:Content>
+            <r:Content xml:lang="sl">Dvakrat dnevno</r:Content>
+            <r:Content xml:lang="en">Twice a day</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami du kartus per dieną. Atitinka SDMX kodą „D_2“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo dvakrat na dan. Označuje se s kodo SDMX "D_2".</r:Content>
+            <r:Content xml:lang="en">Data are collected twice a day. Maps to SDMX code "D_2".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-1f08d62-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/1f08d62</r:UserID>
+         <l:CategoryName>EveryDay</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kasdien</r:Content>
+            <r:Content xml:lang="sl">Dnevno</r:Content>
+            <r:Content xml:lang="en">Every day</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kiekvieną kalendorinės savaitės dieną. Atitinka SDMX kodą „D“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo dnevno. Označuje se s kodo SDMX "D".</r:Content>
+            <r:Content xml:lang="en">Data are collected every day of the calendar week. Maps to SDMX code "D".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-62725ee-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/62725ee</r:UserID>
+         <l:CategoryName>EveryBusinessDay</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kiekvieną darbo dieną</r:Content>
+            <r:Content xml:lang="sl">Vsak delovni dan</r:Content>
+            <r:Content xml:lang="en">Every business day</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kiekvieną darbo arba prekybos dieną (pvz., nuo pirmadienio iki penktadienio). Atitinka SDMX kodą „B“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsak delovni ali trgovalni dan (npr. od ponedeljka do petka). Označuje se s kodo SDMX "B".</r:Content>
+            <r:Content xml:lang="en">Data are collected every business or trading day (e.g. from Monday to Friday). Maps to SDMX code "B".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-a586be6-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/a586be6</r:UserID>
+         <l:CategoryName>OccasionalDaily</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Tam tikrais laikotarpiais kasdien</r:Content>
+            <r:Content xml:lang="sl">Dnevno - občasno</r:Content>
+            <r:Content xml:lang="en">Occasional daily</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kasdien, tačiau tarp duomenų rinkimo laikotarpių yra planuotas arba neplanuotas tarpas. Pvz., oro sąlygų statistiniai duomenys apie sniego dangos storį renkami kasdien, bet tik žiemos mėnesiais. Nėra atitinkančio SDMX kodo.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsak dan, vendar je med obdobji zbiranja podatkov načrtovana ali nenačrtovana vrzel. Na primer vremenski statistični podatki o globini snega se zbirajo dnevno, vendar le v zimskih mesecih. Ni ustrezne kode SDMX.</r:Content>
+            <r:Content xml:lang="en">Data are collected daily but there is a planned, or unplanned gap between data collection periods. For instance, weather statistics on the depth of snow collected daily but only during winter months. No matching SDMX code.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-b5ce97c-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/b5ce97c</r:UserID>
+         <l:CategoryName>ThreeTimesAWeek</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Tris kartus per savaitę</r:Content>
+            <r:Content xml:lang="sl">Trikrat tedensko</r:Content>
+            <r:Content xml:lang="en">Three times a week</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami tris kartus per savaitę. Atitinka SDMX kodą „W_3“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo trikrat na teden. Označuje se s kodo SDMX "W_3".</r:Content>
+            <r:Content xml:lang="en">Data are collected three times a week. Maps to SDMX code "W_3".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-ca0a52e-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/ca0a52e</r:UserID>
+         <l:CategoryName>TwiceAWeek</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Du kartus per savaitę</r:Content>
+            <r:Content xml:lang="sl">Dvakrat tedensko</r:Content>
+            <r:Content xml:lang="en">Twice a week</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami du kartus per savaitę. Atitinka SDMX kodą „W_2“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo dvakrat tedensko. Označuje se s kodo SDMX "W_2".</r:Content>
+            <r:Content xml:lang="en">Data are collected twice a week. Maps to SDMX code "W_2".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-4a6550a-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/4a6550a</r:UserID>
+         <l:CategoryName>EveryWeek</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kiekvieną savaitę</r:Content>
+            <r:Content xml:lang="sl">Tedensko</r:Content>
+            <r:Content xml:lang="en">Every week</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kiekvieną savaitę. Atitinka SDMX kodą „W“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo tedensko. Označuje se s kodo SDMX "W".</r:Content>
+            <r:Content xml:lang="en">Data are collected every week. Maps to SDMX code "W".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-a5724cc-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/a5724cc</r:UserID>
+         <l:CategoryName>OccasionalWeekly</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Tam tikrais laikotarpiais kas savaitę</r:Content>
+            <r:Content xml:lang="sl">Tedensko - občasno</r:Content>
+            <r:Content xml:lang="en">Occasional weekly</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas savaitę, tačiau tarp duomenų rinkimo laikotarpių yra planuotas arba neplanuotas tarpas. Pvz., laiko biudžeto duomenys, kurie renkami kas savaitę, bet tik tam tikrais laikotarpiais. Nėra atitinkančio SDMX kodo.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo tedensko, vendar je med obdobji zbiranja podatkov načrtovana ali nenačrtovana vrzel. Na primer podatki o časovni uporabi, ki se zbirajo tedensko, vendar le v določenih časovnih obdobjih. Ni ustrezne kode SDMX.</r:Content>
+            <r:Content xml:lang="en">Data are collected weekly but there is a planned, or unplanned gap between data collection periods. For instance, time-use data that are collected weekly but only during certain periods of time. No matching SDMX code.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-130fbad-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/130fbad</r:UserID>
+         <l:CategoryName>EveryTenDays</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kas dešimt dienų</r:Content>
+            <r:Content xml:lang="sl">Vsakih deset dni</r:Content>
+            <r:Content xml:lang="en">Every ten days</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas dešimt dienų. Nėra atitinkančio SDMX kodo.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsakih deset dni. Ni ustrezne kode SDMX.</r:Content>
+            <r:Content xml:lang="en">Data are collected every ten days. No matching SDMX code.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-b8be24a-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/b8be24a</r:UserID>
+         <l:CategoryName>ThreeTimesAMonth</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Tris kartus per mėnesį</r:Content>
+            <r:Content xml:lang="sl">Trikrat na mesec</r:Content>
+            <r:Content xml:lang="en">Three times a month</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami tris kartus per mėnesį. Atitinka SDMX kodą „M_3“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo trikrat na mesec. Označuje se s kodo SDMX "M_3".</r:Content>
+            <r:Content xml:lang="en">Data are collected three times a month. Maps to SDMX code "M_3".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-4e70e38-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/4e70e38</r:UserID>
+         <l:CategoryName>EveryTwoWeeks</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kas dvi savaites</r:Content>
+            <r:Content xml:lang="sl">Vsaka dva tedna</r:Content>
+            <r:Content xml:lang="en">Every two weeks</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas dvi savaites. Atitinka SDMX kodą „W2“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsakih štirinajst dni. Označuje se s kodo SDMX "W2".</r:Content>
+            <r:Content xml:lang="en">Data are collected every two weeks. Maps to SDMX code "W2".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-78d0215-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/78d0215</r:UserID>
+         <l:CategoryName>TwiceAMonth</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Du kartus per mėnesį</r:Content>
+            <r:Content xml:lang="sl">Dvakrat mesečno</r:Content>
+            <r:Content xml:lang="en">Twice a month</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami du kartus per mėnesį. Atitinka SDMX kodą „M_2“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo dvakrat na mesec. Označuje se s kodo SDMX "M_2".</r:Content>
+            <r:Content xml:lang="en">Data are collected twice a month. Maps to SDMX code "M_2".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-41fe2eb-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/41fe2eb</r:UserID>
+         <l:CategoryName>EveryThreeWeeks</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kas tris savaites</r:Content>
+            <r:Content xml:lang="sl">Vsake tri tedne</r:Content>
+            <r:Content xml:lang="en">Every three weeks</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas tris savaites. Atitinka SDMX kodą „W3“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsake tri tedne. Označuje se s kodo SDMX "W3".</r:Content>
+            <r:Content xml:lang="en">Data are collected every three weeks. Maps to SDMX code "W3".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-ce9e3c9-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/ce9e3c9</r:UserID>
+         <l:CategoryName>EveryFourWeeks</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kas keturias savaites</r:Content>
+            <r:Content xml:lang="sl">Vsake štiri tedne</r:Content>
+            <r:Content xml:lang="en">Every four weeks</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas keturias savaites. Atitinka SDMX kodą „W4“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsake štiri tedne. Označuje se s kodo SDMX "W4".</r:Content>
+            <r:Content xml:lang="en">Data are collected every four weeks. Maps to SDMX code "W4".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-26d7ba7-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/26d7ba7</r:UserID>
+         <l:CategoryName>EveryMonth</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kas mėnesį</r:Content>
+            <r:Content xml:lang="sl">Mesečno</r:Content>
+            <r:Content xml:lang="en">Every month</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas mėnesį. Atitinka SDMX kodą „M“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsak mesec. Označuje se s kodo SDMX "M".</r:Content>
+            <r:Content xml:lang="en">Data are collected every month. Maps to SDMX code "M".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-f2de11b-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/f2de11b</r:UserID>
+         <l:CategoryName>OccasionalMonthly</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Tam tikrais laikotarpiais kas mėnesį</r:Content>
+            <r:Content xml:lang="sl">Mesečno - občasno</r:Content>
+            <r:Content xml:lang="en">Occasional monthly</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas mėnesį, tačiau tarp duomenų rinkimo laikotarpių yra planuotas arba neplanuotas tarpas. Pertraukos gali būti nuo vieno iki kelių mėnesių. Pvz., duomenys renkami kas mėnesį, bet tik pavasarį, vasarą ir rudenį (ne žiemą). Atitinka SDMX kodą „OM“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo mesečno, vendar je med obdobji zbiranja podatkov načrtovana ali nenačrtovana vrzel. Intervali lahko trajajo od enega do več mesecev. Na primer, podatki se zbirajo mesečno, vendar le spomladi, poleti in jeseni (ne pozimi). Označuje se s kodo SDMX "OM".</r:Content>
+            <r:Content xml:lang="en">Data are collected monthly but there is a planned, or unplanned gap between data collection periods. Intervals may span from one to several months. For example, data are collected monthly but only in spring, summer and fall (not in winter). Maps to SDMX code "OM".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-3e0f3c6-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/3e0f3c6</r:UserID>
+         <l:CategoryName>EveryTwoMonths</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kas du mėnesius</r:Content>
+            <r:Content xml:lang="sl">Vsaka dva meseca</r:Content>
+            <r:Content xml:lang="en">Every two months</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas du mėnesius. Atitinka SDMX kodą „M2“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsaka dva meseca. Označimo s kodo SDMX "M2".</r:Content>
+            <r:Content xml:lang="en">Data are collected every two months. Maps to SDMX code "M2".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-dd15c91-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/dd15c91</r:UserID>
+         <l:CategoryName>EveryThreeMonths</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kas tris mėnesius</r:Content>
+            <r:Content xml:lang="sl">Vsake tri mesece</r:Content>
+            <r:Content xml:lang="en">Every three months</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas tris mėnesius arba kas ketvirtį. Atitinka SDMX kodą „Q“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsake tri mesece ali četrtletno. Označuje se s kodo SDMX "Q".</r:Content>
+            <r:Content xml:lang="en">Data are collected every three months, or quarterly. Maps to SDMX code "Q".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-e2a7553-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/e2a7553</r:UserID>
+         <l:CategoryName>ThreeTimesAYear</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Tris kartus per metus</r:Content>
+            <r:Content xml:lang="sl">Trikrat letno</r:Content>
+            <r:Content xml:lang="en">Three times a year</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami tris kartus per metus. Atitinka SDMX kodą „A_3“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo trikrat letno. Označuje se s kodo SDMX "A_3".</r:Content>
+            <r:Content xml:lang="en">Data are collected three times a year. Maps to SDMX code "A_3".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-c597fb4-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/c597fb4</r:UserID>
+         <l:CategoryName>TwiceAYear</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Du kartus per metus</r:Content>
+            <r:Content xml:lang="sl">Dvakrat letno</r:Content>
+            <r:Content xml:lang="en">Twice a year</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami du kartus per metus. Nėra atitinkančio SDMX kodo.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo dvakrat letno. Ni ustrezne kode SDMX.</r:Content>
+            <r:Content xml:lang="en">Data are collected twice a year. No matching SDMX code.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-2ea450f-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/2ea450f</r:UserID>
+         <l:CategoryName>EveryYear</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kasmet</r:Content>
+            <r:Content xml:lang="sl">Letno</r:Content>
+            <r:Content xml:lang="en">Every year</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kasmet. Atitinka SDMX kodą „A“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo letno. Označuje se s kodo SDMX "A".</r:Content>
+            <r:Content xml:lang="en">Data are collected every year. Maps to SDMX code "A".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-b6fe088-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/b6fe088</r:UserID>
+         <l:CategoryName>OccasionalAnnual</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Tam tikrais laikotarpiais kasmet</r:Content>
+            <r:Content xml:lang="sl">Letno - občasno</r:Content>
+            <r:Content xml:lang="en">Occasional annual</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kasmet, tačiau tarp duomenų rinkimo laikotarpių yra tarpas. Pvz., kasmetinės apklausos duomenų rinkimui nepavyksta kasmet gauti finansavimą. Atitinka SDMX kodą „OA“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsako leto, vendar je med obdobji zbiranja podatkov vrzel. Na primer, letni raziskavi ne uspe vsako leto pridobiti sredstev za zbiranje podatkov. Označuje se s kodo SDMX "OA".</r:Content>
+            <r:Content xml:lang="en">Data are collected annually but there is a gap between data collection periods. For instance, an annual survey does not succeed in getting funding every year for data collection. Maps to SDMX code "OA".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-50c39ed-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/50c39ed</r:UserID>
+         <l:CategoryName>EveryTwoYears</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kas dvejus metus</r:Content>
+            <r:Content xml:lang="sl">Vsaki dve leti</r:Content>
+            <r:Content xml:lang="en">Every two years</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas dvejus metus. Atitinka SDMX kodą „A2“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsaki dve leti. Označuje se s kodo SDMX "A2".</r:Content>
+            <r:Content xml:lang="en">Data are collected every two years. Maps to SDMX code "A2".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-0140e68-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/0140e68</r:UserID>
+         <l:CategoryName>EveryThreeYears</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kas trejus metus</r:Content>
+            <r:Content xml:lang="sl">Vsaka tri leta</r:Content>
+            <r:Content xml:lang="en">Every three years</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas trejus metus. Atitinka SDMX kodą „A3“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsaka tri leta. Označuje se s kodo SDMX "A3".</r:Content>
+            <r:Content xml:lang="en">Data are collected every three years. Maps to SDMX code "A3".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-6cb8be6-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/6cb8be6</r:UserID>
+         <l:CategoryName>EveryFourYears</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kas ketverius metus</r:Content>
+            <r:Content xml:lang="sl">Vsaka štiri leta</r:Content>
+            <r:Content xml:lang="en">Every four years</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas ketverius metus. Atitinka SDMX kodą „A4“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsaka štiri leta. Označuje se s kodo SDMX "A4".</r:Content>
+            <r:Content xml:lang="en">Data are collected every four years. Maps to SDMX code "A4".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-bda54f9-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/bda54f9</r:UserID>
+         <l:CategoryName>EveryFiveYears</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kas penkerius metus</r:Content>
+            <r:Content xml:lang="sl">Vsakih pet let</r:Content>
+            <r:Content xml:lang="en">Every five years</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas penkerius metus. Atitinka SDMX kodą „A5“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsakih pet let. Označuje se s kodo SDMX "A5".</r:Content>
+            <r:Content xml:lang="en">Data are collected every five years. Maps to SDMX code "A5".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-c8a6851-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/c8a6851</r:UserID>
+         <l:CategoryName>EveryTenYears</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kas dešimt metų</r:Content>
+            <r:Content xml:lang="sl">Vsakih deset let</r:Content>
+            <r:Content xml:lang="en">Every ten years</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas dešimt metų. Atitinka SDMX kodą „A10“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsakih deset let. Označuje se s kodo SDMX "A10".</r:Content>
+            <r:Content xml:lang="en">Data are collected every ten years. Maps to SDMX code "A10".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-002f39b-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/002f39b</r:UserID>
+         <l:CategoryName>EveryTwentyYears</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kas dvidešimt metų</r:Content>
+            <r:Content xml:lang="sl">Vsakih dvajset let</r:Content>
+            <r:Content xml:lang="en">Every twenty years</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas dvidešimt metų. Atitinka SDMX kodą „A20“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsakih dvajset let. Označuje se s kodo SDMX "A20".</r:Content>
+            <r:Content xml:lang="en">Data are collected every twenty years. Maps to SDMX code "A20".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-eb65657-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/eb65657</r:UserID>
+         <l:CategoryName>EveryThirtyYears</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kas trisdešimt metų</r:Content>
+            <r:Content xml:lang="sl">Vsakih trideset let</r:Content>
+            <r:Content xml:lang="en">Every thirty years</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kas trisdešimt metų. Atitinka SDMX kodą „A30“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo vsakih trideset let. Označuje se s kodo SDMX "A30".</r:Content>
+            <r:Content xml:lang="en">Data are collected every thirty years. Maps to SDMX code "A30".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-c6b4bec-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/c6b4bec</r:UserID>
+         <l:CategoryName>Irregular</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Nereguliariai</r:Content>
+            <r:Content xml:lang="sl">Neenakomerno</r:Content>
+            <r:Content xml:lang="en">Irregular</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami nereguliariai. Pvz., laiko eilučių duomenys, kuriuose fiksuojama kiekviena akcijų prekyba arba atsitiktiniai įvykiai. Intervalas tarp kiekvieno duomenų rinkimo įvykio nenuspėjamas ir gali būti skirtingo ilgio. Atitinka SDMX kodą „I“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo v neenakomernih časovnih obdobjih. Na primer, podatki časovnih vrst, ki beležijo vsako trgovanje z delnicami ali naključne dogodke. Interval med posameznimi dogodki zbiranja je nepredvidljiv in je lahko različno dolg. Označuje se s kodo SDMX "I".</r:Content>
+            <r:Content xml:lang="en">Data are collected at irregular points in time. For example, time series data that record every stock trade or random events. The interval between each collection event is unpredictable and can vary in length. Maps to SDMX code "I".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-6311ae1-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/6311ae1</r:UserID>
+         <l:CategoryName>Other</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Kita</r:Content>
+            <r:Content xml:lang="sl">Drugo</r:Content>
+            <r:Content xml:lang="en">Other</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kelis kartus žinomu, tačiau į sąrašą neįtrauktu dažnumu. Pvz., duomenys renkami kas 5 valandas ir 32 minutes. Atitinka SDMX kodą „_O“. DDI-Lifecycle elementai, kurie palaiko kontroliuojamus žodynus (KŽ), yra CodeValueType tipo. Jei elemente įrašoma reikšmė „Kita“, konkretesnė reikšmė, kurios nėra KŽ, gali būti įrašoma į atributą @otherValue.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo večkrat, vendar pogostost ni določena ali znana. Označuje se s kodo SDMX "_U".</r:Content>
+            <r:Content xml:lang="en">Data are collected multiple times with a frequency that is known but not included in the list. For instance, data collection takes place every 5 hours and 32 minutes. Maps to SDMX code "_O". In DDI-Lifecycle elements that support CVs are of CodeValueType. If the "Other" value is entered in the element, the more specific value not found in the CV may be entered in the @otherValue attribute.</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-6fcdc09-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/6fcdc09</r:UserID>
+         <l:CategoryName>Unspecified</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Nepatikslinta</r:Content>
+            <r:Content xml:lang="sl">Nedoločeno</r:Content>
+            <r:Content xml:lang="en">Unspecified</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Duomenys renkami kelis kartus, tačiau dažnumas nenurodytas arba nežinomas. Atitinka SDMX kodą „_U“.</r:Content>
+            <r:Content xml:lang="sl">Podatki se zbirajo večkrat, vendar pogostost ni določena ali znana. Označuje se s kodo SDMX "_U".</r:Content>
+            <r:Content xml:lang="en">Data are collected multiple times but the frequency is not specified or known. Maps to SDMX code "_U".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+   <ddi:Fragment>
+      <l:Category>
+         <r:Agency>int.ddi.cv</r:Agency>
+         <r:ID>TypeOfFrequency-7599922-Category</r:ID>
+         <r:Version>1.0.2</r:Version>
+         <r:UserID typeOfUserID="URI">http://rdf-vocabulary.ddialliance.org/cv/TypeOfFrequency/1.0.2/7599922</r:UserID>
+         <l:CategoryName>NotApplicable</l:CategoryName>
+         <r:Label>
+            <r:Content xml:lang="lt">Netaikoma</r:Content>
+            <r:Content xml:lang="sl">Se ne nanaša</r:Content>
+            <r:Content xml:lang="en">Not applicable</r:Content>
+         </r:Label>
+         <r:Description>
+            <r:Content xml:lang="lt">Yra tik vienas duomenų rinkimo įvykis, kuris nėra kartojamas. Tokiais atvejais šį terminą galima naudoti, jei metaduomenų modelyje privalomas dažnumo elementas. Atitinka SDMX kodą „_Z“.</r:Content>
+            <r:Content xml:lang="sl">Obstaja samo en dogodek zbiranja podatkov, ni večkratnega pojavljanja. V teh primerih se ta izraz lahko uporabi, če je element pogostost v metapodatkovnem modelu obvezen. Označuje se s kodo SDMX "_Z".</r:Content>
+            <r:Content xml:lang="en">There is only one data collection event, no multiple occurrences. In those cases, this term can be used if the frequency element is mandatory in the metadata model. Maps to SDMX code "_Z".</r:Content>
+         </r:Description>
+      </l:Category>
+   </ddi:Fragment>
+</ddi:FragmentInstance>
